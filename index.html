@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bloomberg JP RSS Feed</title>
+  <link rel="alternate" type="application/rss+xml" title="ブルームバーグ日本語版" href="feed.xml">
+  <style>
+    body { font-family: sans-serif; max-width: 640px; margin: 60px auto; padding: 0 20px; color: #222; }
+    code { background: #f4f4f4; padding: 4px 8px; border-radius: 4px; font-size: 0.9em; word-break: break-all; }
+    a { color: #0070f3; }
+    .note { font-size: 0.85em; color: #666; margin-top: 32px; border-top: 1px solid #eee; padding-top: 16px; }
+  </style>
+</head>
+<body>
+  <h1>ブルームバーグ日本語版 RSS</h1>
+  <p>Bloomberg.com/jp の最新日本語ニュースを30分ごとに更新する非公式RSSフィードです。</p>
+
+  <h2>FeedlyへのURL</h2>
+  <p>以下のURLをFeedlyの「Add Content」→「RSS Feed」に貼り付けてください：</p>
+  <p><code id="feed-url"></code></p>
+  <script>
+    const base = location.origin + location.pathname.replace(/\/?$/, "/");
+    document.getElementById("feed-url").textContent = base + "feed.xml";
+  </script>
+
+  <h2>直接リンク</h2>
+  <p><a href="feed.xml">feed.xml を開く</a></p>
+
+  <div class="note">
+    <p>このフィードはBloomberg公式のsitemap_news.xmlから日本語記事URLを抽出して生成しています。非公式のツールです。</p>
+  </div>
+</body>
+</html>
