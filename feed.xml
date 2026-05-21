@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 07:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:08:16 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日本市場、世界的金利高一服で債券上昇へ－エヌビディア決算が株支援</title>
@@ -38,6 +38,12 @@
       <pubDate>Wed, 20 May 2026 20:39:37 GMT</pubDate>
     </item>
     <item>
+      <title>市場のインフレ期待、日銀目標の2%を大きく上回る－「衝撃的」の声も</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQWFycjA5UU9sU2Zqc2dFMVFxeTNSS3Z3dWpYeHNVcW1NT0FMc3NuTnRzZlQyVW1pZFlOZTV5c2VLQnBJWU1ORHBGUXkyckIxcnNiT2ZvSDZES09ZLXExU2N5UG9MMEkwVnZEd0ZYVk1HbFBVTUc0?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1UQWFycjA5UU9sU2Zqc2dFMVFxeTNSS3Z3dWpYeHNVcW1NT0FMc3NuTnRzZlQyVW1pZFlOZTV5c2VLQnBJWU1ORHBGUXkyckIxcnNiT2ZvSDZES09ZLXExU2N5UG9MMEkwVnZEd0ZYVk1HbFBVTUc0?oc=5</guid>
+      <pubDate>Thu, 21 May 2026 04:38:00 GMT</pubDate>
+    </item>
+    <item>
       <title>イーロン・マスク氏のスペースX、ナスダック上場へ－公にIPO申請</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE81LUg4Q3RXcVNXU2kzRElSbjd2SlhJY1REUW81aFZtX1dRY2NyNkk1cnE0MlRESGt6X1FrdS1HR09UakUyRUlhTkh6SHZKblFkR2ItT2I1ZEJ1blIzbjhwZmZoVGhfdEd5dVNhU2M0QTl2X01QbUpJ?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE81LUg4Q3RXcVNXU2kzRElSbjd2SlhJY1REUW81aFZtX1dRY2NyNkk1cnE0MlRESGt6X1FrdS1HR09UakUyRUlhTkh6SHZKblFkR2ItT2I1ZEJ1blIzbjhwZmZoVGhfdEd5dVNhU2M0QTl2X01QbUpJ?oc=5</guid>
@@ -50,12 +56,6 @@
       <pubDate>Thu, 21 May 2026 03:56:00 GMT</pubDate>
     </item>
     <item>
-      <title>市場のインフレ期待、日銀目標の2%を大きく上回る－「衝撃的」の声も</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVlVUzVZbmJWOS03eWdmQWpFZDBPSkxZVUlJRmxhREpLWDZTQXBneERKVVY4SWVnQzNrdm5LNEp3RmpEQ2Rzc1ByV0gzVEtuejVYZDhxb2hZWGpNT3o4aVpHZkVBcDBmRF9KT3UwYTN6VXhNaDhaUDNHd0RtUlpSc3k3dUZUUUNfaVhVaQ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVlVUzVZbmJWOS03eWdmQWpFZDBPSkxZVUlJRmxhREpLWDZTQXBneERKVVY4SWVnQzNrdm5LNEp3RmpEQ2Rzc1ByV0gzVEtuejVYZDhxb2hZWGpNT3o4aVpHZkVBcDBmRF9KT3UwYTN6VXhNaDhaUDNHd0RtUlpSc3k3dUZUUUNfaVhVaQ?oc=5</guid>
-      <pubDate>Thu, 21 May 2026 04:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>マスク氏､世界初のトリオネアに－スペースXのIPOで資産1兆ドル突破へ</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9ENGdERFRIR25TZjJrUDVwYUdTSmlhYTY5M2xUNGlnWGJ5ZmRpQWJ0dnhvSFNVdy1USWZLQjNuNWRoLWNESFdQYnVhV09xQTg4ZUE3VUFkdnFqYnI1UUdRdzU2U0ZRVGVKcjVUTFNqWExWOUZIVUR3?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9ENGdERFRIR25TZjJrUDVwYUdTSmlhYTY5M2xUNGlnWGJ5ZmRpQWJ0dnhvSFNVdy1USWZLQjNuNWRoLWNESFdQYnVhV09xQTg4ZUE3VUFkdnFqYnI1UUdRdzU2U0ZRVGVKcjVUTFNqWExWOUZIVUR3?oc=5</guid>
@@ -66,6 +66,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5kVWVvMlRiSjBEY2lZaXZpMXlhTFBkaUVobUt4a2QyUXNmN3F5RXByekVIdWdYVGM2Y3B4ODNYVzFfakxoRzl4alhzZTZEQlhvdEQyRGZ1QkQ4ZjZKM2JIaTVuYmtkNlJLZ19FUEU2eDRfX1dJY2JN?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5kVWVvMlRiSjBEY2lZaXZpMXlhTFBkaUVobUt4a2QyUXNmN3F5RXByekVIdWdYVGM2Y3B4ODNYVzFfakxoRzl4alhzZTZEQlhvdEQyRGZ1QkQ4ZjZKM2JIaTVuYmtkNlJLZ19FUEU2eDRfX1dJY2JN?oc=5</guid>
       <pubDate>Wed, 20 May 2026 17:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>大和証G社長、銀行買収で証券業務強化－米モルガン目指すべきモデル</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5DQlhrTEtEWjFpeV8waWJ6UlBNMkdPU1hiT254aWEwUnVzQ3pmVkk2VWdnMnRwRE91czJTcHlZdUZYSHN1NEVCbS12d2hWZE03QlpmUEc5YlY0RUhyNGR0aTd2T3ZHbmdfcXlnVThCMGU5LTJqZC1v?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5DQlhrTEtEWjFpeV8waWJ6UlBNMkdPU1hiT254aWEwUnVzQ3pmVkk2VWdnMnRwRE91czJTcHlZdUZYSHN1NEVCbS12d2hWZE03QlpmUEc5YlY0RUhyNGR0aTd2T3ZHbmdfcXlnVThCMGU5LTJqZC1v?oc=5</guid>
+      <pubDate>Thu, 21 May 2026 03:21:00 GMT</pubDate>
     </item>
     <item>
       <title>ムーディーズ、メキシコを「Baa3」に格下げ－財政悪化を懸念</title>
@@ -116,6 +122,12 @@
       <pubDate>Wed, 20 May 2026 23:38:41 GMT</pubDate>
     </item>
     <item>
+      <title>小枝日銀委員、適切なペースでの利上げが適切－中東情勢受けた物価高</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1TcGhuUndSWVgtTlRfUE42YzAxb3c3WS1wZHdfX1JLaTRIalVDRjJ0VUMwV3NHYS01Q2JHbm5uTnBpNVZhQWpOZDFLWW9DOGNjTXdETEFWOU1abExjT3I0cThUdmdkQkNCREI4UVhtUGFsLXZuMkdn?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1TcGhuUndSWVgtTlRfUE42YzAxb3c3WS1wZHdfX1JLaTRIalVDRjJ0VUMwV3NHYS01Q2JHbm5uTnBpNVZhQWpOZDFLWW9DOGNjTXdETEFWOU1abExjT3I0cThUdmdkQkNCREI4UVhtUGFsLXZuMkdn?oc=5</guid>
+      <pubDate>Thu, 21 May 2026 01:34:00 GMT</pubDate>
+    </item>
+    <item>
       <title>FOMC議事要旨：インフレ高止まりなら利上げ検討もと過半数が判断</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBVWjJkRDB2WkcxWi1LUDN0LWZVZENTY3lVT3dzMXpsUC1zZFBlcUltMjZSQnpoREhXVHBQOE9qalpOVmNfajM1OERaRWtDRHYtV3REUlhnNG96cVFrMHNZRGVJdHFhR2JwdVc1R0dySWVoaFFjUVJN?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBVWjJkRDB2WkcxWi1LUDN0LWZVZENTY3lVT3dzMXpsUC1zZFBlcUltMjZSQnpoREhXVHBQOE9qalpOVmNfajM1OERaRWtDRHYtV3REUlhnNG96cVFrMHNZRGVJdHFhR2JwdVc1R0dySWVoaFFjUVJN?oc=5</guid>
@@ -144,6 +156,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9nbUdRUEpaLTM4blhKN2VtX1lOQm1sbHVGSWJGTEthaGZqTURfMHFVRE1LY1JFdjVtV2F1R1BLaEVVSDhDV3Q4amI1Si01VHBLWWVaSjFialZsUmFnZ3Joc1lvdThxcFFhVEdwUFduVU5qYVJXUjE0?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9nbUdRUEpaLTM4blhKN2VtX1lOQm1sbHVGSWJGTEthaGZqTURfMHFVRE1LY1JFdjVtV2F1R1BLaEVVSDhDV3Q4amI1Si01VHBLWWVaSjFialZsUmFnZ3Joc1lvdThxcFFhVEdwUFduVU5qYVJXUjE0?oc=5</guid>
       <pubDate>Wed, 20 May 2026 16:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>東京海上など損保3社が株主還元強化、政策株売却は今期3割減の見込み</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1meS1lbzg2TVg1UmtteThiNHZLY2ZrX09HUnhNMVJWbDZ6Wkd4bHJSMFczSURjblRzM3pHWnpUTjQtYk5tTUVmYm4zeHJtWWk3TWFMYVNRZnVWQjZaQzAyNUFSR0VySk1QMGNYc2VlOFZDc1lWQXBR?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1meS1lbzg2TVg1UmtteThiNHZLY2ZrX09HUnhNMVJWbDZ6Wkd4bHJSMFczSURjblRzM3pHWnpUTjQtYk5tTUVmYm4zeHJtWWk3TWFMYVNRZnVWQjZaQzAyNUFSR0VySk1QMGNYc2VlOFZDc1lWQXBR?oc=5</guid>
+      <pubDate>Wed, 20 May 2026 09:24:46 GMT</pubDate>
     </item>
     <item>
       <title>サムスン電子、労使が暫定合意－18日間の全面ストライキひとまず回避</title>
@@ -176,12 +194,6 @@
       <pubDate>Wed, 20 May 2026 15:35:28 GMT</pubDate>
     </item>
     <item>
-      <title>英国債下落予想を的中させたザーン氏、利回り目標接近で買い準備</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFB6c29hSnVwYnhqN0l5ZDVTQlZXTjRHVGh1WDQyV0JNY3JzaWJKc1ZOX2lpMXR2dTNidFlQR25OaFkwUFVydzQ1S3JKT3lLOW9PT3ItTnhUdzh2dUlLMDdwcDZrUF8tU0tXdVNlX2RqbWlrS01wbFVZ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFB6c29hSnVwYnhqN0l5ZDVTQlZXTjRHVGh1WDQyV0JNY3JzaWJKc1ZOX2lpMXR2dTNidFlQR25OaFkwUFVydzQ1S3JKT3lLOW9PT3ItTnhUdzh2dUlLMDdwcDZrUF8tU0tXdVNlX2RqbWlrS01wbFVZ?oc=5</guid>
-      <pubDate>Wed, 20 May 2026 12:10:05 GMT</pubDate>
-    </item>
-    <item>
       <title>ECBウンシュ氏、6月利上げの公算大－イラン戦争終結しなければ</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9rOHBrOEpSVGZfc0pmOU1PV0dXcl96a3hyQmpNUmpGS0RNYjE4c3NCMHFtMThyczVKbDQ5Y1dBRG13MDB4RzFHN2d4RTh2RUZUREpfQTdvSXRlT21ka0N5M3VnQ2hYZ1NlV1dyTTlUMlZUMVNuS0pB?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9rOHBrOEpSVGZfc0pmOU1PV0dXcl96a3hyQmpNUmpGS0RNYjE4c3NCMHFtMThyczVKbDQ5Y1dBRG13MDB4RzFHN2d4RTh2RUZUREpfQTdvSXRlT21ka0N5M3VnQ2hYZ1NlV1dyTTlUMlZUMVNuS0pB?oc=5</guid>
@@ -194,6 +206,12 @@
       <pubDate>Wed, 20 May 2026 12:39:57 GMT</pubDate>
     </item>
     <item>
+      <title>英国債下落予想を的中させたザーン氏、利回り目標接近で買い準備</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFB6c29hSnVwYnhqN0l5ZDVTQlZXTjRHVGh1WDQyV0JNY3JzaWJKc1ZOX2lpMXR2dTNidFlQR25OaFkwUFVydzQ1S3JKT3lLOW9PT3ItTnhUdzh2dUlLMDdwcDZrUF8tU0tXdVNlX2RqbWlrS01wbFVZ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFB6c29hSnVwYnhqN0l5ZDVTQlZXTjRHVGh1WDQyV0JNY3JzaWJKc1ZOX2lpMXR2dTNidFlQR25OaFkwUFVydzQ1S3JKT3lLOW9PT3ItTnhUdzh2dUlLMDdwcDZrUF8tU0tXdVNlX2RqbWlrS01wbFVZ?oc=5</guid>
+      <pubDate>Wed, 20 May 2026 12:10:05 GMT</pubDate>
+    </item>
+    <item>
       <title>米投資会社のKKR、コクサイEへの投資リターンは20倍に－関係者</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1RN1R3Ym9QeHFQYlQ4N2NYRU5uT3daSGFHMlNvMmpPangzMFlSbUFIb0VCdWtlZ1FYTHg1Q1F2Q2JaUUpTT0FvVXJlWmNMc0JGeGtsZ1VIemxzbDRrTGlidFBtdHphQUVwdmRJWmlMQUM5dWszRXJn?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1RN1R3Ym9QeHFQYlQ4N2NYRU5uT3daSGFHMlNvMmpPangzMFlSbUFIb0VCdWtlZ1FYTHg1Q1F2Q2JaUUpTT0FvVXJlWmNMc0JGeGtsZ1VIemxzbDRrTGlidFBtdHphQUVwdmRJWmlMQUM5dWszRXJn?oc=5</guid>
@@ -204,12 +222,6 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1zREw1TDlTYnAtcklBdGxWb19DZnFPelFzTlFIdGx5aDhleTk0bHZmZVhwaURpNTFya09GNF9hc3lBYnN6OVRuOUdJaUU1Y0FCY1NKTlF1VmJCNDBKbkFUZnRuSUJZR0FERVl1X25yWlFnY0x4N3J3?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1zREw1TDlTYnAtcklBdGxWb19DZnFPelFzTlFIdGx5aDhleTk0bHZmZVhwaURpNTFya09GNF9hc3lBYnN6OVRuOUdJaUU1Y0FCY1NKTlF1VmJCNDBKbkFUZnRuSUJZR0FERVl1X25yWlFnY0x4N3J3?oc=5</guid>
       <pubDate>Wed, 20 May 2026 12:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>東京海上など損保3社が株主還元強化、政策株売却は今期3割減の見込み</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1meS1lbzg2TVg1UmtteThiNHZLY2ZrX09HUnhNMVJWbDZ6Wkd4bHJSMFczSURjblRzM3pHWnpUTjQtYk5tTUVmYm4zeHJtWWk3TWFMYVNRZnVWQjZaQzAyNUFSR0VySk1QMGNYc2VlOFZDc1lWQXBR?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1meS1lbzg2TVg1UmtteThiNHZLY2ZrX09HUnhNMVJWbDZ6Wkd4bHJSMFczSURjblRzM3pHWnpUTjQtYk5tTUVmYm4zeHJtWWk3TWFMYVNRZnVWQjZaQzAyNUFSR0VySk1QMGNYc2VlOFZDc1lWQXBR?oc=5</guid>
-      <pubDate>Wed, 20 May 2026 09:24:46 GMT</pubDate>
     </item>
     <item>
       <title>インドネシア中銀、予想超える50bp利上げ－ルピア防衛を強化</title>
@@ -248,16 +260,16 @@
       <pubDate>Wed, 20 May 2026 03:51:00 GMT</pubDate>
     </item>
     <item>
-      <title>グーグル、検索を大幅改良－AIコーディング機能拡充</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBfTTR5dURkSlZGMm5Hamhzb2ktRFhXS01sZkxWZHR3cEp6Q2VzbXBsQUZrenpRZzVoQmxNaEpwc0VYNm5heWVfejliQ0dHV1dBR1pReFg1bGdLcWtVcWdyaDhJZ290eG4ySmVVY3ItdlQ5Nm9JbkJv?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBfTTR5dURkSlZGMm5Hamhzb2ktRFhXS01sZkxWZHR3cEp6Q2VzbXBsQUZrenpRZzVoQmxNaEpwc0VYNm5heWVfejliQ0dHV1dBR1pReFg1bGdLcWtVcWdyaDhJZ290eG4ySmVVY3ItdlQ5Nm9JbkJv?oc=5</guid>
-      <pubDate>Tue, 19 May 2026 22:23:22 GMT</pubDate>
-    </item>
-    <item>
       <title>FRB議長就任間近のウォーシュ氏、売却を約束の金融資産の大半処分</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRHJKczVqUjhuVHBkWmNUSWlNZVFhT1ljOEhSMERWeDRuZm5tUFdFZS1HeTY4OHhidUxEN1h6Q3VtaDZzUFd3dkp6VmNTUnFJVmtNcXE3Q2U5Rk1nRC1leDJGUm5adFFXMHB4QzZsakROUElIMzhJ?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRHJKczVqUjhuVHBkWmNUSWlNZVFhT1ljOEhSMERWeDRuZm5tUFdFZS1HeTY4OHhidUxEN1h6Q3VtaDZzUFd3dkp6VmNTUnFJVmtNcXE3Q2U5Rk1nRC1leDJGUm5adFFXMHB4QzZsakROUElIMzhJ?oc=5</guid>
       <pubDate>Wed, 20 May 2026 04:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>グーグル、検索を大幅改良－AIコーディング機能拡充</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBfTTR5dURkSlZGMm5Hamhzb2ktRFhXS01sZkxWZHR3cEp6Q2VzbXBsQUZrenpRZzVoQmxNaEpwc0VYNm5heWVfejliQ0dHV1dBR1pReFg1bGdLcWtVcWdyaDhJZ290eG4ySmVVY3ItdlQ5Nm9JbkJv?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBfTTR5dURkSlZGMm5Hamhzb2ktRFhXS01sZkxWZHR3cEp6Q2VzbXBsQUZrenpRZzVoQmxNaEpwc0VYNm5heWVfejliQ0dHV1dBR1pReFg1bGdLcWtVcWdyaDhJZ290eG4ySmVVY3ItdlQ5Nm9JbkJv?oc=5</guid>
+      <pubDate>Tue, 19 May 2026 22:23:22 GMT</pubDate>
     </item>
     <item>
       <title>円の見通し「中立」に引き上げ、年末予想157円から152円に修正－BofA</title>
@@ -294,18 +306,6 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE0wczhpelVZcXh0Um56S1JoNVZSejU2cXNoc0FKY1R3eTJhVE1LWjJVbHVPVjIyY3ljVl9JUmpuVkRPTFdsSEFhLUZIeGtDUmpvUjl2SlhWN3o5UmptZ2VURzZCNU0wbU52TkhTckExOVByTnd2SWZB?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE0wczhpelVZcXh0Um56S1JoNVZSejU2cXNoc0FKY1R3eTJhVE1LWjJVbHVPVjIyY3ljVl9JUmpuVkRPTFdsSEFhLUZIeGtDUmpvUjl2SlhWN3o5UmptZ2VURzZCNU0wbU52TkhTckExOVByTnd2SWZB?oc=5</guid>
       <pubDate>Tue, 19 May 2026 12:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>高市首相のSNS重視、存在問われる既存メディア－記者クラブも岐路に</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9pcFZ0SEpkNDhhbDRGWmlTREdyRTRlb2x4T0habnFSY1I3dldDSjBLVS16MlBOUllSTEo3eG1OZ21RVWVWTjZHaXYzNUU2d0JWNGZTbkZfamN3ZXM3QW1nNUpINXVrblN1Y196b2xlXzlHcHJWTzlB?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9pcFZ0SEpkNDhhbDRGWmlTREdyRTRlb2x4T0habnFSY1I3dldDSjBLVS16MlBOUllSTEo3eG1OZ21RVWVWTjZHaXYzNUU2d0JWNGZTbkZfamN3ZXM3QW1nNUpINXVrblN1Y196b2xlXzlHcHJWTzlB?oc=5</guid>
-      <pubDate>Tue, 19 May 2026 23:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>インドネシア大統領、商品輸出の統制強化へ－パーム油や石炭対象</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBseVNCcmlLSENNVTZmTkpiNDZmN1Z2TFNybXVXR2VGdmluRWd1X2UtUTlrYUFhVVpSMjhqN0I5cDM1Qjl4TkdZSEZFTUdqWUx6bzVYaWF2UTRHQWtzN1kzUHBHWVN0cWQzanFlYU43MlZMTFlfMUlB?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBseVNCcmlLSENNVTZmTkpiNDZmN1Z2TFNybXVXR2VGdmluRWd1X2UtUTlrYUFhVVpSMjhqN0I5cDM1Qjl4TkdZSEZFTUdqWUx6bzVYaWF2UTRHQWtzN1kzUHBHWVN0cWQzanFlYU43MlZMTFlfMUlB?oc=5</guid>
-      <pubDate>Wed, 20 May 2026 06:09:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
