@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2026 23:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:52:22 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国市況：株は過去最高値に接近する勢い、イラン和平への期待根強く</title>
@@ -42,6 +42,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9vQ1JLX1NTQ1lWLTQwd0s1S0VRbW02YmNiQnVfTjRxZjB0Z3JBWm9Pb1U3NXY3UnJsa1habjYxcWQzX2czd3oydGxBYWtKQ2JOZEpXYnNtTTlMa2tKZUs2azdoVmZlVmluSnNPOTBnMnlTTWJLT3dF?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9vQ1JLX1NTQ1lWLTQwd0s1S0VRbW02YmNiQnVfTjRxZjB0Z3JBWm9Pb1U3NXY3UnJsa1habjYxcWQzX2czd3oydGxBYWtKQ2JOZEpXYnNtTTlMa2tKZUs2azdoVmZlVmluSnNPOTBnMnlTTWJLT3dF?oc=5</guid>
       <pubDate>Tue, 26 May 2026 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧州電力価格が一時マイナス圏に、記録的な熱波で太陽光発電が急増</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1WSEY2bmNSNjI1bnBPb1dpam1DQjRZZWJGVy1FcnJSRlp1cFUtNVZwRUJjNGZBQm8wbU1kODJ6Q0FXUGRZc2JEVHBLaEtfRHhGcWlhdGlNeVIwenlBVXN4dVdCYUZhOUJ0aDFISGNhRVZ2blJjNjdn?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1WSEY2bmNSNjI1bnBPb1dpam1DQjRZZWJGVy1FcnJSRlp1cFUtNVZwRUJjNGZBQm8wbU1kODJ6Q0FXUGRZc2JEVHBLaEtfRHhGcWlhdGlNeVIwenlBVXN4dVdCYUZhOUJ0aDFISGNhRVZ2blJjNjdn?oc=5</guid>
+      <pubDate>Tue, 26 May 2026 15:43:36 GMT</pubDate>
     </item>
     <item>
       <title>低ボラティリティー株、利上げ可能性受け上昇の機運－JPモルガン</title>
@@ -140,22 +146,16 @@
       <pubDate>Tue, 26 May 2026 00:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>イスラエル首相、ヒズボラ攻撃強化の意向示す－米イラン交渉に影響も</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbUV4WkdqM1gyQ3J1dFA2WDNCUVBEUVVrbUVXZEhrZ1ZrQnNCX2RzNkREaFpNOHhPTzFtNEVwVzAzYXJWSVdWQzVqSjdzTEI0cUkyQmFwM1FlN1Y1eV9Tc1JDMGdUTW1SOGUzdllPYWZDbUZWMmlF?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbUV4WkdqM1gyQ3J1dFA2WDNCUVBEUVVrbUVXZEhrZ1ZrQnNCX2RzNkREaFpNOHhPTzFtNEVwVzAzYXJWSVdWQzVqSjdzTEI0cUkyQmFwM1FlN1Y1eV9Tc1JDMGdUTW1SOGUzdllPYWZDbUZWMmlF?oc=5</guid>
-      <pubDate>Mon, 25 May 2026 22:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>原油価格上昇、ホルムズ海峡周辺の攻撃でイラン合意巡る見通しに暗雲</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5kTHFVVDFkVVhvTjE3Tmg3aWJacWdfRHRZRFVtdGFxTTRyc2N5Z0lHVXR1SWtoZG9Xd3VQcmZXeWdQSmlWUnBKQlB3VHRFNjFCLTRLVnQ3SUNORGlLcnFWSXNhYU5JQ2N6UXZYZG9qX3FyaXdsSmg4?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5kTHFVVDFkVVhvTjE3Tmg3aWJacWdfRHRZRFVtdGFxTTRyc2N5Z0lHVXR1SWtoZG9Xd3VQcmZXeWdQSmlWUnBKQlB3VHRFNjFCLTRLVnQ3SUNORGlLcnFWSXNhYU5JQ2N6UXZYZG9qX3FyaXdsSmg4?oc=5</guid>
-      <pubDate>Tue, 26 May 2026 12:02:55 GMT</pubDate>
+      <title>MUFG、インドネシアのバンクダナモンの保有株で選択肢を検討－関係者</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE44MnJWX3dDbl95eEt6U21SNzJYbXRPVGZHYU03VDQxNkYxeFRxamJKcjJ6Q0ZaZjhCMUxYZ2ZFSnBmTWN0UHRKNW5SSFpOVlNXUXYzR2UzWmNVNEZIV3o3SkM3bjBRYUp5a3UxY3Y4eEpycE82eU1N?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE44MnJWX3dDbl95eEt6U21SNzJYbXRPVGZHYU03VDQxNkYxeFRxamJKcjJ6Q0ZaZjhCMUxYZ2ZFSnBmTWN0UHRKNW5SSFpOVlNXUXYzR2UzWmNVNEZIV3o3SkM3bjBRYUp5a3UxY3Y4eEpycE82eU1N?oc=5</guid>
+      <pubDate>Tue, 26 May 2026 02:49:00 GMT</pubDate>
     </item>
     <item>
       <title>サウジ経済、イラン戦争下で予想外の恩恵－皇太子の経済構想後押し</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFAyVXo1Q3FHYkUxbGI5Ym5JOVZmd2VmZlNFQnRLS0VRUF9zYjV2UEh3VWlCeWhadW91RkJxbV9MQnFBTTRaYzYtclZDQjVNNFNQMEJPNUZObHF5RTVDSmtCWGNGejRjSXc0SEYxN04yM216cXRMMnNB?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFAyVXo1Q3FHYkUxbGI5Ym5JOVZmd2VmZlNFQnRLS0VRUF9zYjV2UEh3VWlCeWhadW91RkJxbV9MQnFBTTRaYzYtclZDQjVNNFNQMEJPNUZObHF5RTVDSmtCWGNGejRjSXc0SEYxN04yM216cXRMMnNB?oc=5</guid>
-      <pubDate>Tue, 26 May 2026 01:34:29 GMT</pubDate>
+      <pubDate>Tue, 26 May 2026 01:34:00 GMT</pubDate>
     </item>
     <item>
       <title>【欧州市況】株・債券とも上昇、デリバリー・ヒーローが急伸</title>
@@ -164,28 +164,22 @@
       <pubDate>Mon, 25 May 2026 18:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>MUFG、インドネシアのバンクダナモンの保有株で選択肢を検討－関係者</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE44MnJWX3dDbl95eEt6U21SNzJYbXRPVGZHYU03VDQxNkYxeFRxamJKcjJ6Q0ZaZjhCMUxYZ2ZFSnBmTWN0UHRKNW5SSFpOVlNXUXYzR2UzWmNVNEZIV3o3SkM3bjBRYUp5a3UxY3Y4eEpycE82eU1N?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE44MnJWX3dDbl95eEt6U21SNzJYbXRPVGZHYU03VDQxNkYxeFRxamJKcjJ6Q0ZaZjhCMUxYZ2ZFSnBmTWN0UHRKNW5SSFpOVlNXUXYzR2UzWmNVNEZIV3o3SkM3bjBRYUp5a3UxY3Y4eEpycE82eU1N?oc=5</guid>
-      <pubDate>Tue, 26 May 2026 02:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>日本の対外純資産3位に後退、国内株上昇で負債膨らむ－中国が2位に</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE80aFNRV1lzVzlzRHlKRE5NSEloTWN5T2ZrdjlNY0dIcldLZUZ2UmNjVWgzZmNHNjhuMjVVV0xxT216MnRDbzhjYjJRR2w1S3hFUEYtZ19UNWUxX1Fqcl80ejZfNUpvSU9pSG1menBJekdtV2d4R09n?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE80aFNRV1lzVzlzRHlKRE5NSEloTWN5T2ZrdjlNY0dIcldLZUZ2UmNjVWgzZmNHNjhuMjVVV0xxT216MnRDbzhjYjJRR2w1S3hFUEYtZ19UNWUxX1Fqcl80ejZfNUpvSU9pSG1menBJekdtV2d4R09n?oc=5</guid>
       <pubDate>Mon, 25 May 2026 23:32:39 GMT</pubDate>
     </item>
     <item>
+      <title>原油価格上昇、ホルムズ海峡周辺の攻撃でイラン合意巡る見通しに暗雲</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5kTHFVVDFkVVhvTjE3Tmg3aWJacWdfRHRZRFVtdGFxTTRyc2N5Z0lHVXR1SWtoZG9Xd3VQcmZXeWdQSmlWUnBKQlB3VHRFNjFCLTRLVnQ3SUNORGlLcnFWSXNhYU5JQ2N6UXZYZG9qX3FyaXdsSmg4?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5kTHFVVDFkVVhvTjE3Tmg3aWJacWdfRHRZRFVtdGFxTTRyc2N5Z0lHVXR1SWtoZG9Xd3VQcmZXeWdQSmlWUnBKQlB3VHRFNjFCLTRLVnQ3SUNORGlLcnFWSXNhYU5JQ2N6UXZYZG9qX3FyaXdsSmg4?oc=5</guid>
+      <pubDate>Tue, 26 May 2026 20:08:04 GMT</pubDate>
+    </item>
+    <item>
       <title>韓国スタバ、運営会社トップが謝罪－光州事件を想起させる販促巡り</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdGI2SUNIMG1ER3dBZ2ZZUjFQRk5RZkluRjdzb2N1S2lNSU1aTnVCTVRzWlNxY3RfbUd6c1VPamhvWXJwWGI1M2ZORmxBZk9uZGdxbzRxWFlzd3VGVkhzRGxmeWNVVjV2THgwWHVnOE1UU09hMmRF?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdGI2SUNIMG1ER3dBZ2ZZUjFQRk5RZkluRjdzb2N1S2lNSU1aTnVCTVRzWlNxY3RfbUd6c1VPamhvWXJwWGI1M2ZORmxBZk9uZGdxbzRxWFlzd3VGVkhzRGxmeWNVVjV2THgwWHVnOE1UU09hMmRF?oc=5</guid>
       <pubDate>Tue, 26 May 2026 04:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡、危険な航行引き受けに巨大な商機－複数社が参入に関心</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5KTTRaQnhmZnd0RlktajFDakpCZUwwd0tNWHVrQ1pEbFE1cG8zNzdSbVdhTFBEWVpvUGl2ZGhuMkNTclZtRkROSnkwX3l0ZUtrWUtyVzR0NkU5dzZUbFNiVXFtV3JEU0RfUHFRWWVMRk9ONkNGVmtr?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5KTTRaQnhmZnd0RlktajFDakpCZUwwd0tNWHVrQ1pEbFE1cG8zNzdSbVdhTFBEWVpvUGl2ZGhuMkNTclZtRkROSnkwX3l0ZUtrWUtyVzR0NkU5dzZUbFNiVXFtV3JEU0RfUHFRWWVMRk9ONkNGVmtr?oc=5</guid>
-      <pubDate>Mon, 25 May 2026 11:06:41 GMT</pubDate>
     </item>
     <item>
       <title>ナフサ由来の化学品､早ければ6月末に不足の可能性－丸紅元社長が警鐘</title>
@@ -228,6 +222,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1EeFU1UGY1dmZqMlpHVW01eHEyWTNyOFE0VERIeWV5ZHFZdW03OVZtMUlfd0RMbzNhYTNXZkxCM1VHbUVUZTRLYTdDeE9DUXo1OEt6QXlCZEhPM3YyWDYzV2U1UGRSU3RlSjdnR0Ftb3JOTE5LS1dJ?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1EeFU1UGY1dmZqMlpHVW01eHEyWTNyOFE0VERIeWV5ZHFZdW03OVZtMUlfd0RMbzNhYTNXZkxCM1VHbUVUZTRLYTdDeE9DUXo1OEt6QXlCZEhPM3YyWDYzV2U1UGRSU3RlSjdnR0Ftb3JOTE5LS1dJ?oc=5</guid>
       <pubDate>Mon, 25 May 2026 04:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>イスラエル首相、ヒズボラ攻撃強化の意向示す－米イラン交渉に影響も</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbUV4WkdqM1gyQ3J1dFA2WDNCUVBEUVVrbUVXZEhrZ1ZrQnNCX2RzNkREaFpNOHhPTzFtNEVwVzAzYXJWSVdWQzVqSjdzTEI0cUkyQmFwM1FlN1Y1eV9Tc1JDMGdUTW1SOGUzdllPYWZDbUZWMmlF?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9DbUV4WkdqM1gyQ3J1dFA2WDNCUVBEUVVrbUVXZEhrZ1ZrQnNCX2RzNkREaFpNOHhPTzFtNEVwVzAzYXJWSVdWQzVqSjdzTEI0cUkyQmFwM1FlN1Y1eV9Tc1JDMGdUTW1SOGUzdllPYWZDbUZWMmlF?oc=5</guid>
+      <pubDate>Mon, 25 May 2026 22:41:59 GMT</pubDate>
     </item>
     <item>
       <title>ウォーシュ新議長下のFRB、利下げ正当化の材料多い－ブラックロック</title>
