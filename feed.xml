@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2026 16:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:00:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>フェラーリ株価が急落、初の完全EVを市場は拒絶－デザインに批判集中</title>
@@ -30,6 +30,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE10ZHVOY3JmZTVWNWdZMU80NW52WnFTakV4YTR6eXpwdVZadWZPSTU1WGFrVWhIc05zTmhEUF9BRXNuZXhOYWY5UlpqSG45Vl9abzUzSHdIaVpNMXZmQmJLT2FvX1JWZnBBS1ZmZF9IaWFoVHg5UWZz?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE10ZHVOY3JmZTVWNWdZMU80NW52WnFTakV4YTR6eXpwdVZadWZPSTU1WGFrVWhIc05zTmhEUF9BRXNuZXhOYWY5UlpqSG45Vl9abzUzSHdIaVpNMXZmQmJLT2FvX1JWZnBBS1ZmZF9IaWFoVHg5UWZz?oc=5</guid>
       <pubDate>Tue, 26 May 2026 12:09:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>米国市況：株は過去最高値に接近する勢い、イラン和平への期待根強く</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1ET1JZa0NXd0o3S2VoaTlvcVB5QnVreVhiNzRRb1VkQzNJUlU3NTl2akhvSjFiYmlpVUt6WTNWMDA0RjE0MjhZdnNmTmppbjVGaTZsRC1wV1V3QW1UbVU5bEhxdERQbU0yQ3ZSMGNGcV9DOVlzU3pJ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1ET1JZa0NXd0o3S2VoaTlvcVB5QnVreVhiNzRRb1VkQzNJUlU3NTl2akhvSjFiYmlpVUt6WTNWMDA0RjE0MjhZdnNmTmppbjVGaTZsRC1wV1V3QW1UbVU5bEhxdERQbU0yQ3ZSMGNGcV9DOVlzU3pJ?oc=5</guid>
+      <pubDate>Tue, 26 May 2026 14:00:19 GMT</pubDate>
     </item>
     <item>
       <title>ホルムズ海峡で米・イスラエルがイラン船攻撃－停戦合意巡る協議に影</title>
@@ -80,12 +86,6 @@
       <pubDate>Tue, 26 May 2026 05:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>米国市況：株は過去最高値に接近する勢い、イラン和平への期待根強く</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1ET1JZa0NXd0o3S2VoaTlvcVB5QnVreVhiNzRRb1VkQzNJUlU3NTl2akhvSjFiYmlpVUt6WTNWMDA0RjE0MjhZdnNmTmppbjVGaTZsRC1wV1V3QW1UbVU5bEhxdERQbU0yQ3ZSMGNGcV9DOVlzU3pJ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1ET1JZa0NXd0o3S2VoaTlvcVB5QnVreVhiNzRRb1VkQzNJUlU3NTl2akhvSjFiYmlpVUt6WTNWMDA0RjE0MjhZdnNmTmppbjVGaTZsRC1wV1V3QW1UbVU5bEhxdERQbU0yQ3ZSMGNGcV9DOVlzU3pJ?oc=5</guid>
-      <pubDate>Tue, 26 May 2026 14:00:19 GMT</pubDate>
-    </item>
-    <item>
       <title>米物言う株主､カワチ薬品に社長解任の株主提案-他社との統合も選択肢</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1KMm41QzhFbWhGa1h3Z1JvZjFMejFWaXhubE8xMG9ISEJMakNFTlFEWmdFbm80b0hISEJLNWNVSzltekdjOV9fcEtQZ3hDS2JpZE5sQmdVOHY4RTZ5ZGZsZ1dHbm9fQmxBdEZuMjlKOEV1Z3NhelA4?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1KMm41QzhFbWhGa1h3Z1JvZjFMejFWaXhubE8xMG9ISEJMakNFTlFEWmdFbm80b0hISEJLNWNVSzltekdjOV9fcEtQZ3hDS2JpZE5sQmdVOHY4RTZ5ZGZsZ1dHbm9fQmxBdEZuMjlKOEV1Z3NhelA4?oc=5</guid>
@@ -134,22 +134,16 @@
       <pubDate>Mon, 25 May 2026 22:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>日本の対外純資産3位に後退、国内株上昇で負債膨らむ－中国が2位に</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE80aFNRV1lzVzlzRHlKRE5NSEloTWN5T2ZrdjlNY0dIcldLZUZ2UmNjVWgzZmNHNjhuMjVVV0xxT216MnRDbzhjYjJRR2w1S3hFUEYtZ19UNWUxX1Fqcl80ejZfNUpvSU9pSG1menBJekdtV2d4R09n?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE80aFNRV1lzVzlzRHlKRE5NSEloTWN5T2ZrdjlNY0dIcldLZUZ2UmNjVWgzZmNHNjhuMjVVV0xxT216MnRDbzhjYjJRR2w1S3hFUEYtZ19UNWUxX1Fqcl80ejZfNUpvSU9pSG1menBJekdtV2d4R09n?oc=5</guid>
-      <pubDate>Mon, 25 May 2026 23:32:39 GMT</pubDate>
-    </item>
-    <item>
       <title>フジクラショック、AI熱狂相場に警鐘鳴らす－インフラ特需への過剰期待</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1kVmVUOWVMelgwSXotZUNqYTRReXF6Z1dUdXFDTnpCc0hUMG0tUWdTNDliQkVmZ2xQQW52Tmd5aTFGem9SbEpDWW5XRkxOU1hCQ2NxU2ZxRW1BLVFHaXdMVVFiTEV6SWFQMVdhMmdSQXhqUDF4NkI4?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1kVmVUOWVMelgwSXotZUNqYTRReXF6Z1dUdXFDTnpCc0hUMG0tUWdTNDliQkVmZ2xQQW52Tmd5aTFGem9SbEpDWW5XRkxOU1hCQ2NxU2ZxRW1BLVFHaXdMVVFiTEV6SWFQMVdhMmdSQXhqUDF4NkI4?oc=5</guid>
       <pubDate>Mon, 25 May 2026 23:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>サウジ経済、イラン戦争下で予想外の恩恵－皇太子の経済構想後押し</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFAyVXo1Q3FHYkUxbGI5Ym5JOVZmd2VmZlNFQnRLS0VRUF9zYjV2UEh3VWlCeWhadW91RkJxbV9MQnFBTTRaYzYtclZDQjVNNFNQMEJPNUZObHF5RTVDSmtCWGNGejRjSXc0SEYxN04yM216cXRMMnNB?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFAyVXo1Q3FHYkUxbGI5Ym5JOVZmd2VmZlNFQnRLS0VRUF9zYjV2UEh3VWlCeWhadW91RkJxbV9MQnFBTTRaYzYtclZDQjVNNFNQMEJPNUZObHF5RTVDSmtCWGNGejRjSXc0SEYxN04yM216cXRMMnNB?oc=5</guid>
-      <pubDate>Tue, 26 May 2026 01:34:00 GMT</pubDate>
+      <title>日本の対外純資産3位に後退、国内株上昇で負債膨らむ－中国が2位に</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE80aFNRV1lzVzlzRHlKRE5NSEloTWN5T2ZrdjlNY0dIcldLZUZ2UmNjVWgzZmNHNjhuMjVVV0xxT216MnRDbzhjYjJRR2w1S3hFUEYtZ19UNWUxX1Fqcl80ejZfNUpvSU9pSG1menBJekdtV2d4R09n?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE80aFNRV1lzVzlzRHlKRE5NSEloTWN5T2ZrdjlNY0dIcldLZUZ2UmNjVWgzZmNHNjhuMjVVV0xxT216MnRDbzhjYjJRR2w1S3hFUEYtZ19UNWUxX1Fqcl80ejZfNUpvSU9pSG1menBJekdtV2d4R09n?oc=5</guid>
+      <pubDate>Mon, 25 May 2026 23:32:39 GMT</pubDate>
     </item>
     <item>
       <title>【欧州市況】株・債券とも上昇、デリバリー・ヒーローが急伸</title>
@@ -158,16 +152,22 @@
       <pubDate>Mon, 25 May 2026 18:27:13 GMT</pubDate>
     </item>
     <item>
+      <title>韓国スタバ、運営会社トップが謝罪－光州事件を想起させる販促巡り</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdGI2SUNIMG1ER3dBZ2ZZUjFQRk5RZkluRjdzb2N1S2lNSU1aTnVCTVRzWlNxY3RfbUd6c1VPamhvWXJwWGI1M2ZORmxBZk9uZGdxbzRxWFlzd3VGVkhzRGxmeWNVVjV2THgwWHVnOE1UU09hMmRF?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdGI2SUNIMG1ER3dBZ2ZZUjFQRk5RZkluRjdzb2N1S2lNSU1aTnVCTVRzWlNxY3RfbUd6c1VPamhvWXJwWGI1M2ZORmxBZk9uZGdxbzRxWFlzd3VGVkhzRGxmeWNVVjV2THgwWHVnOE1UU09hMmRF?oc=5</guid>
+      <pubDate>Tue, 26 May 2026 04:37:00 GMT</pubDate>
+    </item>
+    <item>
       <title>中国ネット証券創業者、1日で資産2700億円喪失－取り締まり強化で</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBsbEJnd0FsMFVCSUI5U1NNNFJtcnVhS191dTNaa3ZCSHRqN3l5dHJ5UWM4NWdLZkNseDdWbTZQeVJONmZiU2N2MjYxRV9MVllnTDRHd3AwS3d4MDhJOFVGaDJwWDMyTURhS19NQXYyZ2lDdWlmazNZ?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBsbEJnd0FsMFVCSUI5U1NNNFJtcnVhS191dTNaa3ZCSHRqN3l5dHJ5UWM4NWdLZkNseDdWbTZQeVJONmZiU2N2MjYxRV9MVllnTDRHd3AwS3d4MDhJOFVGaDJwWDMyTURhS19NQXYyZ2lDdWlmazNZ?oc=5</guid>
       <pubDate>Mon, 25 May 2026 15:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>韓国スタバ、運営会社トップが謝罪－光州事件を想起させる販促巡り</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdGI2SUNIMG1ER3dBZ2ZZUjFQRk5RZkluRjdzb2N1S2lNSU1aTnVCTVRzWlNxY3RfbUd6c1VPamhvWXJwWGI1M2ZORmxBZk9uZGdxbzRxWFlzd3VGVkhzRGxmeWNVVjV2THgwWHVnOE1UU09hMmRF?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdGI2SUNIMG1ER3dBZ2ZZUjFQRk5RZkluRjdzb2N1S2lNSU1aTnVCTVRzWlNxY3RfbUd6c1VPamhvWXJwWGI1M2ZORmxBZk9uZGdxbzRxWFlzd3VGVkhzRGxmeWNVVjV2THgwWHVnOE1UU09hMmRF?oc=5</guid>
-      <pubDate>Tue, 26 May 2026 04:37:00 GMT</pubDate>
+      <title>サウジ経済、イラン戦争下で予想外の恩恵－皇太子の経済構想後押し</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFAyVXo1Q3FHYkUxbGI5Ym5JOVZmd2VmZlNFQnRLS0VRUF9zYjV2UEh3VWlCeWhadW91RkJxbV9MQnFBTTRaYzYtclZDQjVNNFNQMEJPNUZObHF5RTVDSmtCWGNGejRjSXc0SEYxN04yM216cXRMMnNB?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFAyVXo1Q3FHYkUxbGI5Ym5JOVZmd2VmZlNFQnRLS0VRUF9zYjV2UEh3VWlCeWhadW91RkJxbV9MQnFBTTRaYzYtclZDQjVNNFNQMEJPNUZObHF5RTVDSmtCWGNGejRjSXc0SEYxN04yM216cXRMMnNB?oc=5</guid>
+      <pubDate>Tue, 26 May 2026 01:34:00 GMT</pubDate>
     </item>
     <item>
       <title>MUFG、インドネシアのバンクダナモンの保有株で選択肢を検討－関係者</title>
@@ -236,7 +236,7 @@
       <pubDate>Sun, 24 May 2026 22:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>習主席が激しい日本批判、米中首脳会談で－FT</title>
+      <title>習主席は日本を激しく批判、米当局者も驚く－米中首脳会談についてFT</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9MajJwczIweG04TlpwdVNjYjN5RW1wRnFsMGloQU1EQzlqWmdzX1RhbWVvb2tyTnAwV0dPNWNMM2gwSGhyakh1ZzN6bVNGY0l3MFVpdGFMMHJmS1phaXlNOThfUno2RGIzU20tMVltSDBWNHNuS2Qw?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9MajJwczIweG04TlpwdVNjYjN5RW1wRnFsMGloQU1EQzlqWmdzX1RhbWVvb2tyTnAwV0dPNWNMM2gwSGhyakh1ZzN6bVNGY0l3MFVpdGFMMHJmS1phaXlNOThfUno2RGIzU20tMVltSDBWNHNuS2Qw?oc=5</guid>
       <pubDate>Sun, 24 May 2026 17:43:07 GMT</pubDate>
@@ -248,16 +248,16 @@
       <pubDate>Mon, 25 May 2026 04:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>トランプ氏の運用手法を分析､イラン開戦後の3月に取引2000件超が集中</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWnJQbnhOaG1GWGctSTBCZ05salVnTzZscUdQVU1iVktzbzY1bmstVHVXdWhRdkZWUlN6c21fSlU4VTBvLXZLN09Db0dTcVAzcXQzUGVhVmtud3JUbUVvSWxFMGwxZl9UM2EwLW5fTVJhU1psX0w4?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWnJQbnhOaG1GWGctSTBCZ05salVnTzZscUdQVU1iVktzbzY1bmstVHVXdWhRdkZWUlN6c21fSlU4VTBvLXZLN09Db0dTcVAzcXQzUGVhVmtud3JUbUVvSWxFMGwxZl9UM2EwLW5fTVJhU1psX0w4?oc=5</guid>
-      <pubDate>Sun, 24 May 2026 16:10:51 GMT</pubDate>
-    </item>
-    <item>
       <title>日本市場、ホルムズ海峡合意期待でトリプル高へ－原油価格は急落</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE81ZjBybUdaSk1ZLU1EZ0lYRFJMWks4QnI0Uk5mV1U0X1k0a1ItRGpDNVdXbzBWajhTalU2azhrRDhTQU43cGhhMlNSTDRTMjhyWHItd3o3NVRBX1NVblhScGxKY3B4YUJleFptQ0VEV2xpWmVCd0FV?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE81ZjBybUdaSk1ZLU1EZ0lYRFJMWks4QnI0Uk5mV1U0X1k0a1ItRGpDNVdXbzBWajhTalU2azhrRDhTQU43cGhhMlNSTDRTMjhyWHItd3o3NVRBX1NVblhScGxKY3B4YUJleFptQ0VEV2xpWmVCd0FV?oc=5</guid>
       <pubDate>Sun, 24 May 2026 23:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏の運用手法を分析､イラン開戦後の3月に取引2000件超が集中</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWnJQbnhOaG1GWGctSTBCZ05salVnTzZscUdQVU1iVktzbzY1bmstVHVXdWhRdkZWUlN6c21fSlU4VTBvLXZLN09Db0dTcVAzcXQzUGVhVmtud3JUbUVvSWxFMGwxZl9UM2EwLW5fTVJhU1psX0w4?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWnJQbnhOaG1GWGctSTBCZ05salVnTzZscUdQVU1iVktzbzY1bmstVHVXdWhRdkZWUlN6c21fSlU4VTBvLXZLN09Db0dTcVAzcXQzUGVhVmtud3JUbUVvSWxFMGwxZl9UM2EwLW5fTVJhU1psX0w4?oc=5</guid>
+      <pubDate>Sun, 24 May 2026 16:10:51 GMT</pubDate>
     </item>
     <item>
       <title>米イラン協議、隔たりのある交渉ポイントは－争点を整理</title>
