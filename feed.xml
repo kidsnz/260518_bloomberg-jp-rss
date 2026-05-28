@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 22:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:57:41 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ECB、4月利上げでも反対しなかったと複数の委員が表明－議事要旨</title>
@@ -24,6 +24,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9XN2Q1QUdxT2NBajllZlZkNU9TZW12OUNoeWlCSkg4WHRZWS1vZnpGMkh0ZnNMSk9Kdmh3VnlUYkVKOXRGZTlCYm54VE9jRlYzbEwtLW5mczY1ci1uRi1fcGVFam00Z0JERC1jQm5QWDQtWEpGdnBr?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9XN2Q1QUdxT2NBajllZlZkNU9TZW12OUNoeWlCSkg4WHRZWS1vZnpGMkh0ZnNMSk9Kdmh3VnlUYkVKOXRGZTlCYm54VE9jRlYzbEwtLW5mczY1ci1uRi1fcGVFam00Z0JERC1jQm5QWDQtWEpGdnBr?oc=5</guid>
       <pubDate>Thu, 28 May 2026 15:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>アンソロピック、主力AI「Opus」更新版を投入－コーディング性能向上</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5zYWdoc3BpcUFmbHRqdXVnYVhUMUNabE9qSnZmRDg4SEVxb25pUXEzNFFZMkE1WjhSbW9TOTNxdTV1TFlqcXdUTXJmcGMzQnJrcWV4TXJucEpWc0VrbjAyZGhNZGd0b0tHd3JBZEo5YUI5N1hJNk9N?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5zYWdoc3BpcUFmbHRqdXVnYVhUMUNabE9qSnZmRDg4SEVxb25pUXEzNFFZMkE1WjhSbW9TOTNxdTV1TFlqcXdUTXJmcGMzQnJrcWV4TXJucEpWc0VrbjAyZGhNZGd0b0tHd3JBZEo5YUI5N1hJNk9N?oc=5</guid>
+      <pubDate>Thu, 28 May 2026 17:59:59 GMT</pubDate>
     </item>
     <item>
       <title>ナフサ化学品の調達急ぐ日本、塗料溶剤は年間実績の3倍輸入－4月統計</title>
@@ -194,6 +200,12 @@
       <pubDate>Thu, 28 May 2026 09:39:43 GMT</pubDate>
     </item>
     <item>
+      <title>野村HDが30年新目標、ROE10－12%超・税前利益7500億円超に設定</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBDWHJqSGxVd2RPMGpGVHo0QjZRam5GMnR1UWROZy15YWxFSG5PRUNVeXlURGxxa2VzcVRuWWRLOWN0VFVScFhONHVwN2xXZkFhV0hzUGV6dW9lQzFvZHlaRi1GQ2Z4emtST1NkUDZwRUxSYjk1SnBv?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBDWHJqSGxVd2RPMGpGVHo0QjZRam5GMnR1UWROZy15YWxFSG5PRUNVeXlURGxxa2VzcVRuWWRLOWN0VFVScFhONHVwN2xXZkFhV0hzUGV6dW9lQzFvZHlaRi1GQ2Z4emtST1NkUDZwRUxSYjk1SnBv?oc=5</guid>
+      <pubDate>Thu, 28 May 2026 12:17:01 GMT</pubDate>
+    </item>
+    <item>
       <title>米金融市場、S&amp;P500種は最高値圏－原油安とAI熱狂が下支え</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzZCS3Q5VTEzQkR2b2hNNDNwSzhHLUl5X2xoX3NlOW1ScWhqSXkyVHlVUWlPN0d3ZnlDaFgyTDNvRzVOT1A5Ym83ZVZfa3NfeXZWQUc1XzY3Z3Vha3BUZi02Q3JjSWZJX0dTOVNVREFhN3ZuWWZ3ZTVFaHc4azJOYWVBOVZNR2Z3bGJkcQ?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzZCS3Q5VTEzQkR2b2hNNDNwSzhHLUl5X2xoX3NlOW1ScWhqSXkyVHlVUWlPN0d3ZnlDaFgyTDNvRzVOT1A5Ym83ZVZfa3NfeXZWQUc1XzY3Z3Vha3BUZi02Q3JjSWZJX0dTOVNVREFhN3ZuWWZ3ZTVFaHc4azJOYWVBOVZNR2Z3bGJkcQ?oc=5</guid>
@@ -248,34 +260,22 @@
       <pubDate>Wed, 27 May 2026 15:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>トランプ氏、イランとの交渉「満足していない」－早期合意の期待後退</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE14Sjc5MUktY1lpU3lvaXdhYnZEbWtGeDBOQllCZDM2aTRtU1M0dGt0eTh2LVc3bFVucXpxNFJvZlZmTzFOclNrVUtpc0tMeGFwVTR4YkZVOHpkUFVqakxUT21rdjA2UTFmUFVfejZTOVdzaU5JUXJR?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE14Sjc5MUktY1lpU3lvaXdhYnZEbWtGeDBOQllCZDM2aTRtU1M0dGt0eTh2LVc3bFVucXpxNFJvZlZmTzFOclNrVUtpc0tMeGFwVTR4YkZVOHpkUFVqakxUT21rdjA2UTFmUFVfejZTOVdzaU5JUXJR?oc=5</guid>
-      <pubDate>Wed, 27 May 2026 13:00:55 GMT</pubDate>
-    </item>
-    <item>
       <title>米住宅ローン金利、昨年8月以来の高水準－戦争開始後の上昇基調続く</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9xS01Ma0xUbDB2dFFjU2M1bjZyM19SUDZqd0lBSFRIYk1vNGZJczRXbVNkd1VSU3o1aG15dXUyYUhieTd4Tk1Eb0doRjRxeERRRkxIdDZIR0dmNU9XQk5hOFlEZ29Qa0FuU2hPS2ItZFVGS1VsLTNv?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9xS01Ma0xUbDB2dFFjU2M1bjZyM19SUDZqd0lBSFRIYk1vNGZJczRXbVNkd1VSU3o1aG15dXUyYUhieTd4Tk1Eb0doRjRxeERRRkxIdDZIR0dmNU9XQk5hOFlEZ29Qa0FuU2hPS2ItZFVGS1VsLTNv?oc=5</guid>
       <pubDate>Wed, 27 May 2026 14:33:00 GMT</pubDate>
     </item>
     <item>
+      <title>トランプ氏、イランとの交渉「満足していない」－早期合意の期待後退</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE14Sjc5MUktY1lpU3lvaXdhYnZEbWtGeDBOQllCZDM2aTRtU1M0dGt0eTh2LVc3bFVucXpxNFJvZlZmTzFOclNrVUtpc0tMeGFwVTR4YkZVOHpkUFVqakxUT21rdjA2UTFmUFVfejZTOVdzaU5JUXJR?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE14Sjc5MUktY1lpU3lvaXdhYnZEbWtGeDBOQllCZDM2aTRtU1M0dGt0eTh2LVc3bFVucXpxNFJvZlZmTzFOclNrVUtpc0tMeGFwVTR4YkZVOHpkUFVqakxUT21rdjA2UTFmUFVfejZTOVdzaU5JUXJR?oc=5</guid>
+      <pubDate>Wed, 27 May 2026 13:00:55 GMT</pubDate>
+    </item>
+    <item>
       <title>植田日銀総裁、原油価格上昇の「ショックは広範囲かつ持続的」</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1FR2F1NkM5WUp6ejNIYlBJWm1DdTJWN0xOM2RmRm5RaURvRTI3ME9hRDFkeHVkUEQ0Um1nMFVXcGU1Y1l5eEZWWGpjUEd6LXVNNTJzSklUVE5DbVB3QWlWTk1ZcG9Jb1NSQktkYmhjTEYxTTZkXzJV?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1FR2F1NkM5WUp6ejNIYlBJWm1DdTJWN0xOM2RmRm5RaURvRTI3ME9hRDFkeHVkUEQ0Um1nMFVXcGU1Y1l5eEZWWGpjUEd6LXVNNTJzSklUVE5DbVB3QWlWTk1ZcG9Jb1NSQktkYmhjTEYxTTZkXzJV?oc=5</guid>
       <pubDate>Wed, 27 May 2026 00:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>天然ダイヤモンド市場が失う13兆円の輝き－金の高騰、人工石が変えた世界の需要</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5kX3ZDNTcwX2dhX2k5aW82WFhxMVV3RUJGUXNzSk91QV9rcllwVUR1T0RScW9fVjlqOXhxaTlPZVdNRURlMEpVNlVyZDNmcWFCNWt0MVhvWGpFU2dwYnBtRDd0NnB0MHhvb0hqekRwMVFGcW41bG1v?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5kX3ZDNTcwX2dhX2k5aW82WFhxMVV3RUJGUXNzSk91QV9rcllwVUR1T0RScW9fVjlqOXhxaTlPZVdNRURlMEpVNlVyZDNmcWFCNWt0MVhvWGpFU2dwYnBtRDd0NnB0MHhvb0hqekRwMVFGcW41bG1v?oc=5</guid>
-      <pubDate>Wed, 27 May 2026 00:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>原油下落、ホルムズ海峡正常化の思惑で－イランTVが合意草案を報道</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1LYTZBQ21Ja1F1WnpkNUVoUFJjRjZwRVRnemtRa3VNWEJ5a3B4cUlRX2RKa3BnN2tiWjBvandmVjhXaUxRLVpxOXNtNlVXZGZCcmI3WmJmUElXenRaSTcwUk9pUzNia2ExZ2IyLWYxTG9xX2pZUXpr?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1LYTZBQ21Ja1F1WnpkNUVoUFJjRjZwRVRnemtRa3VNWEJ5a3B4cUlRX2RKa3BnN2tiWjBvandmVjhXaUxRLVpxOXNtNlVXZGZCcmI3WmJmUElXenRaSTcwUk9pUzNia2ExZ2IyLWYxTG9xX2pZUXpr?oc=5</guid>
-      <pubDate>Wed, 27 May 2026 14:13:08 GMT</pubDate>
     </item>
     <item>
       <title>みずほFG社長、日銀利上げ幅0.5%なら「債券市場に好ましい」</title>
