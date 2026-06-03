@@ -60,7 +60,7 @@ def parse_gnews(data: bytes) -> list[dict]:
 
 
 def build_rss(items: list[dict]) -> str:
-    now_rfc = datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+    now_rfc = datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
     def escape(s: str) -> str:
         return (
