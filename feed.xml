@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Jun 2026 19:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 21:04:51 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>植田日銀総裁、物価上振れリスク高まれば利上げの是非をしっかり議論</title>
@@ -50,12 +50,6 @@
       <pubDate>Tue, 02 Jun 2026 23:54:29 GMT</pubDate>
     </item>
     <item>
-      <title>日生、プライベートクレジット投資1.5兆円－ブラックストーンに委託</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 07:37:16 GMT</pubDate>
-    </item>
-    <item>
       <title>【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9ycjR2S2t0eDQ5WS1OZVJybktJcUhoSzJjRXhtekk2RTJVT2VjSW02RmhQNFhobDlVTUpodWRNUUZwWDBhSVJLaWc3ajJzTTZMaE1fUDc2dFZwdE0zR3NKdlpVOWw0MkhBSFNyVGRGd3NlYjNMR3Y0?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9ycjR2S2t0eDQ5WS1OZVJybktJcUhoSzJjRXhtekk2RTJVT2VjSW02RmhQNFhobDlVTUpodWRNUUZwWDBhSVJLaWc3ajJzTTZMaE1fUDc2dFZwdE0zR3NKdlpVOWw0MkhBSFNyVGRGd3NlYjNMR3Y0?oc=5</guid>
@@ -66,6 +60,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZeU14ZlJYNlBGMWZRSnVXOTN4NXRhVTBKalJXckJUOTFhUmMzb3ItdlJMbFBSaEU2ZHAxWXZXS1A3bUpwMkpnb19Idlc0T3cwbXV0WkdEWS1mdWJ1eHl1N1I4Ry1wcURSV2NiRmNzWmd1WXRBb3pN?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZeU14ZlJYNlBGMWZRSnVXOTN4NXRhVTBKalJXckJUOTFhUmMzb3ItdlJMbFBSaEU2ZHAxWXZXS1A3bUpwMkpnb19Idlc0T3cwbXV0WkdEWS1mdWJ1eHl1N1I4Ry1wcURSV2NiRmNzWmd1WXRBb3pN?oc=5</guid>
       <pubDate>Wed, 03 Jun 2026 07:46:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>日生、プライベートクレジット投資1.5兆円－ブラックストーンに委託</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 07:37:16 GMT</pubDate>
     </item>
     <item>
       <title>中国、対外投資の締め付け強化－個人を初めて明示的に規制</title>
@@ -146,16 +146,16 @@
       <pubDate>Tue, 02 Jun 2026 14:46:25 GMT</pubDate>
     </item>
     <item>
-      <title>キオクシアHD、累進配当政策開始の方針－AIブームで利益急拡大</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9pYkFwYmtUSHA0TkFLOWFXVTVGanl6V3RiZFRYMVdrbC1qczk1SjFyNHh4cXIyN2cySFVtd1FiNGp6ZlMxOEYyYUNQRWJKdFdBNldFcmVPNjBSN1RwdlFrS05HdUpNaFRoUnVpQzJqbnRHS1JZd3ZZ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9pYkFwYmtUSHA0TkFLOWFXVTVGanl6V3RiZFRYMVdrbC1qczk1SjFyNHh4cXIyN2cySFVtd1FiNGp6ZlMxOEYyYUNQRWJKdFdBNldFcmVPNjBSN1RwdlFrS05HdUpNaFRoUnVpQzJqbnRHS1JZd3ZZ?oc=5</guid>
-      <pubDate>Tue, 02 Jun 2026 06:54:00 GMT</pubDate>
-    </item>
-    <item>
       <title>トランプ氏、ネタニヤフ氏との足並みの乱れが露呈－イラン合意阻害</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9Id0RlMzQwck5qbDVFYUhxTExpQUFqdzg2T3A3SlFoZm92X1lSeC1OcGs5b0tvVmJFUmtORFoxeEp5ZFIxb0lYY21WNkJzRDZjdmhDRXZuVVNlRUhPT2ZYM0RYVE11UjhyVzBuaG1aZ1RaZWZjS0Fr?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9Id0RlMzQwck5qbDVFYUhxTExpQUFqdzg2T3A3SlFoZm92X1lSeC1OcGs5b0tvVmJFUmtORFoxeEp5ZFIxb0lYY21WNkJzRDZjdmhDRXZuVVNlRUhPT2ZYM0RYVE11UjhyVzBuaG1aZ1RaZWZjS0Fr?oc=5</guid>
       <pubDate>Tue, 02 Jun 2026 22:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>キオクシアHD、累進配当政策開始の方針－AIブームで利益急拡大</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9pYkFwYmtUSHA0TkFLOWFXVTVGanl6V3RiZFRYMVdrbC1qczk1SjFyNHh4cXIyN2cySFVtd1FiNGp6ZlMxOEYyYUNQRWJKdFdBNldFcmVPNjBSN1RwdlFrS05HdUpNaFRoUnVpQzJqbnRHS1JZd3ZZ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9pYkFwYmtUSHA0TkFLOWFXVTVGanl6V3RiZFRYMVdrbC1qczk1SjFyNHh4cXIyN2cySFVtd1FiNGp6ZlMxOEYyYUNQRWJKdFdBNldFcmVPNjBSN1RwdlFrS05HdUpNaFRoUnVpQzJqbnRHS1JZd3ZZ?oc=5</guid>
+      <pubDate>Tue, 02 Jun 2026 06:54:00 GMT</pubDate>
     </item>
     <item>
       <title>FRBウォーシュ新議長のバランスシート縮小方針、米経済学者が警鐘</title>
@@ -194,16 +194,16 @@
       <pubDate>Tue, 02 Jun 2026 12:59:01 GMT</pubDate>
     </item>
     <item>
-      <title>ソフトバンクG傘下アームの自社製半導体、早期に売上高目標達成も</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9mVUZscmhVTjVMYkdoUFlEQzdadlhfektRWFZqQVlJRi1tYUJiTC13b3poak1sZ0t3aXBXbEVReDZqbFJ4cHRCZDh3QktCX21TZUlvM21aeFZTZzdMbEsycnphUHpvWi1kQ1lQWGlSLWRVRUFZSXJR?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9mVUZscmhVTjVMYkdoUFlEQzdadlhfektRWFZqQVlJRi1tYUJiTC13b3poak1sZ0t3aXBXbEVReDZqbFJ4cHRCZDh3QktCX21TZUlvM21aeFZTZzdMbEsycnphUHpvWi1kQ1lQWGlSLWRVRUFZSXJR?oc=5</guid>
-      <pubDate>Tue, 02 Jun 2026 07:18:57 GMT</pubDate>
-    </item>
-    <item>
       <title>ソフトバンクG、独アジャイル・ロボッツの8億ドル資金調達を支援へ</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMWFuQ2U3U0s2RkVpaWk1UEphaWh3LUNJU2taN3FOemlfUFVDal9DZzRSTFlZcld6OEVSMW1WMk9sbGtIWnFhZjFDRTJEVzRxNjdxdmR6ZjVPNkNPbk9RZVBTX3E3anNobXc2b0k5b2NwYTh6aEV3?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMWFuQ2U3U0s2RkVpaWk1UEphaWh3LUNJU2taN3FOemlfUFVDal9DZzRSTFlZcld6OEVSMW1WMk9sbGtIWnFhZjFDRTJEVzRxNjdxdmR6ZjVPNkNPbk9RZVBTX3E3anNobXc2b0k5b2NwYTh6aEV3?oc=5</guid>
       <pubDate>Tue, 02 Jun 2026 15:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG傘下アームの自社製半導体、早期に売上高目標達成も</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9mVUZscmhVTjVMYkdoUFlEQzdadlhfektRWFZqQVlJRi1tYUJiTC13b3poak1sZ0t3aXBXbEVReDZqbFJ4cHRCZDh3QktCX21TZUlvM21aeFZTZzdMbEsycnphUHpvWi1kQ1lQWGlSLWRVRUFZSXJR?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9mVUZscmhVTjVMYkdoUFlEQzdadlhfektRWFZqQVlJRi1tYUJiTC13b3poak1sZ0t3aXBXbEVReDZqbFJ4cHRCZDh3QktCX21TZUlvM21aeFZTZzdMbEsycnphUHpvWi1kQ1lQWGlSLWRVRUFZSXJR?oc=5</guid>
+      <pubDate>Tue, 02 Jun 2026 07:18:57 GMT</pubDate>
     </item>
     <item>
       <title>SNSで株価操縦図る、注目の米裁判で空売り投資家に有罪評決</title>
@@ -222,12 +222,6 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFB0UTFLWlFOY3h2ZDhoN01JVXFOOW9yUWNEQnVsRTJWMllSb1lKTDFwQnljdUpfMDc5aUdCNTRmYkxVY1JOVFdwYVoxc2hlSC00a0VNWElkZWtSSEpHM18tZUZaWDd6SzNMekhKZnU5UzNuelZCZ0sw?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFB0UTFLWlFOY3h2ZDhoN01JVXFOOW9yUWNEQnVsRTJWMllSb1lKTDFwQnljdUpfMDc5aUdCNTRmYkxVY1JOVFdwYVoxc2hlSC00a0VNWElkZWtSSEpHM18tZUZaWDd6SzNMekhKZnU5UzNuelZCZ0sw?oc=5</guid>
       <pubDate>Tue, 02 Jun 2026 23:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン急落でインフレヘッジ期待巡る議論再燃－見切り売りも</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZkxpLWxtd0wtNTdOR18wWEFGZlZjSm5IVU5ESFVKZjRsaF9JUkM3c1IydkFTdlBiWjg3RGRqeWhLTTdzc19tWGtrU0JzZzl3cGU3R0xIc0JEQTdvd3o1ZzVBbnVfdWtNUFNjaXhkUU0tUk02cEFZ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZkxpLWxtd0wtNTdOR18wWEFGZlZjSm5IVU5ESFVKZjRsaF9JUkM3c1IydkFTdlBiWjg3RGRqeWhLTTdzc19tWGtrU0JzZzl3cGU3R0xIc0JEQTdvd3o1ZzVBbnVfdWtNUFNjaXhkUU0tUk02cEFZ?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 01:30:00 GMT</pubDate>
     </item>
     <item>
       <title>アンソロピックがIPOで先手、AI覇権争いでOpenAIを一歩リード</title>
@@ -258,6 +252,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1Wdk14aVU1RzR4aHNZRC04Q1FYTmo2dTB3ZXROaklHRjRyUUlsUjJvTlhURUtqQ1RCVXFvWFhocGVZRWp2OHNNVzQ3amFrUGF0TjgtclhUR3E2ckRZdGYxV05HTTVkV0RKY1EzTGlvSWFlY1ZUamVZ?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1Wdk14aVU1RzR4aHNZRC04Q1FYTmo2dTB3ZXROaklHRjRyUUlsUjJvTlhURUtqQ1RCVXFvWFhocGVZRWp2OHNNVzQ3amFrUGF0TjgtclhUR3E2ckRZdGYxV05HTTVkV0RKY1EzTGlvSWFlY1ZUamVZ?oc=5</guid>
       <pubDate>Tue, 02 Jun 2026 01:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ビットコイン急落でインフレヘッジ期待巡る議論再燃－見切り売りも</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZkxpLWxtd0wtNTdOR18wWEFGZlZjSm5IVU5ESFVKZjRsaF9JUkM3c1IydkFTdlBiWjg3RGRqeWhLTTdzc19tWGtrU0JzZzl3cGU3R0xIc0JEQTdvd3o1ZzVBbnVfdWtNUFNjaXhkUU0tUk02cEFZ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBOZkxpLWxtd0wtNTdOR18wWEFGZlZjSm5IVU5ESFVKZjRsaF9JUkM3c1IydkFTdlBiWjg3RGRqeWhLTTdzc19tWGtrU0JzZzl3cGU3R0xIc0JEQTdvd3o1ZzVBbnVfdWtNUFNjaXhkUU0tUk02cEFZ?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 01:30:00 GMT</pubDate>
     </item>
     <item>
       <title>ビットコイン、世界最大級の保有企業が売却－従来の方針を転換</title>
