@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:46:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:18:54 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日銀が今月会合で1%への利上げ検討、年内に追加の可能性も－関係者</title>
@@ -18,6 +18,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9sTTBFWnA4QWExWmdPSFJHVC1GejBFTzVjRlFpdjhjNVk4VzRmMlhQNjJKbVkzbnpleThkVm56V0NfTU1Gb1RCNFdnVGZVQVNobmpCTEIzVUJHUnJrVFBzbG1OY2RrVXdwa2I1QzJZcnZtVkU4OGc4?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9sTTBFWnA4QWExWmdPSFJHVC1GejBFTzVjRlFpdjhjNVk4VzRmMlhQNjJKbVkzbnpleThkVm56V0NfTU1Gb1RCNFdnVGZVQVNobmpCTEIzVUJHUnJrVFBzbG1OY2RrVXdwa2I1QzJZcnZtVkU4OGc4?oc=5</guid>
       <pubDate>Thu, 04 Jun 2026 00:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>米ブロードコム、AI半導体売上高見通しが市場予想に届かず－失望誘う</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9hRHdENVNvWk9NSmtrQlZzWkJ2V0ZTcmNMNmdoREM1eE1OV1B6a0RiZXg5ak5vYURvdmpOZktLeGFIMXd3Z0F4VktwdnM2RU5ZUnRSbnVPQmk3OXN4TXI2YTZxYWI1S1hkZnZOLTJjQUdVaDVxUXRJ?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9hRHdENVNvWk9NSmtrQlZzWkJ2V0ZTcmNMNmdoREM1eE1OV1B6a0RiZXg5ak5vYURvdmpOZktLeGFIMXd3Z0F4VktwdnM2RU5ZUnRSbnVPQmk3OXN4TXI2YTZxYWI1S1hkZnZOLTJjQUdVaDVxUXRJ?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 21:30:04 GMT</pubDate>
     </item>
     <item>
       <title>【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース</title>
@@ -41,13 +47,7 @@
       <title>AI株高の陰で下げ続けるビットコイン、ストラテジーの売却で拍車</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE04NFlrUkxFd1FUcW1NU0Q0eHNvLVRoaXNIVUdwdG5CZXVtS1BZMEJTLVRscFV1TDZWREE2bmtkcVFXdzJNTVB2U2RycnR5NTVKTFlybVRxN01NSkhSQU5MZjMtVEhvbXdTZ0g4MEJHMW9rNzdHeE9v?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE04NFlrUkxFd1FUcW1NU0Q0eHNvLVRoaXNIVUdwdG5CZXVtS1BZMEJTLVRscFV1TDZWREE2bmtkcVFXdzJNTVB2U2RycnR5NTVKTFlybVRxN01NSkhSQU5MZjMtVEhvbXdTZ0g4MEJHMW9rNzdHeE9v?oc=5</guid>
-      <pubDate>Thu, 04 Jun 2026 05:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>米ブロードコム、AI半導体売上高見通しが市場予想に届かず－失望誘う</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9hRHdENVNvWk9NSmtrQlZzWkJ2V0ZTcmNMNmdoREM1eE1OV1B6a0RiZXg5ak5vYURvdmpOZktLeGFIMXd3Z0F4VktwdnM2RU5ZUnRSbnVPQmk3OXN4TXI2YTZxYWI1S1hkZnZOLTJjQUdVaDVxUXRJ?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9hRHdENVNvWk9NSmtrQlZzWkJ2V0ZTcmNMNmdoREM1eE1OV1B6a0RiZXg5ak5vYURvdmpOZktLeGFIMXd3Z0F4VktwdnM2RU5ZUnRSbnVPQmk3OXN4TXI2YTZxYWI1S1hkZnZOLTJjQUdVaDVxUXRJ?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 21:30:04 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 01:54:00 GMT</pubDate>
     </item>
     <item>
       <title>AIで急増の半導体需要、供給が追い付くには数年かかる－TSMCのCEO</title>
@@ -56,10 +56,16 @@
       <pubDate>Thu, 04 Jun 2026 05:11:00 GMT</pubDate>
     </item>
     <item>
-      <title>中国、台湾訪問したNZ議員に制裁－謝罪すれば入国禁止撤回と説明</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnNwM1VjZVZGNlZwZ2oya2RrUy05NzlNeHdmWFY1TVhuZmN0dlFCYkxQNDFzQ1RLcEtSMEdjNmNQOHdUdTlDaVk0STVYTkc1R3pzbUx4UlFNWFhPYzBDel9CV3pUZXl4dE0zc0dfa1liV0xiUEV0eVZtQ2VLMmxLUGQ5QllvSU85eTQ4OTdB?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnNwM1VjZVZGNlZwZ2oya2RrUy05NzlNeHdmWFY1TVhuZmN0dlFCYkxQNDFzQ1RLcEtSMEdjNmNQOHdUdTlDaVk0STVYTkc1R3pzbUx4UlFNWFhPYzBDel9CV3pUZXl4dE0zc0dfa1liV0xiUEV0eVZtQ2VLMmxLUGQ5QllvSU85eTQ4OTdB?oc=5</guid>
-      <pubDate>Thu, 04 Jun 2026 07:26:49 GMT</pubDate>
+      <title>スペースX空売り狙う投資家、IPO幹事漏れのジェフリーズに早くも接触</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUDdPRERtRVFtRWVwWjJOdW5kdFZ1M09RWGdOcjZ4d2R4QzVLQVlDejBBY1hyNHlkU1dxVE15Y0NqdHhJdEsyS1MzU3c0TmFseVVQRjJ4UWw0NFNyalZlMkJMNV9NSW9fcXBudHRieVNwSTB0ZjU0?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUDdPRERtRVFtRWVwWjJOdW5kdFZ1M09RWGdOcjZ4d2R4QzVLQVlDejBBY1hyNHlkU1dxVE15Y0NqdHhJdEsyS1MzU3c0TmFseVVQRjJ4UWw0NFNyalZlMkJMNV9NSW9fcXBudHRieVNwSTB0ZjU0?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 17:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>マスク氏のスペースX、750億ドル規模のIPOを目指す－史上最大へ</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBXaW5XV1NmZEJYcVNfTklRbHc5UDR5YzJ5V3ZrbGtVSFBxVTBwWWZCc0l0MF9uZk9Cc1pLNXJXTHlVV2dWS1JrU0xXRzdHOTkwSXFEeGp2d3haN3VYX3ZWeDlhdVRTX3cwclZwVXNTbUtqQ29MVno4?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBXaW5XV1NmZEJYcVNfTklRbHc5UDR5YzJ5V3ZrbGtVSFBxVTBwWWZCc0l0MF9uZk9Cc1pLNXJXTHlVV2dWS1JrU0xXRzdHOTkwSXFEeGp2d3haN3VYX3ZWeDlhdVRTX3cwclZwVXNTbUtqQ29MVno4?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 20:43:22 GMT</pubDate>
     </item>
     <item>
       <title>半導体メモリー供給対策を要望、AIで逼迫ー業界団体が米政府に書簡</title>
@@ -74,16 +80,16 @@
       <pubDate>Wed, 03 Jun 2026 21:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>スペースX空売り狙う投資家、IPO幹事漏れのジェフリーズに早くも接触</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUDdPRERtRVFtRWVwWjJOdW5kdFZ1M09RWGdOcjZ4d2R4QzVLQVlDejBBY1hyNHlkU1dxVE15Y0NqdHhJdEsyS1MzU3c0TmFseVVQRjJ4UWw0NFNyalZlMkJMNV9NSW9fcXBudHRieVNwSTB0ZjU0?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUDdPRERtRVFtRWVwWjJOdW5kdFZ1M09RWGdOcjZ4d2R4QzVLQVlDejBBY1hyNHlkU1dxVE15Y0NqdHhJdEsyS1MzU3c0TmFseVVQRjJ4UWw0NFNyalZlMkJMNV9NSW9fcXBudHRieVNwSTB0ZjU0?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 17:19:19 GMT</pubDate>
-    </item>
-    <item>
       <title>出遅れREITに反発余地、不動産需要が根強い－バリュエーションで妙味</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNWFvYnJlbW9oRVJDZlFnSTJJRXVJVjk5cmtUSFpGNE9MMXBEU1NIbjFsbjRKbVY1SW85NzFKOTdVTEluNjgzY1l4RnRtZ1dVWU80QUROenJLSHdjZ2hwbmFpdmNrNTF1dU9kS1Q2T3BJa2M0TVVr?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNWFvYnJlbW9oRVJDZlFnSTJJRXVJVjk5cmtUSFpGNE9MMXBEU1NIbjFsbjRKbVY1SW85NzFKOTdVTEluNjgzY1l4RnRtZ1dVWU80QUROenJLSHdjZ2hwbmFpdmNrNTF1dU9kS1Q2T3BJa2M0TVVr?oc=5</guid>
       <pubDate>Wed, 03 Jun 2026 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>インドネシア通貨が最安値更新、初の1ドル＝1万8000ルピア台</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE15M1ZkNHo3U2UzRUdXUnQ5TnhzWjQySTRYSTNJMTZHUjJrbTctVHN0YTdmNnZyaVZvRUYxVk8zM21RdlpteTJ5NEN2WEJrMkd6bWgzMWRUT0V3cklvZ3BwZGJOMXU2MW9McGg3SUFrVXVuMlRsUEZn?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE15M1ZkNHo3U2UzRUdXUnQ5TnhzWjQySTRYSTNJMTZHUjJrbTctVHN0YTdmNnZyaVZvRUYxVk8zM21RdlpteTJ5NEN2WEJrMkd6bWgzMWRUT0V3cklvZ3BwZGJOMXU2MW9McGg3SUFrVXVuMlRsUEZn?oc=5</guid>
+      <pubDate>Thu, 04 Jun 2026 02:49:00 GMT</pubDate>
     </item>
     <item>
       <title>AI投資の魅力、エヌビディアCEOが富裕層に熱弁－投資収益性アピール</title>
@@ -96,12 +102,6 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBwWTl4aWVZdGRPeUtZSXU0Ukd2TGRRZnVEUWJva0NNSHlPWkhzcUxpSzN0MGJfQ1lIM2dRYjJ0bm10dEw4dndpU2hBcFh2d2hQTGJfeUxaRHVvc2xZUXZxQkVVQzZ2WmJEeDlyc202SEtRNFJtQUU4?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBwWTl4aWVZdGRPeUtZSXU0Ukd2TGRRZnVEUWJva0NNSHlPWkhzcUxpSzN0MGJfQ1lIM2dRYjJ0bm10dEw4dndpU2hBcFh2d2hQTGJfeUxaRHVvc2xZUXZxQkVVQzZ2WmJEeDlyc202SEtRNFJtQUU4?oc=5</guid>
       <pubDate>Wed, 03 Jun 2026 20:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>マスク氏のスペースX、750億ドル規模のIPOを目指す－史上最大へ</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBXaW5XV1NmZEJYcVNfTklRbHc5UDR5YzJ5V3ZrbGtVSFBxVTBwWWZCc0l0MF9uZk9Cc1pLNXJXTHlVV2dWS1JrU0xXRzdHOTkwSXFEeGp2d3haN3VYX3ZWeDlhdVRTX3cwclZwVXNTbUtqQ29MVno4?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBXaW5XV1NmZEJYcVNfTklRbHc5UDR5YzJ5V3ZrbGtVSFBxVTBwWWZCc0l0MF9uZk9Cc1pLNXJXTHlVV2dWS1JrU0xXRzdHOTkwSXFEeGp2d3haN3VYX3ZWeDlhdVRTX3cwclZwVXNTbUtqQ29MVno4?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 20:43:22 GMT</pubDate>
     </item>
     <item>
       <title>イスラエルとレバノン停戦合意、米が発表－ヒズボラの攻撃停止も条件</title>
@@ -144,6 +144,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTFQ2UXJ2Y2loN2hJcFJLYVJ6NUtCSEdVRUtjVHVvdGlrdlZFYzJLRmZOZU80YXpWb3ZWWUpsVkwtVjRJMENnUTF1eXhNc0hMNDNCTWZCWi1LcG1qc1dObXFPdm5uQWYySFhyM3MtSXdMS2Y3TV84?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTFQ2UXJ2Y2loN2hJcFJLYVJ6NUtCSEdVRUtjVHVvdGlrdlZFYzJLRmZOZU80YXpWb3ZWWUpsVkwtVjRJMENnUTF1eXhNc0hMNDNCTWZCWi1LcG1qc1dObXFPdm5uQWYySFhyM3MtSXdMS2Y3TV84?oc=5</guid>
       <pubDate>Wed, 03 Jun 2026 17:20:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ダリオ氏、AI市場にバブルの兆候－富の現金化が崩壊の引き金に</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5UcW9ySlhXckV5amJGMklWY254ajdnTzRTWlYyTWs0b2VmYl9QYnVWVTFSeElyMEtGYThKRl92U2pXYkdCMmNEbG5DMEVrdXdfZ2w0RzU4MHI3b3ZQTnp1dzV3WFpNU1dxSFlWUUVEWUs3b0tSdGVr?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5UcW9ySlhXckV5amJGMklWY254ajdnTzRTWlYyTWs0b2VmYl9QYnVWVTFSeElyMEtGYThKRl92U2pXYkdCMmNEbG5DMEVrdXdfZ2w0RzU4MHI3b3ZQTnp1dzV3WFpNU1dxSFlWUUVEWUs3b0tSdGVr?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 16:27:48 GMT</pubDate>
     </item>
     <item>
       <title>【米国市況】円は160円台に下落－中東情勢悪化で原油高、株･国債売り</title>
@@ -198,12 +204,6 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5yVDdORnJPUEtQZGg2dUxhS1JmVTRUelhuTkVScm1IY1lKaVdUZFVCSml1LTBQMjdBN1M5cFVWNW1kWEZjTjRlcklFX2RyVHdMdW1jblRiel94MHlFMDlFbmc5TVNOYkdiVkMzX2VncFUzVXJuVWo0?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5yVDdORnJPUEtQZGg2dUxhS1JmVTRUelhuTkVScm1IY1lKaVdUZFVCSml1LTBQMjdBN1M5cFVWNW1kWEZjTjRlcklFX2RyVHdMdW1jblRiel94MHlFMDlFbmc5TVNOYkdiVkMzX2VncFUzVXJuVWo0?oc=5</guid>
       <pubDate>Tue, 02 Jun 2026 23:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン、台湾株の投資判断引き上げ－韓国KOSPIは1万2000視野</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE92YzJ0WnBrUU5CWDlleFFmd1R2Y0ZuVE1DN2hkMkZXUm4wZEEzN0tybVlhb2h3Njh0VHFuVWp1VDgxTVVHYVI2NjZZSkZ0V1RKaHVXbURhREFKcFRrSl95Zk5vT2xMQUg4TTJoazBWZG1PQzZNc0Yw?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE92YzJ0WnBrUU5CWDlleFFmd1R2Y0ZuVE1DN2hkMkZXUm4wZEEzN0tybVlhb2h3Njh0VHFuVWp1VDgxTVVHYVI2NjZZSkZ0V1RKaHVXbURhREFKcFRrSl95Zk5vT2xMQUg4TTJoazBWZG1PQzZNc0Yw?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 06:47:00 GMT</pubDate>
     </item>
     <item>
       <title>中国、対外投資の締め付け強化－個人を初めて明示的に規制</title>
@@ -272,18 +272,6 @@
       <pubDate>Tue, 02 Jun 2026 17:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>スペースX、異例に低いIPO手数料で交渉―なお銀行に800億円の収入</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1jTEdOZ2Fjdm5HendXbnZaSWJaSGg3UmowREk3VDJmS3FSRnFEdEYwcGdZYU9Bbm4xOENNVnMtN3Z0NFd1RzAtelRZeDBnX1NqMXZBM0RoUUxyUHhGLUR4NC1XNGlEQlNZN3d6LVZRa1ZDUTBBRTdR?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1jTEdOZ2Fjdm5HendXbnZaSWJaSGg3UmowREk3VDJmS3FSRnFEdEYwcGdZYU9Bbm4xOENNVnMtN3Z0NFd1RzAtelRZeDBnX1NqMXZBM0RoUUxyUHhGLUR4NC1XNGlEQlNZN3d6LVZRa1ZDUTBBRTdR?oc=5</guid>
-      <pubDate>Tue, 02 Jun 2026 13:50:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>日生､プライベートクレジットに1.5兆円－ブラックストーンと提携</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 07:37:16 GMT</pubDate>
-    </item>
-    <item>
       <title>TOTO、半導体事業に設備投資の半分超－｢売上高は必ず伸びる｣と専務</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9tQ2s0Rm9uWFgxY25OdGhYX3V3VFpWbWFyc3FGb2Y4ZUtRUDM2b19NcFFNNTVueXo5eTJhb05VUTAyMTl0S2o0ZjRNLXpha1A4M3dDYVM5eDVSOHFmaXBxOXd5UWx0dkVfYV92Q3NHaU8tS3k1NjBV?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9tQ2s0Rm9uWFgxY25OdGhYX3V3VFpWbWFyc3FGb2Y4ZUtRUDM2b19NcFFNNTVueXo5eTJhb05VUTAyMTl0S2o0ZjRNLXpha1A4M3dDYVM5eDVSOHFmaXBxOXd5UWx0dkVfYV92Q3NHaU8tS3k1NjBV?oc=5</guid>
@@ -296,10 +284,22 @@
       <pubDate>Tue, 02 Jun 2026 07:18:57 GMT</pubDate>
     </item>
     <item>
+      <title>日生､プライベートクレジットに1.5兆円－ブラックストーンと提携</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE04N3JTX0hZU3oweDh1NWFLUHlHVzk3bWdCOEdlVmo3YV9FTjVrR01nbzc4aGdxY2RLcVNUT1d2YVhUbVhEUDBVTm5YcU00RVNLYy1iR0wxMlJ0aFhDTTFRNHdZcDhsOXp0NGhIWkozajJ2V1IyUzM0?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 07:37:16 GMT</pubDate>
+    </item>
+    <item>
       <title>SNSで株価操縦図る、注目の米裁判で空売り投資家に有罪評決</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE4yMzFDaEhIT3BLVHoweU5NcVJOS3Y2QTFBTDdzdDQ2UmtYazcyVlFGbHZpdm5rM3Z5Z21TWVhkLUk3eldCVzd6RTIzazJMTEV2YXpRU2Jkb3VkbjNkM1lqTVowUFdST0FTRHNhOUJna0xid3Frbzhv?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE4yMzFDaEhIT3BLVHoweU5NcVJOS3Y2QTFBTDdzdDQ2UmtYazcyVlFGbHZpdm5rM3Z5Z21TWVhkLUk3eldCVzd6RTIzazJMTEV2YXpRU2Jkb3VkbjNkM1lqTVowUFdST0FTRHNhOUJna0xid3Frbzhv?oc=5</guid>
       <pubDate>Tue, 02 Jun 2026 00:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ゴールドマン、台湾株の投資判断引き上げ－韓国KOSPIは1万2000視野</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE92YzJ0WnBrUU5CWDlleFFmd1R2Y0ZuVE1DN2hkMkZXUm4wZEEzN0tybVlhb2h3Njh0VHFuVWp1VDgxTVVHYVI2NjZZSkZ0V1RKaHVXbURhREFKcFRrSl95Zk5vT2xMQUg4TTJoazBWZG1PQzZNc0Yw?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE92YzJ0WnBrUU5CWDlleFFmd1R2Y0ZuVE1DN2hkMkZXUm4wZEEzN0tybVlhb2h3Njh0VHFuVWp1VDgxTVVHYVI2NjZZSkZ0V1RKaHVXbURhREFKcFRrSl95Zk5vT2xMQUg4TTJoazBWZG1PQzZNc0Yw?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 06:47:00 GMT</pubDate>
     </item>
     <item>
       <title>SKハイニックス、5年間でメモリー半導体のウエハー生産能力を倍増へ</title>
