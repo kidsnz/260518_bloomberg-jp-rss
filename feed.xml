@@ -5,7 +5,7 @@
     <link>https://www.bloomberg.com/jp</link>
     <description>Bloomberg.com/jp の最新日本語ニュース（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 13:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 14:32:57 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米利上げ織り込みは「全くの見当違い」－ハセット国家経済会議委員長</title>
@@ -30,6 +30,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE96TXExTzdaQnRjd0drcjFvUHNNeWRSTElIX2JBYi1GNVVzOEFSWHg4YnNBYm5pX3ZjOU5EcmRmZVBzcHdrZVZ3cUF0UzhocVRWcUNraUNSYkRZdEt4dzdEZzI5VlFURkdBTEw0dHY0cEtaTHQycmpN?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE96TXExTzdaQnRjd0drcjFvUHNNeWRSTElIX2JBYi1GNVVzOEFSWHg4YnNBYm5pX3ZjOU5EcmRmZVBzcHdrZVZ3cUF0UzhocVRWcUNraUNSYkRZdEt4dzdEZzI5VlFURkdBTEw0dHY0cEtaTHQycmpN?oc=5</guid>
       <pubDate>Sat, 06 Jun 2026 00:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>米株先物と国債が下落、雇用統計が堅調でFRB利上げ観測強まる</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1SSXJKYjg1Z2hKWmdYNnVMNHFqMFA4TzN5aGNtTGtWTWI3S1JwS0hiSEVtUTZ6NmJ2QVNUSFVKdW5HWHlFdmYzUEdmaVYydEROZHBSVDVoUkdDTzUzZWFfb0tydXJuVERhRm1QNktCbmpLazhBc293?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1SSXJKYjg1Z2hKWmdYNnVMNHFqMFA4TzN5aGNtTGtWTWI3S1JwS0hiSEVtUTZ6NmJ2QVNUSFVKdW5HWHlFdmYzUEdmaVYydEROZHBSVDVoUkdDTzUzZWFfb0tydXJuVERhRm1QNktCbmpLazhBc293?oc=5</guid>
+      <pubDate>Fri, 05 Jun 2026 12:59:35 GMT</pubDate>
     </item>
     <item>
       <title>米イラン協議、合意の道筋なお見えず－戦争開始から100日に近づく</title>
@@ -59,13 +65,7 @@
       <title>AIブームで世界のミリオネア200万人増－米国が最多、日本も44万人増</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBHUlBMYlMzZXhXRGhzZmZhR3g1SEZOMUduMk9ISXdYa09MT1d5UUlsNzc1akRsaG9kWTNwbVFUTVhqWWxuWG1QY2VDNmxQc0JxNWlHbUZ2d2VsT1JrZkMzblFEWUR2WWc3OUFTLVliRlE5N0J5OWt3?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTFBHUlBMYlMzZXhXRGhzZmZhR3g1SEZOMUduMk9ISXdYa09MT1d5UUlsNzc1akRsaG9kWTNwbVFUTVhqWWxuWG1QY2VDNmxQc0JxNWlHbUZ2d2VsT1JrZkMzblFEWUR2WWc3OUFTLVliRlE5N0J5OWt3?oc=5</guid>
-      <pubDate>Fri, 05 Jun 2026 14:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>米株先物と国債が下落、雇用統計が堅調でFRB利上げ観測強まる</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1SSXJKYjg1Z2hKWmdYNnVMNHFqMFA4TzN5aGNtTGtWTWI3S1JwS0hiSEVtUTZ6NmJ2QVNUSFVKdW5HWHlFdmYzUEdmaVYydEROZHBSVDVoUkdDTzUzZWFfb0tydXJuVERhRm1QNktCbmpLazhBc293?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1SSXJKYjg1Z2hKWmdYNnVMNHFqMFA4TzN5aGNtTGtWTWI3S1JwS0hiSEVtUTZ6NmJ2QVNUSFVKdW5HWHlFdmYzUEdmaVYydEROZHBSVDVoUkdDTzUzZWFfb0tydXJuVERhRm1QNktCbmpLazhBc293?oc=5</guid>
-      <pubDate>Fri, 05 Jun 2026 12:59:35 GMT</pubDate>
+      <pubDate>Fri, 05 Jun 2026 03:56:00 GMT</pubDate>
     </item>
     <item>
       <title>円が対ドルで下落に転じる、160円03銭－予想上回る米雇用統計後</title>
@@ -110,12 +110,6 @@
       <pubDate>Fri, 05 Jun 2026 08:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>スペースXのIPOイベント、マスク氏が投資家を魅了－ダイモン氏主催</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1vYktDay1BWkpsTHFiOWoyT19zeHlhVHRaM0oybXB1aWszLTgzZXNfQmoyX1FoZTZfSzl3YmpYdVJnX2pEd2wxX2d3cG00WGpvZEFKYUU5SmFjOXVJY1ZvZFF6ZGhuOUJqanlfbVM2MWR1dnNlV1Bv?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1vYktDay1BWkpsTHFiOWoyT19zeHlhVHRaM0oybXB1aWszLTgzZXNfQmoyX1FoZTZfSzl3YmpYdVJnX2pEd2wxX2d3cG00WGpvZEFKYUU5SmFjOXVJY1ZvZFF6ZGhuOUJqanlfbVM2MWR1dnNlV1Bv?oc=5</guid>
-      <pubDate>Fri, 05 Jun 2026 09:51:07 GMT</pubDate>
-    </item>
-    <item>
       <title>スペースX、中国と香港の投資家はIPO参加できず－安全保障上の懸念</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE81Y25XWFB6TkdJa2ZBeDZqa1l5ZDV0OVJmQ2gza3Z2UkhwbHVWZHJ5M00zU1Jad3UxbEpKby1qNWUwVWctVGhZQWROeXZHZ1VaTWt5YlczLXZMN2F4YjRBR3FfZEZyS1Y5N1NLaTlITTQ0UlYxb28w?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE81Y25XWFB6TkdJa2ZBeDZqa1l5ZDV0OVJmQ2gza3Z2UkhwbHVWZHJ5M00zU1Jad3UxbEpKby1qNWUwVWctVGhZQWROeXZHZ1VaTWt5YlczLXZMN2F4YjRBR3FfZEZyS1Y5N1NLaTlITTQ0UlYxb28w?oc=5</guid>
@@ -138,6 +132,12 @@
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZzBSVVY2b1NLbXpGY3dVZ0dBZjdxLWNGMXYxNHQ3X3FwdnM5aFIzcUlvNzVZTFlXd0s2a19IYTNFYTJzdjFkRGlpNFhrZDgzR2c1Ukh6dXRGUU84dzBUN2JiU05tR2V5WTBXUjQxbDJ6VGlCa1lv?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZzBSVVY2b1NLbXpGY3dVZ0dBZjdxLWNGMXYxNHQ3X3FwdnM5aFIzcUlvNzVZTFlXd0s2a19IYTNFYTJzdjFkRGlpNFhrZDgzR2c1Ukh6dXRGUU84dzBUN2JiU05tR2V5WTBXUjQxbDJ6VGlCa1lv?oc=5</guid>
       <pubDate>Fri, 05 Jun 2026 05:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>スペースXのIPOイベント、マスク氏が投資家を魅了－ダイモン氏主催</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1vYktDay1BWkpsTHFiOWoyT19zeHlhVHRaM0oybXB1aWszLTgzZXNfQmoyX1FoZTZfSzl3YmpYdVJnX2pEd2wxX2d3cG00WGpvZEFKYUU5SmFjOXVJY1ZvZFF6ZGhuOUJqanlfbVM2MWR1dnNlV1Bv?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1vYktDay1BWkpsTHFiOWoyT19zeHlhVHRaM0oybXB1aWszLTgzZXNfQmoyX1FoZTZfSzl3YmpYdVJnX2pEd2wxX2d3cG00WGpvZEFKYUU5SmFjOXVJY1ZvZFF6ZGhuOUJqanlfbVM2MWR1dnNlV1Bv?oc=5</guid>
+      <pubDate>Fri, 05 Jun 2026 09:51:07 GMT</pubDate>
     </item>
     <item>
       <title>【日本市況】日経平均が続落、AI相場の息切れを警戒－円は160円近辺</title>
@@ -206,12 +206,6 @@
       <pubDate>Thu, 04 Jun 2026 08:46:34 GMT</pubDate>
     </item>
     <item>
-      <title>AI主導のアジア株高はバブルにあらず、米金利見通し警戒－アムンディ</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1XU3FfUEh0STExYTRGb2g4NTQwQklUeFFpaHZSbEtFVU5OQ3pfQ1pTLVlIMlhQUU12T3k2bk5zSTdQbnNBNUpFaFIybjl5eERYdTVIZWdzcm1kY1lWNkNwS3p3QTVzcHd1dUpSVjYxcU5rd0ZQclJ3?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1XU3FfUEh0STExYTRGb2g4NTQwQklUeFFpaHZSbEtFVU5OQ3pfQ1pTLVlIMlhQUU12T3k2bk5zSTdQbnNBNUpFaFIybjl5eERYdTVIZWdzcm1kY1lWNkNwS3p3QTVzcHd1dUpSVjYxcU5rd0ZQclJ3?oc=5</guid>
-      <pubDate>Fri, 05 Jun 2026 05:56:13 GMT</pubDate>
-    </item>
-    <item>
       <title>マスク氏に賭けて大成功－サウジ王子、スペースX投資で資産急増</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE85Z2QxSzJiWWdsZTFLLTg1eGMyZEVXNWpfekw5SE15NzAtRWZDTk5EMEoxbS0xMEt5cm1tZXdKY2gzSkY3NGk1NGNxSnp1NEZrZHNES0p1d0xNdXZfTU5mVFMycnQ5NU50bVNSU1U3cVpYMmxZUVVR?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE85Z2QxSzJiWWdsZTFLLTg1eGMyZEVXNWpfekw5SE15NzAtRWZDTk5EMEoxbS0xMEt5cm1tZXdKY2gzSkY3NGk1NGNxSnp1NEZrZHNES0p1d0xNdXZfTU5mVFMycnQ5NU50bVNSU1U3cVpYMmxZUVVR?oc=5</guid>
@@ -266,12 +260,6 @@
       <pubDate>Thu, 04 Jun 2026 17:11:33 GMT</pubDate>
     </item>
     <item>
-      <title>クレジット市場の重鎮も警告、低金利時代のディール「清算の時」迫る</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE42cS1Rel9FRndvUU5CNmo5YnZNblVEVUYzZ1Y1MVF6alJ3S0pVYU5weHBONEN4emxENlRZLUJLR0FXcTRJLWF5bDRjNTRsTEtocWdmTy1UaUloQXA0Tk9rM3ZDVW5kbC1IdGxxUUJKaklZanJrRTVN?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE42cS1Rel9FRndvUU5CNmo5YnZNblVEVUYzZ1Y1MVF6alJ3S0pVYU5weHBONEN4emxENlRZLUJLR0FXcTRJLWF5bDRjNTRsTEtocWdmTy1UaUloQXA0Tk9rM3ZDVW5kbC1IdGxxUUJKaklZanJrRTVN?oc=5</guid>
-      <pubDate>Thu, 04 Jun 2026 04:21:00 GMT</pubDate>
-    </item>
-    <item>
       <title>スペースXなど超大型IPO株、S&amp;P指数採用は1年以上先に－例外扱いせず</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9ibHpWTTlYc1N1MVlvSTR6NkcyT1piRjNjSDZOclFyVjVXUmI4UUtRa3cxSnBvWVVDcUlaUVhnaG9zeTllSW1hUDg0WnNlUjFIWUkxeG1LalJXWWpJMmxlUWk3NlpIdFNkakxHNzFzRW5BM3pkaXJN?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE9ibHpWTTlYc1N1MVlvSTR6NkcyT1piRjNjSDZOclFyVjVXUmI4UUtRa3cxSnBvWVVDcUlaUVhnaG9zeTllSW1hUDg0WnNlUjFIWUkxeG1LalJXWWpJMmxlUWk3NlpIdFNkakxHNzFzRW5BM3pkaXJN?oc=5</guid>
@@ -296,16 +284,28 @@
       <pubDate>Thu, 04 Jun 2026 06:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>出遅れREITに反発余地、不動産需要が根強い－バリュエーションで妙味</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNWFvYnJlbW9oRVJDZlFnSTJJRXVJVjk5cmtUSFpGNE9MMXBEU1NIbjFsbjRKbVY1SW85NzFKOTdVTEluNjgzY1l4RnRtZ1dVWU80QUROenJLSHdjZ2hwbmFpdmNrNTF1dU9kS1Q2T3BJa2M0TVVr?oc=5</link>
-      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNWFvYnJlbW9oRVJDZlFnSTJJRXVJVjk5cmtUSFpGNE9MMXBEU1NIbjFsbjRKbVY1SW85NzFKOTdVTEluNjgzY1l4RnRtZ1dVWU80QUROenJLSHdjZ2hwbmFpdmNrNTF1dU9kS1Q2T3BJa2M0TVVr?oc=5</guid>
-      <pubDate>Wed, 03 Jun 2026 23:30:00 GMT</pubDate>
+      <title>クレジット市場の重鎮も警告、低金利時代のディール「清算の時」迫る</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE42cS1Rel9FRndvUU5CNmo5YnZNblVEVUYzZ1Y1MVF6alJ3S0pVYU5weHBONEN4emxENlRZLUJLR0FXcTRJLWF5bDRjNTRsTEtocWdmTy1UaUloQXA0Tk9rM3ZDVW5kbC1IdGxxUUJKaklZanJrRTVN?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE42cS1Rel9FRndvUU5CNmo5YnZNblVEVUYzZ1Y1MVF6alJ3S0pVYU5weHBONEN4emxENlRZLUJLR0FXcTRJLWF5bDRjNTRsTEtocWdmTy1UaUloQXA0Tk9rM3ZDVW5kbC1IdGxxUUJKaklZanJrRTVN?oc=5</guid>
+      <pubDate>Thu, 04 Jun 2026 04:21:00 GMT</pubDate>
     </item>
     <item>
       <title>片山財務相、日米間で断固たる措置認められており、対応する－為替</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE90allrYy1FQm5FRVI4ZmxGSzRXZVdjN28tSXhlX3YzQ1FpTEpTTE5mbzFVbWM5ckdabzR0SjFncmdmVXpVVkI4VnUxZ0JFUk1uZldwa1Q1em9JR0pBU2hNbUhKM09sd19WbXhpeUQtaGJxMEVQY004?oc=5</link>
       <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE90allrYy1FQm5FRVI4ZmxGSzRXZVdjN28tSXhlX3YzQ1FpTEpTTE5mbzFVbWM5ckdabzR0SjFncmdmVXpVVkI4VnUxZ0JFUk1uZldwa1Q1em9JR0pBU2hNbUhKM09sd19WbXhpeUQtaGJxMEVQY004?oc=5</guid>
       <pubDate>Thu, 04 Jun 2026 23:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>出遅れREITに反発余地、不動産需要が根強い－バリュエーションで妙味</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNWFvYnJlbW9oRVJDZlFnSTJJRXVJVjk5cmtUSFpGNE9MMXBEU1NIbjFsbjRKbVY1SW85NzFKOTdVTEluNjgzY1l4RnRtZ1dVWU80QUROenJLSHdjZ2hwbmFpdmNrNTF1dU9kS1Q2T3BJa2M0TVVr?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNWFvYnJlbW9oRVJDZlFnSTJJRXVJVjk5cmtUSFpGNE9MMXBEU1NIbjFsbjRKbVY1SW85NzFKOTdVTEluNjgzY1l4RnRtZ1dVWU80QUROenJLSHdjZ2hwbmFpdmNrNTF1dU9kS1Q2T3BJa2M0TVVr?oc=5</guid>
+      <pubDate>Wed, 03 Jun 2026 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフト、AIモデルの価格破壊に挑む－自前路線で巻き返しへ</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeGloNjl0TExQTGFkQjNPYWRkNDFyV0kxVFB5WWRoME5RUHVwajRodUJxRE5EWGhCR2RRTGRIWlprUWdOYzE5Ylg3NzdnMjNBVDBQOG5BMWg2UEtqcjhnaGFQYUFHTVI0N1c3UWNlMXFSdFR2WWl3?oc=5</link>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeGloNjl0TExQTGFkQjNPYWRkNDFyV0kxVFB5WWRoME5RUHVwajRodUJxRE5EWGhCR2RRTGRIWlprUWdOYzE5Ylg3NzdnMjNBVDBQOG5BMWg2UEtqcjhnaGFQYUFHTVI0N1c3UWNlMXFSdFR2WWl3?oc=5</guid>
+      <pubDate>Thu, 04 Jun 2026 13:52:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
