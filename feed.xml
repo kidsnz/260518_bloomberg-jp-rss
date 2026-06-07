@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:24:13 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:50:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国が通貨安対策、ウォンは09年以来の安値－投機的取引に断固対応</title>
+      <link>https://news.yahoo.co.jp/articles/4d1b1ca57e274c447fd70168866379c2de3ab3d6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d1b1ca57e274c447fd70168866379c2de3ab3d6</guid>
+      <pubDate>Mon, 08 Jun 2026 08:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は大幅下落へ、米ハイテク株急落を嫌気－中東緊迫化も重しに</title>
+      <link>https://news.yahoo.co.jp/articles/5e232ea54901fbe5624816b93f0890615b63bf59</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e232ea54901fbe5624816b93f0890615b63bf59</guid>
+      <pubDate>Mon, 08 Jun 2026 08:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場はトリプル安へ－米雇用堅調で利上げに警戒、中東紛争も重し</title>
+      <link>https://news.yahoo.co.jp/articles/0f82c65d07e4fa9463048e62a76def7ca857d939</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f82c65d07e4fa9463048e62a76def7ca857d939</guid>
+      <pubDate>Mon, 08 Jun 2026 08:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、イランとの合意でイスラエルに選択の余地ないと主張－FT</title>
       <link>https://news.yahoo.co.jp/articles/aaa60b9138cfb7a901efa3194baac364d47faa1b</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5b4a353bc88614f26a56c8f41eddf647a5508b01</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b4a353bc88614f26a56c8f41eddf647a5508b01</guid>
       <pubDate>Sat, 06 Jun 2026 21:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用者数17万2000人増、全ての予想上回る－労働市場の改善鮮明</title>
-      <link>https://news.yahoo.co.jp/articles/92b805b8338c7fa6e5a9ed726b53a06e612ab3ac</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/92b805b8338c7fa6e5a9ed726b53a06e612ab3ac</guid>
-      <pubDate>Fri, 05 Jun 2026 21:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで下落、一時160円26銭－予想上回る米雇用統計受けて軟調</title>
-      <link>https://news.yahoo.co.jp/articles/2386ba9c636aeb62d9c360d6290287d862a5b946</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2386ba9c636aeb62d9c360d6290287d862a5b946</guid>
-      <pubDate>Fri, 05 Jun 2026 21:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用統計、５月の非農業部門雇用者数は17.2万人増－失業率4.3％</title>
-      <link>https://news.yahoo.co.jp/articles/b64f83fcf5bc52a7e67116d88cf596aedf632772</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b64f83fcf5bc52a7e67116d88cf596aedf632772</guid>
-      <pubDate>Fri, 05 Jun 2026 21:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
