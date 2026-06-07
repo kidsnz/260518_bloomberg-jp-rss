@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 07:25:49 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 07:50:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油が反発、一時3.6%上昇－イランがイスラエルに複数のミサイル発射</title>
+      <link>https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</guid>
+      <pubDate>Mon, 08 Jun 2026 07:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>米CPI急伸観測でFRB利上げ論強まる、債券市場はタカ派転換を織り込む</title>
       <link>https://news.yahoo.co.jp/articles/6e3e19c8eb55f3120bd539cfe5a5487a108e1670</link>
@@ -20,7 +26,7 @@
       <pubDate>Mon, 08 Jun 2026 06:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>イラン、イスラエルにミサイル発射－レバノン情勢悪化で停戦に影</title>
+      <title>イラン、イスラエルにミサイル発射－トランプ氏は停戦維持へ働きかけ</title>
       <link>https://news.yahoo.co.jp/articles/2d27c2ff6fe8e1272974cae42343f27ae93c5e77</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d27c2ff6fe8e1272974cae42343f27ae93c5e77</guid>
       <pubDate>Mon, 08 Jun 2026 04:18:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8edf15cf0d9179c519e389b86b3f51d61d575862</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8edf15cf0d9179c519e389b86b3f51d61d575862</guid>
       <pubDate>Fri, 05 Jun 2026 19:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ユーロ圏GDP確定値、第1四半期は0.2%減少-アイルランドの落ち込み響く</title>
-      <link>https://news.yahoo.co.jp/articles/652c2050541d24cc07962764e73ab0b36476c14b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/652c2050541d24cc07962764e73ab0b36476c14b</guid>
-      <pubDate>Fri, 05 Jun 2026 19:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
