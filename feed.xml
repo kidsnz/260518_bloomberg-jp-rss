@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:06:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:14:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米株下落は「健全なリセット」、堅調な利益・成長見込む－モルガンS</title>
+      <link>https://news.yahoo.co.jp/articles/7f11a1fd6d6d611885df612c362decd5c199be00</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f11a1fd6d6d611885df612c362decd5c199be00</guid>
+      <pubDate>Mon, 08 Jun 2026 18:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>AI投資熱が韓国国債市場の重しに、景気過熱で利回り上昇－政府も警戒</title>
       <link>https://news.yahoo.co.jp/articles/23f346fa6a537e531fe151caab5d71ee2a25bb9e</link>
@@ -26,7 +32,7 @@
       <pubDate>Mon, 08 Jun 2026 15:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>イランとイスラエル、ミサイル攻撃の応酬－和平協議に暗雲</title>
+      <title>イランとイスラエル、ミサイル攻撃の応酬－トランプ氏は即時停止要求</title>
       <link>https://news.yahoo.co.jp/articles/3d86735fc06836f09e88bd076efb8288528435f1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d86735fc06836f09e88bd076efb8288528435f1</guid>
       <pubDate>Mon, 08 Jun 2026 15:24:00 +0900</pubDate>
@@ -176,7 +182,7 @@
       <pubDate>Mon, 08 Jun 2026 07:31:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油が急上昇、ブレント一時5%高－イスラエルとイランが攻撃応酬</title>
+      <title>原油が上げ拡大、ブレント一時5%高－イスラエルとイランが攻撃応酬</title>
       <link>https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</guid>
       <pubDate>Mon, 08 Jun 2026 07:10:00 +0900</pubDate>
@@ -299,12 +305,6 @@
       <title>米・イランが新たな攻撃応酬、和平への進展見られず－遠いホルムズ再開</title>
       <link>https://news.yahoo.co.jp/articles/02a4d6fa48c5551a65cc7c120ba54508ea9111ba</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/02a4d6fa48c5551a65cc7c120ba54508ea9111ba</guid>
-      <pubDate>Sat, 06 Jun 2026 13:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イランが新たな攻撃応酬、和平への進展見られず－遠いホルムズ再開</title>
-      <link>https://news.yahoo.co.jp/articles/54e86f2491a3ae68334fb7c082c81798afc0320b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/54e86f2491a3ae68334fb7c082c81798afc0320b</guid>
       <pubDate>Sat, 06 Jun 2026 13:42:00 +0900</pubDate>
     </item>
   </channel>
