@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 05:16:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 06:13:38 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>解約圧力受けたブルー・アウルのファンド、社債発行で5億ドル調達へ</title>
@@ -36,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/1f7fc198277c22f01e00942f0e0c81b2ca3d5f6f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f7fc198277c22f01e00942f0e0c81b2ca3d5f6f</guid>
       <pubDate>Mon, 08 Jun 2026 23:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】AI楽観論で半導体株に買い、中東緊張緩和で原油上げ縮小</title>
+      <link>https://news.yahoo.co.jp/articles/2575ebf5edbde07ffbb577e2f447a8df4a617213</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2575ebf5edbde07ffbb577e2f447a8df4a617213</guid>
+      <pubDate>Tue, 09 Jun 2026 23:39:00 +0900</pubDate>
     </item>
     <item>
       <title>テック企業のPE取引額急減、AI懸念で昨年から7割減－ベイン</title>
@@ -108,6 +114,12 @@
       <link>https://news.yahoo.co.jp/articles/f3a08d082146ba1dae7454f41e366a91d4d9552f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f3a08d082146ba1dae7454f41e366a91d4d9552f</guid>
       <pubDate>Mon, 08 Jun 2026 15:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランとイスラエル、攻撃停止を表明－トランプ氏の緊張緩和要求受け</title>
+      <link>https://news.yahoo.co.jp/articles/5c200eda03bc009ffc5a1e444747d5e6f057594b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c200eda03bc009ffc5a1e444747d5e6f057594b</guid>
+      <pubDate>Mon, 08 Jun 2026 15:24:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン、対イスラエル軍事作戦終了を宣言－トランプ氏が双方に要求後</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d653b49bdf69b1f080a938f73af94fbc692b5672</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d653b49bdf69b1f080a938f73af94fbc692b5672</guid>
       <pubDate>Mon, 08 Jun 2026 00:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIが揺らす銀行の雇用、近づく大規模人員削減の足音－若手育成に課題</title>
-      <link>https://news.yahoo.co.jp/articles/70e164d4055bf492029be819a1d027b7cda287c2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/70e164d4055bf492029be819a1d027b7cda287c2</guid>
-      <pubDate>Sun, 07 Jun 2026 23:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB追加利上げに懐疑論、JPモルガンAMなど運用大手「1回で終わる」</title>
-      <link>https://news.yahoo.co.jp/articles/f304c49a050d4f478fe8ebec41ca52ce54cbb814</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f304c49a050d4f478fe8ebec41ca52ce54cbb814</guid>
-      <pubDate>Sun, 07 Jun 2026 22:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
