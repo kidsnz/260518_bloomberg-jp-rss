@@ -5,18 +5,48 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 09:44:46 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:47:39 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>韓国総合株価指数が急落、サーキットブレーカー発動－売買停止</title>
+      <title>大阪大学がオルタナ投資強化、数年で6割に急拡大へ－現預金はゼロに</title>
+      <link>https://news.yahoo.co.jp/articles/f610164ecc80c51b90da82ebb8e93500f1a3fd2d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f610164ecc80c51b90da82ebb8e93500f1a3fd2d</guid>
+      <pubDate>Mon, 08 Jun 2026 10:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】株大幅安、利上げ懸念の米テック株売り波及－債券も下落</title>
+      <link>https://news.yahoo.co.jp/articles/55f52c92e9bb7c5c9c1f12c846017dba7383df84</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55f52c92e9bb7c5c9c1f12c846017dba7383df84</guid>
+      <pubDate>Mon, 08 Jun 2026 09:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>太平洋沿岸の広い地域に津波注意報、フィリピン付近で地震</title>
+      <link>https://news.yahoo.co.jp/articles/9da51530caebc8daaabb3f95ae10f366c8fd639d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9da51530caebc8daaabb3f95ae10f366c8fd639d</guid>
+      <pubDate>Mon, 08 Jun 2026 09:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがスーパーアプリをIPO前に導入、ChatGPTとCodexを統合－報道</title>
+      <link>https://news.yahoo.co.jp/articles/75236a9803d59827eea00ea31a00fed8bbfd11f1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75236a9803d59827eea00ea31a00fed8bbfd11f1</guid>
+      <pubDate>Mon, 08 Jun 2026 09:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国株急落、サーキットブレーカー発動で一時売買停止－半導体株売り</title>
       <link>https://news.yahoo.co.jp/articles/2132df73d41b2827826151c9bdbaa4a4d5866582</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2132df73d41b2827826151c9bdbaa4a4d5866582</guid>
       <pubDate>Mon, 08 Jun 2026 09:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>1～3月実質GDPは下方修正、中東混乱の中で設備投資がマイナス転化</title>
+      <title>実質GDPは下方修正、中東混乱も回復基調は維持－日銀利上げ路線支え</title>
       <link>https://news.yahoo.co.jp/articles/546b9d7cdc223b14f5732dc5cc775988d4f8798f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/546b9d7cdc223b14f5732dc5cc775988d4f8798f</guid>
+      <pubDate>Mon, 08 Jun 2026 08:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イタリア大手行インテーザ、同業モンテ・パスキ買収提案準備－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/72cc417df4ee73769fff94fb60780d5eb93db1d9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72cc417df4ee73769fff94fb60780d5eb93db1d9</guid>
       <pubDate>Mon, 08 Jun 2026 08:50:00 +0900</pubDate>
     </item>
     <item>
@@ -56,7 +86,7 @@
       <pubDate>Mon, 08 Jun 2026 07:31:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油が反発、一時3.6%上昇－イランがイスラエルに複数のミサイル発射</title>
+      <title>原油が急上昇、ブレント一時3%高－イランがイスラエルにミサイル発射</title>
       <link>https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</guid>
       <pubDate>Mon, 08 Jun 2026 07:10:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ddf85c82a131ea6b57adc00c6d485270db97a0cc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ddf85c82a131ea6b57adc00c6d485270db97a0cc</guid>
       <pubDate>Sat, 06 Jun 2026 00:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>年内の米利上げ完全に織り込む、雇用の大幅上振れで－10月予想も6割</title>
-      <link>https://news.yahoo.co.jp/articles/9820565029ffc99d9480b572555f54cbd81311e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9820565029ffc99d9480b572555f54cbd81311e0</guid>
-      <pubDate>Fri, 05 Jun 2026 23:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック幹部、官民共同のAI開発管理枠組み創設を呼びかけ</title>
-      <link>https://news.yahoo.co.jp/articles/929a5e6fccbdc36158e6bda2b79d099b4e4f7203</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/929a5e6fccbdc36158e6bda2b79d099b4e4f7203</guid>
-      <pubDate>Fri, 05 Jun 2026 23:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用統計、ウォーシュ氏の利下げ主張を困難に－市場関係者の見方</title>
-      <link>https://news.yahoo.co.jp/articles/3bb94d1d5228a63cfb88ab74bccb5158c46cf01c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bb94d1d5228a63cfb88ab74bccb5158c46cf01c</guid>
-      <pubDate>Sat, 06 Jun 2026 23:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用統計、ウォーシュ氏の利下げ主張を困難に－市場関係者の見方</title>
-      <link>https://news.yahoo.co.jp/articles/49aa0fc97f10ad14487147264f062b1720277a0d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49aa0fc97f10ad14487147264f062b1720277a0d</guid>
-      <pubDate>Fri, 05 Jun 2026 23:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ポイント72、外部ヘッジファンドの投資アイデア収集を検討-業界で拡大</title>
-      <link>https://news.yahoo.co.jp/articles/e02398bdedc2a3563849c3e808203ca4688f8fda</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e02398bdedc2a3563849c3e808203ca4688f8fda</guid>
-      <pubDate>Fri, 05 Jun 2026 22:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
