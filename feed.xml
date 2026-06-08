@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:50:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:44:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国総合株価指数が急落、サーキットブレーカー発動－売買停止</title>
+      <link>https://news.yahoo.co.jp/articles/2132df73d41b2827826151c9bdbaa4a4d5866582</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2132df73d41b2827826151c9bdbaa4a4d5866582</guid>
+      <pubDate>Mon, 08 Jun 2026 09:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>1～3月実質GDPは下方修正、中東混乱の中で設備投資がマイナス転化</title>
+      <link>https://news.yahoo.co.jp/articles/546b9d7cdc223b14f5732dc5cc775988d4f8798f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/546b9d7cdc223b14f5732dc5cc775988d4f8798f</guid>
+      <pubDate>Mon, 08 Jun 2026 08:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>韓国が通貨安対策、ウォンは09年以来の安値－投機的取引に断固対応</title>
       <link>https://news.yahoo.co.jp/articles/4d1b1ca57e274c447fd70168866379c2de3ab3d6</link>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/0f82c65d07e4fa9463048e62a76def7ca857d939</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f82c65d07e4fa9463048e62a76def7ca857d939</guid>
       <pubDate>Mon, 08 Jun 2026 08:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドル160円台前半でもみ合い、介入警戒感強まる－債券は下落へ</title>
+      <link>https://news.yahoo.co.jp/articles/f8309b8b2af6fe7ce05702429c1b88af32da71c3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8309b8b2af6fe7ce05702429c1b88af32da71c3</guid>
+      <pubDate>Mon, 08 Jun 2026 07:54:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、イランとの合意でイスラエルに選択の余地ないと主張－FT</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e02398bdedc2a3563849c3e808203ca4688f8fda</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e02398bdedc2a3563849c3e808203ca4688f8fda</guid>
       <pubDate>Fri, 05 Jun 2026 22:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株は大幅安、強い雇用統計で利上げ観測－160円前半に下落</title>
-      <link>https://news.yahoo.co.jp/articles/86882437612e44673cb1eba47ac4c0ab3336aafe</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86882437612e44673cb1eba47ac4c0ab3336aafe</guid>
-      <pubDate>Sat, 06 Jun 2026 21:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株と国債下落、強い雇用統計で利上げ観測－円は160円台前半に下落</title>
-      <link>https://news.yahoo.co.jp/articles/a1c0df04a51e5cb3021b335145e568b1b44d1225</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a1c0df04a51e5cb3021b335145e568b1b44d1225</guid>
-      <pubDate>Fri, 05 Jun 2026 21:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用者数17.2万人増、予想大きく上回る伸び－労働市場の改善鮮明</title>
-      <link>https://news.yahoo.co.jp/articles/5b4a353bc88614f26a56c8f41eddf647a5508b01</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b4a353bc88614f26a56c8f41eddf647a5508b01</guid>
-      <pubDate>Sat, 06 Jun 2026 21:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
