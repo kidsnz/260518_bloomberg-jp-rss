@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 06:13:38 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:05:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>OpenAI、非開示でIPOを申請－AI各社で上場機運広がる</title>
+      <link>https://news.yahoo.co.jp/articles/cef06a2e580466b535aae25aa06df22d2c8662f4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cef06a2e580466b535aae25aa06df22d2c8662f4</guid>
+      <pubDate>Tue, 09 Jun 2026 06:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ヘッジファンド、日銀利上げ後も円安継続を予想－弱気ポジション維持</title>
+      <link>https://news.yahoo.co.jp/articles/dbfd3de340cf60c9fae4275dbb39cb946618a43a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbfd3de340cf60c9fae4275dbb39cb946618a43a</guid>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>解約圧力受けたブルー・アウルのファンド、社債発行で5億ドル調達へ</title>
       <link>https://news.yahoo.co.jp/articles/338d37af78c6893c5f09b4273f3a965f62836dec</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2d27c2ff6fe8e1272974cae42343f27ae93c5e77</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d27c2ff6fe8e1272974cae42343f27ae93c5e77</guid>
       <pubDate>Mon, 08 Jun 2026 04:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアCEO、新型CPU「Vera」にSKハイニックス製DRAM採用</title>
-      <link>https://news.yahoo.co.jp/articles/2f6ade0f00925023e5ebf2ee00e27e251239176a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f6ade0f00925023e5ebf2ee00e27e251239176a</guid>
-      <pubDate>Mon, 08 Jun 2026 01:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>戦争開始から100日、米・イランの和平なお遠く－新たに攻撃の応酬</title>
-      <link>https://news.yahoo.co.jp/articles/d653b49bdf69b1f080a938f73af94fbc692b5672</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d653b49bdf69b1f080a938f73af94fbc692b5672</guid>
-      <pubDate>Mon, 08 Jun 2026 00:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
