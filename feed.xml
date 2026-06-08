@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 02:06:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 03:18:05 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>FRB、近く利上げ迫られる可能性－シタデル・セキュリティーズ</title>
@@ -66,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/d5350312505a9fb15df41ca830553d52f988366b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5350312505a9fb15df41ca830553d52f988366b</guid>
       <pubDate>Mon, 08 Jun 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株、債券とも下落－イラン情勢の緊迫受け不安定な動き</title>
+      <link>https://news.yahoo.co.jp/articles/65b5b2a675842699af001d3793aa2aff2e6b3548</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65b5b2a675842699af001d3793aa2aff2e6b3548</guid>
+      <pubDate>Mon, 08 Jun 2026 18:47:00 +0900</pubDate>
     </item>
     <item>
       <title>欧州株は下落、ドイツ債は総じて安い－中東緊張で原油が上昇</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c28b1b76247af25f2aad9c8d6eb6c6ba0557cd4e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c28b1b76247af25f2aad9c8d6eb6c6ba0557cd4e</guid>
       <pubDate>Sun, 07 Jun 2026 13:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国人民銀、金買い増し19カ月連続－価格軟調でも</title>
-      <link>https://news.yahoo.co.jp/articles/5007d992cbad6e88d4ac75b1d03c2a5f21a12389</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5007d992cbad6e88d4ac75b1d03c2a5f21a12389</guid>
-      <pubDate>Sun, 07 Jun 2026 12:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
