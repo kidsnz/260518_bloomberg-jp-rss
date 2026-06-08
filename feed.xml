@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 10:47:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:09:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AIエージェント、「極めて個人的な存在になる」－メタ幹部が展望</title>
+      <link>https://news.yahoo.co.jp/articles/d5e8d53a5b7233a95f3695b1cd1885a96563d49c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5e8d53a5b7233a95f3695b1cd1885a96563d49c</guid>
+      <pubDate>Mon, 08 Jun 2026 10:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イスラエル軍、イラン軍事施設を攻撃－空中発射式弾道ミサイル使用か</title>
+      <link>https://news.yahoo.co.jp/articles/b18637f39d598b567136a51aa2590414d3d3b38f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b18637f39d598b567136a51aa2590414d3d3b38f</guid>
+      <pubDate>Mon, 08 Jun 2026 10:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>大阪大学がオルタナ投資強化、数年で6割に急拡大へ－現預金はゼロに</title>
       <link>https://news.yahoo.co.jp/articles/f610164ecc80c51b90da82ebb8e93500f1a3fd2d</link>
@@ -14,7 +26,7 @@
       <pubDate>Mon, 08 Jun 2026 10:04:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株大幅安、利上げ懸念の米テック株売り波及－債券も下落</title>
+      <title>【日本市況】日経平均3000円安、米テック株急落が波及－長期金利上昇</title>
       <link>https://news.yahoo.co.jp/articles/55f52c92e9bb7c5c9c1f12c846017dba7383df84</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55f52c92e9bb7c5c9c1f12c846017dba7383df84</guid>
       <pubDate>Mon, 08 Jun 2026 09:32:00 +0900</pubDate>
@@ -86,7 +98,7 @@
       <pubDate>Mon, 08 Jun 2026 07:31:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油が急上昇、ブレント一時3%高－イランがイスラエルにミサイル発射</title>
+      <title>原油が急上昇、ブレント一時4.4%高－イスラエルとイランが攻撃応酬</title>
       <link>https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/411139f90f6fa95d4500abbd3910089cd86f8941</guid>
       <pubDate>Mon, 08 Jun 2026 07:10:00 +0900</pubDate>
@@ -104,7 +116,7 @@
       <pubDate>Mon, 08 Jun 2026 06:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>イラン、イスラエルにミサイル発射－トランプ氏は停戦維持へ働きかけ</title>
+      <title>イスラエル、イランの軍事目標を攻撃－トランプ氏が自制要請でも報復</title>
       <link>https://news.yahoo.co.jp/articles/2d27c2ff6fe8e1272974cae42343f27ae93c5e77</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d27c2ff6fe8e1272974cae42343f27ae93c5e77</guid>
       <pubDate>Mon, 08 Jun 2026 04:18:00 +0900</pubDate>
@@ -138,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/c28b1b76247af25f2aad9c8d6eb6c6ba0557cd4e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c28b1b76247af25f2aad9c8d6eb6c6ba0557cd4e</guid>
       <pubDate>Sun, 07 Jun 2026 13:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国人民銀、金買い増し19カ月連続－価格軟調でも</title>
+      <link>https://news.yahoo.co.jp/articles/5007d992cbad6e88d4ac75b1d03c2a5f21a12389</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5007d992cbad6e88d4ac75b1d03c2a5f21a12389</guid>
+      <pubDate>Sun, 07 Jun 2026 12:54:00 +0900</pubDate>
     </item>
     <item>
       <title>中国人民銀、金買い増し19カ月連続－価格軟調でも</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a772b87230804c39b791ee6dab0740750773d1b3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a772b87230804c39b791ee6dab0740750773d1b3</guid>
       <pubDate>Sat, 06 Jun 2026 00:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クリーブランド連銀総裁、利上げの時期近づいていると雇用統計が示唆</title>
-      <link>https://news.yahoo.co.jp/articles/6f3a9db1baaff72458842d7401e1337118c68ad5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f3a9db1baaff72458842d7401e1337118c68ad5</guid>
-      <pubDate>Sat, 06 Jun 2026 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ロンドンの高級ホテルで天井の一部剥落、ドイツ銀はイベント中断</title>
-      <link>https://news.yahoo.co.jp/articles/3b3c4599f7d271a88f0cf1cca922613bb402b21d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b3c4599f7d271a88f0cf1cca922613bb402b21d</guid>
-      <pubDate>Sat, 06 Jun 2026 00:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXのIPO、すでに応募超過－史上最大規模の上場に近づく</title>
-      <link>https://news.yahoo.co.jp/articles/ddf85c82a131ea6b57adc00c6d485270db97a0cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ddf85c82a131ea6b57adc00c6d485270db97a0cc</guid>
-      <pubDate>Sat, 06 Jun 2026 00:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
