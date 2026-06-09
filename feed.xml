@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 06:34:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:32:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アポロがT&amp;Dとオリックス傘下の生保買収検討、太陽生命も対象－FT紙</title>
+      <link>https://news.yahoo.co.jp/articles/3e9d06b32fe4417c7516ce31539187d2b7aa6d1b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3e9d06b32fe4417c7516ce31539187d2b7aa6d1b</guid>
+      <pubDate>Wed, 10 Jun 2026 06:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍、イランに対する新たな空爆開始－ヘリ撃墜への報復で</title>
+      <link>https://news.yahoo.co.jp/articles/6b01070148e9e0416b5769fad1573f76d52ef977</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b01070148e9e0416b5769fad1573f76d52ef977</guid>
+      <pubDate>Wed, 10 Jun 2026 06:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRB、大手銀行ストレステスト結果を6月24日公表</title>
+      <link>https://news.yahoo.co.jp/articles/582a2143b88fb327da02806443ab221eaa6960f8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/582a2143b88fb327da02806443ab221eaa6960f8</guid>
+      <pubDate>Wed, 10 Jun 2026 06:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相の「脱・補正」に身構える霞が関、100兆円超の国家予算に転機</title>
       <link>https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</guid>
       <pubDate>Wed, 10 Jun 2026 05:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株下落、一部で利益確定売り－債券は長短金利差が拡大</title>
+      <link>https://news.yahoo.co.jp/articles/5fbd2d3cbe98145b5e38cb69db0becdd26224e18</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fbd2d3cbe98145b5e38cb69db0becdd26224e18</guid>
+      <pubDate>Wed, 10 Jun 2026 02:20:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースXのIPO、注文が募集株数の数倍に－機関投資家から応募殺到</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3d65ea31a8c8a97bd423b67e912cc72b5a428a1a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d65ea31a8c8a97bd423b67e912cc72b5a428a1a</guid>
       <pubDate>Tue, 09 Jun 2026 01:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グーグル、AI半導体製造をインテルに一部委託－インフォメーション</title>
-      <link>https://news.yahoo.co.jp/articles/c492138ca08cca2186cf18ddaa62b072588314fb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c492138ca08cca2186cf18ddaa62b072588314fb</guid>
-      <pubDate>Tue, 09 Jun 2026 00:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国民の求職環境への認識が悪化、インフレ期待はほぼ横ばい－NY連銀</title>
-      <link>https://news.yahoo.co.jp/articles/fffc347d912a45ce9acf9e5f769cf30ca9d1837e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fffc347d912a45ce9acf9e5f769cf30ca9d1837e</guid>
-      <pubDate>Tue, 09 Jun 2026 00:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ氏のFOMC、「下がった利上げのハードル」に対峙－シュワブ</title>
-      <link>https://news.yahoo.co.jp/articles/1f7fc198277c22f01e00942f0e0c81b2ca3d5f6f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f7fc198277c22f01e00942f0e0c81b2ca3d5f6f</guid>
-      <pubDate>Mon, 08 Jun 2026 23:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】AI楽観論で半導体株に買い、中東緊張緩和で原油上げ縮小</title>
-      <link>https://news.yahoo.co.jp/articles/2575ebf5edbde07ffbb577e2f447a8df4a617213</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2575ebf5edbde07ffbb577e2f447a8df4a617213</guid>
-      <pubDate>Tue, 09 Jun 2026 23:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
