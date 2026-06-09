@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 01:54:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:41:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、イランの攻撃に対応する必要あると表明－米軍ヘリ撃墜で</title>
+      <link>https://news.yahoo.co.jp/articles/bc43db62ed0714ee1aa715dcd2ae349c8d28684d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc43db62ed0714ee1aa715dcd2ae349c8d28684d</guid>
+      <pubDate>Wed, 10 Jun 2026 01:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>エアバスCEO、来年の生産目標未達の可能性示唆－エンジン供給に不安</title>
       <link>https://news.yahoo.co.jp/articles/c0690b673df46d7f32682998b48777ce45b2b1ff</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4b1d6970eb83f63e9f081735eca86d94a01df594</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b1d6970eb83f63e9f081735eca86d94a01df594</guid>
       <pubDate>Mon, 08 Jun 2026 21:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>IMF専務理事、世界はショックに耐えられる基盤作り必要と主張</title>
-      <link>https://news.yahoo.co.jp/articles/cff5a6cf34a1261b27797161756eee366d8dc77e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cff5a6cf34a1261b27797161756eee366d8dc77e</guid>
-      <pubDate>Mon, 08 Jun 2026 20:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
