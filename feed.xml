@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:07:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:53:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>自動運転のティアフォー、IPOに向け需要調査－7月にも東証上場目指す</title>
+      <link>https://news.yahoo.co.jp/articles/f9dcefbc2b7483b5275d8aae3e72c392fb845176</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9dcefbc2b7483b5275d8aae3e72c392fb845176</guid>
+      <pubDate>Tue, 09 Jun 2026 12:02:00 +0900</pubDate>
+    </item>
     <item>
       <title>生きた肉を食べるハエ幼虫、米で新たに3例確認－州境越え拡大に懸念</title>
       <link>https://news.yahoo.co.jp/articles/722a68633eb5494e7c74f58063855eae4884face</link>
@@ -14,10 +20,22 @@
       <pubDate>Tue, 09 Jun 2026 11:39:00 +0900</pubDate>
     </item>
     <item>
+      <title>スペースXのマスク氏、AIデータセンター衛星の詳細披露－IPOに先立ち</title>
+      <link>https://news.yahoo.co.jp/articles/748b9ac79a420f809e5ffdc4a2dfd794735b6706</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/748b9ac79a420f809e5ffdc4a2dfd794735b6706</guid>
+      <pubDate>Tue, 09 Jun 2026 11:32:00 +0900</pubDate>
+    </item>
+    <item>
       <title>フジクラ社長、業績計画に「下振れない」と強調－AI向け製品で値上げも</title>
       <link>https://news.yahoo.co.jp/articles/76fb58e345809ad8fa3fe5593851a700c53ecf65</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76fb58e345809ad8fa3fe5593851a700c53ecf65</guid>
       <pubDate>Tue, 09 Jun 2026 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>LNG価格は3年ぶり高値圏へ、アジア需要増で－モルガンS</title>
+      <link>https://news.yahoo.co.jp/articles/209ccab8b3ce5fa0f568ecce39a63468ad9e3957</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/209ccab8b3ce5fa0f568ecce39a63468ad9e3957</guid>
+      <pubDate>Tue, 09 Jun 2026 10:40:00 +0900</pubDate>
     </item>
     <item>
       <title>大和証G、運用不動産の賃料引き上げ加速へ－金利高で専門部隊10人増強</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f610164ecc80c51b90da82ebb8e93500f1a3fd2d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f610164ecc80c51b90da82ebb8e93500f1a3fd2d</guid>
       <pubDate>Mon, 08 Jun 2026 10:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株大幅安、米利上げ観測と中東警戒－金利は長期中心急伸</title>
-      <link>https://news.yahoo.co.jp/articles/55f52c92e9bb7c5c9c1f12c846017dba7383df84</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55f52c92e9bb7c5c9c1f12c846017dba7383df84</guid>
-      <pubDate>Mon, 08 Jun 2026 09:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>太平洋沿岸の広い地域に津波注意報、フィリピン付近で地震</title>
-      <link>https://news.yahoo.co.jp/articles/9da51530caebc8daaabb3f95ae10f366c8fd639d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9da51530caebc8daaabb3f95ae10f366c8fd639d</guid>
-      <pubDate>Mon, 08 Jun 2026 09:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAIがスーパーアプリをIPO前に導入、ChatGPTとCodexを統合－報道</title>
-      <link>https://news.yahoo.co.jp/articles/75236a9803d59827eea00ea31a00fed8bbfd11f1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75236a9803d59827eea00ea31a00fed8bbfd11f1</guid>
-      <pubDate>Mon, 08 Jun 2026 09:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
