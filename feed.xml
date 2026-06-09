@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 22:28:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 23:23:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米貿易赤字が縮小、原油輸出急増でデータセンター関連輸入を相殺</title>
+      <link>https://news.yahoo.co.jp/articles/14a1162abfdf66ef533bc5658fcc20f68c010af5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14a1162abfdf66ef533bc5658fcc20f68c010af5</guid>
+      <pubDate>Tue, 09 Jun 2026 21:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債市場、ウォーシュ氏のFRBに利上げ圧力－短期金利が高止まり</title>
+      <link>https://news.yahoo.co.jp/articles/2727416ab63f07e1fe60233359feee5b79a25669</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2727416ab63f07e1fe60233359feee5b79a25669</guid>
+      <pubDate>Tue, 09 Jun 2026 21:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>台湾、中国向けAI半導体輸出規制の強化検討－米国との足並み合わせ</title>
       <link>https://news.yahoo.co.jp/articles/0c6d9c5c91ab64fc707e5cc71e6f63c6b653c8eb</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7f11a1fd6d6d611885df612c362decd5c199be00</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f11a1fd6d6d611885df612c362decd5c199be00</guid>
       <pubDate>Mon, 08 Jun 2026 18:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI投資熱が韓国国債市場の重しに、景気過熱で利回り上昇－政府も警戒</title>
-      <link>https://news.yahoo.co.jp/articles/23f346fa6a537e531fe151caab5d71ee2a25bb9e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/23f346fa6a537e531fe151caab5d71ee2a25bb9e</guid>
-      <pubDate>Mon, 08 Jun 2026 17:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>5月の証券口座の乗っ取り被害額26億円、2カ月連続で減少ー金融庁</title>
-      <link>https://news.yahoo.co.jp/articles/49cb213f2bfa0c322b618e22689dd7e7bf3447c6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49cb213f2bfa0c322b618e22689dd7e7bf3447c6</guid>
-      <pubDate>Mon, 08 Jun 2026 16:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
