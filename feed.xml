@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 00:33:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 01:54:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>エアバスCEO、来年の生産目標未達の可能性示唆－エンジン供給に不安</title>
+      <link>https://news.yahoo.co.jp/articles/c0690b673df46d7f32682998b48777ce45b2b1ff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c0690b673df46d7f32682998b48777ce45b2b1ff</guid>
+      <pubDate>Wed, 10 Jun 2026 00:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株になお上昇の余地、好調な企業業績が追い風－JPモルガン</title>
+      <link>https://news.yahoo.co.jp/articles/58ba97ff6169f36a1fd138671e38fc35a37412eb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58ba97ff6169f36a1fd138671e38fc35a37412eb</guid>
+      <pubDate>Tue, 09 Jun 2026 23:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株下げに転じる、半導体株に一転して売り－原油安で金利は低下</title>
+      <link>https://news.yahoo.co.jp/articles/ec9b08ab2f91af4b9636bf28638fd1541a2bedd6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec9b08ab2f91af4b9636bf28638fd1541a2bedd6</guid>
+      <pubDate>Wed, 10 Jun 2026 23:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>S&amp;P500種は上昇して開始、半導体株の買い戻し継続－原油安で金利低下</title>
       <link>https://news.yahoo.co.jp/articles/448a520adae69a66c0d996730ce28889b2a51fb4</link>
@@ -74,7 +92,7 @@
       <pubDate>Tue, 09 Jun 2026 16:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油下落、ブレント93ドル台－イスラエルとイランが攻撃停止を表明</title>
+      <title>原油下落、WTIは88ドル近辺－イスラエルとイランが攻撃抑制を表明</title>
       <link>https://news.yahoo.co.jp/articles/c54b7dcc2f0bb433b09aac6e69be19689625aeb8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c54b7dcc2f0bb433b09aac6e69be19689625aeb8</guid>
       <pubDate>Tue, 09 Jun 2026 14:30:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/cff5a6cf34a1261b27797161756eee366d8dc77e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cff5a6cf34a1261b27797161756eee366d8dc77e</guid>
       <pubDate>Mon, 08 Jun 2026 20:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、対イスラエル軍事作戦の終了を宣言－ファルス</title>
-      <link>https://news.yahoo.co.jp/articles/76472b0f066acd543523a12ca5350d2a8c1d7d71</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76472b0f066acd543523a12ca5350d2a8c1d7d71</guid>
-      <pubDate>Mon, 08 Jun 2026 20:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、拙速な利上げなら欧州経済に打撃－一部エコノミストが懸念</title>
-      <link>https://news.yahoo.co.jp/articles/d5350312505a9fb15df41ca830553d52f988366b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5350312505a9fb15df41ca830553d52f988366b</guid>
-      <pubDate>Mon, 08 Jun 2026 19:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株、債券とも下落－イラン情勢の緊迫受け不安定な動き</title>
-      <link>https://news.yahoo.co.jp/articles/65b5b2a675842699af001d3793aa2aff2e6b3548</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65b5b2a675842699af001d3793aa2aff2e6b3548</guid>
-      <pubDate>Mon, 08 Jun 2026 18:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
