@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 09:38:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:37:56 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>片山財務相、 断固たる措置を取る用意があることに変わりない－為替</title>
+      <link>https://news.yahoo.co.jp/articles/bf9b2fea77f63716e26b7936ce4494c845cdaef0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf9b2fea77f63716e26b7936ce4494c845cdaef0</guid>
+      <pubDate>Tue, 09 Jun 2026 09:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】株反発、AI関連押し目買いと中東緊張緩和－債券先物下落</title>
+      <link>https://news.yahoo.co.jp/articles/bb0103259d0ccfd6205afd5bfa11aa7a0820741c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb0103259d0ccfd6205afd5bfa11aa7a0820741c</guid>
+      <pubDate>Tue, 09 Jun 2026 09:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、半導体株買い戻しや中東緊張緩和で株反発へ－円は小動き</title>
       <link>https://news.yahoo.co.jp/articles/1049d3a6ca05a9aba8db74946652bd0787a0d2e3</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4d1b1ca57e274c447fd70168866379c2de3ab3d6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d1b1ca57e274c447fd70168866379c2de3ab3d6</guid>
       <pubDate>Mon, 08 Jun 2026 08:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は大幅下落へ、米ハイテク株急落を嫌気－中東緊迫化も重しに</title>
-      <link>https://news.yahoo.co.jp/articles/5e232ea54901fbe5624816b93f0890615b63bf59</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e232ea54901fbe5624816b93f0890615b63bf59</guid>
-      <pubDate>Mon, 08 Jun 2026 08:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場はトリプル安へ－米雇用堅調で利上げに警戒、中東紛争も重し</title>
-      <link>https://news.yahoo.co.jp/articles/0f82c65d07e4fa9463048e62a76def7ca857d939</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f82c65d07e4fa9463048e62a76def7ca857d939</guid>
-      <pubDate>Mon, 08 Jun 2026 08:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
