@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 04:41:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 05:41:10 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相の「脱・補正」に身構える霞が関、100兆円超の国家予算に転機</title>
+      <link>https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</guid>
+      <pubDate>Wed, 10 Jun 2026 05:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXのIPO、注文が募集株数の数倍に－機関投資家から応募殺到</title>
+      <link>https://news.yahoo.co.jp/articles/172024c5c7e33f1debecfb3aa6dfb4b18235090f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/172024c5c7e33f1debecfb3aa6dfb4b18235090f</guid>
+      <pubDate>Wed, 10 Jun 2026 01:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、米軍ヘリ撃墜でイランに報復示唆－和平交渉に新たな影</title>
       <link>https://news.yahoo.co.jp/articles/bc43db62ed0714ee1aa715dcd2ae349c8d28684d</link>
@@ -96,6 +108,12 @@
       <link>https://news.yahoo.co.jp/articles/e728c2f8c043bc0e753002d3f939b53ba59011bd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e728c2f8c043bc0e753002d3f939b53ba59011bd</guid>
       <pubDate>Tue, 09 Jun 2026 16:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドネシア中銀が緊急利上げ、通貨と株は反発－国債売りは加速</title>
+      <link>https://news.yahoo.co.jp/articles/c7091257be6ee974ea16eb3502d15a073f960f3b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7091257be6ee974ea16eb3502d15a073f960f3b</guid>
+      <pubDate>Tue, 09 Jun 2026 14:42:00 +0900</pubDate>
     </item>
     <item>
       <title>原油下落、WTIは88ドル近辺－イスラエルとイランが攻撃抑制を表明</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2e624e14cbed9c50c428464e1f584e2220b2f471</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e624e14cbed9c50c428464e1f584e2220b2f471</guid>
       <pubDate>Mon, 08 Jun 2026 23:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ハイテク株から欧州株へのシフトは時期尚早－ヴェイトメーン氏</title>
-      <link>https://news.yahoo.co.jp/articles/614317ad00eb6df56791056293ce50bfc92793fc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/614317ad00eb6df56791056293ce50bfc92793fc</guid>
-      <pubDate>Mon, 08 Jun 2026 22:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パナソニックHD、AIインフラに5000億円投資－28年度売上高1.4兆円</title>
-      <link>https://news.yahoo.co.jp/articles/df7ac9d51ab5e8419f6b4fd28b2adc4e9489186a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df7ac9d51ab5e8419f6b4fd28b2adc4e9489186a</guid>
-      <pubDate>Mon, 08 Jun 2026 22:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジット大手幹部、機関投資家の信頼維持を強調</title>
-      <link>https://news.yahoo.co.jp/articles/4b1d6970eb83f63e9f081735eca86d94a01df594</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b1d6970eb83f63e9f081735eca86d94a01df594</guid>
-      <pubDate>Mon, 08 Jun 2026 21:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
