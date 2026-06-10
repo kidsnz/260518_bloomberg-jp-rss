@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:49:13 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 05:53:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>英国で過激な反移民抗議活動－マスク氏が分断あおる投稿繰り返す</title>
+      <link>https://news.yahoo.co.jp/articles/9d239cfd9d6a0f52f1ad86572649feb288550483</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d239cfd9d6a0f52f1ad86572649feb288550483</guid>
+      <pubDate>Thu, 11 Jun 2026 01:37:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、イランへの再攻撃を警告－停戦維持が一段と不透明に</title>
       <link>https://news.yahoo.co.jp/articles/7a4e799a0fdbfb85a379437cc5580dc55d72cac4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7a4e799a0fdbfb85a379437cc5580dc55d72cac4</guid>
       <pubDate>Thu, 11 Jun 2026 01:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIで経済不均衡が拡大、低格付け債などで損失増加の可能性－ピムコ</title>
+      <link>https://news.yahoo.co.jp/articles/66c03fdc8e708c323f3019d4cbc9912ce57d9770</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66c03fdc8e708c323f3019d4cbc9912ce57d9770</guid>
+      <pubDate>Thu, 11 Jun 2026 00:04:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株は下落して開始、中東緊張を意識－穏やかなCPIで一定の安心感</title>
@@ -260,7 +272,7 @@
       <pubDate>Wed, 10 Jun 2026 07:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油相場が上げ幅縮小、米国が新たな対イラン攻撃の完了を発表</title>
+      <title>原油上昇、トランプ氏がイランは交渉に「時間をかけ過ぎ」と批判</title>
       <link>https://news.yahoo.co.jp/articles/88db8522bddccbc8ed2d18e45e4e0b10b7e77007</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88db8522bddccbc8ed2d18e45e4e0b10b7e77007</guid>
       <pubDate>Wed, 10 Jun 2026 07:25:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6b01070148e9e0416b5769fad1573f76d52ef977</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b01070148e9e0416b5769fad1573f76d52ef977</guid>
       <pubDate>Wed, 10 Jun 2026 06:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB、大手銀行ストレステスト結果を6月24日公表</title>
-      <link>https://news.yahoo.co.jp/articles/582a2143b88fb327da02806443ab221eaa6960f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/582a2143b88fb327da02806443ab221eaa6960f8</guid>
-      <pubDate>Wed, 10 Jun 2026 06:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相の「脱・補正」に身構える霞が関、100兆円超の国家予算に転機</title>
-      <link>https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</guid>
-      <pubDate>Wed, 10 Jun 2026 05:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
