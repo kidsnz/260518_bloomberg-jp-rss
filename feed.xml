@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:59:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:18:16 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】株反落、米ハイテク株安でAI関連に売り－長期金利が上昇</title>
+      <link>https://news.yahoo.co.jp/articles/cbb3dbbaf4f2d7abca61157c473219929d9a5528</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cbb3dbbaf4f2d7abca61157c473219929d9a5528</guid>
+      <pubDate>Wed, 10 Jun 2026 09:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>5月の日銀企業物価は前年比6.3%上昇、中東緊迫化続き伸び拡大</title>
+      <link>https://news.yahoo.co.jp/articles/e54845becceb9af360b784f32697fc3db943ab2a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e54845becceb9af360b784f32697fc3db943ab2a</guid>
+      <pubDate>Wed, 10 Jun 2026 08:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米、イラン南部ジャスク地区への攻撃再開－国営放送IRIB</title>
+      <link>https://news.yahoo.co.jp/articles/9652d4a19df449d42111128471949ba3d1d5cde8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9652d4a19df449d42111128471949ba3d1d5cde8</guid>
+      <pubDate>Wed, 10 Jun 2026 08:31:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、大手ハイテク株需給懸念やイラン情勢で株安へ－円も軟調</title>
       <link>https://news.yahoo.co.jp/articles/ff363e9511b5832b4f1e341e6d19cbf77280f000</link>
@@ -68,7 +86,7 @@
       <pubDate>Wed, 10 Jun 2026 06:29:00 +0900</pubDate>
     </item>
     <item>
-      <title>米軍、イランに対する新たな攻撃開始－ヘリ撃墜への対抗措置</title>
+      <title>米軍がイランに攻撃開始、ヘリ撃墜への対抗措置－第2波の攻撃も</title>
       <link>https://news.yahoo.co.jp/articles/6b01070148e9e0416b5769fad1573f76d52ef977</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b01070148e9e0416b5769fad1573f76d52ef977</guid>
       <pubDate>Wed, 10 Jun 2026 06:25:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bf9b2fea77f63716e26b7936ce4494c845cdaef0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf9b2fea77f63716e26b7936ce4494c845cdaef0</guid>
       <pubDate>Tue, 09 Jun 2026 09:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップルが待望のSiri刷新、それでもPC・スマホ市場縮小止まらず</title>
-      <link>https://news.yahoo.co.jp/articles/fc88d02c966e17840d84ed380f6617671a4c7871</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc88d02c966e17840d84ed380f6617671a4c7871</guid>
-      <pubDate>Tue, 09 Jun 2026 09:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株反発、AI関連に見直し買い－日銀減額停止報道で債券高</title>
-      <link>https://news.yahoo.co.jp/articles/bb0103259d0ccfd6205afd5bfa11aa7a0820741c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb0103259d0ccfd6205afd5bfa11aa7a0820741c</guid>
-      <pubDate>Tue, 09 Jun 2026 09:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、半導体株買い戻しや中東緊張緩和で株反発へ－円は小動き</title>
-      <link>https://news.yahoo.co.jp/articles/1049d3a6ca05a9aba8db74946652bd0787a0d2e3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1049d3a6ca05a9aba8db74946652bd0787a0d2e3</guid>
-      <pubDate>Tue, 09 Jun 2026 08:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
