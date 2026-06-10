@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 14:32:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 16:29:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>「ミュトス」のアクセス権、なぜ拡大－アンソロピックのAI戦略とは</title>
+      <link>https://news.yahoo.co.jp/articles/6b34fc0ba29f5d3ccd63c99b2ecfeaf36d6475dc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b34fc0ba29f5d3ccd63c99b2ecfeaf36d6475dc</guid>
+      <pubDate>Wed, 10 Jun 2026 15:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>TSMC、5月は30%増収－AI半導体需要が引き続き旺盛</title>
+      <link>https://news.yahoo.co.jp/articles/e37254d0ec043008460d7daa7c68b74ae1c4a493</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e37254d0ec043008460d7daa7c68b74ae1c4a493</guid>
+      <pubDate>Wed, 10 Jun 2026 14:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>国内ETFに米インベスコが参入、市場規模130兆円に拡大で競争激化</title>
+      <link>https://news.yahoo.co.jp/articles/1e626c05a1859d7a77d5dc953e0b2d01e8532198</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e626c05a1859d7a77d5dc953e0b2d01e8532198</guid>
+      <pubDate>Wed, 10 Jun 2026 14:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日米、北朝鮮の非核化に引き続き取り組む姿勢確認－共同声明</title>
+      <link>https://news.yahoo.co.jp/articles/8e3269bd18b6b86a78d3f60994370958287fd1ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e3269bd18b6b86a78d3f60994370958287fd1ab</guid>
+      <pubDate>Wed, 10 Jun 2026 14:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相、LNG安定供給でマレーシアと協力確認－JERAに年200万トン</title>
       <link>https://news.yahoo.co.jp/articles/68b2114cf88f1fa5719c5448dba60546e295a0af</link>
@@ -14,7 +38,7 @@
       <pubDate>Wed, 10 Jun 2026 14:09:00 +0900</pubDate>
     </item>
     <item>
-      <title>日本製鉄がUSスチール買収後初の社債、信用力評価の試金石－900億円</title>
+      <title>日本製鉄がUSスチール買収後初の社債、900億円－信用力試金石に</title>
       <link>https://news.yahoo.co.jp/articles/ba827422a52c0425ef1f092ad066da3f3d21ae18</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba827422a52c0425ef1f092ad066da3f3d21ae18</guid>
       <pubDate>Wed, 10 Jun 2026 13:51:00 +0900</pubDate>
@@ -68,6 +92,12 @@
       <pubDate>Wed, 10 Jun 2026 10:44:00 +0900</pubDate>
     </item>
     <item>
+      <title>訪朝の中国国家主席、「非核化」に触れず－北朝鮮は対中関係を最重視</title>
+      <link>https://news.yahoo.co.jp/articles/121d65874bf1c3cd5b6a61806ab96fc0ab92469f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/121d65874bf1c3cd5b6a61806ab96fc0ab92469f</guid>
+      <pubDate>Wed, 10 Jun 2026 10:43:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ソフトバンクG、OpenAI株担保の60億ドル融資計画の協議停滞－関係者</title>
       <link>https://news.yahoo.co.jp/articles/8e7fee55c3f0c3fe2ef66a310fd17e89cf0a7ef3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e7fee55c3f0c3fe2ef66a310fd17e89cf0a7ef3</guid>
@@ -92,7 +122,7 @@
       <pubDate>Wed, 10 Jun 2026 10:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株下げ拡大、米株安やスペースX上場重し－長期金利上昇</title>
+      <title>【日本市況】株大幅反落、米株安やスペースX上場重し－長期金利上昇</title>
       <link>https://news.yahoo.co.jp/articles/cbb3dbbaf4f2d7abca61157c473219929d9a5528</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cbb3dbbaf4f2d7abca61157c473219929d9a5528</guid>
       <pubDate>Wed, 10 Jun 2026 09:19:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4fbeee69e704f22a28d508f6c143ee65d8f5f31d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4fbeee69e704f22a28d508f6c143ee65d8f5f31d</guid>
       <pubDate>Tue, 09 Jun 2026 17:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、和平合意へ前進と強調-イスラエル・イランは攻撃停止表明</title>
-      <link>https://news.yahoo.co.jp/articles/54cec3addae2fa18d168c67746dbf253feef04b8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/54cec3addae2fa18d168c67746dbf253feef04b8</guid>
-      <pubDate>Tue, 09 Jun 2026 16:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三井住友信託銀、対投資家コンサル人員1.5倍に－アクティビスト対応で</title>
-      <link>https://news.yahoo.co.jp/articles/e728c2f8c043bc0e753002d3f939b53ba59011bd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e728c2f8c043bc0e753002d3f939b53ba59011bd</guid>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドネシア中銀が緊急利上げ、通貨と株は反発－国債売りは加速</title>
-      <link>https://news.yahoo.co.jp/articles/c7091257be6ee974ea16eb3502d15a073f960f3b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7091257be6ee974ea16eb3502d15a073f960f3b</guid>
-      <pubDate>Tue, 09 Jun 2026 14:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油反落、WTIは88ドル台で終了－戦闘激化懸念で下げ渋る場面も</title>
-      <link>https://news.yahoo.co.jp/articles/e7c5048a6bd439ee4f615f414070888895f6d5a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7c5048a6bd439ee4f615f414070888895f6d5a8</guid>
-      <pubDate>Wed, 10 Jun 2026 14:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油下落、WTIは88ドル近辺－イスラエルとイランが攻撃抑制を表明</title>
-      <link>https://news.yahoo.co.jp/articles/c54b7dcc2f0bb433b09aac6e69be19689625aeb8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c54b7dcc2f0bb433b09aac6e69be19689625aeb8</guid>
-      <pubDate>Tue, 09 Jun 2026 14:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
