@@ -5,8 +5,38 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 10:18:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:20:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アシックス、「オニツカタイガー」事業を分社化－「ポジティブ」と識者</title>
+      <link>https://news.yahoo.co.jp/articles/8584f985a4d8e5a622cb1739c683fcb4e40b655a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8584f985a4d8e5a622cb1739c683fcb4e40b655a</guid>
+      <pubDate>Wed, 10 Jun 2026 10:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG、OpenAI株担保の60億ドル融資計画の協議停滞－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/8e7fee55c3f0c3fe2ef66a310fd17e89cf0a7ef3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e7fee55c3f0c3fe2ef66a310fd17e89cf0a7ef3</guid>
+      <pubDate>Wed, 10 Jun 2026 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国中銀と金融監督院、外為取引扱う主要行の検査開始－ウォン安受け</title>
+      <link>https://news.yahoo.co.jp/articles/5432782b6d447511568d99ead34bd4e505d0c338</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5432782b6d447511568d99ead34bd4e505d0c338</guid>
+      <pubDate>Wed, 10 Jun 2026 10:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>任天堂株が大幅安、キラータイトル欠く新作発表に期待外れとの見方</title>
+      <link>https://news.yahoo.co.jp/articles/e2c86057079c83d511497ff663ae0163024588ae</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2c86057079c83d511497ff663ae0163024588ae</guid>
+      <pubDate>Wed, 10 Jun 2026 10:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍、イランによるヘリ撃墜への対抗措置を完了</title>
+      <link>https://news.yahoo.co.jp/articles/b9ec869b35c219cdf004ae33a7a8d65015555daa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9ec869b35c219cdf004ae33a7a8d65015555daa</guid>
+      <pubDate>Wed, 10 Jun 2026 10:07:00 +0900</pubDate>
+    </item>
     <item>
       <title>【日本市況】株反落、米ハイテク株安でAI関連に売り－長期金利が上昇</title>
       <link>https://news.yahoo.co.jp/articles/cbb3dbbaf4f2d7abca61157c473219929d9a5528</link>
@@ -14,7 +44,7 @@
       <pubDate>Wed, 10 Jun 2026 09:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>5月の日銀企業物価は前年比6.3%上昇、中東緊迫化続き伸び拡大</title>
+      <title>日銀企業物価が3年ぶり高い伸び、消費者段階へ波及不可避-利上げ補強</title>
       <link>https://news.yahoo.co.jp/articles/e54845becceb9af360b784f32697fc3db943ab2a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e54845becceb9af360b784f32697fc3db943ab2a</guid>
       <pubDate>Wed, 10 Jun 2026 08:58:00 +0900</pubDate>
@@ -56,7 +86,7 @@
       <pubDate>Wed, 10 Jun 2026 07:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油相場が反発、米軍の新たな対イラン攻撃で停戦に暗雲</title>
+      <title>原油相場が反発、ブレント93ドル近辺－米軍が新たにイランを攻撃</title>
       <link>https://news.yahoo.co.jp/articles/88db8522bddccbc8ed2d18e45e4e0b10b7e77007</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88db8522bddccbc8ed2d18e45e4e0b10b7e77007</guid>
       <pubDate>Wed, 10 Jun 2026 07:25:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/722a68633eb5494e7c74f58063855eae4884face</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/722a68633eb5494e7c74f58063855eae4884face</guid>
       <pubDate>Tue, 09 Jun 2026 11:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXのマスク氏、AIデータセンター衛星の詳細披露－IPOに先立ち</title>
-      <link>https://news.yahoo.co.jp/articles/748b9ac79a420f809e5ffdc4a2dfd794735b6706</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/748b9ac79a420f809e5ffdc4a2dfd794735b6706</guid>
-      <pubDate>Tue, 09 Jun 2026 11:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フジクラ社長、業績計画に「下振れない」と強調－AI向け製品で値上げも</title>
-      <link>https://news.yahoo.co.jp/articles/76fb58e345809ad8fa3fe5593851a700c53ecf65</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76fb58e345809ad8fa3fe5593851a700c53ecf65</guid>
-      <pubDate>Tue, 09 Jun 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>LNG価格は3年ぶり高値圏へ、アジア需要増で－モルガンS</title>
-      <link>https://news.yahoo.co.jp/articles/209ccab8b3ce5fa0f568ecce39a63468ad9e3957</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/209ccab8b3ce5fa0f568ecce39a63468ad9e3957</guid>
-      <pubDate>Tue, 09 Jun 2026 10:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>大和証G、運用不動産の賃料引き上げ加速へ－金利高で専門部隊10人増強</title>
-      <link>https://news.yahoo.co.jp/articles/d3d261622d29d5370af385efacff1bc211640490</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3d261622d29d5370af385efacff1bc211640490</guid>
-      <pubDate>Tue, 09 Jun 2026 10:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相が再び「断固たる措置」に言及、1ドル160円水準でけん制</title>
-      <link>https://news.yahoo.co.jp/articles/bf9b2fea77f63716e26b7936ce4494c845cdaef0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf9b2fea77f63716e26b7936ce4494c845cdaef0</guid>
-      <pubDate>Tue, 09 Jun 2026 09:36:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
