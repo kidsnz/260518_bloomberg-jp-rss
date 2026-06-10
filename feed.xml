@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 23:33:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 01:17:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国株は下落して開始、中東緊張を意識－穏やかなCPIで一定の安心感</title>
+      <link>https://news.yahoo.co.jp/articles/a2f296b86e509aea9da1b13f8cabd80f38a6d6f1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2f296b86e509aea9da1b13f8cabd80f38a6d6f1</guid>
+      <pubDate>Wed, 10 Jun 2026 23:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>米CPI、インフレ加速は継続－前月比のコア指数は予想下回る</title>
       <link>https://news.yahoo.co.jp/articles/f54e6ea90e7bb7d61bd978a9459984bb8326cd56</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/172024c5c7e33f1debecfb3aa6dfb4b18235090f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/172024c5c7e33f1debecfb3aa6dfb4b18235090f</guid>
       <pubDate>Wed, 10 Jun 2026 01:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、米軍ヘリ撃墜でイランに報復示唆－和平交渉に新たな影</title>
-      <link>https://news.yahoo.co.jp/articles/bc43db62ed0714ee1aa715dcd2ae349c8d28684d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc43db62ed0714ee1aa715dcd2ae349c8d28684d</guid>
-      <pubDate>Wed, 10 Jun 2026 01:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
