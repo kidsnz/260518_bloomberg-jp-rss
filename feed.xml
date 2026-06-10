@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 03:53:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:49:13 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏、イランへの再攻撃を警告－停戦維持が一段と不透明に</title>
@@ -23,6 +23,12 @@
       <title>米CPI、インフレ加速は継続－前月比のコア指数は予想下回る</title>
       <link>https://news.yahoo.co.jp/articles/f54e6ea90e7bb7d61bd978a9459984bb8326cd56</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f54e6ea90e7bb7d61bd978a9459984bb8326cd56</guid>
+      <pubDate>Wed, 10 Jun 2026 21:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円が対ドルで下げ幅縮小、160円台前半－米CPI発表後</title>
+      <link>https://news.yahoo.co.jp/articles/1b63a92b1846af846f6e44a3349fd20ec873a14d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b63a92b1846af846f6e44a3349fd20ec873a14d</guid>
       <pubDate>Wed, 10 Jun 2026 21:38:00 +0900</pubDate>
     </item>
     <item>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b75601ca2e9fe15ec80258bdd4c7d6653d296b7</guid>
       <pubDate>Wed, 10 Jun 2026 05:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株下落、一部で利益確定売り－債券は長短金利差が拡大</title>
-      <link>https://news.yahoo.co.jp/articles/5fbd2d3cbe98145b5e38cb69db0becdd26224e18</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fbd2d3cbe98145b5e38cb69db0becdd26224e18</guid>
-      <pubDate>Wed, 10 Jun 2026 02:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
