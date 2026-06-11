@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:35:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:31:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、イラン停戦期待で株と債券上昇へ－円も一時159円台に反発</title>
+      <link>https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</guid>
+      <pubDate>Fri, 12 Jun 2026 08:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで160円付近、米・イラン和平合意期待－債券は上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/882e89da70ca0401a42e388a9bd864f320581eb2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/882e89da70ca0401a42e388a9bd864f320581eb2</guid>
+      <pubDate>Fri, 12 Jun 2026 07:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油下げ拡大、WTI3%近く下落－イランとの合意近いとトランプ氏主張</title>
+      <link>https://news.yahoo.co.jp/articles/0638125f64aca194eb4fccdbc7ff788fcd438bf4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0638125f64aca194eb4fccdbc7ff788fcd438bf4</guid>
+      <pubDate>Fri, 12 Jun 2026 07:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>アドビCFOが退任へ、CEOに続き経営陣の交代発表相次ぐ－時間外で株安</title>
       <link>https://news.yahoo.co.jp/articles/f2f5b63c36dcccdbfce98f58e4d8dd5da166d96c</link>
@@ -48,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/45fba3a72860196d95d8e87053927a97e40a2d95</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45fba3a72860196d95d8e87053927a97e40a2d95</guid>
       <pubDate>Fri, 12 Jun 2026 01:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トルコ中銀が金利据え置き、インフレ加速も景気減速で適切と認識</title>
+      <link>https://news.yahoo.co.jp/articles/1f2a01899eae1c64718ff1c1113078e548e564e6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f2a01899eae1c64718ff1c1113078e548e564e6</guid>
+      <pubDate>Fri, 12 Jun 2026 01:06:00 +0900</pubDate>
     </item>
     <item>
       <title>NTTグローバルデータセンター、米事業資金10億ドル調達を検討－関係者</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</guid>
       <pubDate>Thu, 11 Jun 2026 07:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍がイランへの新たな攻撃－トランプ氏は協議停滞にいら立ち</title>
-      <link>https://news.yahoo.co.jp/articles/5adece9cd6c9f769222dae4651ffbdcf53de4899</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5adece9cd6c9f769222dae4651ffbdcf53de4899</guid>
-      <pubDate>Thu, 11 Jun 2026 06:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックCEO、AI利用状況把握せず－イラン小学校への攻撃巡り</title>
-      <link>https://news.yahoo.co.jp/articles/fae084f5628b039f3b9a908c71649c4ac505e598</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fae084f5628b039f3b9a908c71649c4ac505e598</guid>
-      <pubDate>Thu, 11 Jun 2026 06:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXのIPO、日本の家計資産2300兆円狙う－久々の大型案件に</title>
-      <link>https://news.yahoo.co.jp/articles/97d5540e82df2c4bc1da9c28de7d3ea102504d09</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97d5540e82df2c4bc1da9c28de7d3ea102504d09</guid>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムライブルーに日本株投資家も熱視線、W杯関連銘柄への追い風期待</title>
-      <link>https://news.yahoo.co.jp/articles/a83fe58b9e4e80347bff7f39719ce6160eb72d91</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a83fe58b9e4e80347bff7f39719ce6160eb72d91</guid>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
