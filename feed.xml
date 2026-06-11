@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:51:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:07:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>内田日銀副総裁に注目、タカ派寄りとの見方も-決定会合後の会見に臨む</title>
+      <link>https://news.yahoo.co.jp/articles/810961f0197c0350ab69261dac46c926e9ae0420</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/810961f0197c0350ab69261dac46c926e9ae0420</guid>
+      <pubDate>Thu, 11 Jun 2026 11:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>米軍、イランでの最新の攻撃を完了したと発表</title>
       <link>https://news.yahoo.co.jp/articles/7df78642bd96a3ec8e31e265b78d8f5819008cc4</link>
@@ -14,7 +20,7 @@
       <pubDate>Thu, 11 Jun 2026 10:12:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均一時1800円超安、中東情勢緊迫化－債券先物下落</title>
+      <title>【日本市況】株式続落、中東情勢の不透明感嫌気－債券先物は上昇転換</title>
       <link>https://news.yahoo.co.jp/articles/6eafa82e870a05a2c5c260867452e2350aa7a08b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6eafa82e870a05a2c5c260867452e2350aa7a08b</guid>
       <pubDate>Thu, 11 Jun 2026 09:41:00 +0900</pubDate>
@@ -56,7 +62,7 @@
       <pubDate>Thu, 11 Jun 2026 07:16:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油急伸、WTIは一時3%近く上昇－米国がイランに再攻撃を開始</title>
+      <title>原油急伸、2日連続で上昇－米国が再攻撃、イランはホルムズ封鎖表明</title>
       <link>https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</guid>
       <pubDate>Thu, 11 Jun 2026 07:11:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8584f985a4d8e5a622cb1739c683fcb4e40b655a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8584f985a4d8e5a622cb1739c683fcb4e40b655a</guid>
       <pubDate>Wed, 10 Jun 2026 10:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>訪朝の中国国家主席、「非核化」に触れず－北朝鮮は対中関係を最重視</title>
-      <link>https://news.yahoo.co.jp/articles/121d65874bf1c3cd5b6a61806ab96fc0ab92469f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/121d65874bf1c3cd5b6a61806ab96fc0ab92469f</guid>
-      <pubDate>Wed, 10 Jun 2026 10:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
