@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 14:03:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:07:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>暗号資産の立場変える金商法改正とは？株と同じインサイダー規制へ</title>
+      <link>https://news.yahoo.co.jp/articles/d305e7dae9949f063aa93de9ccaa14a69cf4d88a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d305e7dae9949f063aa93de9ccaa14a69cf4d88a</guid>
+      <pubDate>Thu, 11 Jun 2026 15:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>「韓国のアマゾン」クーパンに660億円の記録的課徴金－個人情報流出</title>
       <link>https://news.yahoo.co.jp/articles/51cc4d9dfb02fe2088c2270fcede7f578a20c69b</link>
@@ -14,10 +20,22 @@
       <pubDate>Thu, 11 Jun 2026 13:33:00 +0900</pubDate>
     </item>
     <item>
+      <title>ラピダス社長、英国・イタリアの公的機関と新技術の協業へ</title>
+      <link>https://news.yahoo.co.jp/articles/94680d718302306394eb40a50c21318d868ab317</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/94680d718302306394eb40a50c21318d868ab317</guid>
+      <pubDate>Thu, 11 Jun 2026 13:26:00 +0900</pubDate>
+    </item>
+    <item>
       <title>香港ヘッジファンド運用担当に恩恵－成果連動型所得課税、廃止の方向</title>
       <link>https://news.yahoo.co.jp/articles/0fa8dcb129665faae6ea49098862b514bf254dc0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fa8dcb129665faae6ea49098862b514bf254dc0</guid>
       <pubDate>Thu, 11 Jun 2026 12:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>プライベートクレジット債、逆張り投資家が再び参入－高利回りが魅力</title>
+      <link>https://news.yahoo.co.jp/articles/3b06a819c1def83196d4cb5628a256cb6b1cd1f7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b06a819c1def83196d4cb5628a256cb6b1cd1f7</guid>
+      <pubDate>Thu, 11 Jun 2026 12:27:00 +0900</pubDate>
     </item>
     <item>
       <title>OpenAI、中国関連アカウントが米データセンター反対あおる投稿と指摘</title>
@@ -44,7 +62,7 @@
       <pubDate>Thu, 11 Jun 2026 10:12:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株式続落、中東情勢の不透明感嫌気－債券先物は上昇転換</title>
+      <title>【日本市況】株式が下げ縮小、中東情勢への過度な不安後退－円こう着</title>
       <link>https://news.yahoo.co.jp/articles/6eafa82e870a05a2c5c260867452e2350aa7a08b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6eafa82e870a05a2c5c260867452e2350aa7a08b</guid>
       <pubDate>Thu, 11 Jun 2026 09:41:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/71c70cdc48d6933ebc9948c756ca28072b2188cd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71c70cdc48d6933ebc9948c756ca28072b2188cd</guid>
       <pubDate>Wed, 10 Jun 2026 13:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>30年国債入札は「低調」、超長期債ゾーンの不安定さ浮き彫り</title>
-      <link>https://news.yahoo.co.jp/articles/e97c6f57c99ee60e51584dc7d8f14ba6dc0b4cd7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e97c6f57c99ee60e51584dc7d8f14ba6dc0b4cd7</guid>
-      <pubDate>Wed, 10 Jun 2026 12:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXの株主軽視を警戒、マスク氏に強い支配権－NY市会計監査官</title>
-      <link>https://news.yahoo.co.jp/articles/e2f6d0281a0e30eb8f2edaf9ea7b7ef3bf170767</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2f6d0281a0e30eb8f2edaf9ea7b7ef3bf170767</guid>
-      <pubDate>Wed, 10 Jun 2026 11:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>タクシー配車GOのIPOに海外勢から20倍の需要、日本株に関心－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/f289992a382c75d216ca79d15d3672821727f963</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f289992a382c75d216ca79d15d3672821727f963</guid>
-      <pubDate>Wed, 10 Jun 2026 11:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
