@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 02:14:46 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:31:55 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】債券、ECB利上げ後も上昇基調維持－株は5日ぶり上昇</title>
+      <link>https://news.yahoo.co.jp/articles/f6b9419d5b2f43e28f64b717684dc62231fbe165</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f6b9419d5b2f43e28f64b717684dc62231fbe165</guid>
+      <pubDate>Fri, 12 Jun 2026 02:26:00 +0900</pubDate>
+    </item>
     <item>
       <title>米家計純資産、1－3月の伸び1年ぶり低水準－株安響く、不動産は上昇</title>
       <link>https://news.yahoo.co.jp/articles/45fba3a72860196d95d8e87053927a97e40a2d95</link>
@@ -212,6 +218,12 @@
       <pubDate>Thu, 11 Jun 2026 07:16:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油はもみ合い、米国がイランの主要輸出拠点カーグ島の掌握に言及</title>
+      <link>https://news.yahoo.co.jp/articles/4436a0f2f5a9c61975a6bb4ecda6b2a24cade36a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4436a0f2f5a9c61975a6bb4ecda6b2a24cade36a</guid>
+      <pubDate>Thu, 11 Jun 2026 07:11:00 +0900</pubDate>
+    </item>
+    <item>
       <title>原油は上げ消す、ホルムズの通航量増加－米・イラン攻撃懸念を相殺</title>
       <link>https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</guid>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3478e070e3d74a1ffec43a39c236853237e75c11</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3478e070e3d74a1ffec43a39c236853237e75c11</guid>
       <pubDate>Thu, 11 Jun 2026 21:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米CPI、インフレ加速は継続－前月比のコア指数は予想下回る</title>
-      <link>https://news.yahoo.co.jp/articles/f54e6ea90e7bb7d61bd978a9459984bb8326cd56</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f54e6ea90e7bb7d61bd978a9459984bb8326cd56</guid>
-      <pubDate>Wed, 10 Jun 2026 21:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで下げ幅縮小、160円台前半－米CPI発表後</title>
-      <link>https://news.yahoo.co.jp/articles/1b63a92b1846af846f6e44a3349fd20ec873a14d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b63a92b1846af846f6e44a3349fd20ec873a14d</guid>
-      <pubDate>Wed, 10 Jun 2026 21:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
