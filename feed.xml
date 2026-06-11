@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 18:00:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:03:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相、7月の原油調達は前年比約10割に－28年3月まで安定供給可能</title>
+      <link>https://news.yahoo.co.jp/articles/18f94b0d80222e84d7fb41b9ad93ffef3b327e72</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18f94b0d80222e84d7fb41b9ad93ffef3b327e72</guid>
+      <pubDate>Thu, 11 Jun 2026 18:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国がEUとのハイレベル会合を突然キャンセル、理由示さず－FT紙</title>
       <link>https://news.yahoo.co.jp/articles/19ed3e3c177006d1a1c6819b03a88f7e1341fabb</link>
@@ -128,7 +134,7 @@
       <pubDate>Thu, 11 Jun 2026 07:16:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油上げ幅縮小、米軍が攻撃完了－イランはホルムズ完全封鎖を表明</title>
+      <title>原油は上げ消す、ホルムズの通航量増加－米・イラン攻撃懸念を相殺</title>
       <link>https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</guid>
       <pubDate>Thu, 11 Jun 2026 07:11:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e37254d0ec043008460d7daa7c68b74ae1c4a493</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e37254d0ec043008460d7daa7c68b74ae1c4a493</guid>
       <pubDate>Wed, 10 Jun 2026 14:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>国内ETFに米インベスコが参入、市場規模130兆円に拡大で競争激化</title>
-      <link>https://news.yahoo.co.jp/articles/1e626c05a1859d7a77d5dc953e0b2d01e8532198</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e626c05a1859d7a77d5dc953e0b2d01e8532198</guid>
-      <pubDate>Wed, 10 Jun 2026 14:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
