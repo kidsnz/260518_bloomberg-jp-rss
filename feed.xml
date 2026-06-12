@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:31:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:47:03 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日本市場、イラン停戦期待で株と債券上昇へ－円も一時159円台に反発</title>
       <link>https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</guid>
       <pubDate>Fri, 12 Jun 2026 08:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は大幅高へ、和平合意進展に期待－AIや景気敏感など広く買い</title>
+      <link>https://news.yahoo.co.jp/articles/06abef3349a8f5a4a33a93dfa8a110067ece6d27</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/06abef3349a8f5a4a33a93dfa8a110067ece6d27</guid>
+      <pubDate>Fri, 12 Jun 2026 07:59:00 +0900</pubDate>
     </item>
     <item>
       <title>円は対ドルで160円付近、米・イラン和平合意期待－債券は上昇へ</title>
@@ -299,12 +305,6 @@
       <title>原油は大幅反落、トランプ大統領が予定していたイラン攻撃を中止</title>
       <link>https://news.yahoo.co.jp/articles/4436a0f2f5a9c61975a6bb4ecda6b2a24cade36a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4436a0f2f5a9c61975a6bb4ecda6b2a24cade36a</guid>
-      <pubDate>Thu, 11 Jun 2026 07:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は上げ消す、ホルムズの通航量増加－米・イラン攻撃懸念を相殺</title>
-      <link>https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89f18cb5364a012180b8440a5e6cb3c59f126b03</guid>
       <pubDate>Thu, 11 Jun 2026 07:11:00 +0900</pubDate>
     </item>
   </channel>
