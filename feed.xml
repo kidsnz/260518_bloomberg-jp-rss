@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:46:37 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 03:42:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国でプラスチック価格高騰、コスト転嫁本格化-インフレの新たな火種</title>
+      <link>https://news.yahoo.co.jp/articles/979053d9fed5bdc3fba36f0d7a92bed6dea3c672</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/979053d9fed5bdc3fba36f0d7a92bed6dea3c672</guid>
+      <pubDate>Sat, 13 Jun 2026 02:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECB利上げ直後、金融大手は早くも利下げ転換見込む-過去の経験念頭に</title>
+      <link>https://news.yahoo.co.jp/articles/1b1fcc8b8fef44d9a7b5270d9e7b7be633647c9d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b1fcc8b8fef44d9a7b5270d9e7b7be633647c9d</guid>
+      <pubDate>Sat, 13 Jun 2026 01:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>米・イランの和平、最終的な合意文書がまとまった－パキスタン首相</title>
       <link>https://news.yahoo.co.jp/articles/6533d43d553f4b22292b5054f89f50fd47ff6ec7</link>
@@ -26,7 +38,7 @@
       <pubDate>Sat, 13 Jun 2026 01:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>スペースX、初値はIPO価格を11%上回る－マスク氏「トリリオネア」に</title>
+      <title>スペースXがナスダックに上場、買い先行で開始－初値は150ドル</title>
       <link>https://news.yahoo.co.jp/articles/dd07b2fd442a3cb2476ef958e01768abfac92062</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd07b2fd442a3cb2476ef958e01768abfac92062</guid>
       <pubDate>Sat, 13 Jun 2026 00:56:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a7d66dbcc9c8552f3ab89b211c2d83ae1a8a596a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7d66dbcc9c8552f3ab89b211c2d83ae1a8a596a</guid>
       <pubDate>Fri, 12 Jun 2026 05:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXが750億ドルのIPO実施、史上最大規模－1株135ドルに決定</title>
-      <link>https://news.yahoo.co.jp/articles/0127cde2fb4c8c443e4083b2e72dd98bc58c372d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0127cde2fb4c8c443e4083b2e72dd98bc58c372d</guid>
-      <pubDate>Fri, 12 Jun 2026 04:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イランとの合意間近と主張－予告していた攻撃は中止</title>
-      <link>https://news.yahoo.co.jp/articles/90da85f4624d3d26e33c5e68fcb346ae88e2b2fb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90da85f4624d3d26e33c5e68fcb346ae88e2b2fb</guid>
-      <pubDate>Fri, 12 Jun 2026 02:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
