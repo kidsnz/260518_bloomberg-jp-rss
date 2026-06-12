@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:39:25 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 05:45:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースX上場でトイレにも行けず、世界の投資家巻き込んだ熱狂の初日</title>
+      <link>https://news.yahoo.co.jp/articles/e489774c210ccb728eb4783a79c01f4ef4913514</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e489774c210ccb728eb4783a79c01f4ef4913514</guid>
+      <pubDate>Sat, 13 Jun 2026 04:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国でプラスチック価格高騰、コスト転嫁本格化-インフレの新たな火種</title>
       <link>https://news.yahoo.co.jp/articles/979053d9fed5bdc3fba36f0d7a92bed6dea3c672</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/979053d9fed5bdc3fba36f0d7a92bed6dea3c672</guid>
       <pubDate>Sat, 13 Jun 2026 02:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>HSBCに新たな不良債権問題、中東消費財大手向けで焦げ付きも－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/844bad029e8fbda4b2c7aa302d10d1a2b70274b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/844bad029e8fbda4b2c7aa302d10d1a2b70274b4</guid>
+      <pubDate>Sat, 13 Jun 2026 02:41:00 +0900</pubDate>
     </item>
     <item>
       <title>【欧州市況】米イラン合意期待高まり債券上昇－株も最高値圏に</title>
@@ -72,6 +84,12 @@
       <link>https://news.yahoo.co.jp/articles/4c46ec3bcf0a553c195c305d9d65c4788145d32a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c46ec3bcf0a553c195c305d9d65c4788145d32a</guid>
       <pubDate>Fri, 12 Jun 2026 23:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者マインド指数、6月は48.9に上昇－4カ月ぶりに持ち直す</title>
+      <link>https://news.yahoo.co.jp/articles/8a3a27127fc90b612450fa8aff0796ed6a6e6179</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a3a27127fc90b612450fa8aff0796ed6a6e6179</guid>
+      <pubDate>Sat, 13 Jun 2026 23:12:00 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド指数、6月速報値は4カ月ぶりに持ち直す</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/882e89da70ca0401a42e388a9bd864f320581eb2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/882e89da70ca0401a42e388a9bd864f320581eb2</guid>
       <pubDate>Fri, 12 Jun 2026 07:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油一時5.1%下落－米イランの和平合意近いとの期待高まる</title>
-      <link>https://news.yahoo.co.jp/articles/0638125f64aca194eb4fccdbc7ff788fcd438bf4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0638125f64aca194eb4fccdbc7ff788fcd438bf4</guid>
-      <pubDate>Fri, 12 Jun 2026 07:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アドビCFOが退任へ、CEOに続き経営陣の交代発表相次ぐ－時間外で株安</title>
-      <link>https://news.yahoo.co.jp/articles/f2f5b63c36dcccdbfce98f58e4d8dd5da166d96c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f2f5b63c36dcccdbfce98f58e4d8dd5da166d96c</guid>
-      <pubDate>Fri, 12 Jun 2026 06:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>W杯は暑さとの戦い、最も過酷なのはどのチームか－条件の差大きく</title>
-      <link>https://news.yahoo.co.jp/articles/3b8da17e8cf64693e052d78ed808f9e30df4aff2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b8da17e8cf64693e052d78ed808f9e30df4aff2</guid>
-      <pubDate>Fri, 12 Jun 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
