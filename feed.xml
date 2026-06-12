@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 05:45:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 06:33:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースX、データセンター運用で壁－アンソロピック向けに資源転用</title>
+      <link>https://news.yahoo.co.jp/articles/d0d7b283cc126b6982b4191ddd0db00d330d9e76</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d0d7b283cc126b6982b4191ddd0db00d330d9e76</guid>
+      <pubDate>Sat, 13 Jun 2026 04:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースX上場でトイレにも行けず、世界の投資家巻き込んだ熱狂の初日</title>
       <link>https://news.yahoo.co.jp/articles/e489774c210ccb728eb4783a79c01f4ef4913514</link>
@@ -78,6 +84,12 @@
       <link>https://news.yahoo.co.jp/articles/308c44700d42e54280711d469b5641411a387b58</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/308c44700d42e54280711d469b5641411a387b58</guid>
       <pubDate>Sat, 13 Jun 2026 00:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株続伸、和平合意への期待で－注目のスペースXは好発進</title>
+      <link>https://news.yahoo.co.jp/articles/a5b97bceba5d662da161952b631e23854cea0ba6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5b97bceba5d662da161952b631e23854cea0ba6</guid>
+      <pubDate>Sat, 13 Jun 2026 23:53:00 +0900</pubDate>
     </item>
     <item>
       <title>S&amp;P500種は上昇、指標改善が追い風－トランプ氏発言で原油は下げ縮小</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</guid>
       <pubDate>Fri, 12 Jun 2026 08:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は大幅高へ、和平合意進展に期待－AIや景気敏感など広く買い</title>
-      <link>https://news.yahoo.co.jp/articles/06abef3349a8f5a4a33a93dfa8a110067ece6d27</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/06abef3349a8f5a4a33a93dfa8a110067ece6d27</guid>
-      <pubDate>Fri, 12 Jun 2026 07:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで160円付近、米・イラン和平合意期待－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/882e89da70ca0401a42e388a9bd864f320581eb2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/882e89da70ca0401a42e388a9bd864f320581eb2</guid>
-      <pubDate>Fri, 12 Jun 2026 07:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
