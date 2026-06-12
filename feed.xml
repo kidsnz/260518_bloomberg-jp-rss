@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 22:40:47 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:03:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米消費者マインド指数、6月速報値は4カ月ぶりに持ち直す</title>
+      <link>https://news.yahoo.co.jp/articles/cbb85536a3b8bf903066488fe13218a2e692fb55</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cbb85536a3b8bf903066488fe13218a2e692fb55</guid>
+      <pubDate>Fri, 12 Jun 2026 23:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>上場初日迎えるスペースX株、グレーマーケット取引は35%超の上昇示唆</title>
       <link>https://news.yahoo.co.jp/articles/479e30106e6b6254b4bb4688f483e7bae13ad5b9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/479e30106e6b6254b4bb4688f483e7bae13ad5b9</guid>
       <pubDate>Fri, 12 Jun 2026 21:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI誘導の攻撃ドローン、ウクライナで進化－スターリンク接続が利点</title>
+      <link>https://news.yahoo.co.jp/articles/6372fa7b8d8e5c61817f305c8dd6f22464acb791</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6372fa7b8d8e5c61817f305c8dd6f22464acb791</guid>
+      <pubDate>Fri, 12 Jun 2026 19:52:00 +0900</pubDate>
     </item>
     <item>
       <title>中国、フィリピン国防相に入国禁止措置－対立エスカレート</title>
@@ -20,13 +32,19 @@
       <pubDate>Fri, 12 Jun 2026 19:04:00 +0900</pubDate>
     </item>
     <item>
+      <title>中国の信用拡大、5月は市場予想上回る－4月の融資縮小から持ち直し</title>
+      <link>https://news.yahoo.co.jp/articles/f012073d2a8aa7eaefd2e54e4e71ac122821dbc7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f012073d2a8aa7eaefd2e54e4e71ac122821dbc7</guid>
+      <pubDate>Fri, 12 Jun 2026 18:48:00 +0900</pubDate>
+    </item>
+    <item>
       <title>金融庁、ウリ信用組合に一部業務停止命令-預金着服隠蔽など複数不祥事</title>
       <link>https://news.yahoo.co.jp/articles/7f73721b3f6c08c11236f8df2e7583926c886a74</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f73721b3f6c08c11236f8df2e7583926c886a74</guid>
       <pubDate>Fri, 12 Jun 2026 18:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国とイラン、来週のG7首脳会議前後めどに合意の可能性</title>
+      <title>米国とイラン、14日にも合意の可能性－G7首脳会議前後めど</title>
       <link>https://news.yahoo.co.jp/articles/4acc60b0a1ef4a177fa8fb77a007ef226bea2ae0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4acc60b0a1ef4a177fa8fb77a007ef226bea2ae0</guid>
       <pubDate>Fri, 12 Jun 2026 18:22:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5b35402c6d4dd8d5f200c365087f38917588dc11</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b35402c6d4dd8d5f200c365087f38917588dc11</guid>
       <pubDate>Fri, 12 Jun 2026 22:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXのIPO、個人投資家からの需要は700億ドル超－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/4909ef7ee50c4ed1b93109b9fd2e9184c470b12f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4909ef7ee50c4ed1b93109b9fd2e9184c470b12f</guid>
-      <pubDate>Thu, 11 Jun 2026 22:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新規失業保険申請、2月以来の高水準－夏季休暇や祝日を反映か</title>
-      <link>https://news.yahoo.co.jp/articles/9f5880eb0bdfe0cbb190a623400fc39273a021ef</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f5880eb0bdfe0cbb190a623400fc39273a021ef</guid>
-      <pubDate>Thu, 11 Jun 2026 21:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米PPIは3年半ぶりの大幅な伸び、前年比6.5%上昇－インフレ圧力強まる</title>
-      <link>https://news.yahoo.co.jp/articles/ec22b41f51bc70607fa39715a227908bf7d3fec5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec22b41f51bc70607fa39715a227908bf7d3fec5</guid>
-      <pubDate>Fri, 12 Jun 2026 21:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
