@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 19:31:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 21:05:57 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>中国、フィリピン国防相に入国禁止措置－対立エスカレート</title>
@@ -26,10 +26,22 @@
       <pubDate>Fri, 12 Jun 2026 18:22:00 +0900</pubDate>
     </item>
     <item>
-      <title>ウォーバーグ、学生用住宅のJSBの買収で合意に近づく－関係者</title>
+      <title>アンソロピックやOpenAI幹部、G7首脳会議で先端AI巡り議論へ</title>
+      <link>https://news.yahoo.co.jp/articles/c5d118e8094c90e67717e643c49681dac21a381d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5d118e8094c90e67717e643c49681dac21a381d</guid>
+      <pubDate>Fri, 12 Jun 2026 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ウォーバーグ、学生向け賃貸住宅のJSB買収で最終調整－関係者</title>
       <link>https://news.yahoo.co.jp/articles/2c166dcff92b478c8ed134c6faf83bfcde6a6f69</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c166dcff92b478c8ed134c6faf83bfcde6a6f69</guid>
       <pubDate>Fri, 12 Jun 2026 17:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>CME、WTI原油と金の先物取引を24時間・週7日体制に拡大へ</title>
+      <link>https://news.yahoo.co.jp/articles/f878420ebf1c8a81ed995d8c3bcdfc7bde11f7c9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f878420ebf1c8a81ed995d8c3bcdfc7bde11f7c9</guid>
+      <pubDate>Fri, 12 Jun 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
       <title>世界の大手行、ヘッジファンド資金コスト引き上げ－半導体株急騰警戒</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6b8f1372b1e0be27441cbc9f5d3cfd08fd65dc84</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b8f1372b1e0be27441cbc9f5d3cfd08fd65dc84</guid>
       <pubDate>Thu, 11 Jun 2026 21:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、米軍は今夜イラン攻撃へ－「遠くない将来」カーグ島掌握も</title>
-      <link>https://news.yahoo.co.jp/articles/ddc2594c708a845c908514973f981693a2895995</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ddc2594c708a845c908514973f981693a2895995</guid>
-      <pubDate>Thu, 11 Jun 2026 21:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、米軍は今夜イラン攻撃へ－「遠くない将来」カーグ島掌握も</title>
-      <link>https://news.yahoo.co.jp/articles/d52816f9df5f5c21dfc9c812be612eb10c043714</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d52816f9df5f5c21dfc9c812be612eb10c043714</guid>
-      <pubDate>Thu, 11 Jun 2026 21:31:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
