@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:06:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:01:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ECBナーゲル氏、7月の追加利上げに含み－戦争の経済への影響続けば</title>
+      <link>https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</guid>
+      <pubDate>Fri, 12 Jun 2026 14:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>W杯中にビール20%値下げ、エクアドルで減税措置－代表チームを応援</title>
+      <link>https://news.yahoo.co.jp/articles/6790159711906153098a92702274ced4af1634d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6790159711906153098a92702274ced4af1634d3</guid>
+      <pubDate>Fri, 12 Jun 2026 14:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国アリババ、生鮮食品宅配企業の買収目指す－美団との競争激化</title>
       <link>https://news.yahoo.co.jp/articles/fccf82428ee331e4e948c54904ddff36e300fe12</link>
@@ -18,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/1eb4da665a65d47635013f971c8a0f4d0af5dfd5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1eb4da665a65d47635013f971c8a0f4d0af5dfd5</guid>
       <pubDate>Fri, 12 Jun 2026 12:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>三井住友出資のイエス銀、インド家計の銀行預金回帰に期待－株価好調</title>
+      <link>https://news.yahoo.co.jp/articles/c65de8ef7d948916143209f4b8379eeb985a097b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c65de8ef7d948916143209f4b8379eeb985a097b</guid>
+      <pubDate>Fri, 12 Jun 2026 12:45:00 +0900</pubDate>
     </item>
     <item>
       <title>高市首相がG7サミットで欧州歴訪、原油市場安定で連携提案－13日から</title>
@@ -116,7 +134,7 @@
       <pubDate>Fri, 12 Jun 2026 07:45:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油下げ拡大、WTI3%近く下落－イランとの合意近いとトランプ氏主張</title>
+      <title>ブレント原油89ドル割れ、イラン合意近いとトランプ氏－海峡再開期待</title>
       <link>https://news.yahoo.co.jp/articles/0638125f64aca194eb4fccdbc7ff788fcd438bf4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0638125f64aca194eb4fccdbc7ff788fcd438bf4</guid>
       <pubDate>Fri, 12 Jun 2026 07:21:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f30e8bd62821276a9e7c93f3af9e5216fa6e3023</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f30e8bd62821276a9e7c93f3af9e5216fa6e3023</guid>
       <pubDate>Thu, 11 Jun 2026 16:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国が外国籍の商船に無線で初めて質問、台湾本島付近－日本もけん制</title>
-      <link>https://news.yahoo.co.jp/articles/f525013d9de695f8dddfb9909b734de90ea86d51</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f525013d9de695f8dddfb9909b734de90ea86d51</guid>
-      <pubDate>Thu, 11 Jun 2026 16:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州中銀、2年9カ月ぶり利上げの公算－イラン開戦後では主要中銀で初</title>
-      <link>https://news.yahoo.co.jp/articles/55c50944c663430c79245cfc3cee86aee71f1d9b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55c50944c663430c79245cfc3cee86aee71f1d9b</guid>
-      <pubDate>Thu, 11 Jun 2026 15:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>暗号資産の立場変える金商法改正とは？株と同じインサイダー規制へ</title>
-      <link>https://news.yahoo.co.jp/articles/d305e7dae9949f063aa93de9ccaa14a69cf4d88a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d305e7dae9949f063aa93de9ccaa14a69cf4d88a</guid>
-      <pubDate>Thu, 11 Jun 2026 15:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
