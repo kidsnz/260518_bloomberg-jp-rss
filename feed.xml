@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 10:49:05 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:08:23 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースX、宇宙株では割安もAI株と比べ割高－評価の物差し定まらず</title>
+      <link>https://news.yahoo.co.jp/articles/df09faa868330c5c1108f8688c8e4dfc50e1977c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df09faa868330c5c1108f8688c8e4dfc50e1977c</guid>
+      <pubDate>Fri, 12 Jun 2026 11:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXの史上最大IPO、日本での調達額は3500億円に－全体の3%</title>
+      <link>https://news.yahoo.co.jp/articles/88cd5362afa92e91579508513cf0081588c476a0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88cd5362afa92e91579508513cf0081588c476a0</guid>
+      <pubDate>Fri, 12 Jun 2026 11:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン交渉、長引く一因は「伝言ゲーム」－複雑な交渉ルートの全容</title>
+      <link>https://news.yahoo.co.jp/articles/180e243e0598f0d46cacdb0c43e5ed12f7b77f02</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/180e243e0598f0d46cacdb0c43e5ed12f7b77f02</guid>
+      <pubDate>Fri, 12 Jun 2026 11:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>英ロイズがサムライ債750億円、海外勢の発行額は11年ぶり高水準</title>
       <link>https://news.yahoo.co.jp/articles/b53cd9938e24b524dfaf2007ac8e5e45fa8b8d9f</link>
@@ -26,10 +44,16 @@
       <pubDate>Fri, 12 Jun 2026 09:34:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均2600円超高、イラン戦争終結に期待－円は小幅安</title>
+      <title>【日本市況】日経平均一時2800円超高、イラン戦争終結に期待－円下落</title>
       <link>https://news.yahoo.co.jp/articles/6c91a2d31f796b5142b88503c4a5601669df6ace</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6c91a2d31f796b5142b88503c4a5601669df6ace</guid>
       <pubDate>Fri, 12 Jun 2026 09:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>消えゆく世界の石油在庫、原油200ドルの足音－家計支出5万円超増加も</title>
+      <link>https://news.yahoo.co.jp/articles/33e385c6b1c36dc53d3905cf33aac8dc4579107a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33e385c6b1c36dc53d3905cf33aac8dc4579107a</guid>
+      <pubDate>Fri, 12 Jun 2026 08:57:00 +0900</pubDate>
     </item>
     <item>
       <title>日本市場、イラン停戦期待で株と債券上昇へ－円も一時159円台に反発</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1e40dc89a8514992b5b5311be46614054ef10b67</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e40dc89a8514992b5b5311be46614054ef10b67</guid>
       <pubDate>Thu, 11 Jun 2026 10:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍、イランでの最新の攻撃を完了したと発表</title>
-      <link>https://news.yahoo.co.jp/articles/7df78642bd96a3ec8e31e265b78d8f5819008cc4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7df78642bd96a3ec8e31e265b78d8f5819008cc4</guid>
-      <pubDate>Thu, 11 Jun 2026 10:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】TOPIXが続落、中東情勢への警戒続く－円は160円台半ば</title>
-      <link>https://news.yahoo.co.jp/articles/6eafa82e870a05a2c5c260867452e2350aa7a08b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6eafa82e870a05a2c5c260867452e2350aa7a08b</guid>
-      <pubDate>Thu, 11 Jun 2026 09:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イランと直接協議とFOXに語る－合意なしなら再び攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/6b71b101c8e30b9b13d7b18e5694bf1d0a032ca3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b71b101c8e30b9b13d7b18e5694bf1d0a032ca3</guid>
-      <pubDate>Thu, 11 Jun 2026 08:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、中東情勢やテック株需給懸念で株下落へ－円は4月安値接近</title>
-      <link>https://news.yahoo.co.jp/articles/33bbd6c9db4c8fea89cf0790bf42441fb95002af</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33bbd6c9db4c8fea89cf0790bf42441fb95002af</guid>
-      <pubDate>Thu, 11 Jun 2026 08:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
