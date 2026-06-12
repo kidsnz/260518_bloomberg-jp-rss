@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 21:05:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:40:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>上場初日迎えるスペースX株、グレーマーケット取引は35%超の上昇示唆</title>
+      <link>https://news.yahoo.co.jp/articles/479e30106e6b6254b4bb4688f483e7bae13ad5b9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/479e30106e6b6254b4bb4688f483e7bae13ad5b9</guid>
+      <pubDate>Fri, 12 Jun 2026 21:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国、フィリピン国防相に入国禁止措置－対立エスカレート</title>
       <link>https://news.yahoo.co.jp/articles/8f836cf75b80e21e6174dc1fb703d65f006d6870</link>
@@ -32,7 +38,7 @@
       <pubDate>Fri, 12 Jun 2026 18:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>米ウォーバーグ、学生向け賃貸住宅のJSB買収で最終調整－関係者</title>
+      <title>米ウォーバーグ、学生向け賃貸住宅のJSBを総額1900億円で買収</title>
       <link>https://news.yahoo.co.jp/articles/2c166dcff92b478c8ed134c6faf83bfcde6a6f69</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c166dcff92b478c8ed134c6faf83bfcde6a6f69</guid>
       <pubDate>Fri, 12 Jun 2026 17:54:00 +0900</pubDate>
@@ -42,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/f878420ebf1c8a81ed995d8c3bcdfc7bde11f7c9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f878420ebf1c8a81ed995d8c3bcdfc7bde11f7c9</guid>
       <pubDate>Fri, 12 Jun 2026 17:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ゴールドマン、27年の原油価格予想引き下げ－供給増と需要低迷で</title>
+      <link>https://news.yahoo.co.jp/articles/f126d604080815a3600510320bf4f59e21fbe71b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f126d604080815a3600510320bf4f59e21fbe71b</guid>
+      <pubDate>Fri, 12 Jun 2026 16:43:00 +0900</pubDate>
     </item>
     <item>
       <title>世界の大手行、ヘッジファンド資金コスト引き上げ－半導体株急騰警戒</title>
@@ -68,7 +80,7 @@
       <pubDate>Fri, 12 Jun 2026 15:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>ECBナーゲル氏、7月追加利上げに含み－戦争の経済への影響続けば</title>
+      <title>ECBナーゲル氏、7月に追加利上げの用意－物価見通し「さらに悪化」</title>
       <link>https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</guid>
       <pubDate>Fri, 12 Jun 2026 14:52:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ec22b41f51bc70607fa39715a227908bf7d3fec5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec22b41f51bc70607fa39715a227908bf7d3fec5</guid>
       <pubDate>Fri, 12 Jun 2026 21:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米PPIは3年半ぶりの大幅な伸び、前年比6.5%上昇－インフレ圧力強まる</title>
-      <link>https://news.yahoo.co.jp/articles/428c55c5e323542bb89d2fbc607ca94826baba19</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/428c55c5e323542bb89d2fbc607ca94826baba19</guid>
-      <pubDate>Thu, 11 Jun 2026 21:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヒーリー英国防相が辞任、予算巡り財務省と対立－政権にさらなる打撃</title>
-      <link>https://news.yahoo.co.jp/articles/6b8f1372b1e0be27441cbc9f5d3cfd08fd65dc84</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b8f1372b1e0be27441cbc9f5d3cfd08fd65dc84</guid>
-      <pubDate>Thu, 11 Jun 2026 21:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
