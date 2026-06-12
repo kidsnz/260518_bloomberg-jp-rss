@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 03:42:40 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 04:39:25 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国でプラスチック価格高騰、コスト転嫁本格化-インフレの新たな火種</title>
       <link>https://news.yahoo.co.jp/articles/979053d9fed5bdc3fba36f0d7a92bed6dea3c672</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/979053d9fed5bdc3fba36f0d7a92bed6dea3c672</guid>
       <pubDate>Sat, 13 Jun 2026 02:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】米イラン合意期待高まり債券上昇－株も最高値圏に</title>
+      <link>https://news.yahoo.co.jp/articles/1eb6aacada2cf85a25df6de55f02490a0270afba</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1eb6aacada2cf85a25df6de55f02490a0270afba</guid>
+      <pubDate>Sat, 13 Jun 2026 02:36:00 +0900</pubDate>
     </item>
     <item>
       <title>ECB利上げ直後、金融大手は早くも利下げ転換見込む-過去の経験念頭に</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b8da17e8cf64693e052d78ed808f9e30df4aff2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b8da17e8cf64693e052d78ed808f9e30df4aff2</guid>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イランは合意の下で核兵器を保有せずと発言</title>
-      <link>https://news.yahoo.co.jp/articles/a7d66dbcc9c8552f3ab89b211c2d83ae1a8a596a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7d66dbcc9c8552f3ab89b211c2d83ae1a8a596a</guid>
-      <pubDate>Fri, 12 Jun 2026 05:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
