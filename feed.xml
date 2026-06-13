@@ -5,10 +5,10 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 12:07:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:01:13 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>アンソロピック、米が「ミュトス5」などへの海外からのアクセス制限</title>
+      <title>アンソロピック、米指令で一部AIモデルのアクセス停止－日本に影響も</title>
       <link>https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</guid>
       <pubDate>Sat, 13 Jun 2026 10:16:00 +0900</pubDate>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/1678fdf0cff13bf8eed9db464047426b331e0203</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1678fdf0cff13bf8eed9db464047426b331e0203</guid>
       <pubDate>Sat, 13 Jun 2026 05:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドル強気ポジション、2025年2月以来の高水準－中東での戦争が影響</title>
+      <link>https://news.yahoo.co.jp/articles/896b4f8668f858b1241b2edb624aedaba53d277f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/896b4f8668f858b1241b2edb624aedaba53d277f</guid>
+      <pubDate>Sat, 13 Jun 2026 05:06:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX、データセンター運用で壁－アンソロピック向けに資源転用</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/11108f41bacb618668dc8b206f51b0010e84188b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11108f41bacb618668dc8b206f51b0010e84188b</guid>
       <pubDate>Fri, 12 Jun 2026 09:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>複雑な信用構造の急拡大、金融危機前を想起－ピムコのアイバシン氏</title>
-      <link>https://news.yahoo.co.jp/articles/a7288568ef89ad884042436ecf9ce05b01116301</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7288568ef89ad884042436ecf9ce05b01116301</guid>
-      <pubDate>Fri, 12 Jun 2026 09:34:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
