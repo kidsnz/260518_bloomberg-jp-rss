@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 09:46:22 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:44:39 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米軍、複数のイラン製ドローンを撃墜－ロイター通信</title>
+      <link>https://news.yahoo.co.jp/articles/2c18fd6e1c8d0f9cd327308bdfe79867c91d502b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c18fd6e1c8d0f9cd327308bdfe79867c91d502b</guid>
+      <pubDate>Sat, 13 Jun 2026 09:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースX、データセンター運用で壁－アンソロピック向けに資源転用</title>
       <link>https://news.yahoo.co.jp/articles/d0d7b283cc126b6982b4191ddd0db00d330d9e76</link>
@@ -62,7 +68,7 @@
       <pubDate>Sat, 13 Jun 2026 01:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>スペースXが上場初日に急伸、時価総額2兆ドル突破－初値は150ドル</title>
+      <title>スペースXが上場初日に急伸、時価総額2兆ドル突破－終値は19%高</title>
       <link>https://news.yahoo.co.jp/articles/dd07b2fd442a3cb2476ef958e01768abfac92062</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd07b2fd442a3cb2476ef958e01768abfac92062</guid>
       <pubDate>Sat, 13 Jun 2026 00:56:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/33e385c6b1c36dc53d3905cf33aac8dc4579107a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33e385c6b1c36dc53d3905cf33aac8dc4579107a</guid>
       <pubDate>Fri, 12 Jun 2026 08:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、イラン停戦期待で株と債券上昇へ－円も一時159円台に反発</title>
-      <link>https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f53da63213e3b50df9421cbf790bb912651ad3c</guid>
-      <pubDate>Fri, 12 Jun 2026 08:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
