@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 19:48:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:37:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースＸ、異例の手数料ゼロ－IPOの株式追加でオプション取り決め</title>
+      <link>https://news.yahoo.co.jp/articles/23ae332373482be2c3def407eb267ac8ea24f706</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/23ae332373482be2c3def407eb267ac8ea24f706</guid>
+      <pubDate>Sat, 13 Jun 2026 17:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>米OpenAIを複数州の司法長官が共同で調査</title>
       <link>https://news.yahoo.co.jp/articles/91678fa3c8656f62cc44aa77f81e52d168b6e338</link>
@@ -32,7 +38,7 @@
       <pubDate>Sat, 13 Jun 2026 14:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピック、米指令受け一部AIモデルのアクセス停止-日本に影響も</title>
+      <title>アンソロピック、米指令受け一部AIへのアクセス停止-日本に影響も</title>
       <link>https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</guid>
       <pubDate>Sat, 13 Jun 2026 10:16:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/284a64e4e67850117bb9a2cda605b506e2a9e6dc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/284a64e4e67850117bb9a2cda605b506e2a9e6dc</guid>
       <pubDate>Fri, 12 Jun 2026 11:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX、宇宙株では割安もAI株と比べ割高－評価の物差し定まらず</title>
-      <link>https://news.yahoo.co.jp/articles/df09faa868330c5c1108f8688c8e4dfc50e1977c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df09faa868330c5c1108f8688c8e4dfc50e1977c</guid>
-      <pubDate>Fri, 12 Jun 2026 11:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
