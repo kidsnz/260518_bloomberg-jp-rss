@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 20:37:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 21:36:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン、故ハメネイ師を7月9日にマシュハドで埋葬へ</title>
+      <link>https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</guid>
+      <pubDate>Sat, 13 Jun 2026 20:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースＸ、異例の手数料ゼロ－IPOの株式追加でオプション取り決め</title>
       <link>https://news.yahoo.co.jp/articles/23ae332373482be2c3def407eb267ac8ea24f706</link>
@@ -299,12 +305,6 @@
       <title>スペースXのIPO直接参加できず、アジア投資家が代替策へ－日豪は例外</title>
       <link>https://news.yahoo.co.jp/articles/5af0349c7a655cba4886f28fedb6f446cb8721db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5af0349c7a655cba4886f28fedb6f446cb8721db</guid>
-      <pubDate>Fri, 12 Jun 2026 11:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>友人への商品「おすすめ」で手数料を稼ぐ－ShopMyが変える口コミ経済</title>
-      <link>https://news.yahoo.co.jp/articles/284a64e4e67850117bb9a2cda605b506e2a9e6dc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/284a64e4e67850117bb9a2cda605b506e2a9e6dc</guid>
       <pubDate>Fri, 12 Jun 2026 11:48:00 +0900</pubDate>
     </item>
   </channel>
