@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 10:44:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 12:07:20 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米軍、複数のイラン製ドローンを撃墜－ロイター通信</title>
+      <title>アンソロピック、米が「ミュトス5」などへの海外からのアクセス制限</title>
+      <link>https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</guid>
+      <pubDate>Sat, 13 Jun 2026 10:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍、ホルムズ海峡航行の商船狙ったイランのドローンを撃墜</title>
       <link>https://news.yahoo.co.jp/articles/2c18fd6e1c8d0f9cd327308bdfe79867c91d502b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c18fd6e1c8d0f9cd327308bdfe79867c91d502b</guid>
       <pubDate>Sat, 13 Jun 2026 09:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米、イランとの暫定合意成立に自信－ホルムズ海峡再開・核脅威抑制へ</title>
+      <link>https://news.yahoo.co.jp/articles/1678fdf0cff13bf8eed9db464047426b331e0203</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1678fdf0cff13bf8eed9db464047426b331e0203</guid>
+      <pubDate>Sat, 13 Jun 2026 05:35:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX、データセンター運用で壁－アンソロピック向けに資源転用</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a7288568ef89ad884042436ecf9ce05b01116301</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7288568ef89ad884042436ecf9ce05b01116301</guid>
       <pubDate>Fri, 12 Jun 2026 09:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】日経平均6万6000円回復、戦争終結期待－円安・債券高</title>
-      <link>https://news.yahoo.co.jp/articles/6c91a2d31f796b5142b88503c4a5601669df6ace</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6c91a2d31f796b5142b88503c4a5601669df6ace</guid>
-      <pubDate>Fri, 12 Jun 2026 09:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>消えゆく世界の石油在庫、原油200ドルの足音－家計支出5万円超増加も</title>
-      <link>https://news.yahoo.co.jp/articles/33e385c6b1c36dc53d3905cf33aac8dc4579107a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33e385c6b1c36dc53d3905cf33aac8dc4579107a</guid>
-      <pubDate>Fri, 12 Jun 2026 08:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
