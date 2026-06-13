@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 15:47:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:08:04 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米OpenAIを複数州の司法長官が共同で調査</title>
@@ -26,7 +26,13 @@
       <pubDate>Sat, 13 Jun 2026 14:09:00 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピック、米指令で一部AIモデルのアクセス停止－日本に影響も</title>
+      <title>世界初の「トリリオネア」マスク氏、スイスGDPにほぼ匹敵の資産規模</title>
+      <link>https://news.yahoo.co.jp/articles/82048c5d2eab0538ffe3b28c3eb78a161ae9aa4c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82048c5d2eab0538ffe3b28c3eb78a161ae9aa4c</guid>
+      <pubDate>Sat, 13 Jun 2026 14:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピック、米指令受け一部AIモデルのアクセス停止-日本に影響も</title>
       <link>https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</guid>
       <pubDate>Sat, 13 Jun 2026 10:16:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/df09faa868330c5c1108f8688c8e4dfc50e1977c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df09faa868330c5c1108f8688c8e4dfc50e1977c</guid>
       <pubDate>Fri, 12 Jun 2026 11:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXの史上最大IPO、日本での調達額は3500億円に－全体の3%</title>
-      <link>https://news.yahoo.co.jp/articles/88cd5362afa92e91579508513cf0081588c476a0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88cd5362afa92e91579508513cf0081588c476a0</guid>
-      <pubDate>Fri, 12 Jun 2026 11:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
