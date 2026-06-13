@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 05:29:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:55:59 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏、ホルムズ海峡再開に向けたイラン合意案に14日署名へ</title>
@@ -273,6 +273,12 @@
     </item>
     <item>
       <title>ECBナーゲル氏、7月に追加利上げの用意－物価見通し「さらに悪化」</title>
+      <link>https://news.yahoo.co.jp/articles/ce8e4cd1607e1cdba76ae4f7c57efd8f531a30a9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce8e4cd1607e1cdba76ae4f7c57efd8f531a30a9</guid>
+      <pubDate>Sat, 13 Jun 2026 14:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECBナーゲル氏、7月に追加利上げの用意－物価見通し「さらに悪化」</title>
       <link>https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</guid>
       <pubDate>Fri, 12 Jun 2026 14:52:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c65de8ef7d948916143209f4b8379eeb985a097b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c65de8ef7d948916143209f4b8379eeb985a097b</guid>
       <pubDate>Fri, 12 Jun 2026 12:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相がG7サミットで欧州歴訪、原油市場安定で連携提案－13日から</title>
-      <link>https://news.yahoo.co.jp/articles/ead6137b8ea57a2bb99764bca447e71d78775002</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ead6137b8ea57a2bb99764bca447e71d78775002</guid>
-      <pubDate>Fri, 12 Jun 2026 12:34:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
