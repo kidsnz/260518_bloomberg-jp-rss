@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 21:36:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 22:33:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>パキスタン首相、米・イラン合意が24時間以内にまとまると見込む</title>
+      <link>https://news.yahoo.co.jp/articles/603f778bfb1683c19828116a898fb408c4cb3ae4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/603f778bfb1683c19828116a898fb408c4cb3ae4</guid>
+      <pubDate>Sat, 13 Jun 2026 20:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン、故ハメネイ師を7月9日にマシュハドで埋葬へ</title>
       <link>https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/afaf33af68d01b410630eed6d495988842837f81</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afaf33af68d01b410630eed6d495988842837f81</guid>
       <pubDate>Fri, 12 Jun 2026 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXのIPO直接参加できず、アジア投資家が代替策へ－日豪は例外</title>
-      <link>https://news.yahoo.co.jp/articles/5af0349c7a655cba4886f28fedb6f446cb8721db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5af0349c7a655cba4886f28fedb6f446cb8721db</guid>
-      <pubDate>Fri, 12 Jun 2026 11:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
