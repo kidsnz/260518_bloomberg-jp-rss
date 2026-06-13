@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 14:01:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 15:47:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米OpenAIを複数州の司法長官が共同で調査</title>
+      <link>https://news.yahoo.co.jp/articles/91678fa3c8656f62cc44aa77f81e52d168b6e338</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91678fa3c8656f62cc44aa77f81e52d168b6e338</guid>
+      <pubDate>Sat, 13 Jun 2026 15:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランが過去数週間にウラン貯蔵施設を封鎖、地雷を設置－CNN</title>
+      <link>https://news.yahoo.co.jp/articles/c92848433cad7a61853f98de627314b0a4c8969b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c92848433cad7a61853f98de627314b0a4c8969b</guid>
+      <pubDate>Sat, 13 Jun 2026 14:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市首相、中東情勢踏まえエネルギー安保など議論－G7サミットへ出発</title>
+      <link>https://news.yahoo.co.jp/articles/31eb755d30a18a214fb8bb390e9120fb2e3b9d1b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31eb755d30a18a214fb8bb390e9120fb2e3b9d1b</guid>
+      <pubDate>Sat, 13 Jun 2026 14:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、米指令で一部AIモデルのアクセス停止－日本に影響も</title>
       <link>https://news.yahoo.co.jp/articles/15b0b120b1e1eebfb0388e5c291246c92be5d23b</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/88cd5362afa92e91579508513cf0081588c476a0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88cd5362afa92e91579508513cf0081588c476a0</guid>
       <pubDate>Fri, 12 Jun 2026 11:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン交渉、長引く一因は「伝言ゲーム」－複雑な交渉ルートの全容</title>
-      <link>https://news.yahoo.co.jp/articles/180e243e0598f0d46cacdb0c43e5ed12f7b77f02</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/180e243e0598f0d46cacdb0c43e5ed12f7b77f02</guid>
-      <pubDate>Fri, 12 Jun 2026 11:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英ロイズがサムライ債750億円、海外勢の発行額は11年ぶり高水準</title>
-      <link>https://news.yahoo.co.jp/articles/b53cd9938e24b524dfaf2007ac8e5e45fa8b8d9f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b53cd9938e24b524dfaf2007ac8e5e45fa8b8d9f</guid>
-      <pubDate>Fri, 12 Jun 2026 10:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国で確認の食肉バエとは、ヒトへの寄生あるのか－厳戒態勢の理由</title>
-      <link>https://news.yahoo.co.jp/articles/11108f41bacb618668dc8b206f51b0010e84188b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11108f41bacb618668dc8b206f51b0010e84188b</guid>
-      <pubDate>Fri, 12 Jun 2026 09:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
