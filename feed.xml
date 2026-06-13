@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 07:23:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:49:42 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏、ホルムズ海峡再開へ14日に合意署名と表明－イランは否定</title>
@@ -60,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/82048c5d2eab0538ffe3b28c3eb78a161ae9aa4c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82048c5d2eab0538ffe3b28c3eb78a161ae9aa4c</guid>
       <pubDate>Sat, 13 Jun 2026 14:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックが先端AIの提供停止、米政府の指示で－日本に影響も</title>
+      <link>https://news.yahoo.co.jp/articles/08e327452c4e26b724d68a800247cb10dc118645</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08e327452c4e26b724d68a800247cb10dc118645</guid>
+      <pubDate>Sun, 14 Jun 2026 10:16:00 +0900</pubDate>
     </item>
     <item>
       <title>アンソロピック、米指令受け一部AIへのアクセス停止-日本に影響も</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1eb4da665a65d47635013f971c8a0f4d0af5dfd5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1eb4da665a65d47635013f971c8a0f4d0af5dfd5</guid>
       <pubDate>Fri, 12 Jun 2026 12:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三井住友出資のイエス銀、インド家計の銀行預金回帰に期待－株価好調</title>
-      <link>https://news.yahoo.co.jp/articles/c65de8ef7d948916143209f4b8379eeb985a097b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c65de8ef7d948916143209f4b8379eeb985a097b</guid>
-      <pubDate>Fri, 12 Jun 2026 12:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
