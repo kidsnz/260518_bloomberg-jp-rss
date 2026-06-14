@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:29:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:55:10 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>海外勢が日本の超長期国債に慎重姿勢、日銀正常化への懐疑根強く</title>
+      <link>https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</guid>
+      <pubDate>Mon, 15 Jun 2026 05:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>米株式向けの資金調達コストが急上昇、AI相場とスペースX上場で拍車</title>
       <link>https://news.yahoo.co.jp/articles/19b1e5f9d2f5ab4177042360644ad8f40bb64907</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</guid>
       <pubDate>Mon, 15 Jun 2026 00:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市首相、首脳会談で日英防衛協力を称賛－戦闘機開発に不透明感残る</title>
+      <link>https://news.yahoo.co.jp/articles/1b09241995a2b6ac4dbbf12ec66a6e9b4c176121</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b09241995a2b6ac4dbbf12ec66a6e9b4c176121</guid>
+      <pubDate>Sun, 14 Jun 2026 23:08:00 +0900</pubDate>
     </item>
     <item>
       <title>HSBCのシンガポール保険事業、アリアンツが最有力買い手候補</title>
@@ -60,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/32e771a76ea5f5ad1d347872df0a06ab04ffde62</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32e771a76ea5f5ad1d347872df0a06ab04ffde62</guid>
       <pubDate>Sun, 14 Jun 2026 12:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ストリーミングのロク、身売り検討－米メディア企業と統合も</title>
+      <link>https://news.yahoo.co.jp/articles/08d10ecd56de5126c2b9d23c375991ee6e4df4ce</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08d10ecd56de5126c2b9d23c375991ee6e4df4ce</guid>
+      <pubDate>Sun, 14 Jun 2026 12:04:00 +0900</pubDate>
     </item>
     <item>
       <title>円安見越した取引続く可能性、日銀利上げと介入でも－JPモルガン</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6372fa7b8d8e5c61817f305c8dd6f22464acb791</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6372fa7b8d8e5c61817f305c8dd6f22464acb791</guid>
       <pubDate>Fri, 12 Jun 2026 19:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、フィリピン国防相に入国禁止措置－対立エスカレート</title>
-      <link>https://news.yahoo.co.jp/articles/8f836cf75b80e21e6174dc1fb703d65f006d6870</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8f836cf75b80e21e6174dc1fb703d65f006d6870</guid>
-      <pubDate>Fri, 12 Jun 2026 19:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国の信用拡大、5月は市場予想上回る－4月の融資縮小から持ち直し</title>
-      <link>https://news.yahoo.co.jp/articles/f012073d2a8aa7eaefd2e54e4e71ac122821dbc7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f012073d2a8aa7eaefd2e54e4e71ac122821dbc7</guid>
-      <pubDate>Fri, 12 Jun 2026 18:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>金融庁、ウリ信用組合に一部業務停止命令-預金着服隠蔽など複数不祥事</title>
-      <link>https://news.yahoo.co.jp/articles/7f73721b3f6c08c11236f8df2e7583926c886a74</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f73721b3f6c08c11236f8df2e7583926c886a74</guid>
-      <pubDate>Fri, 12 Jun 2026 18:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
