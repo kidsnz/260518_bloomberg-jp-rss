@@ -5,10 +5,10 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 01:02:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:58:36 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>トランプ米大統領、イスラエルにレバノンへの攻撃停止を要求</title>
+      <title>トランプ氏、イスラエルにレバノン攻撃の停止要求－イラン合意巡り</title>
       <link>https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</guid>
       <pubDate>Mon, 15 Jun 2026 00:16:00 +0900</pubDate>
@@ -20,10 +20,22 @@
       <pubDate>Sun, 14 Jun 2026 22:08:00 +0900</pubDate>
     </item>
     <item>
+      <title>スイスの人口1000万人制限案、国民が投票で否決－経済への打撃を懸念</title>
+      <link>https://news.yahoo.co.jp/articles/10a5746c8589eaa1fbce94b3ae984828d6a21c5b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10a5746c8589eaa1fbce94b3ae984828d6a21c5b</guid>
+      <pubDate>Sun, 14 Jun 2026 20:11:00 +0900</pubDate>
+    </item>
+    <item>
       <title>スイスの人口1000万人制限案、国民投票で否決へ－公共放送</title>
       <link>https://news.yahoo.co.jp/articles/4077577fb66a13b050e3c7c8dc4156bfdf0278ef</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4077577fb66a13b050e3c7c8dc4156bfdf0278ef</guid>
       <pubDate>Sun, 14 Jun 2026 20:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍攻撃でインド人船員3人死亡、ルビオ氏が中東での作戦を擁護</title>
+      <link>https://news.yahoo.co.jp/articles/84faa7dcd4872807bb70df7cc93f2080a84d5a6e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/84faa7dcd4872807bb70df7cc93f2080a84d5a6e</guid>
+      <pubDate>Sun, 14 Jun 2026 16:10:00 +0900</pubDate>
     </item>
     <item>
       <title>プライベートクレジットからシフト、CLO上場投信に資金流入</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c5d118e8094c90e67717e643c49681dac21a381d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5d118e8094c90e67717e643c49681dac21a381d</guid>
       <pubDate>Fri, 12 Jun 2026 18:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ウォーバーグ、学生向け賃貸住宅のJSBを総額1900億円で買収</title>
-      <link>https://news.yahoo.co.jp/articles/2c166dcff92b478c8ed134c6faf83bfcde6a6f69</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c166dcff92b478c8ed134c6faf83bfcde6a6f69</guid>
-      <pubDate>Fri, 12 Jun 2026 17:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>CME、WTI原油と金の先物取引を24時間・週7日体制に拡大へ</title>
-      <link>https://news.yahoo.co.jp/articles/f878420ebf1c8a81ed995d8c3bcdfc7bde11f7c9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f878420ebf1c8a81ed995d8c3bcdfc7bde11f7c9</guid>
-      <pubDate>Fri, 12 Jun 2026 17:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
