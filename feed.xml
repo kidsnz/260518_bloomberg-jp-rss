@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:55:10 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:28:54 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>海外勢が日本の超長期国債に慎重姿勢、日銀正常化への懐疑根強く</title>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 15 Jun 2026 02:27:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏、イスラエルにレバノン攻撃の停止要求－イラン合意巡り</title>
+      <title>米イラン合意の行方に暗雲－トランプ氏、イスラエルに攻撃停止要求</title>
       <link>https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</guid>
       <pubDate>Mon, 15 Jun 2026 00:16:00 +0900</pubDate>
@@ -36,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/1b09241995a2b6ac4dbbf12ec66a6e9b4c176121</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b09241995a2b6ac4dbbf12ec66a6e9b4c176121</guid>
       <pubDate>Sun, 14 Jun 2026 23:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>HSBCのシンガポール保険事業、アリアンツが最有力買い手候補</title>
+      <link>https://news.yahoo.co.jp/articles/64703ec54fe5af38c04004b04e73d2751a1114c0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/64703ec54fe5af38c04004b04e73d2751a1114c0</guid>
+      <pubDate>Mon, 15 Jun 2026 22:08:00 +0900</pubDate>
     </item>
     <item>
       <title>HSBCのシンガポール保険事業、アリアンツが最有力買い手候補</title>
@@ -164,7 +170,7 @@
       <pubDate>Sat, 13 Jun 2026 14:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピックが先端AIの提供停止、米政府の指示で－日本に影響も</title>
+      <title>アンソロピック先端AI提供停止、米政府指示で－Amazonが懸念伝達か</title>
       <link>https://news.yahoo.co.jp/articles/08e327452c4e26b724d68a800247cb10dc118645</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08e327452c4e26b724d68a800247cb10dc118645</guid>
       <pubDate>Sun, 14 Jun 2026 10:16:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/479e30106e6b6254b4bb4688f483e7bae13ad5b9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/479e30106e6b6254b4bb4688f483e7bae13ad5b9</guid>
       <pubDate>Fri, 12 Jun 2026 21:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI誘導の攻撃ドローン、ウクライナで進化－スターリンク接続が利点</title>
-      <link>https://news.yahoo.co.jp/articles/6372fa7b8d8e5c61817f305c8dd6f22464acb791</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6372fa7b8d8e5c61817f305c8dd6f22464acb791</guid>
-      <pubDate>Fri, 12 Jun 2026 19:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
