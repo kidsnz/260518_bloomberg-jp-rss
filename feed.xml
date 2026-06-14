@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:09:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:08:11 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>円安見越した取引続く可能性、日銀利上げと介入でも－JPモルガン</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</guid>
       <pubDate>Sun, 14 Jun 2026 08:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏80歳に、強さ演出も消えぬ高齢不安－内憂外患で求心力低下</title>
+      <link>https://news.yahoo.co.jp/articles/fc916d8d862cfedaf23df078fc1a0014717949aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc916d8d862cfedaf23df078fc1a0014717949aa</guid>
+      <pubDate>Sun, 14 Jun 2026 05:27:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、ホルムズ海峡再開へ14日に合意署名と表明－イランは否定</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ce8e4cd1607e1cdba76ae4f7c57efd8f531a30a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce8e4cd1607e1cdba76ae4f7c57efd8f531a30a9</guid>
       <pubDate>Sat, 13 Jun 2026 14:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECBナーゲル氏、7月に追加利上げの用意－物価見通し「さらに悪化」</title>
-      <link>https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef3db8d635e19e614fae11abff30c04b8e4b1d22</guid>
-      <pubDate>Fri, 12 Jun 2026 14:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
