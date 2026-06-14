@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:28:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:55:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日銀会合注目点:31年ぶり1%に利上げへ、次のヒント探る-植田総裁欠席</title>
+      <link>https://news.yahoo.co.jp/articles/fcc53b4993fc76a8a6f094e0509eeefdd76bf565</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcc53b4993fc76a8a6f094e0509eeefdd76bf565</guid>
+      <pubDate>Mon, 15 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>英独仏伊、イランに対する関連制裁を解除する用意</title>
       <link>https://news.yahoo.co.jp/articles/1b1a7a3a553009b925ed770bccd2bb240d9bcb5d</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/34b7a84e12fe580e0317b405f96dc2cec3293569</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34b7a84e12fe580e0317b405f96dc2cec3293569</guid>
       <pubDate>Sat, 13 Jun 2026 01:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXが上場初日に急伸、時価総額2兆ドル突破－終値は19%高</title>
-      <link>https://news.yahoo.co.jp/articles/dd07b2fd442a3cb2476ef958e01768abfac92062</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd07b2fd442a3cb2476ef958e01768abfac92062</guid>
-      <pubDate>Sat, 13 Jun 2026 00:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
