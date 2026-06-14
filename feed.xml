@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:51:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:45:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日英、4兆円近いクリーンエネルギー投資で合意へ－英首相府</title>
+      <link>https://news.yahoo.co.jp/articles/a507054eb1ad6ba16dc5ec911a50645b71ad094b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a507054eb1ad6ba16dc5ec911a50645b71ad094b</guid>
+      <pubDate>Sun, 14 Jun 2026 09:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>【焦点】日米英の中銀が政策判断へ、イラン戦争のインフレ影響見極め</title>
       <link>https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6790159711906153098a92702274ced4af1634d3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6790159711906153098a92702274ced4af1634d3</guid>
       <pubDate>Fri, 12 Jun 2026 14:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国アリババ、生鮮食品宅配企業の買収目指す－美団との競争激化</title>
-      <link>https://news.yahoo.co.jp/articles/fccf82428ee331e4e948c54904ddff36e300fe12</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fccf82428ee331e4e948c54904ddff36e300fe12</guid>
-      <pubDate>Fri, 12 Jun 2026 13:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
