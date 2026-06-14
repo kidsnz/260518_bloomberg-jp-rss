@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 04:38:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:29:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米株式向けの資金調達コストが急上昇、AI相場とスペースX上場で拍車</title>
+      <link>https://news.yahoo.co.jp/articles/19b1e5f9d2f5ab4177042360644ad8f40bb64907</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19b1e5f9d2f5ab4177042360644ad8f40bb64907</guid>
+      <pubDate>Mon, 15 Jun 2026 04:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>流血の総合格闘技をホワイトハウスで、異例ずくめのトランプ氏誕生日</title>
       <link>https://news.yahoo.co.jp/articles/91b6a67b50fd06e7b858eae2b95e4173459e2b01</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7f73721b3f6c08c11236f8df2e7583926c886a74</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f73721b3f6c08c11236f8df2e7583926c886a74</guid>
       <pubDate>Fri, 12 Jun 2026 18:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国とイラン、14日にも合意の可能性－G7首脳会議前後めど</title>
-      <link>https://news.yahoo.co.jp/articles/4acc60b0a1ef4a177fa8fb77a007ef226bea2ae0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4acc60b0a1ef4a177fa8fb77a007ef226bea2ae0</guid>
-      <pubDate>Fri, 12 Jun 2026 18:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
