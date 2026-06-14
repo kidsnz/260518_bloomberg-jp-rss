@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 06:58:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:33:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油価格が下落、トランプ氏が米イラン合意とホルムズ海峡再開を表明</title>
+      <link>https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</guid>
+      <pubDate>Mon, 15 Jun 2026 07:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランとの合意は完了したと表明－ホルムズ海峡を開放へ</title>
+      <link>https://news.yahoo.co.jp/articles/02106ee99f335f53ac2b41dca1d17b25e517d35c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/02106ee99f335f53ac2b41dca1d17b25e517d35c</guid>
+      <pubDate>Mon, 15 Jun 2026 06:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米とイランとの和平合意が成立－トランプ氏と仲介国が発表</title>
+      <link>https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</guid>
+      <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
+    </item>
     <item>
       <title>海外勢が日本の超長期国債に慎重姿勢、日銀正常化への懐疑根強く</title>
       <link>https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a5b97bceba5d662da161952b631e23854cea0ba6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5b97bceba5d662da161952b631e23854cea0ba6</guid>
       <pubDate>Sat, 13 Jun 2026 23:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500種は上昇、指標改善が追い風－トランプ氏発言で原油は下げ縮小</title>
-      <link>https://news.yahoo.co.jp/articles/4c46ec3bcf0a553c195c305d9d65c4788145d32a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c46ec3bcf0a553c195c305d9d65c4788145d32a</guid>
-      <pubDate>Fri, 12 Jun 2026 23:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者マインド指数、6月は48.9に上昇－4カ月ぶりに持ち直す</title>
-      <link>https://news.yahoo.co.jp/articles/8a3a27127fc90b612450fa8aff0796ed6a6e6179</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a3a27127fc90b612450fa8aff0796ed6a6e6179</guid>
-      <pubDate>Sat, 13 Jun 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者マインド指数、6月速報値は4カ月ぶりに持ち直す</title>
-      <link>https://news.yahoo.co.jp/articles/cbb85536a3b8bf903066488fe13218a2e692fb55</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cbb85536a3b8bf903066488fe13218a2e692fb55</guid>
-      <pubDate>Fri, 12 Jun 2026 23:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
