@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:55:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:50:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】株が続伸、米・イラン和平合意を好感－円は159円台後半</title>
+      <link>https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</guid>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市首相「事態の収束に向けた大きな一歩」と歓迎－米イラン合意</title>
+      <link>https://news.yahoo.co.jp/articles/5b429ed077dd3afb188f8cd70e902c096da7df80</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b429ed077dd3afb188f8cd70e902c096da7df80</guid>
+      <pubDate>Mon, 15 Jun 2026 08:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>日銀会合注目点:31年ぶり1%に利上げへ、次のヒント探る-植田総裁欠席</title>
       <link>https://news.yahoo.co.jp/articles/fcc53b4993fc76a8a6f094e0509eeefdd76bf565</link>
@@ -38,7 +50,7 @@
       <pubDate>Mon, 15 Jun 2026 07:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油価格が下落、トランプ氏が米イラン合意とホルムズ海峡再開を表明</title>
+      <title>原油価格が下落、北海ブレント3%安－トランプ氏が米イラン合意を発表</title>
       <link>https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</guid>
       <pubDate>Mon, 15 Jun 2026 07:08:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6533d43d553f4b22292b5054f89f50fd47ff6ec7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6533d43d553f4b22292b5054f89f50fd47ff6ec7</guid>
       <pubDate>Sat, 13 Jun 2026 01:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米利下げ予想が後退、2027年開始見込む声が優勢－ブルームバーグ調査</title>
-      <link>https://news.yahoo.co.jp/articles/18750e3e4eae455d7a054ab89a6bd43abc4a80b4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18750e3e4eae455d7a054ab89a6bd43abc4a80b4</guid>
-      <pubDate>Sat, 13 Jun 2026 01:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英スターマー政権、忠実な支持者だった国防相が離反－行方は絶望的に</title>
-      <link>https://news.yahoo.co.jp/articles/34b7a84e12fe580e0317b405f96dc2cec3293569</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34b7a84e12fe580e0317b405f96dc2cec3293569</guid>
-      <pubDate>Sat, 13 Jun 2026 01:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
