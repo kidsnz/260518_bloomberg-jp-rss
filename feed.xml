@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 21:03:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 23:37:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>エヌビディア、社債発行で3.2兆円以上の調達目指す－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</guid>
+      <pubDate>Mon, 15 Jun 2026 21:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースX株が時間外で上昇、一時7.7%高－上場初日の勢い続く様相</title>
       <link>https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c92848433cad7a61853f98de627314b0a4c8969b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c92848433cad7a61853f98de627314b0a4c8969b</guid>
       <pubDate>Sat, 13 Jun 2026 14:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、中東情勢踏まえエネルギー安保など議論－G7サミットへ出発</title>
-      <link>https://news.yahoo.co.jp/articles/31eb755d30a18a214fb8bb390e9120fb2e3b9d1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31eb755d30a18a214fb8bb390e9120fb2e3b9d1b</guid>
-      <pubDate>Sat, 13 Jun 2026 14:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
