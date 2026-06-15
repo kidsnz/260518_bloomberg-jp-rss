@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 18:37:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 21:03:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースX株が時間外で上昇、一時7.7%高－上場初日の勢い続く様相</title>
+      <link>https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</guid>
+      <pubDate>Mon, 15 Jun 2026 19:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>世界の大手銀、最高AI責任者の確保急ぐ－人材は競合へ流出</title>
       <link>https://news.yahoo.co.jp/articles/8fa34dd71e24f46526d13c7766c9a664c06bfc37</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/31eb755d30a18a214fb8bb390e9120fb2e3b9d1b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31eb755d30a18a214fb8bb390e9120fb2e3b9d1b</guid>
       <pubDate>Sat, 13 Jun 2026 14:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>世界初の「トリリオネア」マスク氏、スイスGDPにほぼ匹敵の資産規模</title>
-      <link>https://news.yahoo.co.jp/articles/82048c5d2eab0538ffe3b28c3eb78a161ae9aa4c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82048c5d2eab0538ffe3b28c3eb78a161ae9aa4c</guid>
-      <pubDate>Sat, 13 Jun 2026 14:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
