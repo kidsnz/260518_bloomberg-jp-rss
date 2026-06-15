@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:09:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:31:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国の戦略石油備蓄、43年ぶり低水準－供給混乱時の柔軟性低下へ</title>
+      <link>https://news.yahoo.co.jp/articles/f401e5a3edd00fcdb251220fec78c9f121bb5f94</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f401e5a3edd00fcdb251220fec78c9f121bb5f94</guid>
+      <pubDate>Tue, 16 Jun 2026 03:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株は小幅高、朝方の上げを大きく縮小－国債は堅調</title>
+      <link>https://news.yahoo.co.jp/articles/201916b4c1ca5fc44d9dd48402d0757d18bde5f6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/201916b4c1ca5fc44d9dd48402d0757d18bde5f6</guid>
+      <pubDate>Tue, 16 Jun 2026 02:34:00 +0900</pubDate>
+    </item>
     <item>
       <title>プライベートクレジットへの銀行の投融資、ECBが監視を強化</title>
       <link>https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</link>
@@ -26,10 +38,22 @@
       <pubDate>Tue, 16 Jun 2026 01:33:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油価格、米イラン合意進展なら70ドルまで下落の可能性－JPモルガン</title>
+      <link>https://news.yahoo.co.jp/articles/b63481e46573aca242875f57380898015c3bf1f2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b63481e46573aca242875f57380898015c3bf1f2</guid>
+      <pubDate>Tue, 16 Jun 2026 01:13:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米株と国債が上昇、米・イラン合意で原油下落－ドル軟調160円台前半</title>
       <link>https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</guid>
       <pubDate>Mon, 15 Jun 2026 23:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市首相、メローニ伊首相と会談－戦闘機開発計画の進展に自信示す</title>
+      <link>https://news.yahoo.co.jp/articles/51e2190d5fae3abb83cb6daa580026533cb7db2a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51e2190d5fae3abb83cb6daa580026533cb7db2a</guid>
+      <pubDate>Mon, 15 Jun 2026 22:57:00 +0900</pubDate>
     </item>
     <item>
       <title>米製造業生産、5月に失速－サプライチェーン混乱やコスト高が重し</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/08d10ecd56de5126c2b9d23c375991ee6e4df4ce</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08d10ecd56de5126c2b9d23c375991ee6e4df4ce</guid>
       <pubDate>Sun, 14 Jun 2026 12:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円安見越した取引続く可能性、日銀利上げと介入でも－JPモルガン</title>
-      <link>https://news.yahoo.co.jp/articles/117e38404422ba5e288a72c3cd5bf68c793cfb99</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/117e38404422ba5e288a72c3cd5bf68c793cfb99</guid>
-      <pubDate>Sun, 14 Jun 2026 11:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIと地政学巡る近未来、欧州は存在感失う－中編SFで研究者ら警鐘</title>
-      <link>https://news.yahoo.co.jp/articles/584749ef29a1041e33894f5d50bc8be32be7bdad</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/584749ef29a1041e33894f5d50bc8be32be7bdad</guid>
-      <pubDate>Sun, 14 Jun 2026 10:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日英、4兆円近いクリーンエネルギー投資で合意へ－英首相府</title>
-      <link>https://news.yahoo.co.jp/articles/a507054eb1ad6ba16dc5ec911a50645b71ad094b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a507054eb1ad6ba16dc5ec911a50645b71ad094b</guid>
-      <pubDate>Sun, 14 Jun 2026 09:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【焦点】日米英の中銀が政策判断へ、イラン戦争のインフレ影響見極め</title>
-      <link>https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</guid>
-      <pubDate>Sun, 14 Jun 2026 08:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
