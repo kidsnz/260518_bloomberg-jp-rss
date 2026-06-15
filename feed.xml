@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:50:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:50:55 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>投機勢の円売り越しが9年ぶり高水準に急拡大、キャリートレード復活</title>
+      <link>https://news.yahoo.co.jp/articles/8e4803efaa27139ec87f1c47ddf8d652cbc09a9e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e4803efaa27139ec87f1c47ddf8d652cbc09a9e</guid>
+      <pubDate>Mon, 15 Jun 2026 10:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>【日本市況】株が続伸、米・イラン和平合意を好感－円は159円台後半</title>
       <link>https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</link>
@@ -50,7 +56,7 @@
       <pubDate>Mon, 15 Jun 2026 07:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油価格が下落、北海ブレント3%安－トランプ氏が米イラン合意を発表</title>
+      <title>原油急落、ブレント4%安－米イラン合意でホルムズ海峡再開の可能性</title>
       <link>https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</guid>
       <pubDate>Mon, 15 Jun 2026 07:08:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1b1fcc8b8fef44d9a7b5270d9e7b7be633647c9d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b1fcc8b8fef44d9a7b5270d9e7b7be633647c9d</guid>
       <pubDate>Sat, 13 Jun 2026 01:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イランの和平、最終的な合意文書がまとまった－パキスタン首相</title>
-      <link>https://news.yahoo.co.jp/articles/6533d43d553f4b22292b5054f89f50fd47ff6ec7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6533d43d553f4b22292b5054f89f50fd47ff6ec7</guid>
-      <pubDate>Sat, 13 Jun 2026 01:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
