@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 23:37:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:37:15 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>エヌビディア、社債発行で3.2兆円以上の調達目指す－関係者</title>
+      <title>米株と国債が上昇、米・イラン合意で原油下落－ドル軟調160円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</guid>
+      <pubDate>Mon, 15 Jun 2026 23:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米製造業生産、5月に失速－サプライチェーン混乱やコスト高が重し</title>
+      <link>https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</guid>
+      <pubDate>Mon, 15 Jun 2026 22:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、社債発行で3.2兆円以上の調達目指す－5年ぶり起債</title>
       <link>https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</guid>
       <pubDate>Mon, 15 Jun 2026 21:51:00 +0900</pubDate>
@@ -30,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/f436b8a0575013edbe6a7ceb91fe84adab87da80</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f436b8a0575013edbe6a7ceb91fe84adab87da80</guid>
       <pubDate>Mon, 15 Jun 2026 17:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECBラガルド総裁、エネルギー価格の上昇が他分野にも波及と指摘</title>
+      <link>https://news.yahoo.co.jp/articles/df1e7a5322a19b13f39293a01b73ce8c6c40e825</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df1e7a5322a19b13f39293a01b73ce8c6c40e825</guid>
+      <pubDate>Mon, 15 Jun 2026 17:04:00 +0900</pubDate>
     </item>
     <item>
       <title>日本企業は慎重姿勢も、ホルムズ海峡航行再開で－米・イラン合意成立</title>
@@ -134,7 +152,7 @@
       <pubDate>Mon, 15 Jun 2026 07:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油急落、ブレント4%超安－米イラン合意でホルムズ海峡再開に期待</title>
+      <title>原油急落、ブレント5%超下落・WTI80ドル割れ－ホルムズ通航再開期待</title>
       <link>https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</guid>
       <pubDate>Mon, 15 Jun 2026 07:08:00 +0900</pubDate>
@@ -146,7 +164,7 @@
       <pubDate>Mon, 15 Jun 2026 06:40:00 +0900</pubDate>
     </item>
     <item>
-      <title>米・イランの和平合意成立、19日署名－ホルムズ開放などトランプ氏発表</title>
+      <title>米・イランが和平で暫定合意、19日署名と同時にホルムズ海峡再開</title>
       <link>https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</guid>
       <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</guid>
       <pubDate>Sat, 13 Jun 2026 20:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースＸ、異例の手数料ゼロ－IPOの株式追加でオプション取り決め</title>
-      <link>https://news.yahoo.co.jp/articles/23ae332373482be2c3def407eb267ac8ea24f706</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/23ae332373482be2c3def407eb267ac8ea24f706</guid>
-      <pubDate>Sat, 13 Jun 2026 17:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米OpenAIを複数州の司法長官が共同で調査</title>
-      <link>https://news.yahoo.co.jp/articles/91678fa3c8656f62cc44aa77f81e52d168b6e338</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91678fa3c8656f62cc44aa77f81e52d168b6e338</guid>
-      <pubDate>Sat, 13 Jun 2026 15:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランが過去数週間にウラン貯蔵施設を封鎖、地雷を設置－CNN</title>
-      <link>https://news.yahoo.co.jp/articles/c92848433cad7a61853f98de627314b0a4c8969b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c92848433cad7a61853f98de627314b0a4c8969b</guid>
-      <pubDate>Sat, 13 Jun 2026 14:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
