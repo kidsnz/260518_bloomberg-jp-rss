@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 07:41:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:34:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、AI買い復活で株小幅高ヘ－日銀インフレ抑制後手なら円安</title>
+      <link>https://news.yahoo.co.jp/articles/dd4b4302cb3e9f5449e92fc8f7520b777f7d05e7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd4b4302cb3e9f5449e92fc8f7520b777f7d05e7</guid>
+      <pubDate>Tue, 16 Jun 2026 08:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株続伸へ、米株高追い風でAIや景気敏感に買い－過熱感は上値抑制</title>
+      <link>https://news.yahoo.co.jp/articles/523d132fe76c86cb73fe73e99f5366cba0a0bac4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/523d132fe76c86cb73fe73e99f5366cba0a0bac4</guid>
+      <pubDate>Tue, 16 Jun 2026 07:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>タクシー配車GOがきょう上場、今年最大のIPO－投資家から旺盛な需要</title>
       <link>https://news.yahoo.co.jp/articles/5d4b7c610c9189fca7f3418cbada6e5403ab3b8e</link>
@@ -72,6 +84,12 @@
       <link>https://news.yahoo.co.jp/articles/0625269389e81eb8ac2b4d92cf2f1c2c01e50c19</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0625269389e81eb8ac2b4d92cf2f1c2c01e50c19</guid>
       <pubDate>Mon, 15 Jun 2026 22:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米製造業生産、今年初の失速－戦争によるコスト高や供給制約響く</title>
+      <link>https://news.yahoo.co.jp/articles/b8a61990690c12f5bdd2299c880bb96470a3bc05</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8a61990690c12f5bdd2299c880bb96470a3bc05</guid>
+      <pubDate>Tue, 16 Jun 2026 22:32:00 +0900</pubDate>
     </item>
     <item>
       <title>米製造業生産、5月に失速－サプライチェーン混乱やコスト高が重し</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/16248f8e0b26f56ccf5bc8a3f750dad07df6a825</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16248f8e0b26f56ccf5bc8a3f750dad07df6a825</guid>
       <pubDate>Sun, 14 Jun 2026 23:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、首脳会談で日英防衛協力を称賛－戦闘機開発に不透明感残る</title>
-      <link>https://news.yahoo.co.jp/articles/1b09241995a2b6ac4dbbf12ec66a6e9b4c176121</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b09241995a2b6ac4dbbf12ec66a6e9b4c176121</guid>
-      <pubDate>Sun, 14 Jun 2026 23:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>HSBCのシンガポール保険事業、アリアンツが最有力買い手候補</title>
-      <link>https://news.yahoo.co.jp/articles/64703ec54fe5af38c04004b04e73d2751a1114c0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/64703ec54fe5af38c04004b04e73d2751a1114c0</guid>
-      <pubDate>Mon, 15 Jun 2026 22:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>HSBCのシンガポール保険事業、アリアンツが最有力買い手候補</title>
-      <link>https://news.yahoo.co.jp/articles/a515f641ca943972a40ac07d32136cc5eabe7af5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a515f641ca943972a40ac07d32136cc5eabe7af5</guid>
-      <pubDate>Sun, 14 Jun 2026 22:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
