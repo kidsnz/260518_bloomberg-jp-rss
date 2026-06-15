@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 03:31:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:09:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>プライベートクレジットへの銀行の投融資、ECBが監視を強化</title>
+      <link>https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</guid>
+      <pubDate>Tue, 16 Jun 2026 02:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、米政権と協議へ－最先端AIへの外国人アクセス禁止で</title>
       <link>https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</link>
@@ -36,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</guid>
       <pubDate>Mon, 15 Jun 2026 21:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株にさらなる上昇余地の可能性－米イラン合意で資金シフト</title>
+      <link>https://news.yahoo.co.jp/articles/4affb2d0cd95e3bd06d11ec571eee5c4c73fb20f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4affb2d0cd95e3bd06d11ec571eee5c4c73fb20f</guid>
+      <pubDate>Mon, 15 Jun 2026 21:03:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX株が時間外で上昇、一時7.7%高－上場初日の勢い続く様相</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b19a0afcee6578f8cad476b4794eae6930c3d2e</guid>
       <pubDate>Sun, 14 Jun 2026 08:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏80歳に、強さ演出も消えぬ高齢不安－内憂外患で求心力低下</title>
-      <link>https://news.yahoo.co.jp/articles/fc916d8d862cfedaf23df078fc1a0014717949aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc916d8d862cfedaf23df078fc1a0014717949aa</guid>
-      <pubDate>Sun, 14 Jun 2026 05:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、ホルムズ海峡再開へ14日に合意署名と表明－イランは否定</title>
-      <link>https://news.yahoo.co.jp/articles/d66b045fc3816f6227070caec6e347a89015edb3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d66b045fc3816f6227070caec6e347a89015edb3</guid>
-      <pubDate>Sun, 14 Jun 2026 01:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
