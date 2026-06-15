@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:37:15 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:31:18 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピック、米政権と協議へ－最先端AIへの外国人アクセス禁止で</title>
+      <link>https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</guid>
+      <pubDate>Tue, 16 Jun 2026 01:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油急落でWTI一時80ドル割れ、ホルムズ再開期待－ブレントは5％超安</title>
+      <link>https://news.yahoo.co.jp/articles/d08741d58a945d7ef01b6e0c546458020ee8b22e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d08741d58a945d7ef01b6e0c546458020ee8b22e</guid>
+      <pubDate>Tue, 16 Jun 2026 01:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>米株と国債が上昇、米・イラン合意で原油下落－ドル軟調160円台前半</title>
       <link>https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</link>
@@ -30,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</guid>
       <pubDate>Mon, 15 Jun 2026 19:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英国、16歳未満のソーシャルメディア利用を全面的に禁止へ</title>
+      <link>https://news.yahoo.co.jp/articles/9fdc87543c68ab370419188176c5d9843505c50e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9fdc87543c68ab370419188176c5d9843505c50e</guid>
+      <pubDate>Mon, 15 Jun 2026 18:38:00 +0900</pubDate>
     </item>
     <item>
       <title>世界の大手銀、最高AI責任者の確保急ぐ－人材は競合へ流出</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d66b045fc3816f6227070caec6e347a89015edb3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d66b045fc3816f6227070caec6e347a89015edb3</guid>
       <pubDate>Sun, 14 Jun 2026 01:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イラン合意への期待高まる、パキスタン首相「24時間以内」を想定</title>
-      <link>https://news.yahoo.co.jp/articles/85593e9d4a43d3c908ee454a52ca64350fc7bd0d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85593e9d4a43d3c908ee454a52ca64350fc7bd0d</guid>
-      <pubDate>Sun, 14 Jun 2026 20:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イラン合意への期待高まる、パキスタン首相「24時間以内」を想定</title>
-      <link>https://news.yahoo.co.jp/articles/603f778bfb1683c19828116a898fb408c4cb3ae4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/603f778bfb1683c19828116a898fb408c4cb3ae4</guid>
-      <pubDate>Sat, 13 Jun 2026 20:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、故ハメネイ師を7月9日にマシュハドで埋葬へ</title>
-      <link>https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4425b0a829a6c83a527670558343d12ddc4192dc</guid>
-      <pubDate>Sat, 13 Jun 2026 20:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
