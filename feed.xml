@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 14:15:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:16:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏が仏産ワイン100%関税も、デジタル課税撤廃要求－NYポスト</title>
+      <link>https://news.yahoo.co.jp/articles/6aed67d72c15e5a9cb4670550d69fd1c6b8aa7c5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6aed67d72c15e5a9cb4670550d69fd1c6b8aa7c5</guid>
+      <pubDate>Mon, 15 Jun 2026 15:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ再開へ業界なお慎重、何ヶ月もの期待空振りで－数百隻足止め</title>
+      <link>https://news.yahoo.co.jp/articles/ecda7816eaf32bab67ba508fb6f85e67791ee2a2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ecda7816eaf32bab67ba508fb6f85e67791ee2a2</guid>
+      <pubDate>Mon, 15 Jun 2026 14:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、先端AI提供禁止を巡りトランプ政権と協議急ぐ－WSJ</title>
       <link>https://news.yahoo.co.jp/articles/62df1ee99a18b15b6aec9bee821b13f594c20b8a</link>
@@ -44,7 +56,7 @@
       <pubDate>Mon, 15 Jun 2026 09:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】米イラン和平合意でトリプル高、日経平均初の6万9000円</title>
+      <title>【日本市況】日経平均急騰し初の6万9000円、米イラン和平合意-債券高</title>
       <link>https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</guid>
       <pubDate>Mon, 15 Jun 2026 09:00:00 +0900</pubDate>
@@ -116,7 +128,7 @@
       <pubDate>Mon, 15 Jun 2026 04:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>流血の総合格闘技をホワイトハウスで、異例ずくめのトランプ氏誕生日</title>
+      <title>トランプ氏が80歳、異例の誕生日お祝い－流血の総合格闘技UFCをホワイトハウスで</title>
       <link>https://news.yahoo.co.jp/articles/91b6a67b50fd06e7b858eae2b95e4173459e2b01</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91b6a67b50fd06e7b858eae2b95e4173459e2b01</guid>
       <pubDate>Mon, 15 Jun 2026 02:27:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1678fdf0cff13bf8eed9db464047426b331e0203</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1678fdf0cff13bf8eed9db464047426b331e0203</guid>
       <pubDate>Sat, 13 Jun 2026 05:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドル強気ポジション、2025年2月以来の高水準－中東での戦争が影響</title>
-      <link>https://news.yahoo.co.jp/articles/896b4f8668f858b1241b2edb624aedaba53d277f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/896b4f8668f858b1241b2edb624aedaba53d277f</guid>
-      <pubDate>Sat, 13 Jun 2026 05:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX、データセンター運用で壁－アンソロピック向けに資源転用</title>
-      <link>https://news.yahoo.co.jp/articles/d0d7b283cc126b6982b4191ddd0db00d330d9e76</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d0d7b283cc126b6982b4191ddd0db00d330d9e76</guid>
-      <pubDate>Sat, 13 Jun 2026 04:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
