@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 06:31:48 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 07:41:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>タクシー配車GOがきょう上場、今年最大のIPO－投資家から旺盛な需要</title>
+      <link>https://news.yahoo.co.jp/articles/5d4b7c610c9189fca7f3418cbada6e5403ab3b8e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d4b7c610c9189fca7f3418cbada6e5403ab3b8e</guid>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国の戦略石油備蓄、43年ぶり低水準－供給混乱時の柔軟性低下へ</title>
       <link>https://news.yahoo.co.jp/articles/f401e5a3edd00fcdb251220fec78c9f121bb5f94</link>
@@ -32,7 +38,7 @@
       <pubDate>Tue, 16 Jun 2026 01:40:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油急落でWTI一時80ドル割れ、ホルムズ再開期待－ブレントは5％超安</title>
+      <title>原油は大幅続落、WTI先物は一時80ドル割れ－ホルムズ通航再開見通し</title>
       <link>https://news.yahoo.co.jp/articles/d08741d58a945d7ef01b6e0c546458020ee8b22e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d08741d58a945d7ef01b6e0c546458020ee8b22e</guid>
       <pubDate>Tue, 16 Jun 2026 01:33:00 +0900</pubDate>
@@ -42,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/b63481e46573aca242875f57380898015c3bf1f2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b63481e46573aca242875f57380898015c3bf1f2</guid>
       <pubDate>Tue, 16 Jun 2026 01:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米NAHB住宅市場指数、6月は予想外に低下－南部で大幅に落ち込む</title>
+      <link>https://news.yahoo.co.jp/articles/646b0a570fc823d434d57b9411e92bd3318aa094</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/646b0a570fc823d434d57b9411e92bd3318aa094</guid>
+      <pubDate>Mon, 15 Jun 2026 23:24:00 +0900</pubDate>
     </item>
     <item>
       <title>米株と国債が上昇、米・イラン合意で原油下落－ドル軟調160円台前半</title>
@@ -56,10 +68,22 @@
       <pubDate>Mon, 15 Jun 2026 22:57:00 +0900</pubDate>
     </item>
     <item>
+      <title>米セールスフォース、AI顧客対応のフィンを36億ドルで買収へ</title>
+      <link>https://news.yahoo.co.jp/articles/0625269389e81eb8ac2b4d92cf2f1c2c01e50c19</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0625269389e81eb8ac2b4d92cf2f1c2c01e50c19</guid>
+      <pubDate>Mon, 15 Jun 2026 22:46:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米製造業生産、5月に失速－サプライチェーン混乱やコスト高が重し</title>
       <link>https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</guid>
       <pubDate>Mon, 15 Jun 2026 22:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、社債発行で4兆円調達－AI関連企業の大型起債続く</title>
+      <link>https://news.yahoo.co.jp/articles/71ef5e0298e98cff1fd1edc0de0b3bf132a301da</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71ef5e0298e98cff1fd1edc0de0b3bf132a301da</guid>
+      <pubDate>Tue, 16 Jun 2026 21:51:00 +0900</pubDate>
     </item>
     <item>
       <title>エヌビディア、社債発行で3.2兆円以上の調達目指す－5年ぶり起債</title>
@@ -72,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/4affb2d0cd95e3bd06d11ec571eee5c4c73fb20f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4affb2d0cd95e3bd06d11ec571eee5c4c73fb20f</guid>
       <pubDate>Mon, 15 Jun 2026 21:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株が上場2日目に20%高、時価総額2.5兆ドル超－世界6位級</title>
+      <link>https://news.yahoo.co.jp/articles/8b29347370f8381e4faddd403199f34e20a2ddbb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b29347370f8381e4faddd403199f34e20a2ddbb</guid>
+      <pubDate>Tue, 16 Jun 2026 19:55:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX株が時間外で上昇、一時7.7%高－上場初日の勢い続く様相</title>
@@ -219,6 +249,12 @@
     </item>
     <item>
       <title>米・イランが和平で暫定合意、19日署名と同時にホルムズ海峡再開</title>
+      <link>https://news.yahoo.co.jp/articles/42558bad7d5f7e4ce33147a42be653e3ba167331</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42558bad7d5f7e4ce33147a42be653e3ba167331</guid>
+      <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米・イランが和平で暫定合意、19日署名と同時にホルムズ海峡再開</title>
       <link>https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</guid>
       <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a515f641ca943972a40ac07d32136cc5eabe7af5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a515f641ca943972a40ac07d32136cc5eabe7af5</guid>
       <pubDate>Sun, 14 Jun 2026 22:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スイスの人口1000万人制限案、国民が投票で否決－経済への打撃を懸念</title>
-      <link>https://news.yahoo.co.jp/articles/10a5746c8589eaa1fbce94b3ae984828d6a21c5b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10a5746c8589eaa1fbce94b3ae984828d6a21c5b</guid>
-      <pubDate>Sun, 14 Jun 2026 20:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スイスの人口1000万人制限案、国民投票で否決へ－公共放送</title>
-      <link>https://news.yahoo.co.jp/articles/4077577fb66a13b050e3c7c8dc4156bfdf0278ef</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4077577fb66a13b050e3c7c8dc4156bfdf0278ef</guid>
-      <pubDate>Sun, 14 Jun 2026 20:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍攻撃でインド人船員3人死亡、ルビオ氏が中東での作戦を擁護</title>
-      <link>https://news.yahoo.co.jp/articles/84faa7dcd4872807bb70df7cc93f2080a84d5a6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/84faa7dcd4872807bb70df7cc93f2080a84d5a6e</guid>
-      <pubDate>Sun, 14 Jun 2026 16:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジットからシフト、CLO上場投信に資金流入</title>
-      <link>https://news.yahoo.co.jp/articles/5f5feca2350cccf8358f77a28b928470f1b669e2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f5feca2350cccf8358f77a28b928470f1b669e2</guid>
-      <pubDate>Sun, 14 Jun 2026 14:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米NBA、ニックスが53年ぶり王者に－ニューヨークのファン歓喜</title>
-      <link>https://news.yahoo.co.jp/articles/32e771a76ea5f5ad1d347872df0a06ab04ffde62</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32e771a76ea5f5ad1d347872df0a06ab04ffde62</guid>
-      <pubDate>Sun, 14 Jun 2026 12:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ストリーミングのロク、身売り検討－米メディア企業と統合も</title>
-      <link>https://news.yahoo.co.jp/articles/08d10ecd56de5126c2b9d23c375991ee6e4df4ce</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08d10ecd56de5126c2b9d23c375991ee6e4df4ce</guid>
-      <pubDate>Sun, 14 Jun 2026 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
