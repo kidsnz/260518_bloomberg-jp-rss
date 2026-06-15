@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:50:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:09:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ラピダス、英半導体センターと基本合意－将来の半導体製造で連携</title>
+      <link>https://news.yahoo.co.jp/articles/02128eef8b09cfe1e07ecb8d4f66633371b56c62</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/02128eef8b09cfe1e07ecb8d4f66633371b56c62</guid>
+      <pubDate>Mon, 15 Jun 2026 10:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>投機勢の円売り越しが9年ぶり高水準に急拡大、キャリートレード復活</title>
       <link>https://news.yahoo.co.jp/articles/8e4803efaa27139ec87f1c47ddf8d652cbc09a9e</link>
@@ -14,7 +20,13 @@
       <pubDate>Mon, 15 Jun 2026 10:20:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株が続伸、米・イラン和平合意を好感－円は159円台後半</title>
+      <title>LNGタンカー、ホルムズ海峡に向かって航行－米イラン合意で再開期待</title>
+      <link>https://news.yahoo.co.jp/articles/482a8fe95eb049d9f6d9c9598b9f6801a04fc157</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/482a8fe95eb049d9f6d9c9598b9f6801a04fc157</guid>
+      <pubDate>Mon, 15 Jun 2026 09:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】米イラン和平合意でトリプル高、日経平均初の6万9000円</title>
       <link>https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d47b836b48b6c7839893a6e1da9ea5a963baf7d7</guid>
       <pubDate>Mon, 15 Jun 2026 09:00:00 +0900</pubDate>
@@ -68,7 +80,7 @@
       <pubDate>Mon, 15 Jun 2026 06:40:00 +0900</pubDate>
     </item>
     <item>
-      <title>米とイランの和平合意が成立－ホルムズ海峡開放などトランプ氏が発表</title>
+      <title>米・イランの和平合意成立、19日署名－ホルムズ開放などトランプ氏発表</title>
       <link>https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</guid>
       <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/844bad029e8fbda4b2c7aa302d10d1a2b70274b4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/844bad029e8fbda4b2c7aa302d10d1a2b70274b4</guid>
       <pubDate>Sat, 13 Jun 2026 02:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】米イラン合意期待高まり債券上昇－株も最高値圏に</title>
-      <link>https://news.yahoo.co.jp/articles/1eb6aacada2cf85a25df6de55f02490a0270afba</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1eb6aacada2cf85a25df6de55f02490a0270afba</guid>
-      <pubDate>Sat, 13 Jun 2026 02:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB利上げ直後、金融大手は早くも利下げ転換見込む-過去の経験念頭に</title>
-      <link>https://news.yahoo.co.jp/articles/1b1fcc8b8fef44d9a7b5270d9e7b7be633647c9d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b1fcc8b8fef44d9a7b5270d9e7b7be633647c9d</guid>
-      <pubDate>Sat, 13 Jun 2026 01:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
