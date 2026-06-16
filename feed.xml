@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:03:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:29:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>S&amp;P500種が最高値圏で失速、FOMC見極め－原油続落で国債利回り低下</title>
+      <link>https://news.yahoo.co.jp/articles/13318ec606c4b2cfdd6aacf180f08bc40b00d3f8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/13318ec606c4b2cfdd6aacf180f08bc40b00d3f8</guid>
+      <pubDate>Wed, 17 Jun 2026 02:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>【欧州市況】株は小幅続伸、債券も上昇－米イラン合意署名見通し好感</title>
       <link>https://news.yahoo.co.jp/articles/3dc72e8a1630da048871062567582ad2ee8c91db</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</guid>
       <pubDate>Mon, 15 Jun 2026 23:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、メローニ伊首相と会談－戦闘機開発計画の進展に自信示す</title>
-      <link>https://news.yahoo.co.jp/articles/51e2190d5fae3abb83cb6daa580026533cb7db2a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51e2190d5fae3abb83cb6daa580026533cb7db2a</guid>
-      <pubDate>Mon, 15 Jun 2026 22:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
