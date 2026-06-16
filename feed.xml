@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 22:06:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:15:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米住宅着工件数、2020年以来の低水準－許可件数も減少</title>
+      <link>https://news.yahoo.co.jp/articles/d168f699659319f14168f36657d65b4ceb09aa25</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d168f699659319f14168f36657d65b4ceb09aa25</guid>
+      <pubDate>Tue, 16 Jun 2026 21:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡、空タンカーの動向に注目－持続的和平への信頼度映す</title>
+      <link>https://news.yahoo.co.jp/articles/70f247ea022f58de73099a3ed759411e036d885f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/70f247ea022f58de73099a3ed759411e036d885f</guid>
+      <pubDate>Tue, 16 Jun 2026 21:42:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースX、AI新興企業カーソルを正式買収－企業価値600億ドルと評価</title>
       <link>https://news.yahoo.co.jp/articles/85e6d716615591e4fd7d7512e4b7b2a2b59d9bfe</link>
@@ -42,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</guid>
       <pubDate>Tue, 16 Jun 2026 18:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXが時間外で一時11％高－上場後3営業日で50%超上昇の勢い</title>
+      <link>https://news.yahoo.co.jp/articles/ea0b49034fba879ac8aa059051f50c0590dfaebd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ea0b49034fba879ac8aa059051f50c0590dfaebd</guid>
+      <pubDate>Tue, 16 Jun 2026 17:39:00 +0900</pubDate>
     </item>
     <item>
       <title>中国不動産株が低迷、2024年の政府刺激策前の水準に逆戻り</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</guid>
       <pubDate>Mon, 15 Jun 2026 21:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株にさらなる上昇余地の可能性－米イラン合意で資金シフト</title>
-      <link>https://news.yahoo.co.jp/articles/4affb2d0cd95e3bd06d11ec571eee5c4c73fb20f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4affb2d0cd95e3bd06d11ec571eee5c4c73fb20f</guid>
-      <pubDate>Mon, 15 Jun 2026 21:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株が上場2日目に20%高、時価総額2.5兆ドル超－世界6位級</title>
-      <link>https://news.yahoo.co.jp/articles/8b29347370f8381e4faddd403199f34e20a2ddbb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b29347370f8381e4faddd403199f34e20a2ddbb</guid>
-      <pubDate>Tue, 16 Jun 2026 19:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株が時間外で上昇、一時7.7%高－上場初日の勢い続く様相</title>
-      <link>https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a63a715c132b995820ab25a9c5f7a08e8d0bee3</guid>
-      <pubDate>Mon, 15 Jun 2026 19:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
