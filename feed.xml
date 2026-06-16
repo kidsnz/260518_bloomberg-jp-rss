@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:01:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:59:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日経平均は反落へ、米ハイテク株安でAI関連売り－原油下落は支え</title>
+      <link>https://news.yahoo.co.jp/articles/b2cf59af169e075ed6159a555132f77845045bf1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2cf59af169e075ed6159a555132f77845045bf1</guid>
+      <pubDate>Wed, 17 Jun 2026 07:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>金利上昇に備え、家賃アップできる都市部に営業シフト－大東建託社長</title>
       <link>https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/201916b4c1ca5fc44d9dd48402d0757d18bde5f6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/201916b4c1ca5fc44d9dd48402d0757d18bde5f6</guid>
       <pubDate>Tue, 16 Jun 2026 02:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジットへの銀行の投融資、ECBが監視を強化</title>
-      <link>https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</guid>
-      <pubDate>Tue, 16 Jun 2026 02:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
