@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 09:52:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:54:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>FRB利上げは今年3回と予想、「米景気過熱」が基本シナリオに－PGIM</title>
+      <link>https://news.yahoo.co.jp/articles/d415f81b2523f60dfa8646433ab261243853231f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d415f81b2523f60dfa8646433ab261243853231f</guid>
+      <pubDate>Tue, 16 Jun 2026 10:13:00 +0900</pubDate>
+    </item>
     <item>
       <title>【日本市況】円は160円前半、日銀利上げペース警戒が重し－TOPIX反落</title>
       <link>https://news.yahoo.co.jp/articles/9aafe19e1dc76223aed92e6f2df6c5fec05b373e</link>
@@ -44,7 +50,7 @@
       <pubDate>Tue, 16 Jun 2026 07:54:00 +0900</pubDate>
     </item>
     <item>
-      <title>タクシー配車GOがきょう上場、今年最大のIPO－投資家から旺盛な需要</title>
+      <title>タクシー配車GOが上場、初値は公開価格21%上回る－今年最大のIPO</title>
       <link>https://news.yahoo.co.jp/articles/5d4b7c610c9189fca7f3418cbada6e5403ab3b8e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d4b7c610c9189fca7f3418cbada6e5403ab3b8e</guid>
       <pubDate>Tue, 16 Jun 2026 06:00:00 +0900</pubDate>
@@ -156,6 +162,12 @@
       <link>https://news.yahoo.co.jp/articles/9fdc87543c68ab370419188176c5d9843505c50e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9fdc87543c68ab370419188176c5d9843505c50e</guid>
       <pubDate>Mon, 15 Jun 2026 18:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン、60日限定でホルムズ海峡の無償自由航行を容認－ファルス</title>
+      <link>https://news.yahoo.co.jp/articles/99ebe3e4f1743cc0051a96ef76532ecb441df183</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/99ebe3e4f1743cc0051a96ef76532ecb441df183</guid>
+      <pubDate>Mon, 15 Jun 2026 18:32:00 +0900</pubDate>
     </item>
     <item>
       <title>世界の大手銀、最高AI責任者の確保急ぐ－人材は競合へ流出</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/42558bad7d5f7e4ce33147a42be653e3ba167331</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42558bad7d5f7e4ce33147a42be653e3ba167331</guid>
       <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イランが和平で暫定合意、19日署名と同時にホルムズ海峡再開</title>
-      <link>https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b612e0f27c87ecfc7b1b3e5c9b7c7dcd55ba1111</guid>
-      <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>海外勢が日本の超長期国債に慎重姿勢、日銀正常化への懐疑根強く</title>
-      <link>https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</guid>
-      <pubDate>Mon, 15 Jun 2026 05:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
