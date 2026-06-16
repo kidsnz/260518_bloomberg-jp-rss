@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:17:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:16:02 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウクライナがドローンでモスクワ攻撃、石油精製所で火災発生か</title>
+      <link>https://news.yahoo.co.jp/articles/9225cb3f9e16c94ee0697f49aab13eca286e4ad3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9225cb3f9e16c94ee0697f49aab13eca286e4ad3</guid>
+      <pubDate>Tue, 16 Jun 2026 18:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国、ウクライナで戦うロシア軍兵士に訓練提供－EU外相が指摘</title>
+      <link>https://news.yahoo.co.jp/articles/afd2d9ae62e5f0fc570f74402668b9284ad469a8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afd2d9ae62e5f0fc570f74402668b9284ad469a8</guid>
+      <pubDate>Tue, 16 Jun 2026 18:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>世界の富豪500人の資産、1日で約54兆円増－マスク氏がけん引</title>
+      <link>https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</guid>
+      <pubDate>Tue, 16 Jun 2026 18:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国不動産株が低迷、2024年の政府刺激策前の水準に逆戻り</title>
       <link>https://news.yahoo.co.jp/articles/603a83fb990ff3791d594346cf7be13d80a5d653</link>
@@ -68,7 +86,7 @@
       <pubDate>Tue, 16 Jun 2026 15:22:00 +0900</pubDate>
     </item>
     <item>
-      <title>日銀1%利上げはインフレ懸念を反映、円安反転には課題もー専門家見解</title>
+      <title>日銀1%利上げはインフレ懸念反映、円安反転へ課題もー専門家見解</title>
       <link>https://news.yahoo.co.jp/articles/1ce520ee66863eb067e01b657adfb5b31c30c8ce</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1ce520ee66863eb067e01b657adfb5b31c30c8ce</guid>
       <pubDate>Tue, 16 Jun 2026 13:33:00 +0900</pubDate>
@@ -188,7 +206,7 @@
       <pubDate>Tue, 16 Jun 2026 02:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピック、米政権と協議へ－最先端AIへの外国人アクセス禁止で</title>
+      <title>アンソロピック、米政権と協議－最先端AIへの外国人アクセス停止巡り</title>
       <link>https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</guid>
       <pubDate>Tue, 16 Jun 2026 01:40:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8fa34dd71e24f46526d13c7766c9a664c06bfc37</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8fa34dd71e24f46526d13c7766c9a664c06bfc37</guid>
       <pubDate>Mon, 15 Jun 2026 17:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州株は高値更新、米イラン合意を好感－エネルギー・防衛株は下落</title>
-      <link>https://news.yahoo.co.jp/articles/f436b8a0575013edbe6a7ceb91fe84adab87da80</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f436b8a0575013edbe6a7ceb91fe84adab87da80</guid>
-      <pubDate>Mon, 15 Jun 2026 17:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECBラガルド総裁、エネルギー価格の上昇が他分野にも波及と指摘</title>
-      <link>https://news.yahoo.co.jp/articles/df1e7a5322a19b13f39293a01b73ce8c6c40e825</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df1e7a5322a19b13f39293a01b73ce8c6c40e825</guid>
-      <pubDate>Mon, 15 Jun 2026 17:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本企業は慎重姿勢も、ホルムズ海峡航行再開で－米・イラン合意成立</title>
-      <link>https://news.yahoo.co.jp/articles/585a4d5383ee92155b034bb5193f94ec59ba8c11</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/585a4d5383ee92155b034bb5193f94ec59ba8c11</guid>
-      <pubDate>Mon, 15 Jun 2026 16:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
