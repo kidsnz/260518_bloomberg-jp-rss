@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:54:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:09:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国の消費が減少に転じる、コロナ禍以後で初－リスク浮き彫り</title>
+      <link>https://news.yahoo.co.jp/articles/1efeb532b09434a0f27b82fc61193c5ddbd918c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1efeb532b09434a0f27b82fc61193c5ddbd918c4</guid>
+      <pubDate>Tue, 16 Jun 2026 11:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡、米イラン合意でどうなるか－残されたハードルは？</title>
+      <link>https://news.yahoo.co.jp/articles/6567c3b69ac1405ddd951021212115bcfe68b870</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6567c3b69ac1405ddd951021212115bcfe68b870</guid>
+      <pubDate>Tue, 16 Jun 2026 10:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米副大統領「イランに一銭も渡さない」－ホルムズは通航料なしで開放</title>
+      <link>https://news.yahoo.co.jp/articles/fa09f243c2e2ed29aead7486580e898f2a4309f1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa09f243c2e2ed29aead7486580e898f2a4309f1</guid>
+      <pubDate>Tue, 16 Jun 2026 10:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>FRB利上げは今年3回と予想、「米景気過熱」が基本シナリオに－PGIM</title>
       <link>https://news.yahoo.co.jp/articles/d415f81b2523f60dfa8646433ab261243853231f</link>
@@ -14,7 +32,7 @@
       <pubDate>Tue, 16 Jun 2026 10:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】円は160円前半、日銀利上げペース警戒が重し－TOPIX反落</title>
+      <title>【日本市況】円は160円前半で強含み、日銀利上げ姿勢見極め－株反落</title>
       <link>https://news.yahoo.co.jp/articles/9aafe19e1dc76223aed92e6f2df6c5fec05b373e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9aafe19e1dc76223aed92e6f2df6c5fec05b373e</guid>
       <pubDate>Tue, 16 Jun 2026 09:25:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/41a93ecadee596b425cf390e82d8a4dd9dc3095c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41a93ecadee596b425cf390e82d8a4dd9dc3095c</guid>
       <pubDate>Mon, 15 Jun 2026 07:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油急落、ブレント5%超下落・WTI80ドル割れ－ホルムズ通航再開期待</title>
-      <link>https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96289233624470e252d4fe1a1f7e974ac65c62cb</guid>
-      <pubDate>Mon, 15 Jun 2026 07:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イランとの合意は完了したと表明－ホルムズ海峡を開放へ</title>
-      <link>https://news.yahoo.co.jp/articles/02106ee99f335f53ac2b41dca1d17b25e517d35c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/02106ee99f335f53ac2b41dca1d17b25e517d35c</guid>
-      <pubDate>Mon, 15 Jun 2026 06:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イランが和平で暫定合意、19日署名と同時にホルムズ海峡再開</title>
-      <link>https://news.yahoo.co.jp/articles/42558bad7d5f7e4ce33147a42be653e3ba167331</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42558bad7d5f7e4ce33147a42be653e3ba167331</guid>
-      <pubDate>Mon, 15 Jun 2026 06:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
