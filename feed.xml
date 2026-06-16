@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:15:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 02:14:59 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米住宅着工件数、2020年以来の低水準－許可件数も減少</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/70f247ea022f58de73099a3ed759411e036d885f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/70f247ea022f58de73099a3ed759411e036d885f</guid>
       <pubDate>Tue, 16 Jun 2026 21:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロコスやメルカートなどヘッジファンド堅調、中東情勢揺れる5月に利益</title>
+      <link>https://news.yahoo.co.jp/articles/740e5236f03a55213bcef3f3d932a3765c758e7e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/740e5236f03a55213bcef3f3d932a3765c758e7e</guid>
+      <pubDate>Tue, 16 Jun 2026 21:16:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX、AI新興企業カーソルを正式買収－企業価値600億ドルと評価</title>
@@ -54,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</guid>
       <pubDate>Tue, 16 Jun 2026 18:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXが上場3日目も急騰、時価総額でアマゾン抜く勢い－買い続く</title>
+      <link>https://news.yahoo.co.jp/articles/13345fa3b46857473c2f6e7fd7ae56a83ae0f766</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/13345fa3b46857473c2f6e7fd7ae56a83ae0f766</guid>
+      <pubDate>Tue, 16 Jun 2026 17:39:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースXが時間外で一時11％高－上場後3営業日で50%超上昇の勢い</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</guid>
       <pubDate>Mon, 15 Jun 2026 22:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、社債発行で4兆円調達－AI関連企業の大型起債続く</title>
-      <link>https://news.yahoo.co.jp/articles/71ef5e0298e98cff1fd1edc0de0b3bf132a301da</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71ef5e0298e98cff1fd1edc0de0b3bf132a301da</guid>
-      <pubDate>Tue, 16 Jun 2026 21:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、社債発行で3.2兆円以上の調達目指す－5年ぶり起債</title>
-      <link>https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9e3124e3c8605ea45dcfe3b0591ab7826eaa65b</guid>
-      <pubDate>Mon, 15 Jun 2026 21:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
