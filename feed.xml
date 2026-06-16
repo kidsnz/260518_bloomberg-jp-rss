@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:49:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:03:12 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>【欧州市況】株は小幅続伸、債券も上昇－米イラン合意署名見通し好感</title>
       <link>https://news.yahoo.co.jp/articles/3dc72e8a1630da048871062567582ad2ee8c91db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3dc72e8a1630da048871062567582ad2ee8c91db</guid>
       <pubDate>Wed, 17 Jun 2026 02:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国・イランは19日に合意署名へ、双方が勝利主張－海峡再開は不透明</title>
+      <link>https://news.yahoo.co.jp/articles/207b42e7e76f54a30669427ab891b997fceebe44</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/207b42e7e76f54a30669427ab891b997fceebe44</guid>
+      <pubDate>Wed, 17 Jun 2026 01:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油価格高騰の影響はこれから、表面化に備え必要－ECBレーン理事</title>
+      <link>https://news.yahoo.co.jp/articles/9b2df1159e880aadd7e937ccf2a494c211983a63</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b2df1159e880aadd7e937ccf2a494c211983a63</guid>
+      <pubDate>Wed, 17 Jun 2026 01:42:00 +0900</pubDate>
     </item>
     <item>
       <title>米住宅着工件数、2020年以来の低水準－許可件数も減少</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/51e2190d5fae3abb83cb6daa580026533cb7db2a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51e2190d5fae3abb83cb6daa580026533cb7db2a</guid>
       <pubDate>Mon, 15 Jun 2026 22:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米セールスフォース、AI顧客対応のフィンを36億ドルで買収へ</title>
-      <link>https://news.yahoo.co.jp/articles/0625269389e81eb8ac2b4d92cf2f1c2c01e50c19</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0625269389e81eb8ac2b4d92cf2f1c2c01e50c19</guid>
-      <pubDate>Mon, 15 Jun 2026 22:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米製造業生産、今年初の失速－戦争によるコスト高や供給制約響く</title>
-      <link>https://news.yahoo.co.jp/articles/b8a61990690c12f5bdd2299c880bb96470a3bc05</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8a61990690c12f5bdd2299c880bb96470a3bc05</guid>
-      <pubDate>Tue, 16 Jun 2026 22:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
