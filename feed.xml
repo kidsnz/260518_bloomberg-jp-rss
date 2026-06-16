@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 02:14:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:49:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】株は小幅続伸、債券も上昇－米イラン合意署名見通し好感</title>
+      <link>https://news.yahoo.co.jp/articles/3dc72e8a1630da048871062567582ad2ee8c91db</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3dc72e8a1630da048871062567582ad2ee8c91db</guid>
+      <pubDate>Wed, 17 Jun 2026 02:07:00 +0900</pubDate>
+    </item>
     <item>
       <title>米住宅着工件数、2020年以来の低水準－許可件数も減少</title>
       <link>https://news.yahoo.co.jp/articles/d168f699659319f14168f36657d65b4ceb09aa25</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b8a61990690c12f5bdd2299c880bb96470a3bc05</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8a61990690c12f5bdd2299c880bb96470a3bc05</guid>
       <pubDate>Tue, 16 Jun 2026 22:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米製造業生産、5月に失速－サプライチェーン混乱やコスト高が重し</title>
-      <link>https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e15901a2e8f9e0d0ab03d8f6c8f868ba6a663a92</guid>
-      <pubDate>Mon, 15 Jun 2026 22:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
