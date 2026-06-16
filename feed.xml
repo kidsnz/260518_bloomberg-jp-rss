@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:29:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:20:53 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>S&amp;P500種が最高値圏で失速、FOMC見極め－原油続落で国債利回り低下</title>
+      <title>金利上昇に備え、家賃アップできる都市部に営業シフト－大東建託社長</title>
+      <link>https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>M&amp;G、日本のAI勝ち組銘柄から周辺サプライチェーン株に資金シフト</title>
+      <link>https://news.yahoo.co.jp/articles/46356bb1d67e99f0e8090973894feb98cb640657</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46356bb1d67e99f0e8090973894feb98cb640657</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】半導体株売られS&amp;P500失速、原油続落－160円台半ば近辺</title>
       <link>https://news.yahoo.co.jp/articles/13318ec606c4b2cfdd6aacf180f08bc40b00d3f8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/13318ec606c4b2cfdd6aacf180f08bc40b00d3f8</guid>
       <pubDate>Wed, 17 Jun 2026 02:12:00 +0900</pubDate>
@@ -30,6 +42,18 @@
       <link>https://news.yahoo.co.jp/articles/9b2df1159e880aadd7e937ccf2a494c211983a63</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b2df1159e880aadd7e937ccf2a494c211983a63</guid>
       <pubDate>Wed, 17 Jun 2026 01:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI起債に「バブルリスク」、熱狂が行き過ぎを助長－マン・グループ</title>
+      <link>https://news.yahoo.co.jp/articles/eb1779f5d4368a15f2019c2852cfcd14085cfb69</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb1779f5d4368a15f2019c2852cfcd14085cfb69</guid>
+      <pubDate>Wed, 17 Jun 2026 23:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブレント原油79ドル割れ、3月上旬以来の安値－暫定合意で供給回復観測</title>
+      <link>https://news.yahoo.co.jp/articles/c7bf50d4907898646e912cd720c1acddbf7a412d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7bf50d4907898646e912cd720c1acddbf7a412d</guid>
+      <pubDate>Wed, 17 Jun 2026 22:12:00 +0900</pubDate>
     </item>
     <item>
       <title>米住宅着工件数、2020年以来の低水準－許可件数も減少</title>
@@ -86,7 +110,13 @@
       <pubDate>Tue, 16 Jun 2026 18:25:00 +0900</pubDate>
     </item>
     <item>
-      <title>スペースXが上場3日目も急騰、時価総額でアマゾン抜く勢い－買い続く</title>
+      <title>時価総額トップのキオクシア、株価に50%の下落余地－バーンスタイン</title>
+      <link>https://news.yahoo.co.jp/articles/1db534bfa1715ea9b57f3aa0916aee0d14a343b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1db534bfa1715ea9b57f3aa0916aee0d14a343b4</guid>
+      <pubDate>Tue, 16 Jun 2026 18:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXが時価総額でアマゾン抜く、世界5位に－IPO後株価49%上昇</title>
       <link>https://news.yahoo.co.jp/articles/13345fa3b46857473c2f6e7fd7ae56a83ae0f766</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/13345fa3b46857473c2f6e7fd7ae56a83ae0f766</guid>
       <pubDate>Tue, 16 Jun 2026 17:39:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d9b5f80207375296b7d5950bc2c9992dca8c4193</guid>
       <pubDate>Tue, 16 Jun 2026 02:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック、米政権と協議－最先端AIへの外国人アクセス停止巡り</title>
-      <link>https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a31f89b88154277e6327762400f255688e522f97</guid>
-      <pubDate>Tue, 16 Jun 2026 01:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は大幅続落、WTI先物は一時80ドル割れ－ホルムズ通航再開見通し</title>
-      <link>https://news.yahoo.co.jp/articles/d08741d58a945d7ef01b6e0c546458020ee8b22e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d08741d58a945d7ef01b6e0c546458020ee8b22e</guid>
-      <pubDate>Tue, 16 Jun 2026 01:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油価格、米イラン合意進展なら70ドルまで下落の可能性－JPモルガン</title>
-      <link>https://news.yahoo.co.jp/articles/b63481e46573aca242875f57380898015c3bf1f2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b63481e46573aca242875f57380898015c3bf1f2</guid>
-      <pubDate>Tue, 16 Jun 2026 01:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米NAHB住宅市場指数、6月は予想外に低下－南部で大幅に落ち込む</title>
-      <link>https://news.yahoo.co.jp/articles/646b0a570fc823d434d57b9411e92bd3318aa094</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/646b0a570fc823d434d57b9411e92bd3318aa094</guid>
-      <pubDate>Mon, 15 Jun 2026 23:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株と国債が上昇、米・イラン合意で原油下落－ドル軟調160円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96aeb50abe292f8389a2c5a7bdd1544e6dc65d94</guid>
-      <pubDate>Mon, 15 Jun 2026 23:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
