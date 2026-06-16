@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:34:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:52:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】円は160円前半、日銀利上げペース警戒が重し－TOPIX反落</title>
+      <link>https://news.yahoo.co.jp/articles/9aafe19e1dc76223aed92e6f2df6c5fec05b373e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9aafe19e1dc76223aed92e6f2df6c5fec05b373e</guid>
+      <pubDate>Tue, 16 Jun 2026 09:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラックロックがさらに200人削減、従業員の1%弱－人員最適化継続</title>
+      <link>https://news.yahoo.co.jp/articles/27f2904fb059faf2533f6b186368da925421d0bf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27f2904fb059faf2533f6b186368da925421d0bf</guid>
+      <pubDate>Tue, 16 Jun 2026 08:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>内田日銀副総裁の会見注視、金融政策に精通したエース－節目で存在感</title>
+      <link>https://news.yahoo.co.jp/articles/4915836f2efda111c5b8089ec1e23543437ac4d8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4915836f2efda111c5b8089ec1e23543437ac4d8</guid>
+      <pubDate>Tue, 16 Jun 2026 08:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、AI買い復活で株小幅高ヘ－日銀インフレ抑制後手なら円安</title>
       <link>https://news.yahoo.co.jp/articles/dd4b4302cb3e9f5449e92fc8f7520b777f7d05e7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd4b4302cb3e9f5449e92fc8f7520b777f7d05e7</guid>
       <pubDate>Tue, 16 Jun 2026 08:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで160円台前半、日銀決定前に売り再開－債券はもみ合いに</title>
+      <link>https://news.yahoo.co.jp/articles/4eb25fc981af36789445e60d5274431533dce665</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4eb25fc981af36789445e60d5274431533dce665</guid>
+      <pubDate>Tue, 16 Jun 2026 07:58:00 +0900</pubDate>
     </item>
     <item>
       <title>日本株続伸へ、米株高追い風でAIや景気敏感に買い－過熱感は上値抑制</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f0af08dda9b946893dcc5d07f369d4b75bc0c10</guid>
       <pubDate>Mon, 15 Jun 2026 05:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株式向けの資金調達コストが急上昇、AI相場とスペースX上場で拍車</title>
-      <link>https://news.yahoo.co.jp/articles/19b1e5f9d2f5ab4177042360644ad8f40bb64907</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19b1e5f9d2f5ab4177042360644ad8f40bb64907</guid>
-      <pubDate>Mon, 15 Jun 2026 04:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏が80歳、異例の誕生日お祝い－流血の総合格闘技UFCをホワイトハウスで</title>
-      <link>https://news.yahoo.co.jp/articles/91b6a67b50fd06e7b858eae2b95e4173459e2b01</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91b6a67b50fd06e7b858eae2b95e4173459e2b01</guid>
-      <pubDate>Mon, 15 Jun 2026 02:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランが複数の合意草案、トランプ氏は署名のスケジュールに強気</title>
-      <link>https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1d0ef31709fbd7c4667c353d3be70989d69c57c</guid>
-      <pubDate>Mon, 15 Jun 2026 00:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、首脳会談で日英防衛協力を称賛－戦闘機開発に不透明感</title>
-      <link>https://news.yahoo.co.jp/articles/16248f8e0b26f56ccf5bc8a3f750dad07df6a825</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16248f8e0b26f56ccf5bc8a3f750dad07df6a825</guid>
-      <pubDate>Sun, 14 Jun 2026 23:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
