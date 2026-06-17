@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:34:44 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 22:15:18 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>小泉防衛相、中国の国防費は事実に基づくか疑問－対日批判をけん制</title>
       <link>https://news.yahoo.co.jp/articles/bbf7301892367b51b32eef6264acf0e2e2e32de5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bbf7301892367b51b32eef6264acf0e2e2e32de5</guid>
       <pubDate>Wed, 17 Jun 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米・イラン和平合意、エネルギーショック解消には不十分－ECB当局者</title>
+      <link>https://news.yahoo.co.jp/articles/f0b09a861a9c04122eef3b35c41822483c827220</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0b09a861a9c04122eef3b35c41822483c827220</guid>
+      <pubDate>Wed, 17 Jun 2026 19:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>石油タンカー、中東への目的地変更相次ぐ－ホルムズ再開見据える</title>
+      <link>https://news.yahoo.co.jp/articles/631a8be784771851fa38170569b40b524a777273</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/631a8be784771851fa38170569b40b524a777273</guid>
+      <pubDate>Wed, 17 Jun 2026 19:31:00 +0900</pubDate>
     </item>
     <item>
       <title>UAE、ホルムズ海峡への依存度ゼロ目指す方針－海峡外側の港拡張へ</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/afd2d9ae62e5f0fc570f74402668b9284ad469a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afd2d9ae62e5f0fc570f74402668b9284ad469a8</guid>
       <pubDate>Tue, 16 Jun 2026 18:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>世界の富豪500人の資産、1日で約54兆円増－マスク氏がけん引</title>
-      <link>https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc3a39845c038d778877b626323102779e55e400</guid>
-      <pubDate>Tue, 16 Jun 2026 18:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>時価総額トップのキオクシア、株価に50%の下落余地－バーンスタイン</title>
-      <link>https://news.yahoo.co.jp/articles/1db534bfa1715ea9b57f3aa0916aee0d14a343b4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1db534bfa1715ea9b57f3aa0916aee0d14a343b4</guid>
-      <pubDate>Tue, 16 Jun 2026 18:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
