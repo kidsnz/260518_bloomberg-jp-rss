@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 05:43:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:39:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【米国市況】円が2024年7月来の安値、160円台後半－10月米利上げ観測</title>
+      <link>https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</guid>
+      <pubDate>Thu, 18 Jun 2026 05:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>FOMCが金利維持、年内の利上げ巡り見通し分かれる－物価予測上方修正</title>
       <link>https://news.yahoo.co.jp/articles/eb1347f5a39c9c3ae3cc1f4ff1422692936c61d3</link>
@@ -14,19 +20,25 @@
       <pubDate>Thu, 18 Jun 2026 03:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>円が対ドルで上げ消す、160円40銭台－FOMC受けて米利上げ意識</title>
+      <title>円が対ドル160円台後半に下落、2024年7月以来の安値－米利上げ意識</title>
       <link>https://news.yahoo.co.jp/articles/768ae3527af929e652fa00421db6ef59ed35faee</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/768ae3527af929e652fa00421db6ef59ed35faee</guid>
       <pubDate>Thu, 18 Jun 2026 03:03:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ政権、イラン合意のアピールに躍起－強硬派からは批判</title>
+      <title>トランプ氏、イラン合意「18日にも署名」－強硬派からの批判を一蹴</title>
       <link>https://news.yahoo.co.jp/articles/980b322bfbce63cfcb56f214c3399c107a16be3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/980b322bfbce63cfcb56f214c3399c107a16be3c</guid>
       <pubDate>Thu, 18 Jun 2026 01:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>スペースX株、上場以来初めて下落－3連騰経て一時4.7%安</title>
+      <title>【欧州市況】英国債が5日続伸、ストックス欧州600は高値更新－BMW急落</title>
+      <link>https://news.yahoo.co.jp/articles/0059ccb9a3407b2cac087be5c0b34398297fb1aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0059ccb9a3407b2cac087be5c0b34398297fb1aa</guid>
+      <pubDate>Thu, 18 Jun 2026 01:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株、上場以来初めて下落－3連騰経て一時7%安</title>
       <link>https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</guid>
       <pubDate>Thu, 18 Jun 2026 01:03:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</guid>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>M&amp;G、日本のAI勝ち組銘柄から周辺サプライチェーン株に資金シフト</title>
-      <link>https://news.yahoo.co.jp/articles/46356bb1d67e99f0e8090973894feb98cb640657</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46356bb1d67e99f0e8090973894feb98cb640657</guid>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】半導体株売られS&amp;P500失速、原油続落－160円台半ば近辺</title>
-      <link>https://news.yahoo.co.jp/articles/13318ec606c4b2cfdd6aacf180f08bc40b00d3f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/13318ec606c4b2cfdd6aacf180f08bc40b00d3f8</guid>
-      <pubDate>Wed, 17 Jun 2026 02:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
