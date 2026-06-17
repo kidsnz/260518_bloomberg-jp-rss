@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 07:34:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:32:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル値上げへ、メモリーチップ価格高騰とクック氏－WSJ</title>
+      <link>https://news.yahoo.co.jp/articles/d94eb962f22363e9a7db3f8b89dbd236debe6faf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d94eb962f22363e9a7db3f8b89dbd236debe6faf</guid>
+      <pubDate>Thu, 18 Jun 2026 08:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、米利上げ観測強まり株安へ－円2年ぶり安値で当局対応焦点</title>
+      <link>https://news.yahoo.co.jp/articles/41542ba152e7a8ba2ea40e5f5f7241bb227af215</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41542ba152e7a8ba2ea40e5f5f7241bb227af215</guid>
+      <pubDate>Thu, 18 Jun 2026 07:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラジル中銀、0.25ポイント利下げ－インフレ見通し悪化でも緩和継続</title>
+      <link>https://news.yahoo.co.jp/articles/46295d77e712efc4b8c6ddf41e6d39c9f75a000a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46295d77e712efc4b8c6ddf41e6d39c9f75a000a</guid>
+      <pubDate>Thu, 18 Jun 2026 07:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国とイランの暫定和平合意が発効－両国が電子署名</title>
       <link>https://news.yahoo.co.jp/articles/5093f29130282425e05e7a15252d958317dc372a</link>
@@ -18,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</guid>
       <pubDate>Thu, 18 Jun 2026 05:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米短期金融市場、10月までの利上げを完全に織り込む</title>
+      <link>https://news.yahoo.co.jp/articles/9b0edf34e2d16c56a1966455033f0ad6efed3a0d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b0edf34e2d16c56a1966455033f0ad6efed3a0d</guid>
+      <pubDate>Thu, 18 Jun 2026 05:55:00 +0900</pubDate>
     </item>
     <item>
       <title>FOMCが金利据え置き、ウォーシュ新体制で利上げに一歩近づく</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c446c8f1ca761471e7b95289e00d060d735d518a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c446c8f1ca761471e7b95289e00d060d735d518a</guid>
       <pubDate>Wed, 17 Jun 2026 09:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長、早速試練に直面－就任後初のFOMC会合後に会見へ</title>
-      <link>https://news.yahoo.co.jp/articles/39d5192abe3c13d564135713ef8c53ce1c1bdc1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/39d5192abe3c13d564135713ef8c53ce1c1bdc1b</guid>
-      <pubDate>Wed, 17 Jun 2026 09:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツ証、三菱UFJ銀出身の沢野氏を採用－企業買収向け融資専門家</title>
-      <link>https://news.yahoo.co.jp/articles/78bcc6883efe7e4e1b953352c1d7204315046d95</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78bcc6883efe7e4e1b953352c1d7204315046d95</guid>
-      <pubDate>Wed, 17 Jun 2026 08:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油輸入単価が過去最高を更新、中東混乱で代替調達進むもコスト上昇</title>
-      <link>https://news.yahoo.co.jp/articles/bf160a4b487393d8480d5089929605166f981774</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf160a4b487393d8480d5089929605166f981774</guid>
-      <pubDate>Wed, 17 Jun 2026 08:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国とイランの覚書草案、14項目の全文－ブルームバーグが入手</title>
-      <link>https://news.yahoo.co.jp/articles/3c7e3a74fd607530ce6ffe53c07900e8a288228f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c7e3a74fd607530ce6ffe53c07900e8a288228f</guid>
-      <pubDate>Wed, 17 Jun 2026 08:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
