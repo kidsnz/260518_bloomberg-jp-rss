@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 10:24:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:20:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>G7が最先端AIへのアクセス協議、信頼できる同盟国に容認も－ロイター</title>
+      <link>https://news.yahoo.co.jp/articles/42059c9b37f9a6fc3b13b0ca14fafb36d1a9022a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42059c9b37f9a6fc3b13b0ca14fafb36d1a9022a</guid>
+      <pubDate>Wed, 17 Jun 2026 10:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>【日本市況】TOPIXが反発、FOMC待ちの中で銀行株に買いー債券は上昇</title>
       <link>https://news.yahoo.co.jp/articles/c446c8f1ca761471e7b95289e00d060d735d518a</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/dd4b4302cb3e9f5449e92fc8f7520b777f7d05e7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd4b4302cb3e9f5449e92fc8f7520b777f7d05e7</guid>
       <pubDate>Tue, 16 Jun 2026 08:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで160円台前半、日銀決定前に売り再開－債券はもみ合いに</title>
-      <link>https://news.yahoo.co.jp/articles/4eb25fc981af36789445e60d5274431533dce665</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4eb25fc981af36789445e60d5274431533dce665</guid>
-      <pubDate>Tue, 16 Jun 2026 07:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
