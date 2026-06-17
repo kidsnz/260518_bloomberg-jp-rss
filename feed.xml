@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 06:39:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:34:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国とイランの暫定和平合意が発効－両国が電子署名</title>
+      <link>https://news.yahoo.co.jp/articles/5093f29130282425e05e7a15252d958317dc372a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5093f29130282425e05e7a15252d958317dc372a</guid>
+      <pubDate>Thu, 18 Jun 2026 06:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>【米国市況】円が2024年7月来の安値、160円台後半－10月米利上げ観測</title>
       <link>https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</link>
@@ -14,7 +20,7 @@
       <pubDate>Thu, 18 Jun 2026 05:56:00 +0900</pubDate>
     </item>
     <item>
-      <title>FOMCが金利維持、年内の利上げ巡り見通し分かれる－物価予測上方修正</title>
+      <title>FOMCが金利据え置き、ウォーシュ新体制で利上げに一歩近づく</title>
       <link>https://news.yahoo.co.jp/articles/eb1347f5a39c9c3ae3cc1f4ff1422692936c61d3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb1347f5a39c9c3ae3cc1f4ff1422692936c61d3</guid>
       <pubDate>Thu, 18 Jun 2026 03:11:00 +0900</pubDate>
@@ -38,7 +44,7 @@
       <pubDate>Thu, 18 Jun 2026 01:16:00 +0900</pubDate>
     </item>
     <item>
-      <title>スペースX株、上場以来初めて下落－3連騰経て一時7%安</title>
+      <title>スペースX株、上場後で初めて下落－3連騰経て終値約5%安</title>
       <link>https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</guid>
       <pubDate>Thu, 18 Jun 2026 01:03:00 +0900</pubDate>
@@ -114,6 +120,12 @@
       <link>https://news.yahoo.co.jp/articles/bec4d7f045d88a09710aaa02ada7d8d8406eecc6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bec4d7f045d88a09710aaa02ada7d8d8406eecc6</guid>
       <pubDate>Wed, 17 Jun 2026 18:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油は5日ぶり反発、WTI先物が1%高－供給増の観測で上値は限定的</title>
+      <link>https://news.yahoo.co.jp/articles/f620dc834407a1edaeca052867e2a34209b2dac5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f620dc834407a1edaeca052867e2a34209b2dac5</guid>
+      <pubDate>Thu, 18 Jun 2026 18:58:00 +0900</pubDate>
     </item>
     <item>
       <title>WTI原油が一時75ドル割れ、ホルムズ海峡再開期待の取引が勢い継続</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3c7e3a74fd607530ce6ffe53c07900e8a288228f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c7e3a74fd607530ce6ffe53c07900e8a288228f</guid>
       <pubDate>Wed, 17 Jun 2026 08:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日経平均は反落へ、米ハイテク株安でAI関連売り－原油下落は支え</title>
-      <link>https://news.yahoo.co.jp/articles/b2cf59af169e075ed6159a555132f77845045bf1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2cf59af169e075ed6159a555132f77845045bf1</guid>
-      <pubDate>Wed, 17 Jun 2026 07:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>金利上昇に備え、家賃アップできる都市部にシフト－大東建託社長</title>
-      <link>https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7c8827e8bf94b0d0eaafd5336c273afaf3ab50e</guid>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
