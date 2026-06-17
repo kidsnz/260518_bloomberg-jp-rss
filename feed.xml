@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 01:17:36 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:30:39 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ政権、イラン合意のアピールに躍起－「失策超える」の批判も</title>
+      <link>https://news.yahoo.co.jp/articles/980b322bfbce63cfcb56f214c3399c107a16be3c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/980b322bfbce63cfcb56f214c3399c107a16be3c</guid>
+      <pubDate>Thu, 18 Jun 2026 01:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株、上場以来初めて下落－3連騰経て一時4.7%安</title>
+      <link>https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</guid>
+      <pubDate>Thu, 18 Jun 2026 01:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>米主要拠点の原油貯蔵、危機的水準に落ち込む－戦争で輸出が急増</title>
       <link>https://news.yahoo.co.jp/articles/4b06cf0391b7ae0372ccd99b997997b9c0835d7b</link>
@@ -39,9 +51,21 @@
     </item>
     <item>
       <title>G7、レアアース供給の対中依存抑制へ－中国比率60%以下目指す</title>
+      <link>https://news.yahoo.co.jp/articles/e5497c0484f7316ff45628cdb012f802dc719507</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e5497c0484f7316ff45628cdb012f802dc719507</guid>
+      <pubDate>Wed, 17 Jun 2026 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>G7、レアアース供給の対中依存抑制へ－中国比率60%以下目指す</title>
       <link>https://news.yahoo.co.jp/articles/92be17ac97153a52e327e5b43db84a666d1b89f3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/92be17ac97153a52e327e5b43db84a666d1b89f3</guid>
       <pubDate>Wed, 17 Jun 2026 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英国のインフレピーク、中銀の最も楽観的なシナリオすら下回る公算</title>
+      <link>https://news.yahoo.co.jp/articles/3f450145a8b48f870739471fd81d0d5f04930388</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f450145a8b48f870739471fd81d0d5f04930388</guid>
+      <pubDate>Wed, 17 Jun 2026 20:42:00 +0900</pubDate>
     </item>
     <item>
       <title>小泉防衛相、中国の国防費は事実に基づくか疑問－対日批判をけん制</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/207b42e7e76f54a30669427ab891b997fceebe44</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/207b42e7e76f54a30669427ab891b997fceebe44</guid>
       <pubDate>Wed, 17 Jun 2026 01:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油価格高騰の影響はこれから、表面化に備え必要－ECBレーン理事</title>
-      <link>https://news.yahoo.co.jp/articles/9b2df1159e880aadd7e937ccf2a494c211983a63</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b2df1159e880aadd7e937ccf2a494c211983a63</guid>
-      <pubDate>Wed, 17 Jun 2026 01:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI起債に「バブルリスク」、熱狂が行き過ぎを助長－マン・グループ</title>
-      <link>https://news.yahoo.co.jp/articles/eb1779f5d4368a15f2019c2852cfcd14085cfb69</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb1779f5d4368a15f2019c2852cfcd14085cfb69</guid>
-      <pubDate>Wed, 17 Jun 2026 23:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油79ドル割れ、3月上旬以来の安値－暫定合意で供給回復観測</title>
-      <link>https://news.yahoo.co.jp/articles/c7bf50d4907898646e912cd720c1acddbf7a412d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7bf50d4907898646e912cd720c1acddbf7a412d</guid>
-      <pubDate>Wed, 17 Jun 2026 22:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米住宅着工件数、2020年以来の低水準－許可件数も減少</title>
-      <link>https://news.yahoo.co.jp/articles/d168f699659319f14168f36657d65b4ceb09aa25</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d168f699659319f14168f36657d65b4ceb09aa25</guid>
-      <pubDate>Tue, 16 Jun 2026 21:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
