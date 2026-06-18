@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 22:40:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:04:51 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米イラン、焦点は核開発巡る交渉に－バンス副大統領ら19日にスイスへ</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/2e0478605227dedd1d72b4794fcd7f64b021fc9e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e0478605227dedd1d72b4794fcd7f64b021fc9e</guid>
       <pubDate>Thu, 18 Jun 2026 20:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英中銀、政策金利を3.75%で据え置き－7対2で決定</title>
+      <link>https://news.yahoo.co.jp/articles/3b2ee571cdaca4f41628e8869fd02eda25f714e8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b2ee571cdaca4f41628e8869fd02eda25f714e8</guid>
+      <pubDate>Thu, 18 Jun 2026 20:01:00 +0900</pubDate>
     </item>
     <item>
       <title>モスクワに過去最大のドローン攻撃、市の主要石油精製所でまた火災</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3506e1ae061aba55fd1da6e5b3eb4aedcf7fe5fa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3506e1ae061aba55fd1da6e5b3eb4aedcf7fe5fa</guid>
       <pubDate>Thu, 18 Jun 2026 21:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>G7、レアアース供給の対中依存抑制へ－中国比率60%以下目指す</title>
-      <link>https://news.yahoo.co.jp/articles/e5497c0484f7316ff45628cdb012f802dc719507</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e5497c0484f7316ff45628cdb012f802dc719507</guid>
-      <pubDate>Wed, 17 Jun 2026 21:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
