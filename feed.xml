@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 09:47:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:51:44 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>大手商社の平均年収、2113万円の三菱商事がトップ－伊藤忠は10％増</title>
@@ -30,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/a2d892222416aeaf109ad29aa66acfcaa6402e32</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2d892222416aeaf109ad29aa66acfcaa6402e32</guid>
       <pubDate>Thu, 18 Jun 2026 08:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、USMCAへの参加必要ないと主張－離脱表明はせず</title>
+      <link>https://news.yahoo.co.jp/articles/12e90049d62bfab0892d228232eb4fab90505e45</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/12e90049d62bfab0892d228232eb4fab90505e45</guid>
+      <pubDate>Thu, 18 Jun 2026 08:30:00 +0900</pubDate>
     </item>
     <item>
       <title>米イラン合意の14項目、米高官が読み上げ－詳細が判明</title>
@@ -92,7 +98,7 @@
       <pubDate>Thu, 18 Jun 2026 03:03:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏、イラン合意「18日にも署名」－強硬派からの批判を一蹴</title>
+      <title>米イランの和平合意が発効、両大統領が署名－ホルムズ再開が次の焦点</title>
       <link>https://news.yahoo.co.jp/articles/980b322bfbce63cfcb56f214c3399c107a16be3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/980b322bfbce63cfcb56f214c3399c107a16be3c</guid>
       <pubDate>Thu, 18 Jun 2026 01:19:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b14f05e9bac80e839cb40950ef14934ac2c04c0c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b14f05e9bac80e839cb40950ef14934ac2c04c0c</guid>
       <pubDate>Wed, 17 Jun 2026 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡正常化、なぜ簡単にいかないのか－立ちはだかる難題とは</title>
-      <link>https://news.yahoo.co.jp/articles/5a0ea614b7c915a0f9a7897f4aa00e2b02c4c0e9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a0ea614b7c915a0f9a7897f4aa00e2b02c4c0e9</guid>
-      <pubDate>Wed, 17 Jun 2026 11:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
