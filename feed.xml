@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 01:41:33 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:01:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円安進行で介入警戒強まる、一時161円37銭－FRBタカ派姿勢でドル上昇</title>
+      <link>https://news.yahoo.co.jp/articles/e05ad219f6dd99d90eac46319ead2c4a8c2d8269</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e05ad219f6dd99d90eac46319ead2c4a8c2d8269</guid>
+      <pubDate>Fri, 19 Jun 2026 01:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>ECB、先週の利上げは景気抑制効果出ていない可能性－レーン理事</title>
       <link>https://news.yahoo.co.jp/articles/056157f575287a7dbeea76bbcd29b47640912d0d</link>
@@ -18,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/05c86bc8353f92cec0cca52d8d73dbd776402b14</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05c86bc8353f92cec0cca52d8d73dbd776402b14</guid>
       <pubDate>Thu, 18 Jun 2026 23:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米新規失業保険申請が減少、労働市場の底堅さ示す－継続受給者は増加</title>
+      <link>https://news.yahoo.co.jp/articles/5980079bcb3519e4d16a4bf4c11de4c1f424c81d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5980079bcb3519e4d16a4bf4c11de4c1f424c81d</guid>
+      <pubDate>Thu, 18 Jun 2026 22:43:00 +0900</pubDate>
     </item>
     <item>
       <title>米イラン、焦点は核開発巡る交渉に－バンス副大統領ら19日にスイスへ</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0059ccb9a3407b2cac087be5c0b34398297fb1aa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0059ccb9a3407b2cac087be5c0b34398297fb1aa</guid>
       <pubDate>Thu, 18 Jun 2026 01:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株、上場後で初めて下落－3連騰経て終値約5%安</title>
-      <link>https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e14c6a0292625afe7b1bf90ca756660849c65d6c</guid>
-      <pubDate>Thu, 18 Jun 2026 01:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米主要拠点の原油貯蔵、危機的水準に落ち込む－戦争で輸出が急増</title>
-      <link>https://news.yahoo.co.jp/articles/4b06cf0391b7ae0372ccd99b997997b9c0835d7b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b06cf0391b7ae0372ccd99b997997b9c0835d7b</guid>
-      <pubDate>Wed, 17 Jun 2026 23:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
