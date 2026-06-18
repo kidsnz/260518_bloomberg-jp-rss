@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 06:17:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:15:16 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースXに投資適格級格付け、3大格付け会社が付与</title>
+      <link>https://news.yahoo.co.jp/articles/9f9865ff6d4b852a334315e80d8d4324078ed672</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f9865ff6d4b852a334315e80d8d4324078ed672</guid>
+      <pubDate>Fri, 19 Jun 2026 05:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株反落、英国債は下げ縮小－英中銀利上げ見通し後退</title>
+      <link>https://news.yahoo.co.jp/articles/90747ee1cfac3f2a5743920eec1eb3e1bee99c97</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90747ee1cfac3f2a5743920eec1eb3e1bee99c97</guid>
+      <pubDate>Fri, 19 Jun 2026 02:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】円安進行で一時161円81銭、介入警戒強まる－株・国債反発</title>
+      <link>https://news.yahoo.co.jp/articles/87496b793def57369a49ef1cfff26b92805b1274</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87496b793def57369a49ef1cfff26b92805b1274</guid>
+      <pubDate>Fri, 19 Jun 2026 01:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースXが200億ドルの社債発行検討－銀行団、22日にも投資家説明会</title>
       <link>https://news.yahoo.co.jp/articles/7a1eddd74f072b8087efc8dace9d6e7f174aff76</link>
@@ -66,6 +84,12 @@
       <link>https://news.yahoo.co.jp/articles/3b2ee571cdaca4f41628e8869fd02eda25f714e8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b2ee571cdaca4f41628e8869fd02eda25f714e8</guid>
       <pubDate>Thu, 18 Jun 2026 20:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インテル株が12%上昇、高値更新－アップルが協力で合意とトランプ氏</title>
+      <link>https://news.yahoo.co.jp/articles/c8aca5bc1e3f983b69a010d71ef32b63dce27a28</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c8aca5bc1e3f983b69a010d71ef32b63dce27a28</guid>
+      <pubDate>Fri, 19 Jun 2026 19:59:00 +0900</pubDate>
     </item>
     <item>
       <title>FRB、インフレ率高止まりなら9月にも利上げ必要－ゴールドマン</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/46295d77e712efc4b8c6ddf41e6d39c9f75a000a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46295d77e712efc4b8c6ddf41e6d39c9f75a000a</guid>
       <pubDate>Thu, 18 Jun 2026 07:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国とイランの暫定和平合意が発効－両国が電子署名</title>
-      <link>https://news.yahoo.co.jp/articles/5093f29130282425e05e7a15252d958317dc372a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5093f29130282425e05e7a15252d958317dc372a</guid>
-      <pubDate>Thu, 18 Jun 2026 06:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】円が2024年7月来の安値、160円台後半－10月米利上げ観測</title>
-      <link>https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d977c1fc864c0b724eb2be7d522cf19d296efee5</guid>
-      <pubDate>Thu, 18 Jun 2026 05:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米短期金融市場、10月までの利上げを完全に織り込む</title>
-      <link>https://news.yahoo.co.jp/articles/9b0edf34e2d16c56a1966455033f0ad6efed3a0d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b0edf34e2d16c56a1966455033f0ad6efed3a0d</guid>
-      <pubDate>Thu, 18 Jun 2026 05:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FOMCが金利据え置き、ウォーシュ新体制で利上げに一歩近づく</title>
-      <link>https://news.yahoo.co.jp/articles/eb1347f5a39c9c3ae3cc1f4ff1422692936c61d3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb1347f5a39c9c3ae3cc1f4ff1422692936c61d3</guid>
-      <pubDate>Thu, 18 Jun 2026 03:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
