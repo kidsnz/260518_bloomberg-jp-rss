@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:40:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:49:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>9月までの米利上げを完全に織り込む、FOMCのタカ派姿勢と原油反発で</title>
+      <link>https://news.yahoo.co.jp/articles/c4d77de71946db6a2fc318e14ae19ddfcbdbfdb7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4d77de71946db6a2fc318e14ae19ddfcbdbfdb7</guid>
+      <pubDate>Sat, 20 Jun 2026 00:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン、今週計2000万バレルの原油を輸出－タンカー出港を確認</title>
       <link>https://news.yahoo.co.jp/articles/5bf96965ad2afdd9d2d8a79458f3030cac9c1458</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bf96965ad2afdd9d2d8a79458f3030cac9c1458</guid>
       <pubDate>Fri, 19 Jun 2026 23:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米株先物が下落、米イラン協議延期で慎重ムード－ドル161円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/3238663babd0ab20ad0ca97e930edb39ae5b3f9e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3238663babd0ab20ad0ca97e930edb39ae5b3f9e</guid>
+      <pubDate>Fri, 19 Jun 2026 23:35:00 +0900</pubDate>
     </item>
     <item>
       <title>イスラエルとヒズボラ、現地19日午後4時から停戦で合意-ロイター</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5980079bcb3519e4d16a4bf4c11de4c1f424c81d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5980079bcb3519e4d16a4bf4c11de4c1f424c81d</guid>
       <pubDate>Thu, 18 Jun 2026 22:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>JERAやKKR、ドイツのエネルギー大手「ユニパー」買収に関心－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/eb80e35b05dba9693c4fe032cdccfb8202e58540</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb80e35b05dba9693c4fe032cdccfb8202e58540</guid>
-      <pubDate>Thu, 18 Jun 2026 22:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン、焦点は核開発巡る交渉に－米副大統領ら19日にスイスへ</title>
-      <link>https://news.yahoo.co.jp/articles/0b868e8b97db130178d4b76f257cfa52c0e27ec8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b868e8b97db130178d4b76f257cfa52c0e27ec8</guid>
-      <pubDate>Fri, 19 Jun 2026 22:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
