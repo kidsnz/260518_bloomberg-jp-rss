@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 03:37:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 04:33:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】英国債が下落、政治的不透明性を嫌気－株は小幅続落</title>
+      <link>https://news.yahoo.co.jp/articles/98038eac888c73e12f47d68674ff674e1e30c26c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98038eac888c73e12f47d68674ff674e1e30c26c</guid>
+      <pubDate>Sat, 20 Jun 2026 02:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピックを規制する米政府方針、AI業界への介入に法的な疑問も</title>
       <link>https://news.yahoo.co.jp/articles/7304967e5842165a0bf2208f7933517f1ffd2d1b</link>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/3238663babd0ab20ad0ca97e930edb39ae5b3f9e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3238663babd0ab20ad0ca97e930edb39ae5b3f9e</guid>
       <pubDate>Fri, 19 Jun 2026 23:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イスラエルとヒズボラが停戦合意と米高官、19日の米イラン協議は延期</title>
+      <link>https://news.yahoo.co.jp/articles/b550e929da7fa8a9fe8811280cf0345e1ebf718c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b550e929da7fa8a9fe8811280cf0345e1ebf718c</guid>
+      <pubDate>Fri, 19 Jun 2026 23:05:00 +0900</pubDate>
     </item>
     <item>
       <title>イスラエルとヒズボラ、現地19日午後4時から停戦で合意-ロイター</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7a1eddd74f072b8087efc8dace9d6e7f174aff76</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7a1eddd74f072b8087efc8dace9d6e7f174aff76</guid>
       <pubDate>Fri, 19 Jun 2026 01:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円安進行で一時161円台後半、介入警戒強まる－米利上げ観測でドル高</title>
-      <link>https://news.yahoo.co.jp/articles/e05ad219f6dd99d90eac46319ead2c4a8c2d8269</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e05ad219f6dd99d90eac46319ead2c4a8c2d8269</guid>
-      <pubDate>Fri, 19 Jun 2026 01:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、先週の利上げは景気抑制効果出ていない可能性－レーン理事</title>
-      <link>https://news.yahoo.co.jp/articles/056157f575287a7dbeea76bbcd29b47640912d0d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/056157f575287a7dbeea76bbcd29b47640912d0d</guid>
-      <pubDate>Fri, 19 Jun 2026 00:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
