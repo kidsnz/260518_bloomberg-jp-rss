@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 14:14:34 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:15:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アブダビ国営石油、契約先に原油引き取り再開要請－ホルムズ正常化</title>
+      <link>https://news.yahoo.co.jp/articles/5d5c023fac6495034a390ff73837b1142a0ae552</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d5c023fac6495034a390ff73837b1142a0ae552</guid>
+      <pubDate>Fri, 19 Jun 2026 15:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブレント原油、週間で9%安へ－ホルムズ通航回復で供給懸念後退</title>
+      <link>https://news.yahoo.co.jp/articles/dff771755f9be68fadd97511d557477bb1bed16e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dff771755f9be68fadd97511d557477bb1bed16e</guid>
+      <pubDate>Fri, 19 Jun 2026 14:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースXの巨額調達は始まりに過ぎない－前例なき資金需要への挑戦</title>
       <link>https://news.yahoo.co.jp/articles/b94e79dd4e36ebe669fb0a6458217e66881cd07a</link>
@@ -30,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/4d6ec9d4dc2551d1df27dc06b198d13501ff0a78</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d6ec9d4dc2551d1df27dc06b198d13501ff0a78</guid>
       <pubDate>Fri, 19 Jun 2026 11:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>シリコンバレー天敵の弁護士、16歳未満SNS利用禁止で英首相動かす</title>
+      <link>https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</guid>
+      <pubDate>Fri, 19 Jun 2026 11:41:00 +0900</pubDate>
     </item>
     <item>
       <title>次期英首相候補バーナム氏、下院補選で大勝－スターマー氏に挑む公算</title>
@@ -92,7 +110,7 @@
       <pubDate>Fri, 19 Jun 2026 09:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】円161円付近に上昇、断固たる措置と財務相－日経平均続伸</title>
+      <title>【日本市況】円伸び悩み161円前半、介入警戒もドル買い根強く－株失速</title>
       <link>https://news.yahoo.co.jp/articles/95b20433c195fa67949b11cdafde20c3777e12a4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/95b20433c195fa67949b11cdafde20c3777e12a4</guid>
       <pubDate>Fri, 19 Jun 2026 09:16:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f6c417f9aa5b691fe4de425822957e274fcbf9a6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f6c417f9aa5b691fe4de425822957e274fcbf9a6</guid>
       <pubDate>Thu, 18 Jun 2026 16:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>40年ぶり円安値に市場警戒、次の介入ラインの見方－161円95銭の攻防</title>
-      <link>https://news.yahoo.co.jp/articles/f5a92d7c17fcbf84ee805efaef5c33f397265787</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5a92d7c17fcbf84ee805efaef5c33f397265787</guid>
-      <pubDate>Thu, 18 Jun 2026 16:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡の石油輸送、戦後も7割回復にとどまる公算－ゴールドマン</title>
-      <link>https://news.yahoo.co.jp/articles/e6a228cca11be9987705f1576d0c05ef742c8813</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e6a228cca11be9987705f1576d0c05ef742c8813</guid>
-      <pubDate>Thu, 18 Jun 2026 16:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホンダ三部社長の前期報酬1億7300万円、赤字転落で59%減－有報</title>
-      <link>https://news.yahoo.co.jp/articles/bbb184fb0d6805a3676002f3c2c80d876575c3d6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bbb184fb0d6805a3676002f3c2c80d876575c3d6</guid>
-      <pubDate>Thu, 18 Jun 2026 16:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
