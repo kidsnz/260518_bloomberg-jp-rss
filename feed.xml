@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 01:49:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:36:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピックを規制する米政府方針、AI業界への介入に法的な疑問も</title>
+      <link>https://news.yahoo.co.jp/articles/7304967e5842165a0bf2208f7933517f1ffd2d1b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7304967e5842165a0bf2208f7933517f1ffd2d1b</guid>
+      <pubDate>Sat, 20 Jun 2026 01:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>9月までの米利上げを完全に織り込む、FOMCのタカ派姿勢と原油反発で</title>
       <link>https://news.yahoo.co.jp/articles/c4d77de71946db6a2fc318e14ae19ddfcbdbfdb7</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/05c86bc8353f92cec0cca52d8d73dbd776402b14</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05c86bc8353f92cec0cca52d8d73dbd776402b14</guid>
       <pubDate>Thu, 18 Jun 2026 23:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新規失業保険申請が減少、労働市場の底堅さ示す－継続受給者は増加</title>
-      <link>https://news.yahoo.co.jp/articles/5980079bcb3519e4d16a4bf4c11de4c1f424c81d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5980079bcb3519e4d16a4bf4c11de4c1f424c81d</guid>
-      <pubDate>Thu, 18 Jun 2026 22:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
