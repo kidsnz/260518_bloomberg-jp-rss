@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:23:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:51:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドイツ首相、国際的な為替協議を呼びかけ－人民元安是正の必要性示唆</title>
+      <link>https://news.yahoo.co.jp/articles/968238d755402e91d62ffc643a42be1444a1f416</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/968238d755402e91d62ffc643a42be1444a1f416</guid>
+      <pubDate>Sat, 20 Jun 2026 08:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>【欧州市況】英国債が下落、政治的不透明性を嫌気－株は小幅続落</title>
       <link>https://news.yahoo.co.jp/articles/98038eac888c73e12f47d68674ff674e1e30c26c</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/62a397544c04d8917775eecd2e06d0396ccdf073</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62a397544c04d8917775eecd2e06d0396ccdf073</guid>
       <pubDate>Fri, 19 Jun 2026 07:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドル161円台前半、早期米利上げ観測でドル買い－債券は下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/2350e378faf0e92654a3c43bc51fdbbdad90420c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2350e378faf0e92654a3c43bc51fdbbdad90420c</guid>
-      <pubDate>Fri, 19 Jun 2026 07:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
