@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 02:36:37 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:37:00 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アンソロピックを規制する米政府方針、AI業界への介入に法的な疑問も</title>
@@ -144,6 +144,12 @@
       <link>https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</guid>
       <pubDate>Fri, 19 Jun 2026 11:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>次期英首相候補バーナム氏、下院補選で大勝－スターマー氏に挑む公算</title>
+      <link>https://news.yahoo.co.jp/articles/015c93a16bbf226f048b967af4ccd491837c08a7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/015c93a16bbf226f048b967af4ccd491837c08a7</guid>
+      <pubDate>Fri, 19 Jun 2026 11:33:00 +0900</pubDate>
     </item>
     <item>
       <title>次期英首相候補バーナム氏、下院補選で大勝－スターマー氏に挑む公算</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/056157f575287a7dbeea76bbcd29b47640912d0d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/056157f575287a7dbeea76bbcd29b47640912d0d</guid>
       <pubDate>Fri, 19 Jun 2026 00:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クウェート原油生産、想定より早く回復へ－インフラ復旧と国営石油CEO</title>
-      <link>https://news.yahoo.co.jp/articles/05c86bc8353f92cec0cca52d8d73dbd776402b14</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05c86bc8353f92cec0cca52d8d73dbd776402b14</guid>
-      <pubDate>Thu, 18 Jun 2026 23:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
