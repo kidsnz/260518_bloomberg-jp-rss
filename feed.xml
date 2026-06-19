@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 05:31:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 06:25:35 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>【欧州市況】英国債が下落、政治的不透明性を嫌気－株は小幅続落</title>
       <link>https://news.yahoo.co.jp/articles/98038eac888c73e12f47d68674ff674e1e30c26c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98038eac888c73e12f47d68674ff674e1e30c26c</guid>
       <pubDate>Sat, 20 Jun 2026 02:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベイン運用のCLOで一部トランシェがデフォルト、欧州で金融危機後初</title>
+      <link>https://news.yahoo.co.jp/articles/237d70a9e46a8a30e29d4dba6ba102430b91983d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/237d70a9e46a8a30e29d4dba6ba102430b91983d</guid>
+      <pubDate>Sat, 20 Jun 2026 02:26:00 +0900</pubDate>
     </item>
     <item>
       <title>アンソロピックを規制する米政府方針、AI業界への介入に法的な疑問も</title>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/5bf96965ad2afdd9d2d8a79458f3030cac9c1458</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bf96965ad2afdd9d2d8a79458f3030cac9c1458</guid>
       <pubDate>Fri, 19 Jun 2026 23:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米株先物が下落、米イラン協議延期で慎重ムード－ドルは161円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/d5b7d1ce7a5f6a58edb997e57234e8e66040a9d1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5b7d1ce7a5f6a58edb997e57234e8e66040a9d1</guid>
+      <pubDate>Sat, 20 Jun 2026 23:35:00 +0900</pubDate>
     </item>
     <item>
       <title>米株先物が下落、米イラン協議延期で慎重ムード－ドル161円台前半</title>
@@ -54,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/ee5d12fba4e25700dac82d28220fc7e446fcefca</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee5d12fba4e25700dac82d28220fc7e446fcefca</guid>
       <pubDate>Fri, 19 Jun 2026 21:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株ファンドへの資金流入、週間で過去最高－テック株人気が背景</title>
+      <link>https://news.yahoo.co.jp/articles/3154689fc2856baa9854d45fe4f8f649ca10bbf2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3154689fc2856baa9854d45fe4f8f649ca10bbf2</guid>
+      <pubDate>Fri, 19 Jun 2026 21:33:00 +0900</pubDate>
     </item>
     <item>
       <title>為替トレーダー、ドルのコールオプションに殺到－タカ派FRBで勢い</title>
@@ -134,6 +152,12 @@
       <pubDate>Fri, 19 Jun 2026 13:12:00 +0900</pubDate>
     </item>
     <item>
+      <title>米イラン協議、開始前から足踏み－イスラエルとヒズボラは停戦で合意</title>
+      <link>https://news.yahoo.co.jp/articles/ecc3806b3dffe07bcda9fb9fbac316120a4d7e22</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ecc3806b3dffe07bcda9fb9fbac316120a4d7e22</guid>
+      <pubDate>Fri, 19 Jun 2026 12:48:00 +0900</pubDate>
+    </item>
+    <item>
       <title>イスラエルとヒズボラが停戦合意と米高官、19日の米イラン協議は延期</title>
       <link>https://news.yahoo.co.jp/articles/cf31b6708d3706b289c55cad9a3211a2c5d47c35</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf31b6708d3706b289c55cad9a3211a2c5d47c35</guid>
@@ -200,7 +224,7 @@
       <pubDate>Fri, 19 Jun 2026 09:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>中国、ASMLの先端半導体装置を入手した可能性－米が経営陣に懸念伝達</title>
+      <title>中国、ASMLの先端半導体装置入手の可能性－米が経営陣に懸念伝達</title>
       <link>https://news.yahoo.co.jp/articles/8a5eec2b99890cdcc9a8c84182e24700701bfb30</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a5eec2b99890cdcc9a8c84182e24700701bfb30</guid>
       <pubDate>Fri, 19 Jun 2026 09:42:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2350e378faf0e92654a3c43bc51fdbbdad90420c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2350e378faf0e92654a3c43bc51fdbbdad90420c</guid>
       <pubDate>Fri, 19 Jun 2026 07:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXに投資適格級格付け、3大格付け会社が付与</title>
-      <link>https://news.yahoo.co.jp/articles/9f9865ff6d4b852a334315e80d8d4324078ed672</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f9865ff6d4b852a334315e80d8d4324078ed672</guid>
-      <pubDate>Fri, 19 Jun 2026 05:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株反落、英国債は下げ縮小－英中銀利上げ見通し後退</title>
-      <link>https://news.yahoo.co.jp/articles/90747ee1cfac3f2a5743920eec1eb3e1bee99c97</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90747ee1cfac3f2a5743920eec1eb3e1bee99c97</guid>
-      <pubDate>Fri, 19 Jun 2026 02:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】円安進行で一時161円81銭、介入警戒強まる－株・国債反発</title>
-      <link>https://news.yahoo.co.jp/articles/87496b793def57369a49ef1cfff26b92805b1274</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87496b793def57369a49ef1cfff26b92805b1274</guid>
-      <pubDate>Fri, 19 Jun 2026 01:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXが200億ドル以上の社債発行へ、22日にも投資家説明会</title>
-      <link>https://news.yahoo.co.jp/articles/7a1eddd74f072b8087efc8dace9d6e7f174aff76</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7a1eddd74f072b8087efc8dace9d6e7f174aff76</guid>
-      <pubDate>Fri, 19 Jun 2026 01:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
