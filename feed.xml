@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 10:42:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 12:07:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アッヴィが米バイオ医薬品アポジー買収で合意近い、1兆7700億円－FT</title>
+      <link>https://news.yahoo.co.jp/articles/cf8467a303685b0191c7f8fec16083523d566f61</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf8467a303685b0191c7f8fec16083523d566f61</guid>
+      <pubDate>Sat, 20 Jun 2026 10:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ペルシャ湾内の超大型タンカー1隻、ホルムズ海峡への航行を再開</title>
+      <link>https://news.yahoo.co.jp/articles/48c07bfdca104f3cb665e8b6d5c6f01ea726ba5e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48c07bfdca104f3cb665e8b6d5c6f01ea726ba5e</guid>
+      <pubDate>Sat, 20 Jun 2026 09:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>ドイツ首相、国際的な為替協議を呼びかけ－人民元安是正の必要性示唆</title>
       <link>https://news.yahoo.co.jp/articles/968238d755402e91d62ffc643a42be1444a1f416</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6a3a78a770084869c6e342bc3d35e3ca7f3e59f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a3a78a770084869c6e342bc3d35e3ca7f3e59f4</guid>
       <pubDate>Fri, 19 Jun 2026 08:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三井住友銀、計9350億円の融資に関するリスク移転の取引検討－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/de1f88c2c0f0370216250bdb351798a6be98c605</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de1f88c2c0f0370216250bdb351798a6be98c605</guid>
-      <pubDate>Fri, 19 Jun 2026 08:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株続伸へ、成長期待でAI・半導体関連中心に買い－過熱感に警戒も</title>
-      <link>https://news.yahoo.co.jp/articles/62a397544c04d8917775eecd2e06d0396ccdf073</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62a397544c04d8917775eecd2e06d0396ccdf073</guid>
-      <pubDate>Fri, 19 Jun 2026 07:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
