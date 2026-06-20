@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 06:32:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 07:26:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏のオウンゴール、経済悪化怖さに対イラン交渉カード手放す</title>
+      <link>https://news.yahoo.co.jp/articles/8afc86bd642c8df5920fea337a113506eeffe631</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8afc86bd642c8df5920fea337a113506eeffe631</guid>
+      <pubDate>Sun, 21 Jun 2026 03:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン、カーグ島での原油積み出しを再開－米海軍の港湾封鎖解除受け</title>
       <link>https://news.yahoo.co.jp/articles/81c3c8b2b146422afb4dacb5f8194b5d0acd7e80</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7600ff578c1e1867a6b2b9dcbbefdc4cc9809300</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7600ff578c1e1867a6b2b9dcbbefdc4cc9809300</guid>
       <pubDate>Fri, 19 Jun 2026 09:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、ASMLの先端半導体装置入手の可能性－米が経営陣に懸念伝達</title>
-      <link>https://news.yahoo.co.jp/articles/8a5eec2b99890cdcc9a8c84182e24700701bfb30</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a5eec2b99890cdcc9a8c84182e24700701bfb30</guid>
-      <pubDate>Fri, 19 Jun 2026 09:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
