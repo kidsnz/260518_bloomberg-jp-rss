@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 04:31:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 05:28:37 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン、カーグ島での原油積み出しを再開－米海軍の港湾封鎖解除受け</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/4971c2335280c95f6ba7891793ad44fbfb88be16</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4971c2335280c95f6ba7891793ad44fbfb88be16</guid>
       <pubDate>Sat, 20 Jun 2026 23:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランがホルムズ海峡閉鎖を表明、21日スイスで米と実務者協議へ</title>
+      <link>https://news.yahoo.co.jp/articles/d0d324ce5d14c536042c9fdc5a4ba15826d61c25</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d0d324ce5d14c536042c9fdc5a4ba15826d61c25</guid>
+      <pubDate>Sun, 21 Jun 2026 22:25:00 +0900</pubDate>
     </item>
     <item>
       <title>イランがホルムズ海峡を閉鎖、21日スイスで米と実務者協議へ</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8a5eec2b99890cdcc9a8c84182e24700701bfb30</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a5eec2b99890cdcc9a8c84182e24700701bfb30</guid>
       <pubDate>Fri, 19 Jun 2026 09:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相、投機的な動きがあれば「断固たる措置」－円は下げ縮小</title>
-      <link>https://news.yahoo.co.jp/articles/c362f2366e622c4592dee0ca7fc52fd3234a62c2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c362f2366e622c4592dee0ca7fc52fd3234a62c2</guid>
-      <pubDate>Fri, 19 Jun 2026 09:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
