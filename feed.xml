@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 15:33:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 17:09:57 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国から日本への重要鉱物輸出、5月も低水準－一部の品目はゼロ</title>
+      <link>https://news.yahoo.co.jp/articles/03b449fe0a3c4efe71c44827a53db42442219d1e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03b449fe0a3c4efe71c44827a53db42442219d1e</guid>
+      <pubDate>Sat, 20 Jun 2026 16:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡の南側航路、信号発信したまま通航可能－JMICが見解</title>
+      <link>https://news.yahoo.co.jp/articles/3b447d0a174bb2100e4eef065490d09f21c54736</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b447d0a174bb2100e4eef065490d09f21c54736</guid>
+      <pubDate>Sat, 20 Jun 2026 14:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>ノーベル賞受賞者ジャンパー氏がアンソロピック移籍－グーグルに痛手</title>
       <link>https://news.yahoo.co.jp/articles/f0f0e0d28e45e33fa21156d878a8db542c2bd0f0</link>
@@ -84,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/dd739f2813cef1244dacb50f02ddeb31a57eb792</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd739f2813cef1244dacb50f02ddeb31a57eb792</guid>
       <pubDate>Fri, 19 Jun 2026 22:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン、ホルムズ海峡で統制強化へ－今後「保険料」徴収の可能性示す</title>
+      <link>https://news.yahoo.co.jp/articles/32f9811005e7de13eb36c44838dd0acc54756e16</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32f9811005e7de13eb36c44838dd0acc54756e16</guid>
+      <pubDate>Fri, 19 Jun 2026 21:56:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン、ホルムズ海峡で統制強化へ－通航料徴収に道開く規則導入</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2db5de038009b9147a083334ca2e3c64dc7834bc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2db5de038009b9147a083334ca2e3c64dc7834bc</guid>
       <pubDate>Fri, 19 Jun 2026 08:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>政府の「成長投資」熱、企業価値脅かす恐れ－株主還元と二元論のわな</title>
-      <link>https://news.yahoo.co.jp/articles/93c086b4bf7a99abe827b8d2c7b3784da1d90a21</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93c086b4bf7a99abe827b8d2c7b3784da1d90a21</guid>
-      <pubDate>Fri, 19 Jun 2026 08:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>消費者物価は伸び横ばい、市場予想と一致－日銀の年内利上げ観測維持</title>
-      <link>https://news.yahoo.co.jp/articles/d3ff328332f7e5e38838af308be4cb089c2c842c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3ff328332f7e5e38838af308be4cb089c2c842c</guid>
-      <pubDate>Fri, 19 Jun 2026 08:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長のタカ派始動、米国債市場に見直し迫る－PGIM</title>
-      <link>https://news.yahoo.co.jp/articles/75b826140093976ee5cabfc27f6e2b3a2546f9fe</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75b826140093976ee5cabfc27f6e2b3a2546f9fe</guid>
-      <pubDate>Fri, 19 Jun 2026 08:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
