@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 08:27:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:53:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イランとの交渉へバンス氏出発、核問題とレバノン停戦で進展目指す</title>
+      <link>https://news.yahoo.co.jp/articles/b2eb356b2a31566aec5b5c9f8e1bb98123f85262</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2eb356b2a31566aec5b5c9f8e1bb98123f85262</guid>
+      <pubDate>Sun, 21 Jun 2026 06:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏のオウンゴール、経済悪化怖さに対イラン交渉カード手放す</title>
       <link>https://news.yahoo.co.jp/articles/8afc86bd642c8df5920fea337a113506eeffe631</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/167037929ba06c53cc90fbd1913e9f8efb99f59d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/167037929ba06c53cc90fbd1913e9f8efb99f59d</guid>
       <pubDate>Fri, 19 Jun 2026 10:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>MSCI、インドネシア市場アクセスに懸念－情報フローの評価引き下げ</title>
-      <link>https://news.yahoo.co.jp/articles/7600ff578c1e1867a6b2b9dcbbefdc4cc9809300</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7600ff578c1e1867a6b2b9dcbbefdc4cc9809300</guid>
-      <pubDate>Fri, 19 Jun 2026 09:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
