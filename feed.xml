@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 03:30:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:31:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン、カーグ島での原油積み出しを再開－米海軍の港湾封鎖解除受け</title>
+      <link>https://news.yahoo.co.jp/articles/81c3c8b2b146422afb4dacb5f8194b5d0acd7e80</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81c3c8b2b146422afb4dacb5f8194b5d0acd7e80</guid>
+      <pubDate>Sun, 21 Jun 2026 01:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン・米国の実務者協議、21日にスイスで開催へ－パキスタン外務省</title>
       <link>https://news.yahoo.co.jp/articles/b41e348e895fee575fa6b96d5d85deaee1ffde8a</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/8b9e0b0968e8ec18fbc1514cce08d24f862fb757</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b9e0b0968e8ec18fbc1514cce08d24f862fb757</guid>
       <pubDate>Sat, 20 Jun 2026 22:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ボリビア大統領、非常事態を宣言－道路封鎖長期化で経済が大きく混乱</title>
+      <link>https://news.yahoo.co.jp/articles/1da478df810f25dd0ff02313bd5d9a72b61ba4c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1da478df810f25dd0ff02313bd5d9a72b61ba4c7</guid>
+      <pubDate>Sat, 20 Jun 2026 17:36:00 +0900</pubDate>
     </item>
     <item>
       <title>中国から日本への重要鉱物輸出、5月も低水準－一部の品目はゼロ</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c362f2366e622c4592dee0ca7fc52fd3234a62c2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c362f2366e622c4592dee0ca7fc52fd3234a62c2</guid>
       <pubDate>Fri, 19 Jun 2026 09:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>東海東京証券、投資銀行部門責任者にEYストラテジー出身者を起用</title>
-      <link>https://news.yahoo.co.jp/articles/e7a06b13d5dda13d15f91ec07111a2a982edb3c5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7a06b13d5dda13d15f91ec07111a2a982edb3c5</guid>
-      <pubDate>Fri, 19 Jun 2026 09:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7月の米利上げ観測、米国債先物の取引急増-スワップ市場も確率50%想定</title>
-      <link>https://news.yahoo.co.jp/articles/effd366cfaab1ab1ad175ba626d16bfaa1751140</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/effd366cfaab1ab1ad175ba626d16bfaa1751140</guid>
-      <pubDate>Fri, 19 Jun 2026 09:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
