@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 12:07:21 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 13:56:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ノーベル賞受賞者ジャンパー氏がアンソロピック移籍－グーグルに痛手</title>
+      <link>https://news.yahoo.co.jp/articles/f0f0e0d28e45e33fa21156d878a8db542c2bd0f0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0f0e0d28e45e33fa21156d878a8db542c2bd0f0</guid>
+      <pubDate>Sat, 20 Jun 2026 12:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>アッヴィが米バイオ医薬品アポジー買収で合意近い、1兆7700億円－FT</title>
       <link>https://news.yahoo.co.jp/articles/cf8467a303685b0191c7f8fec16083523d566f61</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/75b826140093976ee5cabfc27f6e2b3a2546f9fe</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75b826140093976ee5cabfc27f6e2b3a2546f9fe</guid>
       <pubDate>Fri, 19 Jun 2026 08:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、ホルムズ再開期待で株高へ－ドル高で円は24年安値に接近</title>
-      <link>https://news.yahoo.co.jp/articles/6a3a78a770084869c6e342bc3d35e3ca7f3e59f4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a3a78a770084869c6e342bc3d35e3ca7f3e59f4</guid>
-      <pubDate>Fri, 19 Jun 2026 08:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
