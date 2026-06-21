@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:09:33 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:12:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】FRB重視の指標、インフレ加速示す見通し－利上げ観測裏付けも</title>
+      <link>https://news.yahoo.co.jp/articles/f4855d1da4daf4a9759de753cf9c68c24cd77695</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4855d1da4daf4a9759de753cf9c68c24cd77695</guid>
+      <pubDate>Sun, 21 Jun 2026 10:24:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランとの交渉へバンス氏出発、核問題とレバノン停戦で進展目指す</title>
       <link>https://news.yahoo.co.jp/articles/b2eb356b2a31566aec5b5c9f8e1bb98123f85262</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5c9705e0b45c85c948ea001554ff1062e33b462d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c9705e0b45c85c948ea001554ff1062e33b462d</guid>
       <pubDate>Fri, 19 Jun 2026 10:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バンス米副大統領、今夜のスイス出発を取りやめ－代表取材</title>
-      <link>https://news.yahoo.co.jp/articles/167037929ba06c53cc90fbd1913e9f8efb99f59d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/167037929ba06c53cc90fbd1913e9f8efb99f59d</guid>
-      <pubDate>Fri, 19 Jun 2026 10:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
