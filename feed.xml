@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:29:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:58:50 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日銀政策正常化は時間との戦いか、首相指名のハト派委員が利上げ反対</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/2710c538fec73a39aea8fa3b138c83bc8d551d56</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2710c538fec73a39aea8fa3b138c83bc8d551d56</guid>
       <pubDate>Mon, 22 Jun 2026 08:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで161円台半ば、和平協議にらみ円安継続－債券は下落へ</title>
+      <link>https://news.yahoo.co.jp/articles/3b1f70467e8b0949561cbc7fbb2da42f4b3b2fa3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1f70467e8b0949561cbc7fbb2da42f4b3b2fa3</guid>
+      <pubDate>Mon, 22 Jun 2026 07:58:00 +0900</pubDate>
     </item>
     <item>
       <title>日本株は下落へ、米・イランの和平協議に不透明感－過熱感も重し</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/dff771755f9be68fadd97511d557477bb1bed16e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dff771755f9be68fadd97511d557477bb1bed16e</guid>
       <pubDate>Fri, 19 Jun 2026 14:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ議長の筋金入りタカ派姿勢、市場不意打ち－物価安定を強調</title>
-      <link>https://news.yahoo.co.jp/articles/25312d08969b2d783eab7887de6f6bd38a3e5a1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25312d08969b2d783eab7887de6f6bd38a3e5a1e</guid>
-      <pubDate>Fri, 19 Jun 2026 13:36:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
