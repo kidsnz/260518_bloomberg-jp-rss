@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 06:29:42 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:01:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日産「陰の実力者」ら選任案にルノーが異例の不支持、大株主と取引銀行の間で板挟み</title>
+      <link>https://news.yahoo.co.jp/articles/62135dcd1f6dabcc655bbf3abb8643ec85ac7ba5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62135dcd1f6dabcc655bbf3abb8643ec85ac7ba5</guid>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国とイラン、スイスで和平協議開始－トランプ氏は再攻撃を警告</title>
       <link>https://news.yahoo.co.jp/articles/d0edffee628a470652fc875df0fb5955d5d69100</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4d6ec9d4dc2551d1df27dc06b198d13501ff0a78</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d6ec9d4dc2551d1df27dc06b198d13501ff0a78</guid>
       <pubDate>Fri, 19 Jun 2026 11:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シリコンバレー天敵の弁護士、16歳未満SNS利用禁止で英首相動かす</title>
-      <link>https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</guid>
-      <pubDate>Fri, 19 Jun 2026 11:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
