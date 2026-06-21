@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 17:50:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:15:14 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アルバニアで大規模抗議デモ、クシュナー氏支援のリゾート計画に反発</title>
       <link>https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</guid>
       <pubDate>Sun, 21 Jun 2026 16:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「スーパーエルニーニョ」にどう備える－勝ち組と負け組の見分け方</title>
+      <link>https://news.yahoo.co.jp/articles/e1ef98adeaddb1aa3e5ca731365a4e9e9a1f8af3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1ef98adeaddb1aa3e5ca731365a4e9e9a1f8af3</guid>
+      <pubDate>Sun, 21 Jun 2026 14:58:00 +0900</pubDate>
     </item>
     <item>
       <title>【焦点】FRB重視の指標、インフレ加速示す見通し－利上げ観測裏付けも</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/67fd1155b1eb02bdbd7a0baae780d22021fab634</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67fd1155b1eb02bdbd7a0baae780d22021fab634</guid>
       <pubDate>Fri, 19 Jun 2026 11:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米30年債利回りは年末再び5%超の公算、市場参加者の過半が予想－調査</title>
-      <link>https://news.yahoo.co.jp/articles/6cfe8f5c65f1a41e998d694c07c4c566bbdbe210</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6cfe8f5c65f1a41e998d694c07c4c566bbdbe210</guid>
-      <pubDate>Fri, 19 Jun 2026 10:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
