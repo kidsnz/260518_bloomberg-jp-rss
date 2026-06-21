@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:32:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 06:29:42 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米イラン協議継続、打ち切りの報道後も－トランプ氏は再攻撃を警告</title>
+      <title>米国とイラン、スイスで和平協議開始－トランプ氏は再攻撃を警告</title>
       <link>https://news.yahoo.co.jp/articles/d0edffee628a470652fc875df0fb5955d5d69100</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d0edffee628a470652fc875df0fb5955d5d69100</guid>
       <pubDate>Mon, 22 Jun 2026 01:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランへの再攻撃を警告－レバノンの代理勢力を巡り</title>
+      <link>https://news.yahoo.co.jp/articles/5c2f35449a790d6fef406457950ccd7222b73d7a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c2f35449a790d6fef406457950ccd7222b73d7a</guid>
+      <pubDate>Sun, 21 Jun 2026 22:41:00 +0900</pubDate>
     </item>
     <item>
       <title>米国とイラン、包括和平合意に向け協議開始－トランプ氏は再攻撃警告</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afdfc01c9bca7dee1692ce64137aaf4b727dc342</guid>
       <pubDate>Fri, 19 Jun 2026 11:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>次期英首相候補バーナム氏、下院補選で大勝－スターマー氏に挑む公算</title>
-      <link>https://news.yahoo.co.jp/articles/015c93a16bbf226f048b967af4ccd491837c08a7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/015c93a16bbf226f048b967af4ccd491837c08a7</guid>
-      <pubDate>Fri, 19 Jun 2026 11:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
