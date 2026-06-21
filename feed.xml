@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 21:39:54 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:34:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国とイラン、包括的な和平合意に向けた協議開始－スイスで</title>
+      <link>https://news.yahoo.co.jp/articles/4ff5320ff5a0d350de38488d342a102d86a53cf9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ff5320ff5a0d350de38488d342a102d86a53cf9</guid>
+      <pubDate>Sun, 21 Jun 2026 21:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>アルバニアで大規模抗議デモ、クシュナー氏支援のリゾート計画に反発</title>
       <link>https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/70cf1e107ed4f0904355277ecce80953d016933b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/70cf1e107ed4f0904355277ecce80953d016933b</guid>
       <pubDate>Fri, 19 Jun 2026 11:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米学生ローン不履行、916万人で過去最多に－トランプ氏が取り立て強化</title>
-      <link>https://news.yahoo.co.jp/articles/67fd1155b1eb02bdbd7a0baae780d22021fab634</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67fd1155b1eb02bdbd7a0baae780d22021fab634</guid>
-      <pubDate>Fri, 19 Jun 2026 11:24:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
