@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 16:08:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:50:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アルバニアで大規模抗議デモ、クシュナー氏支援のリゾート計画に反発</title>
+      <link>https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</guid>
+      <pubDate>Sun, 21 Jun 2026 16:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>【焦点】FRB重視の指標、インフレ加速示す見通し－利上げ観測裏付けも</title>
       <link>https://news.yahoo.co.jp/articles/f4855d1da4daf4a9759de753cf9c68c24cd77695</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6cfe8f5c65f1a41e998d694c07c4c566bbdbe210</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6cfe8f5c65f1a41e998d694c07c4c566bbdbe210</guid>
       <pubDate>Fri, 19 Jun 2026 10:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ再開の号砲待った中東石油業界、一斉に始動へ－輸出回復急ぐ</title>
-      <link>https://news.yahoo.co.jp/articles/5c9705e0b45c85c948ea001554ff1062e33b462d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c9705e0b45c85c948ea001554ff1062e33b462d</guid>
-      <pubDate>Fri, 19 Jun 2026 10:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
