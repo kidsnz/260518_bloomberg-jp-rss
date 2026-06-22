@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:46:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 14:49:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>消費税1%案、国民1人当たりの減税額は年間約3万6000円－片山財務相</title>
+      <link>https://news.yahoo.co.jp/articles/087c65682f499cd6dcbc2c7f7c3056a0d6cc8f21</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/087c65682f499cd6dcbc2c7f7c3056a0d6cc8f21</guid>
+      <pubDate>Mon, 22 Jun 2026 14:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生損保、金利高騰の5月に再び超長期債売り－一段上昇なら減損懸念も</title>
+      <link>https://news.yahoo.co.jp/articles/125b7b7d59529f5f48ab01362166f3b6d126064e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/125b7b7d59529f5f48ab01362166f3b6d126064e</guid>
+      <pubDate>Mon, 22 Jun 2026 13:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>対トランプ融和に一石、メローニ氏が公然と反論－G7首脳で異例の対応</title>
+      <link>https://news.yahoo.co.jp/articles/74dee24dbd55a1d2dae2c5276f4b2588c4411d55</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74dee24dbd55a1d2dae2c5276f4b2588c4411d55</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア「一強」、CPU復権で変化の兆し－AI半導体覇権争い</title>
+      <link>https://news.yahoo.co.jp/articles/9e230b5c6d6629cf1c4cf60159203e8a95d67016</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e230b5c6d6629cf1c4cf60159203e8a95d67016</guid>
+      <pubDate>Mon, 22 Jun 2026 12:26:00 +0900</pubDate>
+    </item>
     <item>
       <title>カタールのガス施設で爆発、54人負傷・18人不明－再稼働作業中に事故</title>
       <link>https://news.yahoo.co.jp/articles/d00aa6d6bb8076cac18cd5ff6fc44fe9be45fe3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d00aa6d6bb8076cac18cd5ff6fc44fe9be45fe3c</guid>
       <pubDate>Mon, 22 Jun 2026 11:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債下落、トランプ氏のイラン再攻撃警告でインフレリスク意識</title>
+      <link>https://news.yahoo.co.jp/articles/09b74cec44f26cbb15a6825851baf14e49a9824a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/09b74cec44f26cbb15a6825851baf14e49a9824a</guid>
+      <pubDate>Mon, 22 Jun 2026 11:38:00 +0900</pubDate>
     </item>
     <item>
       <title>40年ぶりの円安水準、自動車7社で9000億円超の利益上振れ要因に</title>
@@ -38,7 +68,7 @@
       <pubDate>Mon, 22 Jun 2026 09:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株上昇、AI関連の一角に買い－和平協議への懸念で円軟調</title>
+      <title>【日本市況】日経平均初の7万2000円、AI関連支え－161円半ばに円下落</title>
       <link>https://news.yahoo.co.jp/articles/25fcdf18b016797146dddbc79478b7f6ae291dea</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25fcdf18b016797146dddbc79478b7f6ae291dea</guid>
       <pubDate>Mon, 22 Jun 2026 09:34:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/32f9811005e7de13eb36c44838dd0acc54756e16</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32f9811005e7de13eb36c44838dd0acc54756e16</guid>
       <pubDate>Fri, 19 Jun 2026 21:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、ホルムズ海峡で統制強化へ－通航料徴収に道開く規則導入</title>
-      <link>https://news.yahoo.co.jp/articles/ee5d12fba4e25700dac82d28220fc7e446fcefca</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee5d12fba4e25700dac82d28220fc7e446fcefca</guid>
-      <pubDate>Fri, 19 Jun 2026 21:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株ファンドへの資金流入、週間で過去最高－テック株人気が背景</title>
-      <link>https://news.yahoo.co.jp/articles/3154689fc2856baa9854d45fe4f8f649ca10bbf2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3154689fc2856baa9854d45fe4f8f649ca10bbf2</guid>
-      <pubDate>Fri, 19 Jun 2026 21:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>為替トレーダー、ドルのコールオプションに殺到－タカ派FRBで勢い</title>
-      <link>https://news.yahoo.co.jp/articles/779e8f0ff113c98e8a58f1e391e8c90306e64fdf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/779e8f0ff113c98e8a58f1e391e8c90306e64fdf</guid>
-      <pubDate>Fri, 19 Jun 2026 21:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海の通航量減少、安全を優先－日本関係の1隻は無事通過</title>
-      <link>https://news.yahoo.co.jp/articles/1f9d28618dababa5afb56b880f00a942d5139fff</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f9d28618dababa5afb56b880f00a942d5139fff</guid>
-      <pubDate>Fri, 19 Jun 2026 18:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECBレーン理事、利上げ判断の正当性主張－一部で疑問の声挙がる</title>
-      <link>https://news.yahoo.co.jp/articles/1583ec9915d809e18cf221c2c2781aae8f92e255</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1583ec9915d809e18cf221c2c2781aae8f92e255</guid>
-      <pubDate>Fri, 19 Jun 2026 18:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
