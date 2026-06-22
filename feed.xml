@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 04:41:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:01:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】株上昇、米・イラン協議を注視－英国債は総じて上昇</title>
+      <link>https://news.yahoo.co.jp/articles/82570f2b1235aeea7558b34a0e62cd113b99f53f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82570f2b1235aeea7558b34a0e62cd113b99f53f</guid>
+      <pubDate>Tue, 23 Jun 2026 02:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>米がイラン産原油販売を容認、和平合意の一環－長年の制裁政策転換</title>
       <link>https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</link>
@@ -48,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/be090dcacf81de3f1d8a18f27adc91bca4b15dfb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be090dcacf81de3f1d8a18f27adc91bca4b15dfb</guid>
       <pubDate>Mon, 22 Jun 2026 21:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXが初の投資適格債を発行へ、AI投資を加速－株価は下落</title>
+      <link>https://news.yahoo.co.jp/articles/4ab420f1e7dc9dbc40a252b7810ecb89254c5252</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ab420f1e7dc9dbc40a252b7810ecb89254c5252</guid>
+      <pubDate>Tue, 23 Jun 2026 21:50:00 +0900</pubDate>
     </item>
     <item>
       <title>英スターマー首相が辞任を発表、次期首相9月までに選出へ</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1da478df810f25dd0ff02313bd5d9a72b61ba4c7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1da478df810f25dd0ff02313bd5d9a72b61ba4c7</guid>
       <pubDate>Sat, 20 Jun 2026 17:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国から日本への重要鉱物輸出、5月も低水準－一部の品目はゼロ</title>
-      <link>https://news.yahoo.co.jp/articles/03b449fe0a3c4efe71c44827a53db42442219d1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03b449fe0a3c4efe71c44827a53db42442219d1e</guid>
-      <pubDate>Sat, 20 Jun 2026 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡の南側航路、信号発信したまま通航可能－JMICが見解</title>
-      <link>https://news.yahoo.co.jp/articles/3b447d0a174bb2100e4eef065490d09f21c54736</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b447d0a174bb2100e4eef065490d09f21c54736</guid>
-      <pubDate>Sat, 20 Jun 2026 14:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
