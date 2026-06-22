@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:31:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 23:54:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>グリーンスパン元FRB議長が死去、100歳－米経済支えた「マエストロ」</title>
+      <link>https://news.yahoo.co.jp/articles/be090dcacf81de3f1d8a18f27adc91bca4b15dfb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be090dcacf81de3f1d8a18f27adc91bca4b15dfb</guid>
+      <pubDate>Mon, 22 Jun 2026 21:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>英スターマー首相が辞任を発表、次期首相9月までに選出へ</title>
       <link>https://news.yahoo.co.jp/articles/a4edbe8506d3364f80e16f2884c428482bfed5d2</link>
@@ -20,7 +26,7 @@
       <pubDate>Mon, 22 Jun 2026 17:28:00 +0900</pubDate>
     </item>
     <item>
-      <title>ポンドが下落、年初来安値に接近－スターマー首相辞任で政治不安再び</title>
+      <title>ポンド下げ消す、英国債も上昇－英首相辞任も円滑な権力移譲進む公算</title>
       <link>https://news.yahoo.co.jp/articles/3896d9fea8f280c95c584b8970d3716c2c194166</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3896d9fea8f280c95c584b8970d3716c2c194166</guid>
       <pubDate>Mon, 22 Jun 2026 17:15:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/237d70a9e46a8a30e29d4dba6ba102430b91983d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/237d70a9e46a8a30e29d4dba6ba102430b91983d</guid>
       <pubDate>Sat, 20 Jun 2026 02:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>メローニ氏がトランプ氏に不快感、写真せがんだとの主張「作り話」</title>
-      <link>https://news.yahoo.co.jp/articles/cb6aa125f6a094ae1af6a96060339e42a83d920b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb6aa125f6a094ae1af6a96060339e42a83d920b</guid>
-      <pubDate>Sat, 20 Jun 2026 02:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
