@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 01:34:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:23:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米がイラン産原油販売を容認、和平合意の一環－長年の制裁政策転換</title>
+      <link>https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</guid>
+      <pubDate>Tue, 23 Jun 2026 02:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500種は反落、スペースXの下げが重しに－円は一時上昇に転じる</title>
+      <link>https://news.yahoo.co.jp/articles/14fc7efbf42663b110aa783f5bad8d63655dffb2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14fc7efbf42663b110aa783f5bad8d63655dffb2</guid>
+      <pubDate>Tue, 23 Jun 2026 01:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>円が一時161円08銭に上昇、24年7月以来の安値接近後－介入警戒根強く</title>
       <link>https://news.yahoo.co.jp/articles/7cdabaf953132264821a061a42ba41dfbb662b4e</link>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/d4645d47e6207e323e4035edd2dd79a46051684d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4645d47e6207e323e4035edd2dd79a46051684d</guid>
       <pubDate>Mon, 22 Jun 2026 23:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>グリーンスパン元FRB議長が死去、100歳－米経済支えた「マエストロ」</title>
+      <link>https://news.yahoo.co.jp/articles/22eee0849a237d6cdc22cde19891c529df5e9877</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22eee0849a237d6cdc22cde19891c529df5e9877</guid>
+      <pubDate>Mon, 22 Jun 2026 21:54:00 +0900</pubDate>
     </item>
     <item>
       <title>グリーンスパン元FRB議長が死去、100歳－米経済支えた「マエストロ」</title>
@@ -200,7 +218,7 @@
       <pubDate>Sun, 21 Jun 2026 22:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>米イラン協議、初会合で「進展」－ホルムズ通航の安全確保へ連絡体制</title>
+      <title>中東和平協議、初会合で「大きな進展」－核査察にイラン合意とバンス氏</title>
       <link>https://news.yahoo.co.jp/articles/fa3556215862efdefbb45c6b820ab08308fd397e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa3556215862efdefbb45c6b820ab08308fd397e</guid>
       <pubDate>Sun, 21 Jun 2026 21:08:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b447d0a174bb2100e4eef065490d09f21c54736</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b447d0a174bb2100e4eef065490d09f21c54736</guid>
       <pubDate>Sat, 20 Jun 2026 14:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ノーベル賞受賞者ジャンパー氏がアンソロピック移籍－グーグルに痛手</title>
-      <link>https://news.yahoo.co.jp/articles/f0f0e0d28e45e33fa21156d878a8db542c2bd0f0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0f0e0d28e45e33fa21156d878a8db542c2bd0f0</guid>
-      <pubDate>Sat, 20 Jun 2026 12:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アッヴィが米バイオ医薬品アポジー買収で合意近い、1兆7700億円－FT</title>
-      <link>https://news.yahoo.co.jp/articles/cf8467a303685b0191c7f8fec16083523d566f61</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf8467a303685b0191c7f8fec16083523d566f61</guid>
-      <pubDate>Sat, 20 Jun 2026 10:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ペルシャ湾内の超大型タンカー1隻、ホルムズ海峡への航行を再開</title>
-      <link>https://news.yahoo.co.jp/articles/48c07bfdca104f3cb665e8b6d5c6f01ea726ba5e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48c07bfdca104f3cb665e8b6d5c6f01ea726ba5e</guid>
-      <pubDate>Sat, 20 Jun 2026 09:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
