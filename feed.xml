@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 11:22:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:46:45 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>カタールのガス施設で爆発、54人負傷・18人不明－再稼働作業中に事故</title>
+      <link>https://news.yahoo.co.jp/articles/d00aa6d6bb8076cac18cd5ff6fc44fe9be45fe3c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d00aa6d6bb8076cac18cd5ff6fc44fe9be45fe3c</guid>
+      <pubDate>Mon, 22 Jun 2026 11:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>40年ぶりの円安水準、自動車7社で9000億円超の利益上振れ要因に</title>
       <link>https://news.yahoo.co.jp/articles/28f23bbdf182179cbd4805cc6b8e72ba9b56f8d4</link>
@@ -26,7 +32,7 @@
       <pubDate>Mon, 22 Jun 2026 10:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>高市首相、日銀に2%目標の持続的・安定的実現へ適切な政策運営を期待</title>
+      <title>高市首相、日銀に「政府と密接な連携」を期待－1%への利上げ容認示唆</title>
       <link>https://news.yahoo.co.jp/articles/981c68a85dc1f54f2b0b10ddcfdf0858ea9f9cc6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/981c68a85dc1f54f2b0b10ddcfdf0858ea9f9cc6</guid>
       <pubDate>Mon, 22 Jun 2026 09:48:00 +0900</pubDate>
@@ -90,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/5c2f35449a790d6fef406457950ccd7222b73d7a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c2f35449a790d6fef406457950ccd7222b73d7a</guid>
       <pubDate>Sun, 21 Jun 2026 22:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン協議、第1回会合終了で「進展」－ホルムズ通航の安全目指す</title>
+      <link>https://news.yahoo.co.jp/articles/fa3556215862efdefbb45c6b820ab08308fd397e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa3556215862efdefbb45c6b820ab08308fd397e</guid>
+      <pubDate>Sun, 21 Jun 2026 21:08:00 +0900</pubDate>
     </item>
     <item>
       <title>米国とイラン、包括和平合意に向け協議開始－トランプ氏は再攻撃警告</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1583ec9915d809e18cf221c2c2781aae8f92e255</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1583ec9915d809e18cf221c2c2781aae8f92e255</guid>
       <pubDate>Fri, 19 Jun 2026 18:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>セブン－イレブンが50年ぶり新契約プラン、多店経営促し店舗網を維持</title>
-      <link>https://news.yahoo.co.jp/articles/22722657f80acb33fc357d91b568e2627a8e403d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22722657f80acb33fc357d91b568e2627a8e403d</guid>
-      <pubDate>Fri, 19 Jun 2026 17:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ムームー証券に一部業務停止命令、口座開設の勧誘・受付を3カ月間</title>
-      <link>https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a98efad64aa024ba21ddec353bb6b66f6d144d6</guid>
-      <pubDate>Fri, 19 Jun 2026 17:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
