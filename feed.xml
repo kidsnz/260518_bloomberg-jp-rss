@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:00:40 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 19:25:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>英スターマー首相が辞任を発表、次期首相9月までに選出へ</title>
+      <link>https://news.yahoo.co.jp/articles/a4edbe8506d3364f80e16f2884c428482bfed5d2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4edbe8506d3364f80e16f2884c428482bfed5d2</guid>
+      <pubDate>Mon, 22 Jun 2026 18:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英スターマー首相が辞任を発表、次期首相9月までに選出へ</title>
+      <link>https://news.yahoo.co.jp/articles/2275d40ddb198f99c391e07a5428c60a278f073f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2275d40ddb198f99c391e07a5428c60a278f073f</guid>
+      <pubDate>Mon, 22 Jun 2026 17:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ポンドが下落、年初来安値に接近－スターマー首相辞任で政治不安再び</title>
+      <link>https://news.yahoo.co.jp/articles/3896d9fea8f280c95c584b8970d3716c2c194166</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3896d9fea8f280c95c584b8970d3716c2c194166</guid>
+      <pubDate>Mon, 22 Jun 2026 17:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>東京エレク河合社長の報酬20億円超、最高益で3割増－豊田会長に迫る</title>
+      <link>https://news.yahoo.co.jp/articles/2218ce0ff74a2ce2562711d2bb39e18c0863c4d0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2218ce0ff74a2ce2562711d2bb39e18c0863c4d0</guid>
+      <pubDate>Mon, 22 Jun 2026 17:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>野村HD社長の報酬16億円、歴代最高を更新－2期連続過去最高益で</title>
       <link>https://news.yahoo.co.jp/articles/1db52bffac4bcce37f1360edf69c36ae3d2f4bd1</link>
@@ -104,7 +128,7 @@
       <pubDate>Mon, 22 Jun 2026 09:33:00 +0900</pubDate>
     </item>
     <item>
-      <title>日銀政策正常化は時間との戦いか、首相指名のハト派委員が利上げ反対</title>
+      <title>日銀政策正常化は時間との戦いか、高市首相指名のハト派委員が利上げ反対</title>
       <link>https://news.yahoo.co.jp/articles/86e741978a360e4db26a4264262b0e9e850bd5ea</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86e741978a360e4db26a4264262b0e9e850bd5ea</guid>
       <pubDate>Mon, 22 Jun 2026 08:08:00 +0900</pubDate>
@@ -128,7 +152,7 @@
       <pubDate>Mon, 22 Jun 2026 07:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>ブレント原油一時80ドル割れ、米イラン和平協議に進展とカタール表明</title>
+      <title>原油価格は下落、米イラン和平協議に進展の兆し－ブレント79ドル近辺</title>
       <link>https://news.yahoo.co.jp/articles/06d24ff007678ae3036aa7ba53aaa65fad030a9f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/06d24ff007678ae3036aa7ba53aaa65fad030a9f</guid>
       <pubDate>Mon, 22 Jun 2026 07:17:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/cb6aa125f6a094ae1af6a96060339e42a83d920b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb6aa125f6a094ae1af6a96060339e42a83d920b</guid>
       <pubDate>Sat, 20 Jun 2026 02:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックを規制する米政府方針、AI業界への介入に法的な疑問も</title>
-      <link>https://news.yahoo.co.jp/articles/7304967e5842165a0bf2208f7933517f1ffd2d1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7304967e5842165a0bf2208f7933517f1ffd2d1b</guid>
-      <pubDate>Sat, 20 Jun 2026 01:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9月までの米利上げを完全に織り込む、FOMCのタカ派姿勢と原油反発で</title>
-      <link>https://news.yahoo.co.jp/articles/c4d77de71946db6a2fc318e14ae19ddfcbdbfdb7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4d77de71946db6a2fc318e14ae19ddfcbdbfdb7</guid>
-      <pubDate>Sat, 20 Jun 2026 00:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、今週計2000万バレルの原油を輸出－タンカー出港を確認</title>
-      <link>https://news.yahoo.co.jp/articles/5bf96965ad2afdd9d2d8a79458f3030cac9c1458</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bf96965ad2afdd9d2d8a79458f3030cac9c1458</guid>
-      <pubDate>Fri, 19 Jun 2026 23:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株先物が下落、米イラン協議延期で慎重ムード－ドルは161円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/d5b7d1ce7a5f6a58edb997e57234e8e66040a9d1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5b7d1ce7a5f6a58edb997e57234e8e66040a9d1</guid>
-      <pubDate>Sat, 20 Jun 2026 23:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
