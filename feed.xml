@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 02:35:54 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:42:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米政府、大型原子炉の再興を支援－設備発注事業者に計2.8兆円融資へ</title>
+      <link>https://news.yahoo.co.jp/articles/b0fce5c0d3b8efe8cba3cfdc5124a64496225f2e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b0fce5c0d3b8efe8cba3cfdc5124a64496225f2e</guid>
+      <pubDate>Wed, 24 Jun 2026 02:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動拡大</title>
       <link>https://news.yahoo.co.jp/articles/325f32f2fd2c9e51bf820fb7d891cb179b3a2c18</link>
@@ -44,7 +50,7 @@
       <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
     </item>
     <item>
-      <title>イランの凍結資産120億ドルが解除へ、ルビオ国務長官は湾岸訪問</title>
+      <title>トランプ氏、凍結イラン資産は制裁解除後も米国が管理する方針示す</title>
       <link>https://news.yahoo.co.jp/articles/a3ae41adb13c6389ff0726c2414cc39d7fba2441</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3ae41adb13c6389ff0726c2414cc39d7fba2441</guid>
       <pubDate>Tue, 23 Jun 2026 19:19:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/82570f2b1235aeea7558b34a0e62cd113b99f53f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82570f2b1235aeea7558b34a0e62cd113b99f53f</guid>
       <pubDate>Tue, 23 Jun 2026 02:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米がイラン産原油販売を容認、合意の一環－長年の制裁政策転換</title>
-      <link>https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</guid>
-      <pubDate>Tue, 23 Jun 2026 02:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
