@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 21:01:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:26:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イタリア首相、来年4月にも総選挙検討－支持率低下リスクを懸念</title>
+      <link>https://news.yahoo.co.jp/articles/a4c58de623f2af75b53e29b442d2dcdaff15d15a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4c58de623f2af75b53e29b442d2dcdaff15d15a</guid>
+      <pubDate>Tue, 23 Jun 2026 21:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>熱波の頻発で増す電力需要、地熱発電や原子力に脚光－JPモルガン</title>
+      <link>https://news.yahoo.co.jp/articles/de14441bb29150b3b01d5aaed5238c770de264de</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de14441bb29150b3b01d5aaed5238c770de264de</guid>
+      <pubDate>Tue, 23 Jun 2026 20:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株、時間外で5%安－初値割れで時価総額2兆ドル下回る見通し</title>
+      <link>https://news.yahoo.co.jp/articles/4680b36f8a4bc8b582e0fc7707d12ba7acf70ae6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4680b36f8a4bc8b582e0fc7707d12ba7acf70ae6</guid>
+      <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランの凍結資産120億ドルが解除へ、ルビオ国務長官は湾岸訪問</title>
       <link>https://news.yahoo.co.jp/articles/a3ae41adb13c6389ff0726c2414cc39d7fba2441</link>
@@ -68,7 +86,7 @@
       <pubDate>Tue, 23 Jun 2026 15:54:00 +0900</pubDate>
     </item>
     <item>
-      <title>ナスダック100先物が2%超下げ、欧州株も1%安－テック主導で世界株安</title>
+      <title>ナスダック100先物が約3%下げ、欧州株も1%安－テック主導で世界株安</title>
       <link>https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</guid>
       <pubDate>Tue, 23 Jun 2026 15:35:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6e427329b806b1e782b788aa95d8ebbcb1c37698</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e427329b806b1e782b788aa95d8ebbcb1c37698</guid>
       <pubDate>Mon, 22 Jun 2026 23:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、イラン戦争の影響にさらなる強力対応必要ない－ラガルド総裁</title>
-      <link>https://news.yahoo.co.jp/articles/8fd30356da2938509feffd543f6aca8621119f05</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8fd30356da2938509feffd543f6aca8621119f05</guid>
-      <pubDate>Tue, 23 Jun 2026 23:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、イラン戦争の影響にさらなる強力な対応必要ない－ラガルド総裁</title>
-      <link>https://news.yahoo.co.jp/articles/d4645d47e6207e323e4035edd2dd79a46051684d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4645d47e6207e323e4035edd2dd79a46051684d</guid>
-      <pubDate>Mon, 22 Jun 2026 23:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グリーンスパン元FRB議長が死去、100歳－米経済支えた「マエストロ」</title>
-      <link>https://news.yahoo.co.jp/articles/22eee0849a237d6cdc22cde19891c529df5e9877</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22eee0849a237d6cdc22cde19891c529df5e9877</guid>
-      <pubDate>Mon, 22 Jun 2026 21:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
