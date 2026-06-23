@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 07:27:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:54:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>MSCI、韓国を新興国市場に据え置き－ウォン取引などに課題残る</title>
+      <link>https://news.yahoo.co.jp/articles/3d839a8f3e00c7c616694467ddb468e693315202</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d839a8f3e00c7c616694467ddb468e693315202</guid>
+      <pubDate>Wed, 24 Jun 2026 07:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>AI活用でも社員は成果求められる時代に－利用制限設定、安価モデル推奨も</title>
       <link>https://news.yahoo.co.jp/articles/ddfc4acc7265e1e7d5077511351c2f5669075dd3</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2d6d4d02733f6549e3a10f9cfe61bd254d317da5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d6d4d02733f6549e3a10f9cfe61bd254d317da5</guid>
       <pubDate>Tue, 23 Jun 2026 08:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シカゴ連銀総裁、米インフレ高止まりを懸念－一時要因か見極め重要</title>
-      <link>https://news.yahoo.co.jp/articles/0d6507b328e820c203b37d8a8b0e0fdfab6e04e3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d6507b328e820c203b37d8a8b0e0fdfab6e04e3</guid>
-      <pubDate>Tue, 23 Jun 2026 08:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
