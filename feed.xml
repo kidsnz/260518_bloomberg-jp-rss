@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 06:33:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:27:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI活用でも社員は成果求められる時代に－利用制限設定、安価モデル推奨も</title>
+      <link>https://news.yahoo.co.jp/articles/ddfc4acc7265e1e7d5077511351c2f5669075dd3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ddfc4acc7265e1e7d5077511351c2f5669075dd3</guid>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースXが250億ドル起債へ、需要は最短年限債に集中－関係者</title>
       <link>https://news.yahoo.co.jp/articles/6afdedf41eafbe961bd2380ce09b6bb7c0290400</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0d6507b328e820c203b37d8a8b0e0fdfab6e04e3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d6507b328e820c203b37d8a8b0e0fdfab6e04e3</guid>
       <pubDate>Tue, 23 Jun 2026 08:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、中東和平期待で株は上昇へ－円は安値圏で推移、債券下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/c5d423f1278ba5ff0497f8d2862a5bb7f851f3f1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5d423f1278ba5ff0497f8d2862a5bb7f851f3f1</guid>
-      <pubDate>Tue, 23 Jun 2026 08:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
