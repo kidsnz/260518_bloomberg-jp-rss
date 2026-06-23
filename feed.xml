@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:53:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:41:52 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>今さら聞けないキャリートレードとは、積み上がる金利収入と落とし穴</title>
+      <link>https://news.yahoo.co.jp/articles/b0d85e1555d4acb43266dadfeb55a52fe7547ab8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b0d85e1555d4acb43266dadfeb55a52fe7547ab8</guid>
+      <pubDate>Tue, 23 Jun 2026 08:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>個人投資家も再度の当局介入に臨戦態勢、円買い持ちに転じた可能性</title>
       <link>https://news.yahoo.co.jp/articles/2d6d4d02733f6549e3a10f9cfe61bd254d317da5</link>
@@ -260,6 +266,12 @@
       <pubDate>Mon, 22 Jun 2026 07:48:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油下落、米・イラン和平進展と制裁適用除外で－供給増観測強まる</title>
+      <link>https://news.yahoo.co.jp/articles/b2322b7c1dea830eb7c827f817e02b8862e89fd4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2322b7c1dea830eb7c827f817e02b8862e89fd4</guid>
+      <pubDate>Tue, 23 Jun 2026 07:17:00 +0900</pubDate>
+    </item>
+    <item>
       <title>原油価格は下落、米イラン和平協議に進展の兆し－ブレント79ドル近辺</title>
       <link>https://news.yahoo.co.jp/articles/06d24ff007678ae3036aa7ba53aaa65fad030a9f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/06d24ff007678ae3036aa7ba53aaa65fad030a9f</guid>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4ff5320ff5a0d350de38488d342a102d86a53cf9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ff5320ff5a0d350de38488d342a102d86a53cf9</guid>
       <pubDate>Sun, 21 Jun 2026 21:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アルバニアで大規模抗議デモ、クシュナー氏支援のリゾート計画に反発</title>
-      <link>https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11bae21ff7d9c7766210bd59920b02306c3c3f7e</guid>
-      <pubDate>Sun, 21 Jun 2026 16:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「スーパーエルニーニョ」にどう備える－勝ち組と負け組の見分け方</title>
-      <link>https://news.yahoo.co.jp/articles/e1ef98adeaddb1aa3e5ca731365a4e9e9a1f8af3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1ef98adeaddb1aa3e5ca731365a4e9e9a1f8af3</guid>
-      <pubDate>Sun, 21 Jun 2026 14:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
