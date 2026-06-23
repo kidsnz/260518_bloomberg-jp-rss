@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 05:43:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 06:33:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースXが250億ドル起債へ、需要は最短年限債に集中－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/6afdedf41eafbe961bd2380ce09b6bb7c0290400</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6afdedf41eafbe961bd2380ce09b6bb7c0290400</guid>
+      <pubDate>Wed, 24 Jun 2026 04:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円買い・ドル売り介入への警戒続く－円高実現なら戻り売りとの声も</title>
+      <link>https://news.yahoo.co.jp/articles/d45d2b1642b4c37b3f31f009fffbb00c4d05eac5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d45d2b1642b4c37b3f31f009fffbb00c4d05eac5</guid>
+      <pubDate>Wed, 24 Jun 2026 03:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株下落、ハイテク銘柄売りでリスク回避－国債上昇</title>
+      <link>https://news.yahoo.co.jp/articles/889cab40d2b5f37177b9d03f6c2c9f40509fa953</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/889cab40d2b5f37177b9d03f6c2c9f40509fa953</guid>
+      <pubDate>Wed, 24 Jun 2026 02:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>米政府、大型原子炉の再興を支援－設備発注事業者に計2.8兆円融資へ</title>
       <link>https://news.yahoo.co.jp/articles/b0fce5c0d3b8efe8cba3cfdc5124a64496225f2e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b0fce5c0d3b8efe8cba3cfdc5124a64496225f2e</guid>
       <pubDate>Wed, 24 Jun 2026 02:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランとオマーン、ホルムズ海峡管理巡り協議開始－通航料も視野</title>
+      <link>https://news.yahoo.co.jp/articles/a8e76b7656888e63f94db27bf460a23a4ce9ba68</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a8e76b7656888e63f94db27bf460a23a4ce9ba68</guid>
+      <pubDate>Wed, 24 Jun 2026 01:00:00 +0900</pubDate>
     </item>
     <item>
       <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動拡大</title>
@@ -36,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/3ee73d1b146f2a1cc9460ded57af4b8b9b626cd8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ee73d1b146f2a1cc9460ded57af4b8b9b626cd8</guid>
       <pubDate>Tue, 23 Jun 2026 22:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロンドンで熱波、学校休校や鉄砲水発生－予想39度で異例の警報</title>
+      <link>https://news.yahoo.co.jp/articles/38edd1ce7ece2f479ee14a8a7f7871e1a2a9018c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38edd1ce7ece2f479ee14a8a7f7871e1a2a9018c</guid>
+      <pubDate>Tue, 23 Jun 2026 22:23:00 +0900</pubDate>
     </item>
     <item>
       <title>イタリア首相、来年4月にも総選挙検討－支持率低下リスクを懸念</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c5d423f1278ba5ff0497f8d2862a5bb7f851f3f1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5d423f1278ba5ff0497f8d2862a5bb7f851f3f1</guid>
       <pubDate>Tue, 23 Jun 2026 08:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は続伸へ、原油安や米半導体株高を好感－為替相場を注視</title>
-      <link>https://news.yahoo.co.jp/articles/6ac1fec809ad373307eb21bc72aa67053d6b23f6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ac1fec809ad373307eb21bc72aa67053d6b23f6</guid>
-      <pubDate>Tue, 23 Jun 2026 07:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン産原油の輸出急増、1週間で3000万バレル超－米の制裁緩和前</title>
-      <link>https://news.yahoo.co.jp/articles/4455bd00e963a779a58ce83c3bb40411e656320a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4455bd00e963a779a58ce83c3bb40411e656320a</guid>
-      <pubDate>Tue, 23 Jun 2026 07:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クアルコム、AI半導体新興モジュラー買収へ協議－評価額40億ドル</title>
-      <link>https://news.yahoo.co.jp/articles/ed5b4e8823bb0bf322257a742996edc0ba19b7a3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed5b4e8823bb0bf322257a742996edc0ba19b7a3</guid>
-      <pubDate>Tue, 23 Jun 2026 07:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アポロのプライベートクレジット、5%超える解約に応じず－2四半期連続</title>
-      <link>https://news.yahoo.co.jp/articles/d605cb38196122a5d200a77bf4afa73ca0ace026</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d605cb38196122a5d200a77bf4afa73ca0ace026</guid>
-      <pubDate>Tue, 23 Jun 2026 06:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株が3営業日続落、時価総額6000億ドル超消失</title>
-      <link>https://news.yahoo.co.jp/articles/698b842538176568cc01a6ed99f8e6fae54168ae</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/698b842538176568cc01a6ed99f8e6fae54168ae</guid>
-      <pubDate>Tue, 23 Jun 2026 06:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
