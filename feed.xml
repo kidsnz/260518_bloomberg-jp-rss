@@ -5,10 +5,28 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:23:44 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:46:17 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>韓国株のKOSPIが8%急落、サーキットブレーカー発動－売買は20分停止</title>
+      <title>野村HDとソニーGも参戦、今年最大級の外債発行ラッシュへ</title>
+      <link>https://news.yahoo.co.jp/articles/3a57eb66d92d5512e94e9de7549808f8ba2729b9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a57eb66d92d5512e94e9de7549808f8ba2729b9</guid>
+      <pubDate>Tue, 23 Jun 2026 15:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ナスダック100先物が一時2%安、半導体株巡る懸念で世界的な株安の流れ</title>
+      <link>https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</guid>
+      <pubDate>Tue, 23 Jun 2026 15:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米・イラン実務協議、制裁や核問題巡り4部会設置で合意－メヘル通信</title>
+      <link>https://news.yahoo.co.jp/articles/f003d920e1501d9a642bb2ad371f9d6642a35455</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f003d920e1501d9a642bb2ad371f9d6642a35455</guid>
+      <pubDate>Tue, 23 Jun 2026 15:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国株が9%急落、売買再開後も下げ拡大－SKやサムスンなど半導体安い</title>
       <link>https://news.yahoo.co.jp/articles/cb28a075feb4a44dd6483380b4b48e5d4fb28430</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb28a075feb4a44dd6483380b4b48e5d4fb28430</guid>
       <pubDate>Tue, 23 Jun 2026 14:40:00 +0900</pubDate>
@@ -20,7 +38,7 @@
       <pubDate>Tue, 23 Jun 2026 14:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>生鮮食品と特殊要因を除く消費者物価は2.7%上昇、伸び縮小－日銀</title>
+      <title>日銀試算の特殊要因除く消費者物価2.7%上昇、年内利上げ観測の支えに</title>
       <link>https://news.yahoo.co.jp/articles/5c1b363a411462ad97062d1bd8b7b5f23cf9bcc4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c1b363a411462ad97062d1bd8b7b5f23cf9bcc4</guid>
       <pubDate>Tue, 23 Jun 2026 14:03:00 +0900</pubDate>
@@ -30,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/9c9db4e03feb86a62aa4f5f89fd95953b6d7a76f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c9db4e03feb86a62aa4f5f89fd95953b6d7a76f</guid>
       <pubDate>Tue, 23 Jun 2026 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX格付けに疑問も、「壮大な構想」へ期待を込めた投資適格評価</title>
+      <link>https://news.yahoo.co.jp/articles/517ed017fcaa0f251a4a0351b45be9b1ceab16c8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/517ed017fcaa0f251a4a0351b45be9b1ceab16c8</guid>
+      <pubDate>Tue, 23 Jun 2026 13:51:00 +0900</pubDate>
     </item>
     <item>
       <title>ソニーG十時CEO、次に続く技術トレンドは「フィジカルAI」－株主総会</title>
@@ -110,7 +134,7 @@
       <pubDate>Tue, 23 Jun 2026 09:57:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】円は161円半ば、日米会談で介入警戒－日経平均1400円安</title>
+      <title>【日本市況】日経平均2500円安で7万円割れ、AI株警戒－円は161円後半</title>
       <link>https://news.yahoo.co.jp/articles/d3652c6c9b72d9b282577e7e9334e35338873690</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3652c6c9b72d9b282577e7e9334e35338873690</guid>
       <pubDate>Tue, 23 Jun 2026 09:38:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/64d6661320e7c92929a95d5757de8534615a8bf8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/64d6661320e7c92929a95d5757de8534615a8bf8</guid>
       <pubDate>Mon, 22 Jun 2026 15:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ディスプレー半導体の投資結実－台湾の60代兄弟、ビリオネア仲間入り</title>
-      <link>https://news.yahoo.co.jp/articles/4333ffddcfe8e3ff0f913566fce0b63439ba8eb1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4333ffddcfe8e3ff0f913566fce0b63439ba8eb1</guid>
-      <pubDate>Mon, 22 Jun 2026 14:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>消費税1%案、国民1人当たりの減税額は年間約3万6000円－片山財務相</title>
-      <link>https://news.yahoo.co.jp/articles/087c65682f499cd6dcbc2c7f7c3056a0d6cc8f21</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/087c65682f499cd6dcbc2c7f7c3056a0d6cc8f21</guid>
-      <pubDate>Mon, 22 Jun 2026 14:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>生損保、金利高騰の5月に再び超長期債売り－一段上昇なら減損懸念も</title>
-      <link>https://news.yahoo.co.jp/articles/125b7b7d59529f5f48ab01362166f3b6d126064e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/125b7b7d59529f5f48ab01362166f3b6d126064e</guid>
-      <pubDate>Mon, 22 Jun 2026 13:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>対トランプ融和に一石、メローニ氏が公然と反論－G7首脳で異例の対応</title>
-      <link>https://news.yahoo.co.jp/articles/74dee24dbd55a1d2dae2c5276f4b2588c4411d55</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74dee24dbd55a1d2dae2c5276f4b2588c4411d55</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
