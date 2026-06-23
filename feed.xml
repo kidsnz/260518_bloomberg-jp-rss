@@ -5,8 +5,38 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 13:49:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 15:23:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国株のKOSPIが8%急落、サーキットブレーカー発動－売買は20分停止</title>
+      <link>https://news.yahoo.co.jp/articles/cb28a075feb4a44dd6483380b4b48e5d4fb28430</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb28a075feb4a44dd6483380b4b48e5d4fb28430</guid>
+      <pubDate>Tue, 23 Jun 2026 14:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス連動レバレッジ型商品、香港最大のETFに－AI需要追い風</title>
+      <link>https://news.yahoo.co.jp/articles/2901c23256d64b70d9c8c123b7bbf3aa3b8151c2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2901c23256d64b70d9c8c123b7bbf3aa3b8151c2</guid>
+      <pubDate>Tue, 23 Jun 2026 14:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生鮮食品と特殊要因を除く消費者物価は2.7%上昇、伸び縮小－日銀</title>
+      <link>https://news.yahoo.co.jp/articles/5c1b363a411462ad97062d1bd8b7b5f23cf9bcc4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c1b363a411462ad97062d1bd8b7b5f23cf9bcc4</guid>
+      <pubDate>Tue, 23 Jun 2026 14:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>新たなトランプ関税、勝者と敗者はどの国か－日本の自動車関税も焦点</title>
+      <link>https://news.yahoo.co.jp/articles/9c9db4e03feb86a62aa4f5f89fd95953b6d7a76f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c9db4e03feb86a62aa4f5f89fd95953b6d7a76f</guid>
+      <pubDate>Tue, 23 Jun 2026 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソニーG十時CEO、次に続く技術トレンドは「フィジカルAI」－株主総会</title>
+      <link>https://news.yahoo.co.jp/articles/e1aa8b851433635fd9c8794e2aed42590479f4b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1aa8b851433635fd9c8794e2aed42590479f4b4</guid>
+      <pubDate>Tue, 23 Jun 2026 13:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>北朝鮮の金正恩氏、日米を批判－核開発推進が国家防衛の「唯一の道」</title>
       <link>https://news.yahoo.co.jp/articles/f6493c6ce81efa0803ef64641151b334c739a87e</link>
@@ -80,7 +110,7 @@
       <pubDate>Tue, 23 Jun 2026 09:57:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】円は161円半ば、日米財務相報道で介入警戒－株下落転換</title>
+      <title>【日本市況】円は161円半ば、日米会談で介入警戒－日経平均1400円安</title>
       <link>https://news.yahoo.co.jp/articles/d3652c6c9b72d9b282577e7e9334e35338873690</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3652c6c9b72d9b282577e7e9334e35338873690</guid>
       <pubDate>Tue, 23 Jun 2026 09:38:00 +0900</pubDate>
@@ -146,7 +176,7 @@
       <pubDate>Tue, 23 Jun 2026 06:10:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国、イラン産原油への制裁緩和－和平協議で核査察巡る主張に隔たり</title>
+      <title>米国、イラン産原油販売を60日間容認－核査察巡る主張に隔たり</title>
       <link>https://news.yahoo.co.jp/articles/4b981af566a0e10eaf7be9df5bf0cdbb2878e7ba</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b981af566a0e10eaf7be9df5bf0cdbb2878e7ba</guid>
       <pubDate>Tue, 23 Jun 2026 04:04:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/74dee24dbd55a1d2dae2c5276f4b2588c4411d55</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74dee24dbd55a1d2dae2c5276f4b2588c4411d55</guid>
       <pubDate>Mon, 22 Jun 2026 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア「一強」、CPU復権で変化の兆し－AI半導体覇権争い</title>
-      <link>https://news.yahoo.co.jp/articles/9e230b5c6d6629cf1c4cf60159203e8a95d67016</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e230b5c6d6629cf1c4cf60159203e8a95d67016</guid>
-      <pubDate>Mon, 22 Jun 2026 12:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カタールのガス施設で爆発、54人負傷・18人不明－再稼働作業中に事故</title>
-      <link>https://news.yahoo.co.jp/articles/d00aa6d6bb8076cac18cd5ff6fc44fe9be45fe3c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d00aa6d6bb8076cac18cd5ff6fc44fe9be45fe3c</guid>
-      <pubDate>Mon, 22 Jun 2026 11:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国債下落、トランプ氏のイラン再攻撃警告でインフレリスク意識</title>
-      <link>https://news.yahoo.co.jp/articles/09b74cec44f26cbb15a6825851baf14e49a9824a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/09b74cec44f26cbb15a6825851baf14e49a9824a</guid>
-      <pubDate>Mon, 22 Jun 2026 11:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>40年ぶりの円安水準、自動車7社で9000億円超の利益上振れ要因に</title>
-      <link>https://news.yahoo.co.jp/articles/28f23bbdf182179cbd4805cc6b8e72ba9b56f8d4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/28f23bbdf182179cbd4805cc6b8e72ba9b56f8d4</guid>
-      <pubDate>Mon, 22 Jun 2026 10:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イランの第1回会合終了、レバノン戦争終結で進展-技術的協議継続へ</title>
-      <link>https://news.yahoo.co.jp/articles/a9a7b85f484bf7e65f941a4297e7869ae4cfb501</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9a7b85f484bf7e65f941a4297e7869ae4cfb501</guid>
-      <pubDate>Mon, 22 Jun 2026 10:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
