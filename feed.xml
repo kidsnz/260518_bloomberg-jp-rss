@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:31:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 01:49:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動拡大</title>
+      <link>https://news.yahoo.co.jp/articles/325f32f2fd2c9e51bf820fb7d891cb179b3a2c18</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/325f32f2fd2c9e51bf820fb7d891cb179b3a2c18</guid>
+      <pubDate>Wed, 24 Jun 2026 23:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動加速</title>
       <link>https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</guid>
       <pubDate>Tue, 23 Jun 2026 23:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500種が下落、AIブーム過大評価への懸念－円は対ドルほぼ変わらず</title>
+      <link>https://news.yahoo.co.jp/articles/3ee73d1b146f2a1cc9460ded57af4b8b9b626cd8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ee73d1b146f2a1cc9460ded57af4b8b9b626cd8</guid>
+      <pubDate>Tue, 23 Jun 2026 22:53:00 +0900</pubDate>
     </item>
     <item>
       <title>イタリア首相、来年4月にも総選挙検討－支持率低下リスクを懸念</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/807c09bb88730aef4aaf506654a228fe1abca7c7</guid>
       <pubDate>Tue, 23 Jun 2026 02:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】円が対ドルで乱高下、一時40年ぶり安値接近－S&amp;P500反落</title>
-      <link>https://news.yahoo.co.jp/articles/14fc7efbf42663b110aa783f5bad8d63655dffb2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14fc7efbf42663b110aa783f5bad8d63655dffb2</guid>
-      <pubDate>Tue, 23 Jun 2026 01:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円相場が乱高下、40年ぶり安値目前で－日米財務相が協議の報道</title>
-      <link>https://news.yahoo.co.jp/articles/7cdabaf953132264821a061a42ba41dfbb662b4e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cdabaf953132264821a061a42ba41dfbb662b4e</guid>
-      <pubDate>Tue, 23 Jun 2026 23:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
