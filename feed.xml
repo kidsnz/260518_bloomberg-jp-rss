@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:24:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:47:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、米マイクロン決算控えAI株売り－リスク回避でドル高強まる</title>
+      <link>https://news.yahoo.co.jp/articles/63d7c784c5f8d1af51958fb454076478bb021259</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63d7c784c5f8d1af51958fb454076478bb021259</guid>
+      <pubDate>Wed, 24 Jun 2026 08:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI集中相場、和平合意で転機到来の可能性－海外勢先物買いにヒントも</title>
+      <link>https://news.yahoo.co.jp/articles/05e8314a25e8c2a4ce365fb320744dd2ecfedf63</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05e8314a25e8c2a4ce365fb320744dd2ecfedf63</guid>
+      <pubDate>Wed, 24 Jun 2026 08:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本株続落へ、AI相場の過熱感重しで半導体関連に売り－原油安は支え</title>
       <link>https://news.yahoo.co.jp/articles/4e4371b70f0b463307406bcbd4a20e17791424d2</link>
@@ -20,7 +32,7 @@
       <pubDate>Wed, 24 Jun 2026 07:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>MSCI、韓国を新興国市場に据え置き－ウォン取引などに課題残る</title>
+      <title>MSCI、韓国を新興国市場に維持－インドネシアの見直しは再び延期</title>
       <link>https://news.yahoo.co.jp/articles/3d839a8f3e00c7c616694467ddb468e693315202</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d839a8f3e00c7c616694467ddb468e693315202</guid>
       <pubDate>Wed, 24 Jun 2026 07:29:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/dc098aa9d0aecc7490d8419e84ec53e8203a65f0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dc098aa9d0aecc7490d8419e84ec53e8203a65f0</guid>
       <pubDate>Tue, 23 Jun 2026 09:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】日経平均2500円安で7万円割れ、AI株警戒－円は161円後半</title>
-      <link>https://news.yahoo.co.jp/articles/d3652c6c9b72d9b282577e7e9334e35338873690</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3652c6c9b72d9b282577e7e9334e35338873690</guid>
-      <pubDate>Tue, 23 Jun 2026 09:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米上院が大型住宅法案可決、機関投資家に制限－住宅負担軽減へ</title>
-      <link>https://news.yahoo.co.jp/articles/56f8fce51fd20d92cec9e579b394755e36f51c66</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56f8fce51fd20d92cec9e579b394755e36f51c66</guid>
-      <pubDate>Tue, 23 Jun 2026 09:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
