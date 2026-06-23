@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 04:36:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:43:40 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米政府、大型原子炉の再興を支援－設備発注事業者に計2.8兆円融資へ</title>
@@ -48,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/de14441bb29150b3b01d5aaed5238c770de264de</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de14441bb29150b3b01d5aaed5238c770de264de</guid>
       <pubDate>Tue, 23 Jun 2026 20:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株が急反発、4日ぶり上昇の勢い－朝方に初値下回る場面も</title>
+      <link>https://news.yahoo.co.jp/articles/6b094b0e0364f2b3e64d810b7ebfb39d13626465</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b094b0e0364f2b3e64d810b7ebfb39d13626465</guid>
+      <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX株は乱高下、初値を一時下回る－時価総額2兆ドル割れ視野</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/698b842538176568cc01a6ed99f8e6fae54168ae</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/698b842538176568cc01a6ed99f8e6fae54168ae</guid>
       <pubDate>Tue, 23 Jun 2026 06:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国、イラン産原油販売を60日間容認－核査察巡る主張に隔たり</title>
-      <link>https://news.yahoo.co.jp/articles/4b981af566a0e10eaf7be9df5bf0cdbb2878e7ba</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b981af566a0e10eaf7be9df5bf0cdbb2878e7ba</guid>
-      <pubDate>Tue, 23 Jun 2026 04:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
