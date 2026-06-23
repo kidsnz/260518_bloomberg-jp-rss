@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:19:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:31:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動加速</title>
+      <link>https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</guid>
+      <pubDate>Tue, 23 Jun 2026 23:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>イタリア首相、来年4月にも総選挙検討－支持率低下リスクを懸念</title>
       <link>https://news.yahoo.co.jp/articles/a4c58de623f2af75b53e29b442d2dcdaff15d15a</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7cdabaf953132264821a061a42ba41dfbb662b4e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cdabaf953132264821a061a42ba41dfbb662b4e</guid>
       <pubDate>Tue, 23 Jun 2026 23:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が一時161円20銭台に上昇、24年7月以来の安値接近後－介入警戒強く</title>
-      <link>https://news.yahoo.co.jp/articles/6e427329b806b1e782b788aa95d8ebbcb1c37698</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e427329b806b1e782b788aa95d8ebbcb1c37698</guid>
-      <pubDate>Mon, 22 Jun 2026 23:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
