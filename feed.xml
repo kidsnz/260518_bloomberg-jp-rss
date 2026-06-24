@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 07:28:46 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:55:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>クアルコム株急伸、AIデータセンター半導体売上高29年度150億ドル超へ</title>
+      <link>https://news.yahoo.co.jp/articles/fedb90edefb79c4d1ee06dbc0fc7c7cd5ab81db6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fedb90edefb79c4d1ee06dbc0fc7c7cd5ab81db6</guid>
+      <pubDate>Thu, 25 Jun 2026 07:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>JPモルガンなど米銀大手が相次ぎ増配、FRBストレステスト通過後</title>
+      <link>https://news.yahoo.co.jp/articles/c414bd3b252f05ba7a7c608745c8c16ee866292f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c414bd3b252f05ba7a7c608745c8c16ee866292f</guid>
+      <pubDate>Thu, 25 Jun 2026 06:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>異例のディールが示す東電HDの苦境、5陣営との交渉は廃炉負担焦点に</title>
       <link>https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</link>
@@ -14,7 +26,7 @@
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>米マイクロン、売上高見通しが市場予想上回る－AI需要が追い風</title>
+      <title>米マイクロン株急伸、売上高見通しが市場予想上回る－AI需要追い風</title>
       <link>https://news.yahoo.co.jp/articles/8caa24fe344136d3bce74f0bfc5c9fe93110266f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8caa24fe344136d3bce74f0bfc5c9fe93110266f</guid>
       <pubDate>Thu, 25 Jun 2026 05:16:00 +0900</pubDate>
@@ -138,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</guid>
       <pubDate>Wed, 24 Jun 2026 15:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>片山金融相、米アルファベットが3メガバンクに最新AI提供へ</title>
+      <link>https://news.yahoo.co.jp/articles/cfdd18318c232704571f4161cc98463e038749db</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cfdd18318c232704571f4161cc98463e038749db</guid>
+      <pubDate>Wed, 24 Jun 2026 15:19:00 +0900</pubDate>
     </item>
     <item>
       <title>片山金融相、米アルファベットが3メガバンクに最新AI提供へ</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d45d2b1642b4c37b3f31f009fffbb00c4d05eac5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d45d2b1642b4c37b3f31f009fffbb00c4d05eac5</guid>
       <pubDate>Wed, 24 Jun 2026 03:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株下落、ハイテク銘柄売りでリスク回避－国債上昇</title>
-      <link>https://news.yahoo.co.jp/articles/889cab40d2b5f37177b9d03f6c2c9f40509fa953</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/889cab40d2b5f37177b9d03f6c2c9f40509fa953</guid>
-      <pubDate>Wed, 24 Jun 2026 02:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米政府、大型原子炉の再興を支援－設備発注事業者に計2.8兆円融資へ</title>
-      <link>https://news.yahoo.co.jp/articles/b0fce5c0d3b8efe8cba3cfdc5124a64496225f2e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b0fce5c0d3b8efe8cba3cfdc5124a64496225f2e</guid>
-      <pubDate>Wed, 24 Jun 2026 02:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランとオマーン、ホルムズ海峡管理巡り協議開始－通航料も視野</title>
-      <link>https://news.yahoo.co.jp/articles/a8e76b7656888e63f94db27bf460a23a4ce9ba68</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a8e76b7656888e63f94db27bf460a23a4ce9ba68</guid>
-      <pubDate>Wed, 24 Jun 2026 01:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
