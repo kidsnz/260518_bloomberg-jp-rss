@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:27:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:53:11 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日本市場、マイクロン好決算で株反発へ－ドル高で円は軟調推移</title>
       <link>https://news.yahoo.co.jp/articles/6a6e034e774c3a69d0b03bb0e74ac37c14d038da</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a6e034e774c3a69d0b03bb0e74ac37c14d038da</guid>
       <pubDate>Thu, 25 Jun 2026 08:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで161円台後半、FRBタカ派化観測でドル堅調－債券は上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/b90ec6a0696f1ed500bb772e3535349f693148a1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b90ec6a0696f1ed500bb772e3535349f693148a1</guid>
+      <pubDate>Thu, 25 Jun 2026 08:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は反発へ、米マイクロン好決算受けAI相場復活－原油安も支え</title>
+      <link>https://news.yahoo.co.jp/articles/67ec54ce130510743aa6b84efc0f07aa74585b5f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67ec54ce130510743aa6b84efc0f07aa74585b5f</guid>
+      <pubDate>Thu, 25 Jun 2026 07:56:00 +0900</pubDate>
     </item>
     <item>
       <title>LNG関連株に早くも資金流入、イラン戦争後の供給網再構築を先取り</title>
@@ -26,7 +38,7 @@
       <pubDate>Thu, 25 Jun 2026 07:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>青森県三八上北地方で震度6強－気象庁</title>
+      <title>青森県で震度6強、津波被害の心配なし－女川原発稼働に影響なし</title>
       <link>https://news.yahoo.co.jp/articles/6742260c520695ef72a2cbc3b38c45c76c01fa3a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6742260c520695ef72a2cbc3b38c45c76c01fa3a</guid>
       <pubDate>Thu, 25 Jun 2026 07:39:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4e4371b70f0b463307406bcbd4a20e17791424d2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4e4371b70f0b463307406bcbd4a20e17791424d2</guid>
       <pubDate>Wed, 24 Jun 2026 07:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで161円台半ば、介入警戒感強くもみ合い－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/aa56cfc7171b39afd275ad79dc468b1d4fc1cc03</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa56cfc7171b39afd275ad79dc468b1d4fc1cc03</guid>
-      <pubDate>Wed, 24 Jun 2026 07:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>MSCI、韓国を新興国市場に維持－インドネシアの見直しは再び延期</title>
-      <link>https://news.yahoo.co.jp/articles/3d839a8f3e00c7c616694467ddb468e693315202</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d839a8f3e00c7c616694467ddb468e693315202</guid>
-      <pubDate>Wed, 24 Jun 2026 07:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
