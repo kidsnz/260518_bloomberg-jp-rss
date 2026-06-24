@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 16:45:11 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:06:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>カドカワ株主総会、夏野社長の取締役選任案を可決－オアシスは反対</title>
+      <link>https://news.yahoo.co.jp/articles/b2d812385aa8c113f405965d301a71bf74fc5005</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2d812385aa8c113f405965d301a71bf74fc5005</guid>
+      <pubDate>Wed, 24 Jun 2026 17:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>北朝鮮、初の5000トン級駆逐艦を就役－金正恩氏「海軍の核武装推進」</title>
+      <link>https://news.yahoo.co.jp/articles/b7c647749804fd7508aa1e722957d22acde4c0cb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7c647749804fd7508aa1e722957d22acde4c0cb</guid>
+      <pubDate>Wed, 24 Jun 2026 17:24:00 +0900</pubDate>
+    </item>
     <item>
       <title>BofA証も年末目標引き上げ、AI関連需要の拡大で広がる日本株強気論</title>
       <link>https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4c20b9b2f67a14f72c484bc5875e30f40fa05d99</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c20b9b2f67a14f72c484bc5875e30f40fa05d99</guid>
       <pubDate>Tue, 23 Jun 2026 16:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>野村HDとソニーGも参戦、今年最大級の外債発行ラッシュへ</title>
-      <link>https://news.yahoo.co.jp/articles/3a57eb66d92d5512e94e9de7549808f8ba2729b9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a57eb66d92d5512e94e9de7549808f8ba2729b9</guid>
-      <pubDate>Tue, 23 Jun 2026 15:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ナスダック100先物が約3%下げ、欧州株も1%安－テック主導で世界株安</title>
-      <link>https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</guid>
-      <pubDate>Tue, 23 Jun 2026 15:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
