@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:52:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:20:55 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>野村HD社長の再任賛成率97%、就任以来最高に－臨時報告書で公表</title>
+      <link>https://news.yahoo.co.jp/articles/65c71f43a9b6618b0c477d0205c829595edc0aaa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65c71f43a9b6618b0c477d0205c829595edc0aaa</guid>
+      <pubDate>Wed, 24 Jun 2026 14:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NTT、100億ドル規模の外債発行へ－アジア企業で今年最大</title>
+      <link>https://news.yahoo.co.jp/articles/08cb70ffedc14041d279875a510196dec1c45c26</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08cb70ffedc14041d279875a510196dec1c45c26</guid>
+      <pubDate>Wed, 24 Jun 2026 13:46:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本政府が外貨準備の運用改善策を検討へ、成長戦略草案で言及－報道</title>
       <link>https://news.yahoo.co.jp/articles/0aa404bdfe98fa5ffb728e1b21d580ae0c514a14</link>
@@ -50,7 +62,7 @@
       <pubDate>Wed, 24 Jun 2026 11:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>強いドルの概念は為替相場そのものではない－ベッセント米財務長官</title>
+      <title>強いドルの概念は為替相場そのものではない－ベッセント財務長官</title>
       <link>https://news.yahoo.co.jp/articles/485ff40641856f198432bc204ce5e2f1e7f60e7a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/485ff40641856f198432bc204ce5e2f1e7f60e7a</guid>
       <pubDate>Wed, 24 Jun 2026 10:29:00 +0900</pubDate>
@@ -68,13 +80,13 @@
       <pubDate>Wed, 24 Jun 2026 09:44:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株安、マイクロン警戒で半導体売り-円は対ドル161円半ば</title>
+      <title>【日本市況】株下げ拡大、マイクロン警戒で半導体売り－長期債小幅高</title>
       <link>https://news.yahoo.co.jp/articles/b38236f294d7917bdd144ef8a0dfcbe9bed04d23</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b38236f294d7917bdd144ef8a0dfcbe9bed04d23</guid>
       <pubDate>Wed, 24 Jun 2026 09:27:00 +0900</pubDate>
     </item>
     <item>
-      <title>韓国株、急反発－半導体メーカーの業績に再び市場の焦点シフト</title>
+      <title>韓国株が乱高下、前日10%急落後も変動続く－AIブームの持続性見極め</title>
       <link>https://news.yahoo.co.jp/articles/0edf6171f687052be1d1a5bce7725d5b5cdec5a7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0edf6171f687052be1d1a5bce7725d5b5cdec5a7</guid>
       <pubDate>Wed, 24 Jun 2026 09:26:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2901c23256d64b70d9c8c123b7bbf3aa3b8151c2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2901c23256d64b70d9c8c123b7bbf3aa3b8151c2</guid>
       <pubDate>Tue, 23 Jun 2026 14:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀試算の特殊要因除く消費者物価2.7%上昇、年内利上げ観測の支えに</title>
-      <link>https://news.yahoo.co.jp/articles/5c1b363a411462ad97062d1bd8b7b5f23cf9bcc4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c1b363a411462ad97062d1bd8b7b5f23cf9bcc4</guid>
-      <pubDate>Tue, 23 Jun 2026 14:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>新たなトランプ関税、勝者と敗者はどの国か－日本の自動車関税も焦点</title>
-      <link>https://news.yahoo.co.jp/articles/9c9db4e03feb86a62aa4f5f89fd95953b6d7a76f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c9db4e03feb86a62aa4f5f89fd95953b6d7a76f</guid>
-      <pubDate>Tue, 23 Jun 2026 14:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
