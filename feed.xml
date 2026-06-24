@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 23:57:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:49:48 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米新築住宅販売、5月は予想外の減少－住宅ローン金利高止まりが影響</title>
+      <title>米新築住宅販売、5月は予想外の減少－ローン金利高止まりが影響</title>
       <link>https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</guid>
       <pubDate>Wed, 24 Jun 2026 23:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント長官が示唆、対イラン協議でドル建て取引への移行も議題に</title>
+      <link>https://news.yahoo.co.jp/articles/21ebc273cf2ecc154b0b35a66a24f61b0c2104f3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21ebc273cf2ecc154b0b35a66a24f61b0c2104f3</guid>
+      <pubDate>Wed, 24 Jun 2026 22:33:00 +0900</pubDate>
     </item>
     <item>
       <title>ブレント原油が75ドル割れ、イラン戦争開始以来－海峡通過の船舶増加</title>
@@ -20,7 +26,13 @@
       <pubDate>Wed, 24 Jun 2026 21:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>金価格続落、一時1オンス＝4050ドル近辺－ドル高と金利見通しが圧迫</title>
+      <title>インドネシア、ニッケル増産を計画－供給拡大観測で価格下落</title>
+      <link>https://news.yahoo.co.jp/articles/4a10cd263e15219a382a085c67adf60385ceac8a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a10cd263e15219a382a085c67adf60385ceac8a</guid>
+      <pubDate>Wed, 24 Jun 2026 20:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>金続落、1オンス＝4000ドル下回る－ドル上昇と利上げ見通し拡大背景</title>
       <link>https://news.yahoo.co.jp/articles/f987f4479140665060e6d6f66214b4fb5a7e8f95</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f987f4479140665060e6d6f66214b4fb5a7e8f95</guid>
       <pubDate>Wed, 24 Jun 2026 19:29:00 +0900</pubDate>
@@ -104,7 +116,7 @@
       <pubDate>Wed, 24 Jun 2026 13:16:00 +0900</pubDate>
     </item>
     <item>
-      <title>ソフトバンクG孫氏が引退計画を撤回、AI戦略主導へ10年以上続投の意向</title>
+      <title>ソフトバンクG孫氏が引退計画を撤回、AI戦略主導へ10年は続投意向</title>
       <link>https://news.yahoo.co.jp/articles/393a8101ed9018ab4561a5887df6a7a824a164d6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/393a8101ed9018ab4561a5887df6a7a824a164d6</guid>
       <pubDate>Wed, 24 Jun 2026 12:57:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6b094b0e0364f2b3e64d810b7ebfb39d13626465</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b094b0e0364f2b3e64d810b7ebfb39d13626465</guid>
       <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株は乱高下、初値を一時下回る－時価総額2兆ドル割れ視野</title>
-      <link>https://news.yahoo.co.jp/articles/4680b36f8a4bc8b582e0fc7707d12ba7acf70ae6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4680b36f8a4bc8b582e0fc7707d12ba7acf70ae6</guid>
-      <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン、凍結資金や核査察巡り応酬－米上院は戦争終結決議案を可決</title>
-      <link>https://news.yahoo.co.jp/articles/8d402bbc26ba539446927c1b118cb83b18bf5faa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d402bbc26ba539446927c1b118cb83b18bf5faa</guid>
-      <pubDate>Wed, 24 Jun 2026 19:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
