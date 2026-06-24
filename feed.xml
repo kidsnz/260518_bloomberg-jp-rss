@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 15:20:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:45:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>BofA証も年末目標引き上げ、AI関連需要の拡大で広がる日本株強気論</title>
+      <link>https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</guid>
+      <pubDate>Wed, 24 Jun 2026 16:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀総裁、経済・物価情勢に応じ引き続き利上げ-基調物価2%超えリスク</title>
+      <link>https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</guid>
+      <pubDate>Wed, 24 Jun 2026 15:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>片山金融相、米アルファベットが3メガバンクに最新AI提供へ</title>
+      <link>https://news.yahoo.co.jp/articles/cfdd18318c232704571f4161cc98463e038749db</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cfdd18318c232704571f4161cc98463e038749db</guid>
+      <pubDate>Wed, 24 Jun 2026 15:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>野村HD社長の再任賛成率97%、就任以来最高に－臨時報告書で公表</title>
       <link>https://news.yahoo.co.jp/articles/65c71f43a9b6618b0c477d0205c829595edc0aaa</link>
@@ -80,7 +98,7 @@
       <pubDate>Wed, 24 Jun 2026 09:44:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株下げ拡大、マイクロン警戒で半導体売り－長期債小幅高</title>
+      <title>【日本市況】株式続落、マイクロン警戒で半導体売り－円安、長期債高</title>
       <link>https://news.yahoo.co.jp/articles/b38236f294d7917bdd144ef8a0dfcbe9bed04d23</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b38236f294d7917bdd144ef8a0dfcbe9bed04d23</guid>
       <pubDate>Wed, 24 Jun 2026 09:27:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a3573221ec717ef87f05eef9c68be5d14daf57a</guid>
       <pubDate>Tue, 23 Jun 2026 15:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イラン実務協議、制裁や核問題巡り4部会設置で合意－メヘル通信</title>
-      <link>https://news.yahoo.co.jp/articles/f003d920e1501d9a642bb2ad371f9d6642a35455</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f003d920e1501d9a642bb2ad371f9d6642a35455</guid>
-      <pubDate>Tue, 23 Jun 2026 15:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国株が10%急落、売買一時停止後も下げ止まらず－SKなど半導体安い</title>
-      <link>https://news.yahoo.co.jp/articles/cb28a075feb4a44dd6483380b4b48e5d4fb28430</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb28a075feb4a44dd6483380b4b48e5d4fb28430</guid>
-      <pubDate>Tue, 23 Jun 2026 14:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス連動レバレッジ型商品、香港最大のETFに－AI需要追い風</title>
-      <link>https://news.yahoo.co.jp/articles/2901c23256d64b70d9c8c123b7bbf3aa3b8151c2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2901c23256d64b70d9c8c123b7bbf3aa3b8151c2</guid>
-      <pubDate>Tue, 23 Jun 2026 14:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
