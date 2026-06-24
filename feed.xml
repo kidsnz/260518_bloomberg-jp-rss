@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:47:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:36:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日銀6月会合、数カ月に一度の利上げ検討をとの意見－中立金利2%程度</title>
+      <link>https://news.yahoo.co.jp/articles/37509fdf30f653d7625d496cb0c89f83a507b390</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37509fdf30f653d7625d496cb0c89f83a507b390</guid>
+      <pubDate>Wed, 24 Jun 2026 08:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、米マイクロン決算控えAI株売り－リスク回避でドル高強まる</title>
       <link>https://news.yahoo.co.jp/articles/63d7c784c5f8d1af51958fb454076478bb021259</link>
@@ -126,6 +132,12 @@
       <link>https://news.yahoo.co.jp/articles/4680b36f8a4bc8b582e0fc7707d12ba7acf70ae6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4680b36f8a4bc8b582e0fc7707d12ba7acf70ae6</guid>
       <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン、凍結資金や核査察巡り応酬－米上院は戦争終結決議案を可決</title>
+      <link>https://news.yahoo.co.jp/articles/8d402bbc26ba539446927c1b118cb83b18bf5faa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d402bbc26ba539446927c1b118cb83b18bf5faa</guid>
+      <pubDate>Wed, 24 Jun 2026 19:19:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、凍結イラン資産は制裁解除後も米国が管理する方針示す</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b10738bf4e1341e915baa08d49c2863f0695d132</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b10738bf4e1341e915baa08d49c2863f0695d132</guid>
       <pubDate>Tue, 23 Jun 2026 10:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グリーンスパン氏の功罪－「根拠なき熱狂」から世界金融危機の影まで</title>
-      <link>https://news.yahoo.co.jp/articles/c62a5220daa51de49d32b5a64f902d2312150a4e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c62a5220daa51de49d32b5a64f902d2312150a4e</guid>
-      <pubDate>Tue, 23 Jun 2026 10:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相、為替で断固たる措置「全く揺るぎない」-ベッセント氏と会談</title>
-      <link>https://news.yahoo.co.jp/articles/dc098aa9d0aecc7490d8419e84ec53e8203a65f0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dc098aa9d0aecc7490d8419e84ec53e8203a65f0</guid>
-      <pubDate>Tue, 23 Jun 2026 09:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
