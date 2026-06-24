@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 05:34:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:34:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>異例のディールが示す東電HDの苦境、5陣営との交渉は廃炉負担焦点に</title>
+      <link>https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</guid>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米マイクロン、売上高見通しが市場予想上回る－AI需要が追い風</title>
+      <link>https://news.yahoo.co.jp/articles/8caa24fe344136d3bce74f0bfc5c9fe93110266f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8caa24fe344136d3bce74f0bfc5c9fe93110266f</guid>
+      <pubDate>Thu, 25 Jun 2026 05:16:00 +0900</pubDate>
+    </item>
     <item>
       <title>ウォーシュ効果で「ドル離れ」逆回転、色あせるディベースメント取引</title>
       <link>https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</link>
@@ -20,7 +32,7 @@
       <pubDate>Thu, 25 Jun 2026 00:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>米株反発、原油下落でセンチメント改善－円は小幅安で161円70銭台</title>
+      <title>【米国市況】S&amp;P500続落、マイクロン株は時間外で急伸－円は小幅安</title>
       <link>https://news.yahoo.co.jp/articles/9c9e51713b79aaed529e12571c6f12571d230c00</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c9e51713b79aaed529e12571c6f12571d230c00</guid>
       <pubDate>Thu, 25 Jun 2026 00:16:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a8e76b7656888e63f94db27bf460a23a4ce9ba68</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a8e76b7656888e63f94db27bf460a23a4ce9ba68</guid>
       <pubDate>Wed, 24 Jun 2026 01:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動拡大</title>
-      <link>https://news.yahoo.co.jp/articles/325f32f2fd2c9e51bf820fb7d891cb179b3a2c18</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/325f32f2fd2c9e51bf820fb7d891cb179b3a2c18</guid>
-      <pubDate>Wed, 24 Jun 2026 23:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米総合PMIが5カ月ぶり高水準、製造業けん引で企業活動加速</title>
-      <link>https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</guid>
-      <pubDate>Tue, 23 Jun 2026 23:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
