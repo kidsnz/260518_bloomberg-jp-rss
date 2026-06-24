@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 22:43:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:57:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米新築住宅販売、5月は予想外の減少－住宅ローン金利高止まりが影響</title>
+      <link>https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</guid>
+      <pubDate>Wed, 24 Jun 2026 23:11:00 +0900</pubDate>
+    </item>
     <item>
       <title>ブレント原油が75ドル割れ、イラン戦争開始以来－海峡通過の船舶増加</title>
       <link>https://news.yahoo.co.jp/articles/32f589d0e97c78cae7541388470471aa82ca4ed8</link>
@@ -54,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/b7c647749804fd7508aa1e722957d22acde4c0cb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7c647749804fd7508aa1e722957d22acde4c0cb</guid>
       <pubDate>Wed, 24 Jun 2026 17:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国首相、輸出急増への批判に反論－「技術革新の恩恵提供」と主張</title>
+      <link>https://news.yahoo.co.jp/articles/3e016fff774ef41acf2af112af64f59e0289034e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3e016fff774ef41acf2af112af64f59e0289034e</guid>
+      <pubDate>Wed, 24 Jun 2026 17:02:00 +0900</pubDate>
     </item>
     <item>
       <title>BofA証も年末目標引き上げ、AI関連需要の拡大で広がる日本株強気論</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8d402bbc26ba539446927c1b118cb83b18bf5faa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d402bbc26ba539446927c1b118cb83b18bf5faa</guid>
       <pubDate>Wed, 24 Jun 2026 19:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、凍結イラン資産は制裁解除後も米国が管理する方針示す</title>
-      <link>https://news.yahoo.co.jp/articles/a3ae41adb13c6389ff0726c2414cc39d7fba2441</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3ae41adb13c6389ff0726c2414cc39d7fba2441</guid>
-      <pubDate>Tue, 23 Jun 2026 19:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ユーロ圏の物価、「かなり長く」目標上回る恐れ－ECBレーン理事</title>
-      <link>https://news.yahoo.co.jp/articles/bb95947d68f0ad61cc00985d215dbf2ffb153faa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb95947d68f0ad61cc00985d215dbf2ffb153faa</guid>
-      <pubDate>Tue, 23 Jun 2026 18:36:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
