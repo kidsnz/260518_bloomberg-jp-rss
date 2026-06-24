@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 01:44:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:37:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イランとオマーン、ホルムズ海峡からの退避作業で調整へ-国際海事機関</title>
+      <link>https://news.yahoo.co.jp/articles/66cddaa54136bec1406984f01804fa5611c6b64f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66cddaa54136bec1406984f01804fa5611c6b64f</guid>
+      <pubDate>Thu, 25 Jun 2026 00:42:00 +0900</pubDate>
+    </item>
     <item>
       <title>米新築住宅販売、5月は予想外の減少－ローン金利高止まりが影響</title>
       <link>https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</guid>
       <pubDate>Wed, 24 Jun 2026 23:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュFRB議長、インフレに「厳しい姿勢」示した－ベッセント氏</title>
+      <link>https://news.yahoo.co.jp/articles/d10f491284e70f6c1b0e2bba50a7f123b841c880</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d10f491284e70f6c1b0e2bba50a7f123b841c880</guid>
+      <pubDate>Thu, 25 Jun 2026 23:04:00 +0900</pubDate>
     </item>
     <item>
       <title>ベッセント長官が示唆、対イラン協議でドル建て取引への移行も議題に</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a4c58de623f2af75b53e29b442d2dcdaff15d15a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4c58de623f2af75b53e29b442d2dcdaff15d15a</guid>
       <pubDate>Tue, 23 Jun 2026 21:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>熱波の頻発で増す電力需要、地熱発電や原子力に脚光－JPモルガン</title>
-      <link>https://news.yahoo.co.jp/articles/de14441bb29150b3b01d5aaed5238c770de264de</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de14441bb29150b3b01d5aaed5238c770de264de</guid>
-      <pubDate>Tue, 23 Jun 2026 20:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株が急反発、4日ぶり上昇の勢い－朝方に初値下回る場面も</title>
-      <link>https://news.yahoo.co.jp/articles/6b094b0e0364f2b3e64d810b7ebfb39d13626465</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b094b0e0364f2b3e64d810b7ebfb39d13626465</guid>
-      <pubDate>Tue, 23 Jun 2026 19:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
