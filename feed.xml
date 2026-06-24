@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 03:36:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 04:32:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォーシュ効果で「ドル離れ」逆回転、色あせるディベースメント取引</title>
+      <link>https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</guid>
+      <pubDate>Thu, 25 Jun 2026 02:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランとオマーン、ホルムズ海峡からの退避作業で調整へ-国際海事機関</title>
       <link>https://news.yahoo.co.jp/articles/66cddaa54136bec1406984f01804fa5611c6b64f</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25d356ff7a8451c0a452c065756638848adcf53e</guid>
       <pubDate>Tue, 23 Jun 2026 23:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500種が下落、AIブーム過大評価への懸念強まる－半導体に売り</title>
-      <link>https://news.yahoo.co.jp/articles/c7078bf5e4017582c56aba8f3ece415b591d4266</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7078bf5e4017582c56aba8f3ece415b591d4266</guid>
-      <pubDate>Wed, 24 Jun 2026 22:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
