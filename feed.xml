@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 13:52:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 15:23:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市政権の「370兆円投資」に市場は警戒、未解決の財源問題が山積</title>
+      <link>https://news.yahoo.co.jp/articles/18fb101e815b5902624385e227ce2718baaab36b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18fb101e815b5902624385e227ce2718baaab36b</guid>
+      <pubDate>Thu, 25 Jun 2026 14:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本はMMFの「新たなフロンティア」－日銀利上げ受けS&amp;P幹部が指摘</title>
       <link>https://news.yahoo.co.jp/articles/1f4aaafde9b46651fdd7f76a8c5930b383db5505</link>
@@ -14,7 +20,13 @@
       <pubDate>Thu, 25 Jun 2026 13:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>20年国債入札、応札倍率は過去12カ月平均を下回る</title>
+      <title>ルネサス柴田社長、「フィジカルAI」が成長の核に－半導体需要に自信</title>
+      <link>https://news.yahoo.co.jp/articles/c75898244eda131e229c99b00b3f7f75befad04e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c75898244eda131e229c99b00b3f7f75befad04e</guid>
+      <pubDate>Thu, 25 Jun 2026 13:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>20年国債入札「弱い」との声、応札倍率は2025年5月以来の低水準</title>
       <link>https://news.yahoo.co.jp/articles/ed628acb4fdf3844ef2014328399795b94aef7a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed628acb4fdf3844ef2014328399795b94aef7a9</guid>
       <pubDate>Thu, 25 Jun 2026 12:37:00 +0900</pubDate>
@@ -80,7 +92,7 @@
       <pubDate>Thu, 25 Jun 2026 09:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均2600円超高、米マイクロン決算好感－円161円後半</title>
+      <title>【日本市況】日経平均2900円高、米マイクロン決算好感－超長期債軟化</title>
       <link>https://news.yahoo.co.jp/articles/3a557478d713dfbffb3c80bbb05e40653a9abef8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a557478d713dfbffb3c80bbb05e40653a9abef8</guid>
       <pubDate>Thu, 25 Jun 2026 09:31:00 +0900</pubDate>
@@ -104,7 +116,7 @@
       <pubDate>Thu, 25 Jun 2026 08:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>南米ベネズエラでM7.1の地震、首都で建物倒壊－主要空港に被害</title>
+      <title>南米ベネズエラでM7級地震が連続発生、非常事態宣言－首都に甚大被害</title>
       <link>https://news.yahoo.co.jp/articles/c08db992c33fd39fb8245fb840aa14ef1d2575b4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c08db992c33fd39fb8245fb840aa14ef1d2575b4</guid>
       <pubDate>Thu, 25 Jun 2026 08:00:00 +0900</pubDate>
@@ -146,7 +158,7 @@
       <pubDate>Thu, 25 Jun 2026 06:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>異例のディールが示す東電HDの苦境、5陣営との交渉は廃炉負担焦点に</title>
+      <title>異例のディールが示す東電の苦境、5陣営との交渉は廃炉負担焦点（1）</title>
       <link>https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</guid>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</guid>
       <pubDate>Wed, 24 Jun 2026 15:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山金融相、米アルファベットが3メガバンクに最新AI提供へ</title>
-      <link>https://news.yahoo.co.jp/articles/cfdd18318c232704571f4161cc98463e038749db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cfdd18318c232704571f4161cc98463e038749db</guid>
-      <pubDate>Wed, 24 Jun 2026 15:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>野村HD社長の再任賛成率97%、就任以来最高に－臨時報告書で公表</title>
-      <link>https://news.yahoo.co.jp/articles/65c71f43a9b6618b0c477d0205c829595edc0aaa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65c71f43a9b6618b0c477d0205c829595edc0aaa</guid>
-      <pubDate>Wed, 24 Jun 2026 14:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
