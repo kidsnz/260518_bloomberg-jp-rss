@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:53:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:41:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日経平均が一時2%超高、米マイクロン決算を好感し半導体関連に買い</title>
+      <link>https://news.yahoo.co.jp/articles/212aeb048747152a8f621015a60bffbd1659dfb9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/212aeb048747152a8f621015a60bffbd1659dfb9</guid>
+      <pubDate>Thu, 25 Jun 2026 09:07:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、マイクロン好決算で株反発へ－ドル高で円は軟調推移</title>
       <link>https://news.yahoo.co.jp/articles/6a6e034e774c3a69d0b03bb0e74ac37c14d038da</link>
@@ -18,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/b90ec6a0696f1ed500bb772e3535349f693148a1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b90ec6a0696f1ed500bb772e3535349f693148a1</guid>
       <pubDate>Thu, 25 Jun 2026 08:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>南米ベネズエラでM7.1の地震、首都で建物倒壊－主要空港に被害</title>
+      <link>https://news.yahoo.co.jp/articles/c08db992c33fd39fb8245fb840aa14ef1d2575b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c08db992c33fd39fb8245fb840aa14ef1d2575b4</guid>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 +0900</pubDate>
     </item>
     <item>
       <title>日本株は反発へ、米マイクロン好決算受けAI相場復活－原油安も支え</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/63d7c784c5f8d1af51958fb454076478bb021259</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63d7c784c5f8d1af51958fb454076478bb021259</guid>
       <pubDate>Wed, 24 Jun 2026 08:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI集中相場、和平合意で転機到来の可能性－海外勢先物買いにヒントも</title>
-      <link>https://news.yahoo.co.jp/articles/05e8314a25e8c2a4ce365fb320744dd2ecfedf63</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05e8314a25e8c2a4ce365fb320744dd2ecfedf63</guid>
-      <pubDate>Wed, 24 Jun 2026 08:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株続落へ、AI相場の過熱感重しで半導体関連に売り－原油安は支え</title>
-      <link>https://news.yahoo.co.jp/articles/4e4371b70f0b463307406bcbd4a20e17791424d2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4e4371b70f0b463307406bcbd4a20e17791424d2</guid>
-      <pubDate>Wed, 24 Jun 2026 07:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
