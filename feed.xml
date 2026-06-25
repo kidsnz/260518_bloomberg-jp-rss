@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:45:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:06:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>運用会社と国内企業との対話、「経営の質」にまで深化－GPIF調査</title>
+      <link>https://news.yahoo.co.jp/articles/9843cb74b0410f75645fee705a85cabc0d769695</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9843cb74b0410f75645fee705a85cabc0d769695</guid>
+      <pubDate>Thu, 25 Jun 2026 16:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>武田薬品キム新CEO、ROE5%達成は2～3年以内目指す－外部資産取得も</title>
       <link>https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</link>
@@ -98,7 +104,7 @@
       <pubDate>Thu, 25 Jun 2026 09:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均2900円高、米マイクロン決算好感－超長期債軟化</title>
+      <title>【日本市況】日経平均が最高値更新、AI関連に買い－円は162円に迫る</title>
       <link>https://news.yahoo.co.jp/articles/3a557478d713dfbffb3c80bbb05e40653a9abef8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a557478d713dfbffb3c80bbb05e40653a9abef8</guid>
       <pubDate>Thu, 25 Jun 2026 09:31:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3e016fff774ef41acf2af112af64f59e0289034e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3e016fff774ef41acf2af112af64f59e0289034e</guid>
       <pubDate>Wed, 24 Jun 2026 17:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>BofA証も年末目標引き上げ、AI関連需要の拡大で広がる日本株強気論</title>
-      <link>https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</guid>
-      <pubDate>Wed, 24 Jun 2026 16:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
