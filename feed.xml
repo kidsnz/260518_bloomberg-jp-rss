@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:15:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 23:17:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米PCE価格指数、5月は前年同月比で3年ぶりの高い伸び－支出も加速</title>
+      <link>https://news.yahoo.co.jp/articles/8570c0373349e96070c6d37f0c9826e38474000a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8570c0373349e96070c6d37f0c9826e38474000a</guid>
+      <pubDate>Thu, 25 Jun 2026 21:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>サウジ、ペルシャ湾岸からの原油積み込み再開へ－3月初旬以来</title>
       <link>https://news.yahoo.co.jp/articles/688aa25287b3fd58d7149ad87b2ff8c99608dba1</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/53c96cd7216d3f8528461e359bbe0fd236f1195e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/53c96cd7216d3f8528461e359bbe0fd236f1195e</guid>
       <pubDate>Wed, 24 Jun 2026 18:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツ企業見通しやや改善、不確実性が緩和－現状・期待ともに上昇</title>
-      <link>https://news.yahoo.co.jp/articles/7e683291fdacdcc3764cef22b1d7b36035847f82</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e683291fdacdcc3764cef22b1d7b36035847f82</guid>
-      <pubDate>Wed, 24 Jun 2026 18:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
