@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:15:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 05:14:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米陸軍、基地で重要鉱物の加工施設建設認める－国内生産拡大へ</title>
+      <link>https://news.yahoo.co.jp/articles/c7e36cdb5c2032219dd1fc99cb40e323b7359514</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7e36cdb5c2032219dd1fc99cb40e323b7359514</guid>
+      <pubDate>Fri, 26 Jun 2026 04:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>ペルシャ湾の原油輸出、イラン戦争前の75%に回復－滞留分解消が大半</title>
       <link>https://news.yahoo.co.jp/articles/79b2c05375f4c24f96826a52fb3805e7433a2a3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79b2c05375f4c24f96826a52fb3805e7433a2a3c</guid>
       <pubDate>Fri, 26 Jun 2026 02:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株上昇、ハイテク株高い－国債は利回り曲線スティープ化</title>
+      <link>https://news.yahoo.co.jp/articles/da6970e900548f4275786ac9a29d94ebd9b1b56a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da6970e900548f4275786ac9a29d94ebd9b1b56a</guid>
+      <pubDate>Fri, 26 Jun 2026 02:47:00 +0900</pubDate>
     </item>
     <item>
       <title>米S&amp;P500種は小幅反発、AI関連銘柄がけん引－円は161円60銭台</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/32f589d0e97c78cae7541388470471aa82ca4ed8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32f589d0e97c78cae7541388470471aa82ca4ed8</guid>
       <pubDate>Wed, 24 Jun 2026 21:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ルビオ米国務長官、湾岸首脳と会談－米・イラン協議は難しいスタート</title>
-      <link>https://news.yahoo.co.jp/articles/342e61825f20e5ec2faa291211316b88a61b2575</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/342e61825f20e5ec2faa291211316b88a61b2575</guid>
-      <pubDate>Wed, 24 Jun 2026 21:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドネシア、ニッケル増産を計画－供給拡大観測で価格下落</title>
-      <link>https://news.yahoo.co.jp/articles/4a10cd263e15219a382a085c67adf60385ceac8a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a10cd263e15219a382a085c67adf60385ceac8a</guid>
-      <pubDate>Wed, 24 Jun 2026 20:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
