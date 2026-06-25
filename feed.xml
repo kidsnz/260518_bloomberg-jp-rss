@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 07:58:40 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:36:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>NY連銀総裁、「現行の金融政策スタンスは望ましい」－インフレ抑制で</title>
+      <link>https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</guid>
+      <pubDate>Fri, 26 Jun 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市投資で脚光の「つなぎ国債」、赤字国債との違いは－財源確定が難所</title>
+      <link>https://news.yahoo.co.jp/articles/f86cb6096d0051f91291c247670307332bb2cdd2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f86cb6096d0051f91291c247670307332bb2cdd2</guid>
+      <pubDate>Fri, 26 Jun 2026 07:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は反落へ、大幅高の反動でAI・半導体関連に売り</title>
+      <link>https://news.yahoo.co.jp/articles/adbfd976aaf2fbdfe40e5d432b5c060a60b545ca</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/adbfd976aaf2fbdfe40e5d432b5c060a60b545ca</guid>
+      <pubDate>Fri, 26 Jun 2026 07:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>シカゴ連銀総裁、最新物価統計に期待持てる兆し－インフレまだ高過ぎ</title>
       <link>https://news.yahoo.co.jp/articles/f9ed1344a5727b0df95a7b393508987bd30d3838</link>
@@ -50,7 +68,7 @@
       <pubDate>Fri, 26 Jun 2026 01:12:00 +0900</pubDate>
     </item>
     <item>
-      <title>米S&amp;P500種は小幅反発、AI関連銘柄がけん引－円は161円60銭台</title>
+      <title>【米国市況】S&amp;P500横ばい、マイクロンなど半導体堅調－円40年ぶり安値接近</title>
       <link>https://news.yahoo.co.jp/articles/df6ee6a2285de066b027e7a2b7e9ac137b5a4912</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df6ee6a2285de066b027e7a2b7e9ac137b5a4912</guid>
       <pubDate>Fri, 26 Jun 2026 00:29:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c414bd3b252f05ba7a7c608745c8c16ee866292f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c414bd3b252f05ba7a7c608745c8c16ee866292f</guid>
       <pubDate>Thu, 25 Jun 2026 06:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>異例のディールが示す東電の苦境、5陣営との交渉は廃炉負担焦点（1）</title>
-      <link>https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf4d06d51f0017711c9ddec9e3b3fa3948b8bae9</guid>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米マイクロン株急伸、売上高見通しが市場予想上回る－AI需要追い風</title>
-      <link>https://news.yahoo.co.jp/articles/8caa24fe344136d3bce74f0bfc5c9fe93110266f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8caa24fe344136d3bce74f0bfc5c9fe93110266f</guid>
-      <pubDate>Thu, 25 Jun 2026 05:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ効果で「ドル離れ」逆回転、色あせるディベースメント取引</title>
-      <link>https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</guid>
-      <pubDate>Thu, 25 Jun 2026 02:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
