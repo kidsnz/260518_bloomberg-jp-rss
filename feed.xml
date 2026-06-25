@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:23:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:45:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>武田薬品キム新CEO、ROE5%達成は2～3年以内目指す－外部資産取得も</title>
+      <link>https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</guid>
+      <pubDate>Thu, 25 Jun 2026 16:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市政権の「370兆円投資」に市場は警戒、未解決の財源問題が山積</title>
       <link>https://news.yahoo.co.jp/articles/18fb101e815b5902624385e227ce2718baaab36b</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44548d8951ff9f25000e1af0673c5e75c0d2d3bf</guid>
       <pubDate>Wed, 24 Jun 2026 16:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀総裁、経済・物価情勢に応じ引き続き利上げ-基調物価2%超えリスク</title>
-      <link>https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19fcbe8c84279a7443e8318cf918f3b7f5e3a711</guid>
-      <pubDate>Wed, 24 Jun 2026 15:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
