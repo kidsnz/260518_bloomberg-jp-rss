@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 23:17:04 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:27:59 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米PCE価格指数、5月は前年同月比で3年ぶりの高い伸び－支出も加速</title>
+      <title>ECBの追加利上げ、一部エコノミストの見通し後退－原油価格下落受け</title>
+      <link>https://news.yahoo.co.jp/articles/00e2349d1a18e6fbdd01180f5c850b5c920dc250</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/00e2349d1a18e6fbdd01180f5c850b5c920dc250</guid>
+      <pubDate>Thu, 25 Jun 2026 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米PCE価格指数、前年同月比で3年ぶりの高い伸び－支出も加速</title>
       <link>https://news.yahoo.co.jp/articles/8570c0373349e96070c6d37f0c9826e38474000a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8570c0373349e96070c6d37f0c9826e38474000a</guid>
       <pubDate>Thu, 25 Jun 2026 21:50:00 +0900</pubDate>
@@ -48,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</guid>
       <pubDate>Thu, 25 Jun 2026 16:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ヘッジファンドの米国債エクスポージャー拡大、FRBエコノミストが分析</title>
+      <link>https://news.yahoo.co.jp/articles/adf0dc212fd6b244cdbf7d4704176f0f02e7dfba</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/adf0dc212fd6b244cdbf7d4704176f0f02e7dfba</guid>
+      <pubDate>Thu, 25 Jun 2026 15:37:00 +0900</pubDate>
     </item>
     <item>
       <title>高市政権の「370兆円投資」に市場は警戒、未解決の財源問題が山積</title>
@@ -293,18 +305,6 @@
       <title>高市政権、AIなど戦略17分野の官民投資額は370兆円超－2040年度まで</title>
       <link>https://news.yahoo.co.jp/articles/a97a722018d3a8f261d3a263211a7204f065e112</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a97a722018d3a8f261d3a263211a7204f065e112</guid>
-      <pubDate>Wed, 24 Jun 2026 18:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市政権、AIなど戦略17分野の官民投資額は370兆円超－2040年度まで</title>
-      <link>https://news.yahoo.co.jp/articles/8923f4c16d541afddde4ab196e53f6cd7d65ae14</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8923f4c16d541afddde4ab196e53f6cd7d65ae14</guid>
-      <pubDate>Wed, 24 Jun 2026 18:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州で熱波続く、仏南西部で44.3度－原発出力制限で電力供給ひっ迫</title>
-      <link>https://news.yahoo.co.jp/articles/53c96cd7216d3f8528461e359bbe0fd236f1195e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/53c96cd7216d3f8528461e359bbe0fd236f1195e</guid>
       <pubDate>Wed, 24 Jun 2026 18:54:00 +0900</pubDate>
     </item>
   </channel>
