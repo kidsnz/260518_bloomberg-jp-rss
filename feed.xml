@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 01:20:56 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:14:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米S&amp;P500種は小幅反発、AI関連銘柄がけん引－円は161円60銭台</title>
+      <link>https://news.yahoo.co.jp/articles/df6ee6a2285de066b027e7a2b7e9ac137b5a4912</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df6ee6a2285de066b027e7a2b7e9ac137b5a4912</guid>
+      <pubDate>Fri, 26 Jun 2026 00:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップルがMacやiPadなど一斉値上げ、メモリー高騰を転嫁－株価下落</title>
+      <link>https://news.yahoo.co.jp/articles/127231154bbdd21c216edc9acd21f88d68b82b7d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/127231154bbdd21c216edc9acd21f88d68b82b7d</guid>
+      <pubDate>Fri, 26 Jun 2026 00:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>ECBの追加利上げ、一部エコノミストの見通し後退－原油価格下落受け</title>
       <link>https://news.yahoo.co.jp/articles/00e2349d1a18e6fbdd01180f5c850b5c920dc250</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a21a661f893bfbfa5fa1e98ba0265dae36585176</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a21a661f893bfbfa5fa1e98ba0265dae36585176</guid>
       <pubDate>Thu, 25 Jun 2026 20:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>金続落、1オンス＝4000ドル下回る－ドル上昇と利上げ見通し拡大背景</title>
-      <link>https://news.yahoo.co.jp/articles/f987f4479140665060e6d6f66214b4fb5a7e8f95</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f987f4479140665060e6d6f66214b4fb5a7e8f95</guid>
-      <pubDate>Wed, 24 Jun 2026 19:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市政権、AIなど戦略17分野の官民投資額は370兆円超－2040年度まで</title>
-      <link>https://news.yahoo.co.jp/articles/a97a722018d3a8f261d3a263211a7204f065e112</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a97a722018d3a8f261d3a263211a7204f065e112</guid>
-      <pubDate>Wed, 24 Jun 2026 18:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
