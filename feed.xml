@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 07:01:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:58:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>シカゴ連銀総裁、最新物価統計に期待持てる兆し－インフレまだ高過ぎ</title>
+      <link>https://news.yahoo.co.jp/articles/f9ed1344a5727b0df95a7b393508987bd30d3838</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9ed1344a5727b0df95a7b393508987bd30d3838</guid>
+      <pubDate>Fri, 26 Jun 2026 07:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、新規株式公開を来年まで待つ方向に傾く－米紙NYタイムズ</title>
+      <link>https://news.yahoo.co.jp/articles/301a8673fc37e4c814acd488c2bf3e58a58d99c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/301a8673fc37e4c814acd488c2bf3e58a58d99c7</guid>
+      <pubDate>Fri, 26 Jun 2026 05:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>米陸軍、基地で重要鉱物の加工施設建設認める－国内生産拡大へ</title>
       <link>https://news.yahoo.co.jp/articles/c7e36cdb5c2032219dd1fc99cb40e323b7359514</link>
@@ -66,6 +78,18 @@
       <link>https://news.yahoo.co.jp/articles/96c7f1a7b0871884389e5a1c87d410b8f5d6f2f7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96c7f1a7b0871884389e5a1c87d410b8f5d6f2f7</guid>
       <pubDate>Thu, 25 Jun 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米新規失業保険申請件数、前週比1.2万件減の21.5万件－予想22.5万件</title>
+      <link>https://news.yahoo.co.jp/articles/7bcef62506ec15fda7387160f0e6bad911ac3379</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7bcef62506ec15fda7387160f0e6bad911ac3379</guid>
+      <pubDate>Thu, 25 Jun 2026 21:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英次期首相が有力なバーナム氏の側近、財務省分割と英中銀改革を主張</title>
+      <link>https://news.yahoo.co.jp/articles/ed306cae4326c9809112219be40ed805c29b715f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed306cae4326c9809112219be40ed805c29b715f</guid>
+      <pubDate>Thu, 25 Jun 2026 20:58:00 +0900</pubDate>
     </item>
     <item>
       <title>サウジ、ペルシャ湾岸からの原油積み込み再開へ－3月初旬以来</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c0393ea7a930e40a3bdebedfb43e040a04233b4</guid>
       <pubDate>Thu, 25 Jun 2026 02:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランとオマーン、ホルムズ海峡からの退避作業で調整へ-国際海事機関</title>
-      <link>https://news.yahoo.co.jp/articles/66cddaa54136bec1406984f01804fa5611c6b64f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66cddaa54136bec1406984f01804fa5611c6b64f</guid>
-      <pubDate>Thu, 25 Jun 2026 00:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500続落、マイクロン株は時間外で急伸－円は小幅安</title>
-      <link>https://news.yahoo.co.jp/articles/9c9e51713b79aaed529e12571c6f12571d230c00</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c9e51713b79aaed529e12571c6f12571d230c00</guid>
-      <pubDate>Thu, 25 Jun 2026 00:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新築住宅販売、5月は予想外の減少－ローン金利高止まりが影響</title>
-      <link>https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41348483bef9f173133814f3139255cad59a2234</guid>
-      <pubDate>Wed, 24 Jun 2026 23:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長、インフレに「厳しい姿勢」示した－ベッセント氏</title>
-      <link>https://news.yahoo.co.jp/articles/d10f491284e70f6c1b0e2bba50a7f123b841c880</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d10f491284e70f6c1b0e2bba50a7f123b841c880</guid>
-      <pubDate>Thu, 25 Jun 2026 23:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
