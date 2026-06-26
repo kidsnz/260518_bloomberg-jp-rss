@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Jun 2026 06:29:56 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:57:01 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国、イランに対する空爆を実施－ホルムズ海峡での船舶攻撃に報復</title>
@@ -14,10 +14,22 @@
       <pubDate>Sat, 27 Jun 2026 05:50:00 +0900</pubDate>
     </item>
     <item>
+      <title>スペースX債急落、異例のスプレッド拡大－「これほど広がるとは」の声</title>
+      <link>https://news.yahoo.co.jp/articles/78921a6e4c48d8a86b0723bc41c7ebee44196cb4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78921a6e4c48d8a86b0723bc41c7ebee44196cb4</guid>
+      <pubDate>Sat, 27 Jun 2026 03:17:00 +0900</pubDate>
+    </item>
+    <item>
       <title>トランプ氏、イランが停戦違反と非難－ホルムズ海峡ドローン攻撃で</title>
       <link>https://news.yahoo.co.jp/articles/b09aacccde13c50532d2ba978a13a31e930b448e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b09aacccde13c50532d2ba978a13a31e930b448e</guid>
       <pubDate>Sat, 27 Jun 2026 00:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500横ばい、AI相場失速で半導体売り－他業種にシフト</title>
+      <link>https://news.yahoo.co.jp/articles/5bbc4735d7e7d478a48520388441eb674e471b11</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bbc4735d7e7d478a48520388441eb674e471b11</guid>
+      <pubDate>Sat, 27 Jun 2026 00:52:00 +0900</pubDate>
     </item>
     <item>
       <title>オマーン、ホルムズ海峡通過で手数料徴収の可能性と欧州に通知</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/da6970e900548f4275786ac9a29d94ebd9b1b56a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da6970e900548f4275786ac9a29d94ebd9b1b56a</guid>
       <pubDate>Fri, 26 Jun 2026 02:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日産とステランティス、自動車部品大手マレリの一部資産買収で協議</title>
-      <link>https://news.yahoo.co.jp/articles/2a2213892c3f0fc2a29d4c9820bea26be07a6b56</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a2213892c3f0fc2a29d4c9820bea26be07a6b56</guid>
-      <pubDate>Fri, 26 Jun 2026 02:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡で船舶に攻撃、米イラン合意後初－引き返すタンカーも</title>
-      <link>https://news.yahoo.co.jp/articles/211c0a2e8a2d1707fced05fd8cf10679c07b7f33</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/211c0a2e8a2d1707fced05fd8cf10679c07b7f33</guid>
-      <pubDate>Fri, 26 Jun 2026 01:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
