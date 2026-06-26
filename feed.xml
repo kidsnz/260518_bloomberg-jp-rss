@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:43:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:43:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国KOSPIが3%安、サムスン電子とSKハイニックスが下げ主導</title>
+      <link>https://news.yahoo.co.jp/articles/e32db9c267917ef9d28c6297ced00190c695e745</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e32db9c267917ef9d28c6297ced00190c695e745</guid>
+      <pubDate>Fri, 26 Jun 2026 09:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】株が反落、AI・半導体関連に売り－円は161円台後半</title>
+      <link>https://news.yahoo.co.jp/articles/ec5143e69ed9e1ad37a0a1641938ad10260c998b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec5143e69ed9e1ad37a0a1641938ad10260c998b</guid>
+      <pubDate>Fri, 26 Jun 2026 09:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SBIHDとフジHD、メディア・コンテンツ領域で戦略的資本業務提携を検討</title>
+      <link>https://news.yahoo.co.jp/articles/d99d52b7f168d908ba1b85166748d035e6479529</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d99d52b7f168d908ba1b85166748d035e6479529</guid>
+      <pubDate>Fri, 26 Jun 2026 09:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>東京消費者物価は8カ月ぶりに伸び拡大、日銀年内利上げ観測の支えに</title>
       <link>https://news.yahoo.co.jp/articles/083f3e91601a1037329b1fbc2f7d40ae0a61518d</link>
@@ -86,7 +104,7 @@
       <pubDate>Fri, 26 Jun 2026 00:29:00 +0900</pubDate>
     </item>
     <item>
-      <title>アップルがMacやiPadなど一斉値上げ、メモリー高騰を転嫁－株価下落</title>
+      <title>アップルがMacやiPadなど一斉値上げ、メモリー高騰を転嫁－株価6.1%安</title>
       <link>https://news.yahoo.co.jp/articles/127231154bbdd21c216edc9acd21f88d68b82b7d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/127231154bbdd21c216edc9acd21f88d68b82b7d</guid>
       <pubDate>Fri, 26 Jun 2026 00:22:00 +0900</pubDate>
@@ -150,12 +168,6 @@
       <link>https://news.yahoo.co.jp/articles/9843cb74b0410f75645fee705a85cabc0d769695</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9843cb74b0410f75645fee705a85cabc0d769695</guid>
       <pubDate>Thu, 25 Jun 2026 16:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>武田薬品キム新CEO、ROE5%達成は2～3年以内目指す－外部資産取得も</title>
-      <link>https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</guid>
-      <pubDate>Thu, 25 Jun 2026 16:14:00 +0900</pubDate>
     </item>
     <item>
       <title>武田薬品キム新CEO、ROE5%達成は2～3年以内目指す－外部資産取得も</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/67ec54ce130510743aa6b84efc0f07aa74585b5f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67ec54ce130510743aa6b84efc0f07aa74585b5f</guid>
       <pubDate>Thu, 25 Jun 2026 07:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>LNG関連株に早くも資金流入、イラン戦争後の供給網再構築を先取り</title>
-      <link>https://news.yahoo.co.jp/articles/52106f6a29a1ffb4b9702f338cd4c9451d7d0028</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/52106f6a29a1ffb4b9702f338cd4c9451d7d0028</guid>
-      <pubDate>Thu, 25 Jun 2026 07:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、ホルムズ通航料の拒否を明言－イラン交渉で譲れぬ一線</title>
-      <link>https://news.yahoo.co.jp/articles/c6094de6266296c06d29af38a560b49ef12415c8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6094de6266296c06d29af38a560b49ef12415c8</guid>
-      <pubDate>Thu, 25 Jun 2026 07:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
