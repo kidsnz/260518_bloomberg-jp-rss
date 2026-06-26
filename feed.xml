@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 15:24:54 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:46:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本株週間展望】プラス圏維持、AIに警戒感も国内外の景況感が支え</title>
+      <link>https://news.yahoo.co.jp/articles/46b605ddeb59424bae68d6da708cdf93b26d606d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46b605ddeb59424bae68d6da708cdf93b26d606d</guid>
+      <pubDate>Fri, 26 Jun 2026 15:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースXやOpenAI、アンソロピックがVCの資金集め後押し－投資再燃</title>
+      <link>https://news.yahoo.co.jp/articles/ce85edd87f7e6751b76fff210e666d67504b9789</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce85edd87f7e6751b76fff210e666d67504b9789</guid>
+      <pubDate>Fri, 26 Jun 2026 15:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>【債券週間展望】長期金利は上昇へ、財政不安や日銀対応の後手懸念</title>
       <link>https://news.yahoo.co.jp/articles/8ee7e14d628c47340a05fb37c6a7cf038e56a96a</link>
@@ -219,6 +231,12 @@
     </item>
     <item>
       <title>高市首相、国債発行額「市場の信認確保」を意識し具体化－予算編成</title>
+      <link>https://news.yahoo.co.jp/articles/98e52ff2e8f13a3ad83910c64c6d87a937b41b16</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98e52ff2e8f13a3ad83910c64c6d87a937b41b16</guid>
+      <pubDate>Fri, 26 Jun 2026 19:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市首相、国債発行額「市場の信認確保」を意識し具体化－予算編成</title>
       <link>https://news.yahoo.co.jp/articles/e0aefadba53f9b27c5928904503335b435cdbef1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e0aefadba53f9b27c5928904503335b435cdbef1</guid>
       <pubDate>Thu, 25 Jun 2026 19:07:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/90e5ca9f548edc9470ded63235cd5af33bd84edc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90e5ca9f548edc9470ded63235cd5af33bd84edc</guid>
       <pubDate>Thu, 25 Jun 2026 11:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHD副社長、適正な価格になるよう工夫－株式分割への質問に</title>
-      <link>https://news.yahoo.co.jp/articles/4a5ae67a2bc8334b1d9ccaabd8b3c0535d1a5190</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a5ae67a2bc8334b1d9ccaabd8b3c0535d1a5190</guid>
-      <pubDate>Thu, 25 Jun 2026 10:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油反発、ホルムズ海峡で船舶攻撃－通航正常化の見通しに暗雲</title>
-      <link>https://news.yahoo.co.jp/articles/aee8530cbde89f0da32e5c4288fb25a7b16b0508</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aee8530cbde89f0da32e5c4288fb25a7b16b0508</guid>
-      <pubDate>Fri, 26 Jun 2026 10:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油先物、イラン戦争開始後の上昇分帳消し－ホルムズ再開で</title>
-      <link>https://news.yahoo.co.jp/articles/cdca202e71f3682fc4193ad02c2877e46bfe5692</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cdca202e71f3682fc4193ad02c2877e46bfe5692</guid>
-      <pubDate>Thu, 25 Jun 2026 10:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
