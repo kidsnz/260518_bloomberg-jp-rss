@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:36:50 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:43:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>東京消費者物価は8カ月ぶりに伸び拡大、日銀年内利上げ観測の支えに</title>
+      <link>https://news.yahoo.co.jp/articles/083f3e91601a1037329b1fbc2f7d40ae0a61518d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/083f3e91601a1037329b1fbc2f7d40ae0a61518d</guid>
+      <pubDate>Fri, 26 Jun 2026 08:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、中東情勢の緊張受け株は下落へ－ドル反落でも円買い進まず</title>
+      <link>https://news.yahoo.co.jp/articles/45bffeaa85a62070d8fc60046e3409e0542cfdea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45bffeaa85a62070d8fc60046e3409e0542cfdea</guid>
+      <pubDate>Fri, 26 Jun 2026 08:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>NY連銀総裁、「現行の金融政策スタンスは望ましい」－インフレ抑制で</title>
       <link>https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</link>
@@ -138,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/9843cb74b0410f75645fee705a85cabc0d769695</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9843cb74b0410f75645fee705a85cabc0d769695</guid>
       <pubDate>Thu, 25 Jun 2026 16:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>武田薬品キム新CEO、ROE5%達成は2～3年以内目指す－外部資産取得も</title>
+      <link>https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb3d09f83c308199c0154ff15c767ef8188a355b</guid>
+      <pubDate>Thu, 25 Jun 2026 16:14:00 +0900</pubDate>
     </item>
     <item>
       <title>武田薬品キム新CEO、ROE5%達成は2～3年以内目指す－外部資産取得も</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c6094de6266296c06d29af38a560b49ef12415c8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6094de6266296c06d29af38a560b49ef12415c8</guid>
       <pubDate>Thu, 25 Jun 2026 07:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>青森県で震度6強、津波被害の心配なし－女川原発稼働に影響なし</title>
-      <link>https://news.yahoo.co.jp/articles/6742260c520695ef72a2cbc3b38c45c76c01fa3a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6742260c520695ef72a2cbc3b38c45c76c01fa3a</guid>
-      <pubDate>Thu, 25 Jun 2026 07:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クアルコム株急伸、AIデータセンター半導体売上高29年度150億ドル超へ</title>
-      <link>https://news.yahoo.co.jp/articles/fedb90edefb79c4d1ee06dbc0fc7c7cd5ab81db6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fedb90edefb79c4d1ee06dbc0fc7c7cd5ab81db6</guid>
-      <pubDate>Thu, 25 Jun 2026 07:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>JPモルガンなど米銀大手が相次ぎ増配、FRBストレステスト通過後</title>
-      <link>https://news.yahoo.co.jp/articles/c414bd3b252f05ba7a7c608745c8c16ee866292f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c414bd3b252f05ba7a7c608745c8c16ee866292f</guid>
-      <pubDate>Thu, 25 Jun 2026 06:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
