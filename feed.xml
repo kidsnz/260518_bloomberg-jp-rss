@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:46:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 01:40:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>オマーン、ホルムズ海峡通過で手数料発生の可能性と欧州に通知</title>
+      <link>https://news.yahoo.co.jp/articles/702471e5a4a2d8b720704b83935fca01cce518a3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/702471e5a4a2d8b720704b83935fca01cce518a3</guid>
+      <pubDate>Sat, 27 Jun 2026 00:41:00 +0900</pubDate>
+    </item>
     <item>
       <title>米消費者マインド指数、6月は上昇－ガソリン下落で一定の安心感</title>
       <link>https://news.yahoo.co.jp/articles/774945eb381a2a1a753168f8d7bc6624be4ec503</link>
@@ -176,6 +182,12 @@
       <pubDate>Fri, 26 Jun 2026 11:29:00 +0900</pubDate>
     </item>
     <item>
+      <title>海洋ドローン、中国対抗の切り札に－「新しい守り方」へ日本も加速</title>
+      <link>https://news.yahoo.co.jp/articles/2c0868d7abbddf4d16cdaec998c16c58c38e51c5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c0868d7abbddf4d16cdaec998c16c58c38e51c5</guid>
+      <pubDate>Fri, 26 Jun 2026 11:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>中国からのレアアース輸入、依存度高い重希土類で低迷続く－貿易統計</title>
       <link>https://news.yahoo.co.jp/articles/52e3dd59f43597d490f265ac82dd7ce27bfba278</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/52e3dd59f43597d490f265ac82dd7ce27bfba278</guid>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/00e2349d1a18e6fbdd01180f5c850b5c920dc250</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/00e2349d1a18e6fbdd01180f5c850b5c920dc250</guid>
       <pubDate>Thu, 25 Jun 2026 22:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米PCE価格指数、前年同月比で3年ぶりの高い伸び－支出も加速</title>
-      <link>https://news.yahoo.co.jp/articles/8570c0373349e96070c6d37f0c9826e38474000a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8570c0373349e96070c6d37f0c9826e38474000a</guid>
-      <pubDate>Thu, 25 Jun 2026 21:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI相場失速ならディフェンシブセクター優位、資金シフト促す－BofA</title>
-      <link>https://news.yahoo.co.jp/articles/96c7f1a7b0871884389e5a1c87d410b8f5d6f2f7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96c7f1a7b0871884389e5a1c87d410b8f5d6f2f7</guid>
-      <pubDate>Thu, 25 Jun 2026 21:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
