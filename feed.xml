@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 23:54:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:46:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米消費者マインド指数、6月は上昇－ガソリン下落で一定の安心感</title>
+      <link>https://news.yahoo.co.jp/articles/774945eb381a2a1a753168f8d7bc6624be4ec503</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/774945eb381a2a1a753168f8d7bc6624be4ec503</guid>
+      <pubDate>Fri, 26 Jun 2026 23:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の有力ヘッジファンド、AI「スーパー・バブル」崩壊近いと警鐘</title>
+      <link>https://news.yahoo.co.jp/articles/061a5bf04d95672092752b569bb0943485c55a63</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/061a5bf04d95672092752b569bb0943485c55a63</guid>
+      <pubDate>Fri, 26 Jun 2026 22:48:00 +0900</pubDate>
+    </item>
     <item>
       <title>山梨県東部でM5.6の地震、富士河口湖町で震度6弱</title>
       <link>https://news.yahoo.co.jp/articles/21660729a1ab0457eff9b97b63aa9e9ed9825cd9</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/96c7f1a7b0871884389e5a1c87d410b8f5d6f2f7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96c7f1a7b0871884389e5a1c87d410b8f5d6f2f7</guid>
       <pubDate>Thu, 25 Jun 2026 21:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新規失業保険申請件数、前週比1.2万件減の21.5万件－予想22.5万件</title>
-      <link>https://news.yahoo.co.jp/articles/7bcef62506ec15fda7387160f0e6bad911ac3379</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7bcef62506ec15fda7387160f0e6bad911ac3379</guid>
-      <pubDate>Thu, 25 Jun 2026 21:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英次期首相が有力なバーナム氏の側近、財務省分割と英中銀改革を主張</title>
-      <link>https://news.yahoo.co.jp/articles/ed306cae4326c9809112219be40ed805c29b715f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed306cae4326c9809112219be40ed805c29b715f</guid>
-      <pubDate>Thu, 25 Jun 2026 20:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
