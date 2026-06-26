@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 22:40:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 23:54:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>山梨県東部でM5.6の地震、富士河口湖町で震度6弱</title>
+      <link>https://news.yahoo.co.jp/articles/21660729a1ab0457eff9b97b63aa9e9ed9825cd9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21660729a1ab0457eff9b97b63aa9e9ed9825cd9</guid>
+      <pubDate>Fri, 26 Jun 2026 22:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ海峡、コンテナ船攻撃後も通航続く－一部船主は計画見直し</title>
       <link>https://news.yahoo.co.jp/articles/a8d22934f3ea8bfcd45fec93042b50be968f9f2f</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ed306cae4326c9809112219be40ed805c29b715f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed306cae4326c9809112219be40ed805c29b715f</guid>
       <pubDate>Thu, 25 Jun 2026 20:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サウジ、ペルシャ湾岸からの原油積み込み再開へ－3月初旬以来</title>
-      <link>https://news.yahoo.co.jp/articles/688aa25287b3fd58d7149ad87b2ff8c99608dba1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/688aa25287b3fd58d7149ad87b2ff8c99608dba1</guid>
-      <pubDate>Thu, 25 Jun 2026 20:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
