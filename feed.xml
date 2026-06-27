@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 01:50:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 02:24:39 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>北京最高層ビルに小型機衝突か、SNSに画像や動画－当局発表なし</title>
@@ -32,7 +32,7 @@
       <pubDate>Sat, 27 Jun 2026 09:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピック「ミュトス5」、米政府が利用対象拡大を承認</title>
+      <title>アンソロピック「ミュトス5」、米政府が利用一部再開を許可</title>
       <link>https://news.yahoo.co.jp/articles/62ceef9c18b97ed322ac10c908701b8e06137d33</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62ceef9c18b97ed322ac10c908701b8e06137d33</guid>
       <pubDate>Sat, 27 Jun 2026 08:21:00 +0900</pubDate>
@@ -72,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/702471e5a4a2d8b720704b83935fca01cce518a3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/702471e5a4a2d8b720704b83935fca01cce518a3</guid>
       <pubDate>Sat, 27 Jun 2026 00:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者マインド改善、ガソリン安が後押し－なお過去2番目の低水準</title>
+      <link>https://news.yahoo.co.jp/articles/8f0d3382cc7a7397455b6f4661393875a29f4c9a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8f0d3382cc7a7397455b6f4661393875a29f4c9a</guid>
+      <pubDate>Sat, 27 Jun 2026 23:11:00 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド指数、6月は上昇－ガソリン下落で一定の安心感</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</guid>
       <pubDate>Fri, 26 Jun 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市投資で脚光の「つなぎ国債」、赤字国債との違いは－財源確定が難所</title>
-      <link>https://news.yahoo.co.jp/articles/f86cb6096d0051f91291c247670307332bb2cdd2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f86cb6096d0051f91291c247670307332bb2cdd2</guid>
-      <pubDate>Fri, 26 Jun 2026 07:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
