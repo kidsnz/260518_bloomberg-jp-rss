@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Jun 2026 18:44:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 19:39:45 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>北京最高層ビルに小型機衝突か、SNSに画像や動画－当局発表なし</title>
       <link>https://news.yahoo.co.jp/articles/3ba346915236e3e1d77118882e610953d8e10a19</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ba346915236e3e1d77118882e610953d8e10a19</guid>
       <pubDate>Sat, 27 Jun 2026 17:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップル、中国CXMT製メモリー購入で米政府の許可取得目指す－FT</title>
+      <link>https://news.yahoo.co.jp/articles/d4705c9a8bb9754ba06a0624c931f7dd9a39b366</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4705c9a8bb9754ba06a0624c931f7dd9a39b366</guid>
+      <pubDate>Sat, 27 Jun 2026 15:37:00 +0900</pubDate>
     </item>
     <item>
       <title>AI株急落で露呈、ウォール街の投機エコシステム－熱狂が逆回転</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f86cb6096d0051f91291c247670307332bb2cdd2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f86cb6096d0051f91291c247670307332bb2cdd2</guid>
       <pubDate>Fri, 26 Jun 2026 07:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は反落へ、大幅高の反動でAI・半導体関連に売り</title>
-      <link>https://news.yahoo.co.jp/articles/adbfd976aaf2fbdfe40e5d432b5c060a60b545ca</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/adbfd976aaf2fbdfe40e5d432b5c060a60b545ca</guid>
-      <pubDate>Fri, 26 Jun 2026 07:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
