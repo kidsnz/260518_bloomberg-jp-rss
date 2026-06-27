@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 06:48:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 07:22:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米軍、イランの標的に対し新たな攻撃を実施</title>
+      <link>https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</guid>
+      <pubDate>Sun, 28 Jun 2026 06:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、不人気のイラン戦争で巻き返し狙う－世論は合意に懐疑的</title>
+      <link>https://news.yahoo.co.jp/articles/038d4a8579d9e74254c340f899d6a3ddeed1212b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/038d4a8579d9e74254c340f899d6a3ddeed1212b</guid>
+      <pubDate>Sun, 28 Jun 2026 02:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>北京最高層ビルに小型機衝突か、SNSに画像や動画－当局発表なし</title>
       <link>https://news.yahoo.co.jp/articles/3ba346915236e3e1d77118882e610953d8e10a19</link>
@@ -42,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/3ba94f2371b8168ef067d549786b88668977142d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ba94f2371b8168ef067d549786b88668977142d</guid>
       <pubDate>Sat, 27 Jun 2026 06:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン停戦に試練、双方が報復－バーレーンやホルムズ海峡で攻撃</title>
+      <link>https://news.yahoo.co.jp/articles/147afed7232825950ac6ee3c92a6f2f9649751de</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/147afed7232825950ac6ee3c92a6f2f9649751de</guid>
+      <pubDate>Sun, 28 Jun 2026 05:50:00 +0900</pubDate>
     </item>
     <item>
       <title>米イランが非難の応酬、停戦に試練－ホルムズ海峡では飛翔体攻撃</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d99d52b7f168d908ba1b85166748d035e6479529</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d99d52b7f168d908ba1b85166748d035e6479529</guid>
       <pubDate>Fri, 26 Jun 2026 09:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>東京消費者物価は8カ月ぶりに伸び拡大、日銀年内利上げ観測の支えに</title>
-      <link>https://news.yahoo.co.jp/articles/083f3e91601a1037329b1fbc2f7d40ae0a61518d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/083f3e91601a1037329b1fbc2f7d40ae0a61518d</guid>
-      <pubDate>Fri, 26 Jun 2026 08:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、中東情勢の緊張受け株は下落へ－ドル反落でも円買い進まず</title>
-      <link>https://news.yahoo.co.jp/articles/45bffeaa85a62070d8fc60046e3409e0542cfdea</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45bffeaa85a62070d8fc60046e3409e0542cfdea</guid>
-      <pubDate>Fri, 26 Jun 2026 08:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>NY連銀総裁、「現行の金融政策スタンスは望ましい」－インフレ抑制で</title>
-      <link>https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7692ec74102dc9b3336b91d3d1029e5919b50857</guid>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
