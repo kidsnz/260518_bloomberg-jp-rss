@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:48:48 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:22:20 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日本の原油調達、6月は米国産4割に－メキシコ湾やアラスカから船集結</title>
       <link>https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</guid>
       <pubDate>Mon, 29 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン連日の攻撃応酬、揺らぐ停戦合意－協議再開の行方は不透明</title>
+      <link>https://news.yahoo.co.jp/articles/0b90e10d78862d66d5bafac7d4e1db2dfcf211b6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b90e10d78862d66d5bafac7d4e1db2dfcf211b6</guid>
+      <pubDate>Mon, 29 Jun 2026 02:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
+      <link>https://news.yahoo.co.jp/articles/1b3b1f6a8e7e7eba7f417549abff81f53ea71e6e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b3b1f6a8e7e7eba7f417549abff81f53ea71e6e</guid>
+      <pubDate>Mon, 29 Jun 2026 21:53:00 +0900</pubDate>
     </item>
     <item>
       <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0c1f2db9898ba1fe6c4d87d04c2eb202ff2c5e26</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c1f2db9898ba1fe6c4d87d04c2eb202ff2c5e26</guid>
       <pubDate>Fri, 26 Jun 2026 13:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】40年ぶり安値意識し神経質、米統計と介入警戒綱引き</title>
-      <link>https://news.yahoo.co.jp/articles/805837c137344e14ca33d44fab4754ecbb005b4d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/805837c137344e14ca33d44fab4754ecbb005b4d</guid>
-      <pubDate>Fri, 26 Jun 2026 13:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベネズエラ地震の死者、1000人近くに－最終的に1万人超との推計も</title>
-      <link>https://news.yahoo.co.jp/articles/bb6d0cea748bc3acf17d9727fd6b1a6b54805d48</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb6d0cea748bc3acf17d9727fd6b1a6b54805d48</guid>
-      <pubDate>Fri, 26 Jun 2026 13:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
