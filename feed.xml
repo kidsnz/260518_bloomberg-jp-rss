@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:41:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:42:55 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>AI特需が生んだIPOブーム、新興エネルギー企業に資金殺到－株価2倍も</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</guid>
       <pubDate>Sun, 28 Jun 2026 06:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>岩手県沖でM6.1の地震、青森県八戸市で震度5弱－津波の心配なし</title>
+      <link>https://news.yahoo.co.jp/articles/cd6e1ebae07eeae2de79402ba862c6d95266e944</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd6e1ebae07eeae2de79402ba862c6d95266e944</guid>
+      <pubDate>Sun, 28 Jun 2026 06:49:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、不人気のイラン戦争で巻き返し狙う－世論は合意に懐疑的</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/40c9351af2c1333c30f56b52b7fcda129c4bd9ba</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40c9351af2c1333c30f56b52b7fcda129c4bd9ba</guid>
       <pubDate>Fri, 26 Jun 2026 10:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国KOSPIが急落、半導体株が下げ主導－今週2度目の売買停止措置発動</title>
-      <link>https://news.yahoo.co.jp/articles/e32db9c267917ef9d28c6297ced00190c695e745</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e32db9c267917ef9d28c6297ced00190c695e745</guid>
-      <pubDate>Fri, 26 Jun 2026 09:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
