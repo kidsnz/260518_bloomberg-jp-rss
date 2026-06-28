@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 08:24:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:51:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、株は急落後の反発もAI不安で上げ限定へ－「骨太」で円売り</title>
+      <link>https://news.yahoo.co.jp/articles/299030b51213ce10ac5e18591f45ee4116c177cf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/299030b51213ce10ac5e18591f45ee4116c177cf</guid>
+      <pubDate>Mon, 29 Jun 2026 08:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本株は反発へ、大幅安の反動や米国株底堅さ好感－中東情勢にらむ</title>
       <link>https://news.yahoo.co.jp/articles/41dcdc0922f9abfadd6ce5091e5ba366759b6cb1</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/46b605ddeb59424bae68d6da708cdf93b26d606d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46b605ddeb59424bae68d6da708cdf93b26d606d</guid>
       <pubDate>Fri, 26 Jun 2026 15:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXやOpenAI、アンソロピックがVCの資金集め後押し－投資再燃</title>
-      <link>https://news.yahoo.co.jp/articles/ce85edd87f7e6751b76fff210e666d67504b9789</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce85edd87f7e6751b76fff210e666d67504b9789</guid>
-      <pubDate>Fri, 26 Jun 2026 15:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
