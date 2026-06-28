@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 23:11:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:01:37 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/d4c1a5ca67798e869302da8ed9334b50c6c54e36</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4c1a5ca67798e869302da8ed9334b50c6c54e36</guid>
       <pubDate>Sun, 28 Jun 2026 18:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズの輸送、機雷残れば半分も回復せず－日本郵船社長がFTに語る</title>
+      <link>https://news.yahoo.co.jp/articles/f5fe09e3dd571b08ae73578bf648d0f39631adbe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5fe09e3dd571b08ae73578bf648d0f39631adbe</guid>
+      <pubDate>Sun, 28 Jun 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
       <title>【焦点】ウォーシュ議長が国際討論会でデビュー、米雇用は好調持続へ</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/de4575a97d2806d75d8997e27aef9b129366c378</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de4575a97d2806d75d8997e27aef9b129366c378</guid>
       <pubDate>Fri, 26 Jun 2026 13:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG株が約2年ぶり大幅安、米OpenAIのIPO先送りと報道</title>
-      <link>https://news.yahoo.co.jp/articles/21b007b84cab2ce26e4112bbeac4674d88d96d78</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21b007b84cab2ce26e4112bbeac4674d88d96d78</guid>
-      <pubDate>Fri, 26 Jun 2026 13:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
