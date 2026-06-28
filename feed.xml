@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 12:07:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:01:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>政府、骨太方針に適切な金融政策「非常に重要」明記へ－資料</title>
+      <link>https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</guid>
+      <pubDate>Sun, 28 Jun 2026 13:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン、米軍事インフラ8カ所攻撃－クウェートとバーレーン基地が標的</title>
+      <link>https://news.yahoo.co.jp/articles/0e8022510a2c111e4995042d928ce6776a586e1b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e8022510a2c111e4995042d928ce6776a586e1b</guid>
+      <pubDate>Sun, 28 Jun 2026 10:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>AI特需が生んだIPOブーム、新興エネルギー企業に資金殺到－株価2倍も</title>
       <link>https://news.yahoo.co.jp/articles/80cb728ee511c97d22bd1ab2ef3e2d846ba2b7b9</link>
@@ -30,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/038d4a8579d9e74254c340f899d6a3ddeed1212b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/038d4a8579d9e74254c340f899d6a3ddeed1212b</guid>
       <pubDate>Sun, 28 Jun 2026 02:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の工業利益、5月は伸び鈍化－生産者物価上昇も内需低迷が重し</title>
+      <link>https://news.yahoo.co.jp/articles/2c5f69022b3965f2c5f9e8776b37d2933efd0823</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c5f69022b3965f2c5f9e8776b37d2933efd0823</guid>
+      <pubDate>Sat, 27 Jun 2026 22:32:00 +0900</pubDate>
     </item>
     <item>
       <title>北京最高層ビルに小型機衝突か、SNSに画像や動画－当局発表なし</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/aacfd86b52d51d8a6fcf8b575c3beb30124dbf80</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aacfd86b52d51d8a6fcf8b575c3beb30124dbf80</guid>
       <pubDate>Fri, 26 Jun 2026 11:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>海洋ドローン、中国対抗の切り札に－「新しい守り方」へ日本も加速</title>
-      <link>https://news.yahoo.co.jp/articles/2c0868d7abbddf4d16cdaec998c16c58c38e51c5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c0868d7abbddf4d16cdaec998c16c58c38e51c5</guid>
-      <pubDate>Fri, 26 Jun 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国からのレアアース輸入、依存度高い重希土類で低迷続く－貿易統計</title>
-      <link>https://news.yahoo.co.jp/articles/52e3dd59f43597d490f265ac82dd7ce27bfba278</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/52e3dd59f43597d490f265ac82dd7ce27bfba278</guid>
-      <pubDate>Fri, 26 Jun 2026 10:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>40年ぶり安値に迫る円、対ドルの6月パフォーマンスはG10通貨で首位に</title>
-      <link>https://news.yahoo.co.jp/articles/40c9351af2c1333c30f56b52b7fcda129c4bd9ba</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40c9351af2c1333c30f56b52b7fcda129c4bd9ba</guid>
-      <pubDate>Fri, 26 Jun 2026 10:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
