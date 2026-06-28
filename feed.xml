@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 22:02:41 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 23:11:27 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
+      <link>https://news.yahoo.co.jp/articles/bc3f5abf994ff0ff3265149b7e07107f6b79e821</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc3f5abf994ff0ff3265149b7e07107f6b79e821</guid>
+      <pubDate>Sun, 28 Jun 2026 21:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>グーグルがメタの「ジェミニ」利用制限、AI需要でインフラ逼迫－報道</title>
       <link>https://news.yahoo.co.jp/articles/d4c1a5ca67798e869302da8ed9334b50c6c54e36</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/21b007b84cab2ce26e4112bbeac4674d88d96d78</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21b007b84cab2ce26e4112bbeac4674d88d96d78</guid>
       <pubDate>Fri, 26 Jun 2026 13:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムスンとSKハイニックス、数千億ドル規模の新規投資発表へ－報道</title>
-      <link>https://news.yahoo.co.jp/articles/22fc4011c83d77ca6c4d2fdffe0882190f1b5263</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22fc4011c83d77ca6c4d2fdffe0882190f1b5263</guid>
-      <pubDate>Fri, 26 Jun 2026 12:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
