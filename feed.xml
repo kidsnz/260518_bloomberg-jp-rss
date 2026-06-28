@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 14:01:34 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 15:48:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】ウォーシュ議長が国際討論会でデビュー、米雇用は好調持続へ</title>
+      <link>https://news.yahoo.co.jp/articles/7846f7e71d704a4b969ad6facbd87dfe99edb86a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7846f7e71d704a4b969ad6facbd87dfe99edb86a</guid>
+      <pubDate>Sun, 28 Jun 2026 13:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>政府、骨太方針に適切な金融政策「非常に重要」明記へ－資料</title>
       <link>https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</link>
@@ -26,7 +32,7 @@
       <pubDate>Sun, 28 Jun 2026 09:08:00 +0900</pubDate>
     </item>
     <item>
-      <title>米軍、イランの軍事施設に新たな攻撃実施－停戦違反を双方が主張</title>
+      <title>米とイランが軍事施設を相互に攻撃、応酬激化－停戦違反を双方主張</title>
       <link>https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</guid>
       <pubDate>Sun, 28 Jun 2026 06:58:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0a495eb0b920f73091b79a3711b4602435c239d2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0a495eb0b920f73091b79a3711b4602435c239d2</guid>
       <pubDate>Fri, 26 Jun 2026 11:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>年内の米利上げ期待が縮小、PCE価格統計を受け－7月確率は33%に低下</title>
-      <link>https://news.yahoo.co.jp/articles/aacfd86b52d51d8a6fcf8b575c3beb30124dbf80</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aacfd86b52d51d8a6fcf8b575c3beb30124dbf80</guid>
-      <pubDate>Fri, 26 Jun 2026 11:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
