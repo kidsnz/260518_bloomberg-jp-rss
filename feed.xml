@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:24:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 06:48:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本の原油調達、6月は米国産4割に－メキシコ湾やアラスカから船集結</title>
+      <link>https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</guid>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
       <link>https://news.yahoo.co.jp/articles/bc3f5abf994ff0ff3265149b7e07107f6b79e821</link>
@@ -299,12 +305,6 @@
       <title>ベネズエラ地震の死者、1000人近くに－最終的に1万人超との推計も</title>
       <link>https://news.yahoo.co.jp/articles/bb6d0cea748bc3acf17d9727fd6b1a6b54805d48</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb6d0cea748bc3acf17d9727fd6b1a6b54805d48</guid>
-      <pubDate>Fri, 26 Jun 2026 13:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベネズエラ地震で死者235人に－救出活動続く、被害地域では病院満床</title>
-      <link>https://news.yahoo.co.jp/articles/c2b1defe9b8b6029521ee6a3fb6c3b49ef4e95f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2b1defe9b8b6029521ee6a3fb6c3b49ef4e95f8</guid>
       <pubDate>Fri, 26 Jun 2026 13:17:00 +0900</pubDate>
     </item>
   </channel>
