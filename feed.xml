@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 07:22:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:48:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブレント先物は一時1.9%高－カタール産原油積載タンカーに攻撃</title>
+      <link>https://news.yahoo.co.jp/articles/2f4952cd796715c2d3c349d7a88b2bf451901af7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f4952cd796715c2d3c349d7a88b2bf451901af7</guid>
+      <pubDate>Mon, 29 Jun 2026 07:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本の原油調達、6月は米国産4割に－メキシコ湾やアラスカから船集結</title>
       <link>https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</link>
@@ -50,7 +56,7 @@
       <pubDate>Sun, 28 Jun 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>【焦点】ウォーシュ議長が国際討論会でデビュー、米雇用は好調持続へ</title>
+      <title>【焦点】ウォーシュ議長が就任後初の国際討論会、米雇用は好調持続へ</title>
       <link>https://news.yahoo.co.jp/articles/7846f7e71d704a4b969ad6facbd87dfe99edb86a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7846f7e71d704a4b969ad6facbd87dfe99edb86a</guid>
       <pubDate>Sun, 28 Jun 2026 13:57:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9fa6a55e24a76f19f223799cbaf87ba85bdada1c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9fa6a55e24a76f19f223799cbaf87ba85bdada1c</guid>
       <pubDate>Fri, 26 Jun 2026 14:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日経平均下げ加速で6万9000円割れ、ソフトバンクGなどAI・半導体売り</title>
-      <link>https://news.yahoo.co.jp/articles/0c1f2db9898ba1fe6c4d87d04c2eb202ff2c5e26</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c1f2db9898ba1fe6c4d87d04c2eb202ff2c5e26</guid>
-      <pubDate>Fri, 26 Jun 2026 13:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
