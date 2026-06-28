@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 04:30:49 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 05:26:54 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
       <link>https://news.yahoo.co.jp/articles/bc3f5abf994ff0ff3265149b7e07107f6b79e821</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc3f5abf994ff0ff3265149b7e07107f6b79e821</guid>
       <pubDate>Sun, 28 Jun 2026 21:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>グーグルがメタの「ジェミニ」利用を制限、計算資源の逼迫で－FT</title>
+      <link>https://news.yahoo.co.jp/articles/dcde7efa100330b14837ad9de5420cadcfd245a9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dcde7efa100330b14837ad9de5420cadcfd245a9</guid>
+      <pubDate>Mon, 29 Jun 2026 18:03:00 +0900</pubDate>
     </item>
     <item>
       <title>グーグルがメタの「ジェミニ」利用制限、AI需要でインフラ逼迫－報道</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c2b1defe9b8b6029521ee6a3fb6c3b49ef4e95f8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2b1defe9b8b6029521ee6a3fb6c3b49ef4e95f8</guid>
       <pubDate>Fri, 26 Jun 2026 13:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>みずほ社長がPBR2倍目指す、配当と自社株買いバランスは「私の宿題」</title>
-      <link>https://news.yahoo.co.jp/articles/de4575a97d2806d75d8997e27aef9b129366c378</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de4575a97d2806d75d8997e27aef9b129366c378</guid>
-      <pubDate>Fri, 26 Jun 2026 13:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
