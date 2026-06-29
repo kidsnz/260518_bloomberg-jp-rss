@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 05:11:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:03:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スーパー・マイクロ台湾オフィス家宅捜索、半導体密輸疑惑で捜査拡大</title>
+      <link>https://news.yahoo.co.jp/articles/3290b7a541f92ee434c214f5f0ce9ec58eef4420</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3290b7a541f92ee434c214f5f0ce9ec58eef4420</guid>
+      <pubDate>Tue, 30 Jun 2026 04:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>足止めのイラク産原油、全てがホルムズ海峡通過－約1400万バレル</title>
       <link>https://news.yahoo.co.jp/articles/28a65d169a8ffcdacbfe2d433b2d89db0efb602c</link>
@@ -54,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/a5d4e7a8a3e1e64095891a993236fdb95d355c57</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5d4e7a8a3e1e64095891a993236fdb95d355c57</guid>
       <pubDate>Mon, 29 Jun 2026 23:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>コムキャスト、NBCユニバーサルを新メディア会社としてスピンオフへ</title>
+      <link>https://news.yahoo.co.jp/articles/6bf1fd10680919b850129ee140e6dc0a42ed2e44</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6bf1fd10680919b850129ee140e6dc0a42ed2e44</guid>
+      <pubDate>Mon, 29 Jun 2026 22:44:00 +0900</pubDate>
     </item>
     <item>
       <title>米イラン、30日にドーハで協議へ－攻撃の一時停止で合意</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7846f7e71d704a4b969ad6facbd87dfe99edb86a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7846f7e71d704a4b969ad6facbd87dfe99edb86a</guid>
       <pubDate>Sun, 28 Jun 2026 13:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>政府、骨太方針に適切な金融政策「非常に重要」明記へ－資料</title>
-      <link>https://news.yahoo.co.jp/articles/cb240e32329a017bacb4d57854fdc56f4adab56a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb240e32329a017bacb4d57854fdc56f4adab56a</guid>
-      <pubDate>Mon, 29 Jun 2026 13:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>政府、骨太方針に適切な金融政策「非常に重要」明記へ－資料</title>
-      <link>https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</guid>
-      <pubDate>Sun, 28 Jun 2026 13:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
