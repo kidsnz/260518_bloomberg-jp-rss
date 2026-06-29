@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 04:11:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 05:11:13 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>足止めのイラク産原油、全てがホルムズ海峡通過－約1400万バレル</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/0d94b6b8d311b7914616be677f2d29650bcb2317</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d94b6b8d311b7914616be677f2d29650bcb2317</guid>
       <pubDate>Tue, 30 Jun 2026 00:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英国は「閉そく」、大胆な地方分権実行へ－次期首相候補バーナム氏</title>
+      <link>https://news.yahoo.co.jp/articles/66b2bb73e772da8053efa064f87f41e5e85db25d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66b2bb73e772da8053efa064f87f41e5e85db25d</guid>
+      <pubDate>Tue, 30 Jun 2026 23:57:00 +0900</pubDate>
     </item>
     <item>
       <title>英国は「閉そく」、大胆な地方分権実行へ－次期首相候補バーナム氏、</title>
@@ -48,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/a5d4e7a8a3e1e64095891a993236fdb95d355c57</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5d4e7a8a3e1e64095891a993236fdb95d355c57</guid>
       <pubDate>Mon, 29 Jun 2026 23:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン、30日にドーハで協議へ－攻撃の一時停止で合意</title>
+      <link>https://news.yahoo.co.jp/articles/d6e71ca66f4f23b5d758bf989d6beeab534f60c2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d6e71ca66f4f23b5d758bf989d6beeab534f60c2</guid>
+      <pubDate>Mon, 29 Jun 2026 20:51:00 +0900</pubDate>
     </item>
     <item>
       <title>米イラン、30日にドーハで協議へ－攻撃の一時停止で合意</title>
@@ -150,12 +162,6 @@
       <link>https://news.yahoo.co.jp/articles/409d1a9ada1d3f0ebccdd331bbbc18de4dad4767</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/409d1a9ada1d3f0ebccdd331bbbc18de4dad4767</guid>
       <pubDate>Mon, 29 Jun 2026 13:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「新たな敵」タカ派FRB、新興国の国債に逆風－原油安でも一息つけず</title>
-      <link>https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</guid>
-      <pubDate>Mon, 29 Jun 2026 12:12:00 +0900</pubDate>
     </item>
     <item>
       <title>「新たな敵」タカ派FRB、新興国の国債に逆風－原油安でも一息つけず</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5f96c5d7062c15c6dac48caeb23f1fac80b2209</guid>
       <pubDate>Sun, 28 Jun 2026 13:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、米軍事インフラ8カ所攻撃－クウェートとバーレーン基地が標的</title>
-      <link>https://news.yahoo.co.jp/articles/0e8022510a2c111e4995042d928ce6776a586e1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e8022510a2c111e4995042d928ce6776a586e1b</guid>
-      <pubDate>Sun, 28 Jun 2026 10:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
