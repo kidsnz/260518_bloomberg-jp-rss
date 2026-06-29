@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 21:51:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:23:33 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ米大統領：イランとの会合、30日にドーハで開催へ</title>
@@ -60,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/61983dc5c34c1ed7b5c109b46c4bd24e8288aa96</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/61983dc5c34c1ed7b5c109b46c4bd24e8288aa96</guid>
       <pubDate>Mon, 29 Jun 2026 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>豪AI新興のファーマス、インドネシアにデータセンター建設へ</title>
+      <link>https://news.yahoo.co.jp/articles/132f72b1882aaa89eaaf56cd607519efaed16b53</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/132f72b1882aaa89eaaf56cd607519efaed16b53</guid>
+      <pubDate>Mon, 29 Jun 2026 17:08:00 +0900</pubDate>
     </item>
     <item>
       <title>AI投資、株式発行ラッシュに債券市場警戒－スペースX債急落が波紋</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/62ceef9c18b97ed322ac10c908701b8e06137d33</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62ceef9c18b97ed322ac10c908701b8e06137d33</guid>
       <pubDate>Sat, 27 Jun 2026 08:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イスラエルとレバノン、紛争終結に向け枠組み合意－米国が仲介</title>
-      <link>https://news.yahoo.co.jp/articles/3ba94f2371b8168ef067d549786b88668977142d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ba94f2371b8168ef067d549786b88668977142d</guid>
-      <pubDate>Sat, 27 Jun 2026 06:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
