@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:08:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:04:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>「新たな敵」タカ派FRB、新興国の国債に逆風－原油安でも一息つけず</title>
+      <link>https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</guid>
+      <pubDate>Mon, 29 Jun 2026 12:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国人民銀、金利発表せず肩透かし－翌日物リバースレポ初実施</title>
       <link>https://news.yahoo.co.jp/articles/befd27becfb024686843220929b78a97b43e05cc</link>
@@ -14,7 +20,7 @@
       <pubDate>Mon, 29 Jun 2026 11:33:00 +0900</pubDate>
     </item>
     <item>
-      <title>中国、輸出規制リストおよび監視リストに日本の40企業・団体を追加</title>
+      <title>中国、日本の40企業・団体を輸出管理対象に－高市政権との対立深まる</title>
       <link>https://news.yahoo.co.jp/articles/0060d762ec6d7036fb901cc7abc8f1d82a410f35</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0060d762ec6d7036fb901cc7abc8f1d82a410f35</guid>
       <pubDate>Mon, 29 Jun 2026 11:28:00 +0900</pubDate>
@@ -38,7 +44,7 @@
       <pubDate>Mon, 29 Jun 2026 10:04:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日銀圧力懸念し債券下落、円161円後半－AI中心に株失速</title>
+      <title>【日本市況】日銀後手警戒の債券下落、AI売りで株失速－円161円後半</title>
       <link>https://news.yahoo.co.jp/articles/03d103e820e003b600125662835e5fa4c7258635</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03d103e820e003b600125662835e5fa4c7258635</guid>
       <pubDate>Mon, 29 Jun 2026 09:28:00 +0900</pubDate>
@@ -56,7 +62,7 @@
       <pubDate>Mon, 29 Jun 2026 08:14:00 +0900</pubDate>
     </item>
     <item>
-      <title>サムスンとSKが10年間で210兆円投資へ、国家プロジェクトの一環-報道</title>
+      <title>サムスンとSKが10年間で210兆円投資へ、韓国の国家戦略の一環－報道</title>
       <link>https://news.yahoo.co.jp/articles/d8dcd6ff18aba8fb551171370cdbcaf768f3af6e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d8dcd6ff18aba8fb551171370cdbcaf768f3af6e</guid>
       <pubDate>Mon, 29 Jun 2026 08:12:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7c59a192d3e7d6cdb85ea87fa4dd5a2141ef6059</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7c59a192d3e7d6cdb85ea87fa4dd5a2141ef6059</guid>
       <pubDate>Fri, 26 Jun 2026 18:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>VW、競争力強化へ10万人削減やドイツ4工場閉鎖を検討－独誌</title>
-      <link>https://news.yahoo.co.jp/articles/ba4d3374332c2e97691140a4ec3c766f80ffa065</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba4d3374332c2e97691140a4ec3c766f80ffa065</guid>
-      <pubDate>Fri, 26 Jun 2026 18:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
