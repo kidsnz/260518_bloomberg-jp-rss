@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 09:42:41 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:44:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】日銀圧力懸念し債券下落、円161円後半－AI中心に株失速</title>
+      <link>https://news.yahoo.co.jp/articles/03d103e820e003b600125662835e5fa4c7258635</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03d103e820e003b600125662835e5fa4c7258635</guid>
+      <pubDate>Mon, 29 Jun 2026 09:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マチャド氏が帰国模索、大地震対応に追われるロドリゲス政権に試練</title>
+      <link>https://news.yahoo.co.jp/articles/ab1d0425b0529e811388d45cd4543c990b9c0b86</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ab1d0425b0529e811388d45cd4543c990b9c0b86</guid>
+      <pubDate>Mon, 29 Jun 2026 08:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、株は急落後の反発もAI不安で上げ限定へ－「骨太」で円売り</title>
       <link>https://news.yahoo.co.jp/articles/299030b51213ce10ac5e18591f45ee4116c177cf</link>
@@ -32,7 +44,7 @@
       <pubDate>Mon, 29 Jun 2026 07:36:00 +0900</pubDate>
     </item>
     <item>
-      <title>ブレント先物は一時1.9%高－カタール産原油積載タンカーに攻撃</title>
+      <title>原油が上げ幅縮小、米イラン攻撃停止合意と報道－ブレント一時1.9%高</title>
       <link>https://news.yahoo.co.jp/articles/2f4952cd796715c2d3c349d7a88b2bf451901af7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f4952cd796715c2d3c349d7a88b2bf451901af7</guid>
       <pubDate>Mon, 29 Jun 2026 07:14:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b3ab3e465107fe7ec37f08f4c22d56da8635ad46</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3ab3e465107fe7ec37f08f4c22d56da8635ad46</guid>
       <pubDate>Fri, 26 Jun 2026 16:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>岸田元首相、アクティビストは日本企業に悪影響も-会社法見直しを</title>
-      <link>https://news.yahoo.co.jp/articles/ab1c8f6bdf2c6cd33fe5a4e96a485192cc6ac7c8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ab1c8f6bdf2c6cd33fe5a4e96a485192cc6ac7c8</guid>
-      <pubDate>Fri, 26 Jun 2026 16:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州熱波は観測史上最も深刻、気候変動が原因－研究者が分析</title>
-      <link>https://news.yahoo.co.jp/articles/117d2f4dadd42136c7e4f1013e3cc8f7b281dcf6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/117d2f4dadd42136c7e4f1013e3cc8f7b281dcf6</guid>
-      <pubDate>Fri, 26 Jun 2026 16:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
