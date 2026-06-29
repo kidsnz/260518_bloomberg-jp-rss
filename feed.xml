@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 07:50:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:22:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本株は続伸へ、米ハイテク株上昇で心理改善－為替介入警戒感は重し</title>
+      <link>https://news.yahoo.co.jp/articles/6d35c1ae90a4acbf3d89f438695c82d330b36db1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d35c1ae90a4acbf3d89f438695c82d330b36db1</guid>
+      <pubDate>Tue, 30 Jun 2026 07:47:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン、ホルムズ通航の管理続けると強調－30日のドーハ協議控え緊張</title>
       <link>https://news.yahoo.co.jp/articles/1b76d59595c340907b99e8775471e7db34c6458f</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0b90e10d78862d66d5bafac7d4e1db2dfcf211b6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b90e10d78862d66d5bafac7d4e1db2dfcf211b6</guid>
       <pubDate>Mon, 29 Jun 2026 02:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アラムコのヘリが墜落、14人全員死亡－サウジ東部ラスタヌラで</title>
-      <link>https://news.yahoo.co.jp/articles/1b3b1f6a8e7e7eba7f417549abff81f53ea71e6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b3b1f6a8e7e7eba7f417549abff81f53ea71e6e</guid>
-      <pubDate>Mon, 29 Jun 2026 21:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
