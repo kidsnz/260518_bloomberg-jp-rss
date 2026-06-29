@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 20:14:54 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:51:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ米大統領：イランとの会合、30日にドーハで開催へ</title>
+      <link>https://news.yahoo.co.jp/articles/9384308fe43439b5449fd3138fd37ef36016f63c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9384308fe43439b5449fd3138fd37ef36016f63c</guid>
+      <pubDate>Mon, 29 Jun 2026 20:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ユーロ弱気が勢い増す、年初の上昇予想を大手米銀が相次ぎ撤回</title>
+      <link>https://news.yahoo.co.jp/articles/a3f87cec513c0c13ca785939b5557e3d4ed33342</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3f87cec513c0c13ca785939b5557e3d4ed33342</guid>
+      <pubDate>Mon, 29 Jun 2026 20:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>今年度の国債発行計画は現状維持、年央ヒアリングで点検－財務省</title>
       <link>https://news.yahoo.co.jp/articles/72fd91843be1d79cee9dbb285f2acb9d4c083127</link>
@@ -32,6 +44,12 @@
       <pubDate>Mon, 29 Jun 2026 18:56:00 +0900</pubDate>
     </item>
     <item>
+      <title>欧州西部の猛暑が東へ移動、ブダペストは40度超えの見通し</title>
+      <link>https://news.yahoo.co.jp/articles/74ee293d33edd33b27dd6d60dacd5d7f6d879054</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74ee293d33edd33b27dd6d60dacd5d7f6d879054</guid>
+      <pubDate>Mon, 29 Jun 2026 18:48:00 +0900</pubDate>
+    </item>
+    <item>
       <title>「ダンヒル」のBAT、9000人削減へ－世界従業員の2割に相当</title>
       <link>https://news.yahoo.co.jp/articles/b3ef1ac02b3eeaae283eac238c2d52e64be13ac6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3ef1ac02b3eeaae283eac238c2d52e64be13ac6</guid>
@@ -50,7 +68,7 @@
       <pubDate>Mon, 29 Jun 2026 15:29:00 +0900</pubDate>
     </item>
     <item>
-      <title>サムスンとSK、半導体製造に84兆円投資へ－5年でDRAM製造能力を倍増</title>
+      <title>韓国のサムスンとSK、84兆円投資へ－半導体製造能力を迅速に拡大</title>
       <link>https://news.yahoo.co.jp/articles/450649c9ea7b6d578bce40e468980645d8ba9382</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/450649c9ea7b6d578bce40e468980645d8ba9382</guid>
       <pubDate>Mon, 29 Jun 2026 14:53:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3ba94f2371b8168ef067d549786b88668977142d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ba94f2371b8168ef067d549786b88668977142d</guid>
       <pubDate>Sat, 27 Jun 2026 06:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン停戦に試練、双方が報復－バーレーンやホルムズ海峡で攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/147afed7232825950ac6ee3c92a6f2f9649751de</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/147afed7232825950ac6ee3c92a6f2f9649751de</guid>
-      <pubDate>Sun, 28 Jun 2026 05:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イランが非難の応酬、停戦に試練－ホルムズ海峡では飛翔体攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/56eb7791a6ec7d1a917db3ab759416797b82c254</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56eb7791a6ec7d1a917db3ab759416797b82c254</guid>
-      <pubDate>Sat, 27 Jun 2026 05:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX債急落、異例のスプレッド拡大－「これほど広がるとは」の声</title>
-      <link>https://news.yahoo.co.jp/articles/78921a6e4c48d8a86b0723bc41c7ebee44196cb4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78921a6e4c48d8a86b0723bc41c7ebee44196cb4</guid>
-      <pubDate>Sat, 27 Jun 2026 03:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
