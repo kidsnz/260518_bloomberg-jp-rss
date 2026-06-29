@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 02:00:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:14:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>足止めのイラク産原油、全てがホルムズ海峡通過－約1400万バレル</title>
+      <link>https://news.yahoo.co.jp/articles/28a65d169a8ffcdacbfe2d433b2d89db0efb602c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/28a65d169a8ffcdacbfe2d433b2d89db0efb602c</guid>
+      <pubDate>Tue, 30 Jun 2026 00:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株は反発、ハイテク銘柄に買い－「マグ・セブン」ほぼ全て上昇</title>
+      <link>https://news.yahoo.co.jp/articles/0d94b6b8d311b7914616be677f2d29650bcb2317</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d94b6b8d311b7914616be677f2d29650bcb2317</guid>
+      <pubDate>Tue, 30 Jun 2026 00:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>英国は「閉そく」、大胆な地方分権実行へ－次期首相候補バーナム氏、</title>
       <link>https://news.yahoo.co.jp/articles/5420c2f13967166322793fed1b03c0f161db8c45</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/80cb728ee511c97d22bd1ab2ef3e2d846ba2b7b9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80cb728ee511c97d22bd1ab2ef3e2d846ba2b7b9</guid>
       <pubDate>Sun, 28 Jun 2026 09:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米とイランが軍事施設を相互に攻撃、応酬激化－停戦違反を双方主張</title>
-      <link>https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bccee2c3b0aea12dab24a0d6402b768125e91e8</guid>
-      <pubDate>Sun, 28 Jun 2026 06:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>岩手県沖でM6.1の地震、青森県八戸市で震度5弱－津波の心配なし</title>
-      <link>https://news.yahoo.co.jp/articles/cd6e1ebae07eeae2de79402ba862c6d95266e944</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd6e1ebae07eeae2de79402ba862c6d95266e944</guid>
-      <pubDate>Sun, 28 Jun 2026 06:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
