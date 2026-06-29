@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 03:14:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:11:53 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>足止めのイラク産原油、全てがホルムズ海峡通過－約1400万バレル</title>
@@ -158,6 +158,12 @@
       <pubDate>Mon, 29 Jun 2026 12:12:00 +0900</pubDate>
     </item>
     <item>
+      <title>「新たな敵」タカ派FRB、新興国の国債に逆風－原油安でも一息つけず</title>
+      <link>https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</guid>
+      <pubDate>Mon, 29 Jun 2026 12:12:00 +0900</pubDate>
+    </item>
+    <item>
       <title>中国人民銀、金利発表せず肩透かし－翌日物リバースレポ初実施</title>
       <link>https://news.yahoo.co.jp/articles/befd27becfb024686843220929b78a97b43e05cc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/befd27becfb024686843220929b78a97b43e05cc</guid>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0e8022510a2c111e4995042d928ce6776a586e1b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e8022510a2c111e4995042d928ce6776a586e1b</guid>
       <pubDate>Sun, 28 Jun 2026 10:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI特需が生んだIPOブーム、新興エネルギー企業に資金殺到－株価2倍も</title>
-      <link>https://news.yahoo.co.jp/articles/80cb728ee511c97d22bd1ab2ef3e2d846ba2b7b9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80cb728ee511c97d22bd1ab2ef3e2d846ba2b7b9</guid>
-      <pubDate>Sun, 28 Jun 2026 09:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
