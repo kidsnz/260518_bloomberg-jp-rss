@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:22:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:48:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相が掲げる前例なき経済構想、国内産業基盤の再構築に挑む</title>
+      <link>https://news.yahoo.co.jp/articles/95f808d363bf96637ea5e1322e29f868bba0bdc2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/95f808d363bf96637ea5e1322e29f868bba0bdc2</guid>
+      <pubDate>Tue, 30 Jun 2026 08:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インサイダー取引で米サスケハナが100人提訴、中国取り締まり巡り</title>
+      <link>https://news.yahoo.co.jp/articles/97f3c3c46aca616d8d0475f3677e28baa8da5dfe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97f3c3c46aca616d8d0475f3677e28baa8da5dfe</guid>
+      <pubDate>Tue, 30 Jun 2026 08:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、株価はAI関連中心に上昇へ－円は約40年ぶり安値圏で推移</title>
+      <link>https://news.yahoo.co.jp/articles/1a917e18a84172b0877c85bb7e1c46109c020716</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a917e18a84172b0877c85bb7e1c46109c020716</guid>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドル162円目前、財政懸念と利上げ観測後退で売り－債券下落へ</title>
+      <link>https://news.yahoo.co.jp/articles/8e27dd079eeac211b342b17c5fa71b5d5c7f17a3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e27dd079eeac211b342b17c5fa71b5d5c7f17a3</guid>
+      <pubDate>Tue, 30 Jun 2026 07:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本株は続伸へ、米ハイテク株上昇で心理改善－為替介入警戒感は重し</title>
       <link>https://news.yahoo.co.jp/articles/6d35c1ae90a4acbf3d89f438695c82d330b36db1</link>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a7d9a592cf13d66afa38af75c82de37489eb9b9a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7d9a592cf13d66afa38af75c82de37489eb9b9a</guid>
       <pubDate>Tue, 30 Jun 2026 07:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油が上げ幅縮小、米イラン攻撃停止合意と報道－ブレント一時1.9%高</title>
-      <link>https://news.yahoo.co.jp/articles/2f4952cd796715c2d3c349d7a88b2bf451901af7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f4952cd796715c2d3c349d7a88b2bf451901af7</guid>
-      <pubDate>Mon, 29 Jun 2026 07:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>RBCブルーベイ、AI銘柄は夏に調整も－リスク減らし来年の再上昇待ち</title>
-      <link>https://news.yahoo.co.jp/articles/9e62f1db312a47cf3253d76ee49a0e721957c3a2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e62f1db312a47cf3253d76ee49a0e721957c3a2</guid>
-      <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本の原油調達、6月は米国産4割に－メキシコ湾やアラスカから船集結</title>
-      <link>https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaec57276c54a043df4d4399bffb9aecd1a63cdd</guid>
-      <pubDate>Mon, 29 Jun 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イランが相互攻撃停止で合意、数日間の報復応酬後－和平協議継続へ</title>
-      <link>https://news.yahoo.co.jp/articles/0b90e10d78862d66d5bafac7d4e1db2dfcf211b6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b90e10d78862d66d5bafac7d4e1db2dfcf211b6</guid>
-      <pubDate>Mon, 29 Jun 2026 02:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
