@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:48:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:40:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国とEU、レアアース輸出管理対話を強化へ－供給網の安定維持に努力</title>
+      <link>https://news.yahoo.co.jp/articles/4dd9dd3f6c49f403731d39ce9660c5e7c9bdd8b0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4dd9dd3f6c49f403731d39ce9660c5e7c9bdd8b0</guid>
+      <pubDate>Tue, 30 Jun 2026 08:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀は早めの再利上げ必要、政策金利1%でも大幅に緩和的－山本元理事</title>
+      <link>https://news.yahoo.co.jp/articles/3091df4bb4accfa0852a4ef207fe03e36690b0b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3091df4bb4accfa0852a4ef207fe03e36690b0b4</guid>
+      <pubDate>Tue, 30 Jun 2026 08:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相が掲げる前例なき経済構想、国内産業基盤の再構築に挑む</title>
       <link>https://news.yahoo.co.jp/articles/95f808d363bf96637ea5e1322e29f868bba0bdc2</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/41dcdc0922f9abfadd6ce5091e5ba366759b6cb1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41dcdc0922f9abfadd6ce5091e5ba366759b6cb1</guid>
       <pubDate>Mon, 29 Jun 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIバブルの崩壊リスク警告、循環型ファイナンスに警鐘－国際決済銀行</title>
-      <link>https://news.yahoo.co.jp/articles/7ebbdc2d4dad7b1ced9fd3c742879745cdac428a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7ebbdc2d4dad7b1ced9fd3c742879745cdac428a</guid>
-      <pubDate>Mon, 29 Jun 2026 07:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油反発、WTI再び70ドル台－緊張再燃と和平協議進展期待が交錯</title>
-      <link>https://news.yahoo.co.jp/articles/a7d9a592cf13d66afa38af75c82de37489eb9b9a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7d9a592cf13d66afa38af75c82de37489eb9b9a</guid>
-      <pubDate>Tue, 30 Jun 2026 07:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
