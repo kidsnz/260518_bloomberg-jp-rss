@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 20:52:14 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:41:04 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>高市首相、2040年度に名目GDP1100兆円・国内民間投資230兆円目指す</title>
       <link>https://news.yahoo.co.jp/articles/46780fc708353df1076758f671f778a78c236a3a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46780fc708353df1076758f671f778a78c236a3a</guid>
       <pubDate>Tue, 30 Jun 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドル急騰なら今年下半期最大級の「ペイントレード」に－HSBCが警戒</title>
+      <link>https://news.yahoo.co.jp/articles/596a465d484d0f5e910758351f9a399e6500e562</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/596a465d484d0f5e910758351f9a399e6500e562</guid>
+      <pubDate>Tue, 30 Jun 2026 19:05:00 +0900</pubDate>
     </item>
     <item>
       <title>40年ぶり円安迫る中、過去1カ月間の為替介入額はゼロ－財務省</title>
@@ -26,10 +32,22 @@
       <pubDate>Tue, 30 Jun 2026 18:14:00 +0900</pubDate>
     </item>
     <item>
+      <title>中国株、AI相場の勝ち組から一転－2001年以降で最大の出遅れ</title>
+      <link>https://news.yahoo.co.jp/articles/30392646373c8b44b4232b68cc6476adb76f623b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/30392646373c8b44b4232b68cc6476adb76f623b</guid>
+      <pubDate>Tue, 30 Jun 2026 18:12:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ECB、追加利上げの論拠は以前ほど強くない－ベルギー中銀総裁</title>
       <link>https://news.yahoo.co.jp/articles/3272b5e00e8897f04d05b10f9edc865a5ae5ff9d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3272b5e00e8897f04d05b10f9edc865a5ae5ff9d</guid>
       <pubDate>Tue, 30 Jun 2026 18:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECB、イラン戦争の物価ショック終結まだ－当局者は慎重姿勢崩さず</title>
+      <link>https://news.yahoo.co.jp/articles/e674249ca67b027573b62c1de08b55b0eb17341b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e674249ca67b027573b62c1de08b55b0eb17341b</guid>
+      <pubDate>Tue, 30 Jun 2026 17:46:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースXのIPO、韓国証券最大手に配分ゼロ－注文照会巡る誤解が原因</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d971cd9c2724ac32a038f62f9d4f970082f195a1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d971cd9c2724ac32a038f62f9d4f970082f195a1</guid>
       <pubDate>Mon, 29 Jun 2026 18:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州西部の猛暑が東へ移動、ブダペストは40度超えの見通し</title>
-      <link>https://news.yahoo.co.jp/articles/74ee293d33edd33b27dd6d60dacd5d7f6d879054</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74ee293d33edd33b27dd6d60dacd5d7f6d879054</guid>
-      <pubDate>Mon, 29 Jun 2026 18:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>自動運転ティアフォーが7月22日に上場へ、IPO規模今年2番目の大きさ</title>
-      <link>https://news.yahoo.co.jp/articles/bc09ef92533aaaff91912493989e9e32aa3933d8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc09ef92533aaaff91912493989e9e32aa3933d8</guid>
-      <pubDate>Mon, 29 Jun 2026 18:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「ダンヒル」のBAT、9000人削減へ－世界従業員の2割に相当</title>
-      <link>https://news.yahoo.co.jp/articles/b3ef1ac02b3eeaae283eac238c2d52e64be13ac6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3ef1ac02b3eeaae283eac238c2d52e64be13ac6</guid>
-      <pubDate>Mon, 29 Jun 2026 18:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
