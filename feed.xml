@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:36:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:35:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>クリーブランド連銀総裁、利上げ必要になる可能性言及－インフレ抑制</title>
+      <link>https://news.yahoo.co.jp/articles/55e06d7eec18ae188d23ee8f6e866e536c5a2e72</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55e06d7eec18ae188d23ee8f6e866e536c5a2e72</guid>
+      <pubDate>Wed, 01 Jul 2026 02:17:00 +0900</pubDate>
+    </item>
     <item>
       <title>ミレニアム・マネジメントのラッソ共同CIO、年末で退任へ</title>
       <link>https://news.yahoo.co.jp/articles/cae6d6b631a5013c4ccbc28c5b5eec48968a816b</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1dfe430e8137f22cfaa35e1d56aca093e2c47359</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1dfe430e8137f22cfaa35e1d56aca093e2c47359</guid>
       <pubDate>Mon, 29 Jun 2026 23:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が約40年ぶり162円台に下落、円買い介入リスク一段と高まる</title>
-      <link>https://news.yahoo.co.jp/articles/f5be355fa06e6f3a5133b246c2959526e15dc492</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5be355fa06e6f3a5133b246c2959526e15dc492</guid>
-      <pubDate>Tue, 30 Jun 2026 23:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
