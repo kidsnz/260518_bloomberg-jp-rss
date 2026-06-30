@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 04:35:22 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:38:25 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>クリーブランド連銀総裁、利上げ必要になる可能性言及－インフレ抑制</title>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 01 Jul 2026 00:47:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国株は上昇、底堅い経済指標を好感－162円55銭に一時下落</title>
+      <title>米株は上昇、半導体への買いと堅調指標がけん引－162円60銭台に下落</title>
       <link>https://news.yahoo.co.jp/articles/3debf5704b0261e91ea642b5a5b757d4f111a8fc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3debf5704b0261e91ea642b5a5b757d4f111a8fc</guid>
       <pubDate>Wed, 01 Jul 2026 00:16:00 +0900</pubDate>
@@ -42,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/f3d159d9df0e805e0c86b1e84b83de5fbaf5b818</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f3d159d9df0e805e0c86b1e84b83de5fbaf5b818</guid>
       <pubDate>Tue, 30 Jun 2026 23:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者信頼感指数、6月は小幅上昇－ガソリン価格の下落が支え</title>
+      <link>https://news.yahoo.co.jp/articles/b43a314665d59ca406fbf7e3aa956856c88f38b0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b43a314665d59ca406fbf7e3aa956856c88f38b0</guid>
+      <pubDate>Tue, 30 Jun 2026 23:22:00 +0900</pubDate>
     </item>
     <item>
       <title>米求人件数は小幅増、市場予想上回る－労働需要の安定示唆</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/62305d3f2d5269bd4107a7568fc11442490b0030</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62305d3f2d5269bd4107a7568fc11442490b0030</guid>
       <pubDate>Tue, 30 Jun 2026 23:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米連邦最高裁、リサ・クックFRB理事の職務継続を当面認める</title>
-      <link>https://news.yahoo.co.jp/articles/1dfe430e8137f22cfaa35e1d56aca093e2c47359</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1dfe430e8137f22cfaa35e1d56aca093e2c47359</guid>
-      <pubDate>Mon, 29 Jun 2026 23:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
