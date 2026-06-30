@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:07:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:52:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油供給過剰リスク指摘、相場予想を下方修正－モルガン・スタンレー</title>
+      <link>https://news.yahoo.co.jp/articles/91dfb81dafa9a8fe1e5f06e01dd5c2dc89d89d6a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91dfb81dafa9a8fe1e5f06e01dd5c2dc89d89d6a</guid>
+      <pubDate>Tue, 30 Jun 2026 13:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2年国債入札、応札倍率が過去12カ月平均を上回る</title>
+      <link>https://news.yahoo.co.jp/articles/d3bc3e2977d76e9ea354ad445b7eba20061f0fb5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3bc3e2977d76e9ea354ad445b7eba20061f0fb5</guid>
+      <pubDate>Tue, 30 Jun 2026 12:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>赤沢経産相、中国の対日輸出規制を批判－JAL問題は調査結果を精査</title>
       <link>https://news.yahoo.co.jp/articles/f05a7ac91981f6557458cccafa990e2e3191a48f</link>
@@ -20,7 +32,7 @@
       <pubDate>Tue, 30 Jun 2026 10:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>片山財務相、必要に応じていつでも適切に対応するに尽きる－為替</title>
+      <title>片山財務相「いつでも適切に対応」－40年ぶり円安でも発言踏み込まず</title>
       <link>https://news.yahoo.co.jp/articles/c0ec14e236ffb6458c98f01f9c334a3611602728</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c0ec14e236ffb6458c98f01f9c334a3611602728</guid>
       <pubDate>Tue, 30 Jun 2026 10:14:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0060d762ec6d7036fb901cc7abc8f1d82a410f35</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0060d762ec6d7036fb901cc7abc8f1d82a410f35</guid>
       <pubDate>Mon, 29 Jun 2026 11:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米最高裁、トランプ政権の施策に判断へ－FRB理事解任と出生地主義制限</title>
-      <link>https://news.yahoo.co.jp/articles/6e3ca824c8ea78015d0f70bfc799a5916906ea88</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e3ca824c8ea78015d0f70bfc799a5916906ea88</guid>
-      <pubDate>Mon, 29 Jun 2026 11:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本が中国スパイや密輸の拠点に、高市首相肝いりの経済安保強化が後押し</title>
-      <link>https://news.yahoo.co.jp/articles/74162afbdcb9201b46e0a990e0f1a641dab389c5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74162afbdcb9201b46e0a990e0f1a641dab389c5</guid>
-      <pubDate>Mon, 29 Jun 2026 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
