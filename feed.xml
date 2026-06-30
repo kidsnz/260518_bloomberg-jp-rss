@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 13:52:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:26:18 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>豪中銀、据え置きで利上げの波及効果見極め－不動産市場への影響注視</title>
+      <link>https://news.yahoo.co.jp/articles/127fe58f27232086d01abee209bc9a26932fce09</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/127fe58f27232086d01abee209bc9a26932fce09</guid>
+      <pubDate>Tue, 30 Jun 2026 14:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>パラグアイ、サッカーW杯大金星で祝日を宣言－強豪ドイツをPKで撃破</title>
+      <link>https://news.yahoo.co.jp/articles/f1ab4a25f640a50732f5f48d5a4045af488a1627</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f1ab4a25f640a50732f5f48d5a4045af488a1627</guid>
+      <pubDate>Tue, 30 Jun 2026 13:34:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油供給過剰リスク指摘、相場予想を下方修正－モルガン・スタンレー</title>
       <link>https://news.yahoo.co.jp/articles/91dfb81dafa9a8fe1e5f06e01dd5c2dc89d89d6a</link>
@@ -14,7 +26,7 @@
       <pubDate>Tue, 30 Jun 2026 13:18:00 +0900</pubDate>
     </item>
     <item>
-      <title>2年国債入札、応札倍率が過去12カ月平均を上回る</title>
+      <title>2年国債入札に堅調な需要、日銀利上げ時期の後ずれ観測が支え</title>
       <link>https://news.yahoo.co.jp/articles/d3bc3e2977d76e9ea354ad445b7eba20061f0fb5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3bc3e2977d76e9ea354ad445b7eba20061f0fb5</guid>
       <pubDate>Tue, 30 Jun 2026 12:53:00 +0900</pubDate>
@@ -50,7 +62,7 @@
       <pubDate>Tue, 30 Jun 2026 09:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日本株は伸び悩む、自動車が下落－円安で対ドル162円台</title>
+      <title>【日本市況】日経平均7万円回復、AI相場再開－対ドル162円台に円下落</title>
       <link>https://news.yahoo.co.jp/articles/61eb7b88c77dd334295de163aeccd673cc01cf37</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/61eb7b88c77dd334295de163aeccd673cc01cf37</guid>
       <pubDate>Tue, 30 Jun 2026 09:27:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd5a04d2819d5b62bee0bb515d5108712ddf59d3</guid>
       <pubDate>Mon, 29 Jun 2026 12:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国人民銀、金利発表せず肩透かし－翌日物リバースレポ初実施</title>
-      <link>https://news.yahoo.co.jp/articles/befd27becfb024686843220929b78a97b43e05cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/befd27becfb024686843220929b78a97b43e05cc</guid>
-      <pubDate>Mon, 29 Jun 2026 11:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、日本の40企業・団体を輸出管理対象に－高市政権との対立深まる</title>
-      <link>https://news.yahoo.co.jp/articles/0060d762ec6d7036fb901cc7abc8f1d82a410f35</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0060d762ec6d7036fb901cc7abc8f1d82a410f35</guid>
-      <pubDate>Mon, 29 Jun 2026 11:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
