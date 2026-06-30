@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:41:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:36:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>北京の高層ビルに衝突した小型機、直前に海南航空旅客機とニアミス</title>
+      <link>https://news.yahoo.co.jp/articles/0ea69e5ae190a0ff54257d77d27719ac934886a6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0ea69e5ae190a0ff54257d77d27719ac934886a6</guid>
+      <pubDate>Tue, 30 Jun 2026 21:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相、2040年度に名目GDP1100兆円・国内民間投資230兆円目指す</title>
       <link>https://news.yahoo.co.jp/articles/46780fc708353df1076758f671f778a78c236a3a</link>
@@ -66,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/9dc554a5dac57f4be6c547527c89d54daa815b16</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9dc554a5dac57f4be6c547527c89d54daa815b16</guid>
       <pubDate>Tue, 30 Jun 2026 16:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡の通航量回復、イランの船舶攻撃後－原油タンカー戻る</title>
+      <link>https://news.yahoo.co.jp/articles/97689e2626e799d18b7d304ba7b7ce90c8722d30</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97689e2626e799d18b7d304ba7b7ce90c8722d30</guid>
+      <pubDate>Tue, 30 Jun 2026 15:24:00 +0900</pubDate>
     </item>
     <item>
       <title>みずほ銀、新興企業向け金融サービス開始－カード与信最大10億円</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5a8208edef71eb61b82af55a545dfe0f68b2c2ac</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a8208edef71eb61b82af55a545dfe0f68b2c2ac</guid>
       <pubDate>Mon, 29 Jun 2026 19:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プーチン氏、ウクライナ巡り米特使と交渉用意－長距離攻撃停止は拒否</title>
-      <link>https://news.yahoo.co.jp/articles/2c228f4948d2ce1b57baebb82ad98c220dd48df9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c228f4948d2ce1b57baebb82ad98c220dd48df9</guid>
-      <pubDate>Mon, 29 Jun 2026 19:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>W杯日本代表の白ユニホームが売り上げ29倍、ブラジル戦で着用へ</title>
-      <link>https://news.yahoo.co.jp/articles/d971cd9c2724ac32a038f62f9d4f970082f195a1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d971cd9c2724ac32a038f62f9d4f970082f195a1</guid>
-      <pubDate>Mon, 29 Jun 2026 18:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
