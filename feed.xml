@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 07:27:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:56:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トヨタ、「空飛ぶクルマ」米ジョビーと合弁設立へ－生産面で連携強化</title>
+      <link>https://news.yahoo.co.jp/articles/cff8d4fd9195f66b350f2009064767b8fa12424b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cff8d4fd9195f66b350f2009064767b8fa12424b</guid>
+      <pubDate>Wed, 01 Jul 2026 06:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領、暗号資産関連で1950億円以上の収入－2025年</title>
+      <link>https://news.yahoo.co.jp/articles/7e5453dda173a4ef42c386c3a3778a383a3856b2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e5453dda173a4ef42c386c3a3778a383a3856b2</guid>
+      <pubDate>Wed, 01 Jul 2026 06:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油反落、WTIが70ドル割れ－中東からの輸出回復で供給過剰を意識</title>
       <link>https://news.yahoo.co.jp/articles/275fca905c924da321d0cacfc67fb881ac257afe</link>
@@ -84,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/674222f66836b952bd11d5cba21e6c3bc6136bf3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/674222f66836b952bd11d5cba21e6c3bc6136bf3</guid>
       <pubDate>Tue, 30 Jun 2026 23:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント米財務長官、中国以外はイラン産原油購入せず－制裁を警戒</title>
+      <link>https://news.yahoo.co.jp/articles/7edd0b78bae3ac822b487718b72cb09cb3c1535d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7edd0b78bae3ac822b487718b72cb09cb3c1535d</guid>
+      <pubDate>Tue, 30 Jun 2026 23:05:00 +0900</pubDate>
     </item>
     <item>
       <title>ドイツのインフレ率、予想以上に低下－フランスとイタリアに続く</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f17ccc0fd6ebcae454835d81bf823ca73446c603</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f17ccc0fd6ebcae454835d81bf823ca73446c603</guid>
       <pubDate>Tue, 30 Jun 2026 07:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、ホルムズ通航の管理続けると強調－30日のドーハ協議控え緊張</title>
-      <link>https://news.yahoo.co.jp/articles/1b76d59595c340907b99e8775471e7db34c6458f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b76d59595c340907b99e8775471e7db34c6458f</guid>
-      <pubDate>Tue, 30 Jun 2026 07:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株が上昇、ラッセル1000指数への組み入れが追い風</title>
-      <link>https://news.yahoo.co.jp/articles/f847d3828ed3246d871072f28406aa22b82c3911</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f847d3828ed3246d871072f28406aa22b82c3911</guid>
-      <pubDate>Tue, 30 Jun 2026 04:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スーパー・マイクロ台湾オフィス捜索、半導体密輸疑惑で捜査拡大</title>
-      <link>https://news.yahoo.co.jp/articles/3290b7a541f92ee434c214f5f0ce9ec58eef4420</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3290b7a541f92ee434c214f5f0ce9ec58eef4420</guid>
-      <pubDate>Tue, 30 Jun 2026 04:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
