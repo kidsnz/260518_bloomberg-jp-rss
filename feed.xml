@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 22:36:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 23:52:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>5月の米求人件数、前月比ほぼ変わらず－労働需要の安定示唆</title>
+      <link>https://news.yahoo.co.jp/articles/674222f66836b952bd11d5cba21e6c3bc6136bf3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/674222f66836b952bd11d5cba21e6c3bc6136bf3</guid>
+      <pubDate>Tue, 30 Jun 2026 23:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>半導体株、四半期は過去最高の上昇ペース－市場は持続性見極め</title>
+      <link>https://news.yahoo.co.jp/articles/59be886d303c408059b0d5b84ed125cb1f77ee01</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/59be886d303c408059b0d5b84ed125cb1f77ee01</guid>
+      <pubDate>Tue, 30 Jun 2026 22:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>北京の高層ビルに衝突した小型機、直前に海南航空旅客機とニアミス</title>
       <link>https://news.yahoo.co.jp/articles/0ea69e5ae190a0ff54257d77d27719ac934886a6</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a3f87cec513c0c13ca785939b5557e3d4ed33342</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3f87cec513c0c13ca785939b5557e3d4ed33342</guid>
       <pubDate>Mon, 29 Jun 2026 20:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>今年度の国債発行計画は現状維持、年央ヒアリングで点検－財務省</title>
-      <link>https://news.yahoo.co.jp/articles/72fd91843be1d79cee9dbb285f2acb9d4c083127</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72fd91843be1d79cee9dbb285f2acb9d4c083127</guid>
-      <pubDate>Mon, 29 Jun 2026 19:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡、船舶への攻撃受け通航数が減少－安全性への懸念再び</title>
-      <link>https://news.yahoo.co.jp/articles/5a8208edef71eb61b82af55a545dfe0f68b2c2ac</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a8208edef71eb61b82af55a545dfe0f68b2c2ac</guid>
-      <pubDate>Mon, 29 Jun 2026 19:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
