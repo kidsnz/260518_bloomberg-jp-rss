@@ -5,10 +5,34 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:52:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:29:45 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>アップル、中国製メモリー半導体の調達検討－トランプ政権に働きかけ</title>
+      <title>まさかの1ドル=200円、トレーダーが意識し始めた最悪の円安シナリオ</title>
+      <link>https://news.yahoo.co.jp/articles/f0c453a89f1cfa649db774a2785dde5a7d3c1fba</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0c453a89f1cfa649db774a2785dde5a7d3c1fba</guid>
+      <pubDate>Thu, 02 Jul 2026 08:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドル162円台半ば、FRB議長発言で一時反発も安値圏－債券下落へ</title>
+      <link>https://news.yahoo.co.jp/articles/6e231d517f5ae2c6b23ee5468c08488795ce3e49</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e231d517f5ae2c6b23ee5468c08488795ce3e49</guid>
+      <pubDate>Thu, 02 Jul 2026 08:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日経平均は反落へ、米半導体株安が重し－FRB議長発言と原油安は支え</title>
+      <link>https://news.yahoo.co.jp/articles/79f5b6a0f5af40a0abc633e0c42d82cad2aa6705</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79f5b6a0f5af40a0abc633e0c42d82cad2aa6705</guid>
+      <pubDate>Thu, 02 Jul 2026 07:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ソフトウエア株上昇、グッゲンハイムが投資判断上げ-AI致命的でない</title>
+      <link>https://news.yahoo.co.jp/articles/93f11a773f87abd0309b04dc66679f21021d2c1f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93f11a773f87abd0309b04dc66679f21021d2c1f</guid>
+      <pubDate>Thu, 02 Jul 2026 07:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップル、中国製メモリー半導体の調達検討－米政権に働きかけ</title>
       <link>https://news.yahoo.co.jp/articles/aac5e9aafba8be0d48c85d0970ad515b17b53be2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aac5e9aafba8be0d48c85d0970ad515b17b53be2</guid>
       <pubDate>Thu, 02 Jul 2026 06:49:00 +0900</pubDate>
@@ -188,6 +212,12 @@
       <pubDate>Wed, 01 Jul 2026 12:46:00 +0900</pubDate>
     </item>
     <item>
+      <title>AI「蒸留」とは、なぜ米企業が中国競合を非難するのか－攻撃どう防ぐ</title>
+      <link>https://news.yahoo.co.jp/articles/8916da2cb451143b29e6c794c7e5d299262a790f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8916da2cb451143b29e6c794c7e5d299262a790f</guid>
+      <pubDate>Wed, 01 Jul 2026 12:42:00 +0900</pubDate>
+    </item>
+    <item>
       <title>韓国が挑むAI時代の国土再編－半導体への巨額投資で地方は変わるか</title>
       <link>https://news.yahoo.co.jp/articles/253dbd9e4775948122d24c992245d1b2a2d0012f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/253dbd9e4775948122d24c992245d1b2a2d0012f</guid>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c7541523b88602f7948e4513da8a4e4c6091a1aa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7541523b88602f7948e4513da8a4e4c6091a1aa</guid>
       <pubDate>Wed, 01 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は続伸へ、米半導体株高やリバランス売り一巡－AI関連に買い</title>
-      <link>https://news.yahoo.co.jp/articles/19ce0f7559d279a482151368691dce235c00878c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19ce0f7559d279a482151368691dce235c00878c</guid>
-      <pubDate>Wed, 01 Jul 2026 07:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>熱波で電力ひっ迫の恐れ－米エネルギー省、最大送電網に緊急命令</title>
-      <link>https://news.yahoo.co.jp/articles/32add83879c48fc99934f8d149e9fd175962a47d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32add83879c48fc99934f8d149e9fd175962a47d</guid>
-      <pubDate>Wed, 01 Jul 2026 07:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トヨタ、「空飛ぶクルマ」米ジョビーと合弁設立へ－生産面で連携強化</title>
-      <link>https://news.yahoo.co.jp/articles/cff8d4fd9195f66b350f2009064767b8fa12424b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cff8d4fd9195f66b350f2009064767b8fa12424b</guid>
-      <pubDate>Wed, 01 Jul 2026 06:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ大統領、暗号資産関連で2277億円以上の収入－2025年資産開示</title>
-      <link>https://news.yahoo.co.jp/articles/7e5453dda173a4ef42c386c3a3778a383a3856b2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e5453dda173a4ef42c386c3a3778a383a3856b2</guid>
-      <pubDate>Wed, 01 Jul 2026 06:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油反落、WTIが70ドル割れ－中東からの輸出回復で供給過剰を意識</title>
-      <link>https://news.yahoo.co.jp/articles/275fca905c924da321d0cacfc67fb881ac257afe</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/275fca905c924da321d0cacfc67fb881ac257afe</guid>
-      <pubDate>Wed, 01 Jul 2026 06:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
