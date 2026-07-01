@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:29:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:57:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>巨額の為替介入でも円安基調変わらない理由とは－警戒強める日本当局</title>
+      <link>https://news.yahoo.co.jp/articles/0d53691c2a8f70995d4c3e4964e625d8c9b9f9b5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d53691c2a8f70995d4c3e4964e625d8c9b9f9b5</guid>
+      <pubDate>Thu, 02 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場はAI関連中心に株軟調、円は安値圏続く－米雇用統計に注目</title>
+      <link>https://news.yahoo.co.jp/articles/6f89ad040a91d37c523bb557c88e0508220c8159</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f89ad040a91d37c523bb557c88e0508220c8159</guid>
+      <pubDate>Thu, 02 Jul 2026 08:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>まさかの1ドル=200円、トレーダーが意識し始めた最悪の円安シナリオ</title>
       <link>https://news.yahoo.co.jp/articles/f0c453a89f1cfa649db774a2785dde5a7d3c1fba</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/79ee88b6f63f866ccd7acd272783a3afb79b6003</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79ee88b6f63f866ccd7acd272783a3afb79b6003</guid>
       <pubDate>Wed, 01 Jul 2026 08:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米雇用堅調で株価上昇へ－円は介入警戒も下落歯止め見えず</title>
-      <link>https://news.yahoo.co.jp/articles/b8621ca71fc87e2e08ab9217901e488f4e4a8b66</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8621ca71fc87e2e08ab9217901e488f4e4a8b66</guid>
-      <pubDate>Wed, 01 Jul 2026 08:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで162円台後半、介入リスク意識も売り優勢－債券は下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/c7541523b88602f7948e4513da8a4e4c6091a1aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7541523b88602f7948e4513da8a4e4c6091a1aa</guid>
-      <pubDate>Wed, 01 Jul 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
