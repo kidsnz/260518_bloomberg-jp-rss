@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 15:55:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:26:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円買い介入機会は11月までに2回だけ、米独立記念日を警戒－コメルツ銀</title>
+      <link>https://news.yahoo.co.jp/articles/2d97ae79c29c52713b1f2a16c3ee6872323c12cd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d97ae79c29c52713b1f2a16c3ee6872323c12cd</guid>
+      <pubDate>Wed, 01 Jul 2026 16:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国共産党、軍強化と「台湾問題」解決強調－党創建105年で習氏演説</title>
       <link>https://news.yahoo.co.jp/articles/42b0274e65e7c6daecabf6e18ee8bccd611e7990</link>
@@ -14,10 +20,22 @@
       <pubDate>Wed, 01 Jul 2026 15:09:00 +0900</pubDate>
     </item>
     <item>
+      <title>JICファンド投資室長、新興投資「IPOだけが出口でない」-上場基準厳格化</title>
+      <link>https://news.yahoo.co.jp/articles/1784fb558da436e695635d67272d69d60b44b218</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1784fb558da436e695635d67272d69d60b44b218</guid>
+      <pubDate>Wed, 01 Jul 2026 15:08:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米地裁、サスケハナ申し立て認め口座凍結命令－インサイダー取引疑惑</title>
       <link>https://news.yahoo.co.jp/articles/1b87da848abc5d00060b8aa71ddca119b5ad734c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b87da848abc5d00060b8aa71ddca119b5ad734c</guid>
       <pubDate>Wed, 01 Jul 2026 14:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>JR東日本、モバイルSuicaで不具合－ログインやチャージしにくい状態</title>
+      <link>https://news.yahoo.co.jp/articles/e48a3cadc86f34fad668b3b0ccfd53e8e14db30e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e48a3cadc86f34fad668b3b0ccfd53e8e14db30e</guid>
+      <pubDate>Wed, 01 Jul 2026 14:33:00 +0900</pubDate>
     </item>
     <item>
       <title>三村財務官、日米当局の連携「最も緊密な状態」-為替介入の効果あった</title>
@@ -68,7 +86,7 @@
       <pubDate>Wed, 01 Jul 2026 09:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】円安進み163円視野、財務官発言で一時買いも－株は堅調</title>
+      <title>【日本市況】円安進み163円視野、財務官発言で一時買いも－株は続伸</title>
       <link>https://news.yahoo.co.jp/articles/35ca8b81d9a18f8516aa4e1e3a5466a4f2c1e18d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/35ca8b81d9a18f8516aa4e1e3a5466a4f2c1e18d</guid>
       <pubDate>Wed, 01 Jul 2026 09:23:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8924e7f7d4b1c990ea00669e566db2d35827b26d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8924e7f7d4b1c990ea00669e566db2d35827b26d</guid>
       <pubDate>Tue, 30 Jun 2026 18:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン戦争に伴うインフレの全体像、見極め必要－ECBスレイペン氏</title>
-      <link>https://news.yahoo.co.jp/articles/74f8503f7ee5e1b9af05696e8faf5c714645c9c7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74f8503f7ee5e1b9af05696e8faf5c714645c9c7</guid>
-      <pubDate>Tue, 30 Jun 2026 18:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>40年ぶり円安、市場の視線は「介入有無」から「次の防衛ライン」</title>
-      <link>https://news.yahoo.co.jp/articles/d23cb3b504b6a0b1f4730da48e747788fe858b0e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d23cb3b504b6a0b1f4730da48e747788fe858b0e</guid>
-      <pubDate>Wed, 01 Jul 2026 18:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>約40年ぶり円安、市場の視線は「介入有無」から「次の防衛ライン」へ</title>
-      <link>https://news.yahoo.co.jp/articles/0031dd3bf251db839a4f74803e85e9f3a345465e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0031dd3bf251db839a4f74803e85e9f3a345465e</guid>
-      <pubDate>Tue, 30 Jun 2026 18:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
