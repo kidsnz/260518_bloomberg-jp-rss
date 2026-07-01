@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:32:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:43:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米政府、アンソロピックのAIモデル「Fable 5」規制を解除</title>
+      <link>https://news.yahoo.co.jp/articles/aaefcbff99c0c88ea4e08dba3c266f685822c06c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaefcbff99c0c88ea4e08dba3c266f685822c06c</guid>
+      <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米特使ら、中東側と前向きな話し合い－イランとの実務協議も進展</title>
+      <link>https://news.yahoo.co.jp/articles/04b432170e447b00a46771875c88a7360bb32bb9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/04b432170e447b00a46771875c88a7360bb32bb9</guid>
+      <pubDate>Wed, 01 Jul 2026 08:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀短観、大企業製造業景況感は8年ぶり高水準－年内利上げ観測支え</title>
+      <link>https://news.yahoo.co.jp/articles/56538631ac26e82c48cbff40f3c993c4b36e04c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56538631ac26e82c48cbff40f3c993c4b36e04c4</guid>
+      <pubDate>Wed, 01 Jul 2026 08:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本市場、米雇用堅調で株価上昇へ－円は介入警戒も下落歯止め見えず</title>
       <link>https://news.yahoo.co.jp/articles/b8621ca71fc87e2e08ab9217901e488f4e4a8b66</link>
@@ -38,7 +56,7 @@
       <pubDate>Wed, 01 Jul 2026 06:46:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ大統領、暗号資産関連で1950億円以上の収入－2025年</title>
+      <title>トランプ米大統領、暗号資産関連で2277億円以上の収入－2025年</title>
       <link>https://news.yahoo.co.jp/articles/7e5453dda173a4ef42c386c3a3778a383a3856b2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e5453dda173a4ef42c386c3a3778a383a3856b2</guid>
       <pubDate>Wed, 01 Jul 2026 06:29:00 +0900</pubDate>
@@ -170,6 +188,12 @@
       <pubDate>Tue, 30 Jun 2026 18:54:00 +0900</pubDate>
     </item>
     <item>
+      <title>イラン戦争に伴うインフレの全体像、見極め必要－ECBスレイペン氏</title>
+      <link>https://news.yahoo.co.jp/articles/74f8503f7ee5e1b9af05696e8faf5c714645c9c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74f8503f7ee5e1b9af05696e8faf5c714645c9c7</guid>
+      <pubDate>Tue, 30 Jun 2026 18:24:00 +0900</pubDate>
+    </item>
+    <item>
       <title>40年ぶり円安、市場の視線は「介入有無」から「次の防衛ライン」</title>
       <link>https://news.yahoo.co.jp/articles/d23cb3b504b6a0b1f4730da48e747788fe858b0e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d23cb3b504b6a0b1f4730da48e747788fe858b0e</guid>
@@ -204,6 +228,12 @@
       <link>https://news.yahoo.co.jp/articles/974ac44517422ad5abb95515f6d94f8e74027871</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/974ac44517422ad5abb95515f6d94f8e74027871</guid>
       <pubDate>Tue, 30 Jun 2026 17:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>戦後最長の景気拡大が視野、GDP600兆円超えや株価7万円でも実感乏しく</title>
+      <link>https://news.yahoo.co.jp/articles/cd53bad14c263564df52c6563e1785f5e8b89c5b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd53bad14c263564df52c6563e1785f5e8b89c5b</guid>
+      <pubDate>Wed, 01 Jul 2026 16:54:00 +0900</pubDate>
     </item>
     <item>
       <title>戦後最長の景気拡大が視野、GDP600兆円超えや株価7万円でも実感乏しく</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f0c0033c9c9524ef98549e2c177dd00ae46058dd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0c0033c9c9524ef98549e2c177dd00ae46058dd</guid>
       <pubDate>Tue, 30 Jun 2026 09:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>佐藤日銀委員、物価上振れリスクはそれほど強くない－円安影響に留意</title>
-      <link>https://news.yahoo.co.jp/articles/1dbce9dd51c34570ce0af74b531526a00783ddfe</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1dbce9dd51c34570ce0af74b531526a00783ddfe</guid>
-      <pubDate>Tue, 30 Jun 2026 09:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株7万円台、AI相場再開－円安で162円台、超長期金利上昇</title>
-      <link>https://news.yahoo.co.jp/articles/61eb7b88c77dd334295de163aeccd673cc01cf37</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/61eb7b88c77dd334295de163aeccd673cc01cf37</guid>
-      <pubDate>Tue, 30 Jun 2026 09:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国とEU、レアアース輸出管理対話を強化へ－供給網の安定維持に努力</title>
-      <link>https://news.yahoo.co.jp/articles/4dd9dd3f6c49f403731d39ce9660c5e7c9bdd8b0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4dd9dd3f6c49f403731d39ce9660c5e7c9bdd8b0</guid>
-      <pubDate>Tue, 30 Jun 2026 08:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀は早めの再利上げ必要、政策金利1%でも大幅に緩和的－山本元理事</title>
-      <link>https://news.yahoo.co.jp/articles/3091df4bb4accfa0852a4ef207fe03e36690b0b4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3091df4bb4accfa0852a4ef207fe03e36690b0b4</guid>
-      <pubDate>Tue, 30 Jun 2026 08:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相が掲げる前例なき経済構想、国内産業基盤の再構築に挑む</title>
-      <link>https://news.yahoo.co.jp/articles/95f808d363bf96637ea5e1322e29f868bba0bdc2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/95f808d363bf96637ea5e1322e29f868bba0bdc2</guid>
-      <pubDate>Tue, 30 Jun 2026 08:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
