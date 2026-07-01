@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 20:06:08 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:22:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>FRBの利上げ観測、短期金融市場で拡大－ショートポジションに偏り</title>
+      <link>https://news.yahoo.co.jp/articles/05d487503fdb6764506ec0ee9b2b0395f243563b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05d487503fdb6764506ec0ee9b2b0395f243563b</guid>
+      <pubDate>Wed, 01 Jul 2026 19:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECB、次回以降の政策決定は追加利上げか据え置き－コッハー氏</title>
+      <link>https://news.yahoo.co.jp/articles/e08741a04d4b16b5b980e104bbc0f13c1dfdba06</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e08741a04d4b16b5b980e104bbc0f13c1dfdba06</guid>
+      <pubDate>Wed, 01 Jul 2026 18:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>ユーロ圏インフレ率、6月は2.8%に低下－市場予想も下回る</title>
       <link>https://news.yahoo.co.jp/articles/d94c09e22de723d1aba8944ce304e798ec96b60c</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/46780fc708353df1076758f671f778a78c236a3a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46780fc708353df1076758f671f778a78c236a3a</guid>
       <pubDate>Tue, 30 Jun 2026 20:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドル急騰なら今年下半期最大級の「ペイントレード」に－HSBCが警戒</title>
-      <link>https://news.yahoo.co.jp/articles/596a465d484d0f5e910758351f9a399e6500e562</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/596a465d484d0f5e910758351f9a399e6500e562</guid>
-      <pubDate>Tue, 30 Jun 2026 19:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>40年ぶり円安迫る中、過去1カ月間の為替介入額はゼロ－財務省</title>
-      <link>https://news.yahoo.co.jp/articles/1f5eaa9da1472e43d3a7b94e6836cbda5a162993</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f5eaa9da1472e43d3a7b94e6836cbda5a162993</guid>
-      <pubDate>Tue, 30 Jun 2026 19:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
