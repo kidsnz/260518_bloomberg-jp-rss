@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:00:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:52:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル、中国製メモリー半導体の調達検討－トランプ政権に働きかけ</title>
+      <link>https://news.yahoo.co.jp/articles/aac5e9aafba8be0d48c85d0970ad515b17b53be2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aac5e9aafba8be0d48c85d0970ad515b17b53be2</guid>
+      <pubDate>Thu, 02 Jul 2026 06:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>【米国市況】株の大半値上がり、FRB議長発言が後押し－円は一時上昇</title>
       <link>https://news.yahoo.co.jp/articles/ee7f1c3227bddcab3d0a331d99e7707d5143a8db</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/275fca905c924da321d0cacfc67fb881ac257afe</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/275fca905c924da321d0cacfc67fb881ac257afe</guid>
       <pubDate>Wed, 01 Jul 2026 06:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>くら寿司、米国で毎年店舗2割増へ－先行者優位で回転ずしの代名詞に</title>
-      <link>https://news.yahoo.co.jp/articles/67b4063af0e107acf35c99b85a8735fba4ea821a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67b4063af0e107acf35c99b85a8735fba4ea821a</guid>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
