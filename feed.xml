@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:24:42 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 01:17:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>プライベートクレジット会社に信頼格差、投資家の目厳しく－ピムコ</title>
+      <link>https://news.yahoo.co.jp/articles/c9796d706ebb0ea524ade4c1aec8768e8202cd56</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9796d706ebb0ea524ade4c1aec8768e8202cd56</guid>
+      <pubDate>Thu, 02 Jul 2026 00:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュFRB議長、物価安定に決意－インフレリスク後退との認識も</title>
+      <link>https://news.yahoo.co.jp/articles/5608f5b720250d57da1edadb309f897e01d5828e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5608f5b720250d57da1edadb309f897e01d5828e</guid>
+      <pubDate>Wed, 01 Jul 2026 22:37:00 +0900</pubDate>
+    </item>
     <item>
       <title>ビットコイン下落、21カ月ぶり安値－大手保有企業や利上げめぐる懸念</title>
       <link>https://news.yahoo.co.jp/articles/69aaa2f0668a3dd8507e09ca0acd0a9cf388aae2</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7edd0b78bae3ac822b487718b72cb09cb3c1535d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7edd0b78bae3ac822b487718b72cb09cb3c1535d</guid>
       <pubDate>Tue, 30 Jun 2026 23:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツのインフレ率、予想以上に低下－フランスとイタリアに続く</title>
-      <link>https://news.yahoo.co.jp/articles/b4620db8d4cdc94710c7fe3a95bee581a9495e5d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b4620db8d4cdc94710c7fe3a95bee581a9495e5d</guid>
-      <pubDate>Tue, 30 Jun 2026 23:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米半導体株、四半期ベースで過去最大の上げ－先行きには不透明感も</title>
-      <link>https://news.yahoo.co.jp/articles/1b31396225011cf6ac2f56b6c7e638e0a814c9d0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b31396225011cf6ac2f56b6c7e638e0a814c9d0</guid>
-      <pubDate>Wed, 01 Jul 2026 22:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
