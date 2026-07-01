@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 22:24:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:17:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI導入進む金融とテック業界の雇用者数、米国で月平均2.8万人減</title>
+      <link>https://news.yahoo.co.jp/articles/e771e329411d217ce9fc0d57f95fb7ef3d36aa4d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e771e329411d217ce9fc0d57f95fb7ef3d36aa4d</guid>
+      <pubDate>Wed, 01 Jul 2026 21:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>米メタ・プラットフォームズ、クラウドインフラ事業の立ち上げを計画</title>
       <link>https://news.yahoo.co.jp/articles/8d01615898a250d5b41c130cbae2eeaf2e85ead8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d01615898a250d5b41c130cbae2eeaf2e85ead8</guid>
       <pubDate>Wed, 01 Jul 2026 21:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ADP民間雇用者数、堅調な伸び続く－過去3カ月間で大きく拡大</title>
+      <link>https://news.yahoo.co.jp/articles/6f360a3c5526eaafcb2a60c572758515095ef84c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f360a3c5526eaafcb2a60c572758515095ef84c</guid>
+      <pubDate>Wed, 01 Jul 2026 21:23:00 +0900</pubDate>
     </item>
     <item>
       <title>FRBの利上げ観測、短期金融市場で拡大－ショートポジションに偏り</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/59be886d303c408059b0d5b84ed125cb1f77ee01</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/59be886d303c408059b0d5b84ed125cb1f77ee01</guid>
       <pubDate>Tue, 30 Jun 2026 22:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>北京の高層ビルに衝突した小型機、直前に海南航空旅客機とニアミス</title>
-      <link>https://news.yahoo.co.jp/articles/0ea69e5ae190a0ff54257d77d27719ac934886a6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0ea69e5ae190a0ff54257d77d27719ac934886a6</guid>
-      <pubDate>Tue, 30 Jun 2026 21:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、2040年度に名目GDP1100兆円・国内民間投資230兆円目指す</title>
-      <link>https://news.yahoo.co.jp/articles/ec7de1a876533e8f3fcab331a35393b557b0b0ad</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec7de1a876533e8f3fcab331a35393b557b0b0ad</guid>
-      <pubDate>Wed, 01 Jul 2026 20:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
