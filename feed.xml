@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 23:17:14 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:24:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ビットコイン下落、21カ月ぶり安値－大手保有企業や利上げめぐる懸念</title>
+      <link>https://news.yahoo.co.jp/articles/69aaa2f0668a3dd8507e09ca0acd0a9cf388aae2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69aaa2f0668a3dd8507e09ca0acd0a9cf388aae2</guid>
+      <pubDate>Wed, 01 Jul 2026 22:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>AI導入進む金融とテック業界の雇用者数、米国で月平均2.8万人減</title>
       <link>https://news.yahoo.co.jp/articles/e771e329411d217ce9fc0d57f95fb7ef3d36aa4d</link>
@@ -14,7 +20,7 @@
       <pubDate>Wed, 01 Jul 2026 21:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>米メタ・プラットフォームズ、クラウドインフラ事業の立ち上げを計画</title>
+      <title>米メタ、AIクラウドインフラ事業の立ち上げ計画－余剰資源を外販へ</title>
       <link>https://news.yahoo.co.jp/articles/8d01615898a250d5b41c130cbae2eeaf2e85ead8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d01615898a250d5b41c130cbae2eeaf2e85ead8</guid>
       <pubDate>Wed, 01 Jul 2026 21:46:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1b31396225011cf6ac2f56b6c7e638e0a814c9d0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b31396225011cf6ac2f56b6c7e638e0a814c9d0</guid>
       <pubDate>Wed, 01 Jul 2026 22:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米半導体株、四半期は過去最高の上昇ペース－市場は持続性見極め</title>
-      <link>https://news.yahoo.co.jp/articles/59be886d303c408059b0d5b84ed125cb1f77ee01</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/59be886d303c408059b0d5b84ed125cb1f77ee01</guid>
-      <pubDate>Tue, 30 Jun 2026 22:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
