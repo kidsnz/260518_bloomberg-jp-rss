@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 05:10:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:02:00 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>S&amp;P500種の構成銘柄、大半が上昇－製造業指標とウォーシュ議長発言で</title>
@@ -54,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/507c2fbaab56f6e5b0923ea57da379ecfe6f50e1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/507c2fbaab56f6e5b0923ea57da379ecfe6f50e1</guid>
       <pubDate>Wed, 01 Jul 2026 23:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュFRB議長「インフレリスクは後退」－物価安定への決意も表明</title>
+      <link>https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</guid>
+      <pubDate>Thu, 02 Jul 2026 22:37:00 +0900</pubDate>
     </item>
     <item>
       <title>ウォーシュFRB議長、物価安定に決意－インフレリスク後退との認識も</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7339a98aa9243e753a19267acfeb103b20d3f5ef</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7339a98aa9243e753a19267acfeb103b20d3f5ef</guid>
       <pubDate>Wed, 01 Jul 2026 00:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】円売られ一時162円67銭－株続伸、半導体の快走続く</title>
-      <link>https://news.yahoo.co.jp/articles/3debf5704b0261e91ea642b5a5b757d4f111a8fc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3debf5704b0261e91ea642b5a5b757d4f111a8fc</guid>
-      <pubDate>Wed, 01 Jul 2026 00:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
