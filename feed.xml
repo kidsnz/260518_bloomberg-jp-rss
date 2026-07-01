@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:47:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:06:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ユーロ圏インフレ率、6月は2.8%に低下－市場予想も下回る</title>
+      <link>https://news.yahoo.co.jp/articles/d94c09e22de723d1aba8944ce304e798ec96b60c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d94c09e22de723d1aba8944ce304e798ec96b60c</guid>
+      <pubDate>Wed, 01 Jul 2026 18:17:00 +0900</pubDate>
+    </item>
     <item>
       <title>円買い介入機会は11月までに2回だけ、米独立記念日を警戒－コメルツ銀</title>
       <link>https://news.yahoo.co.jp/articles/2d97ae79c29c52713b1f2a16c3ee6872323c12cd</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1f5eaa9da1472e43d3a7b94e6836cbda5a162993</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f5eaa9da1472e43d3a7b94e6836cbda5a162993</guid>
       <pubDate>Tue, 30 Jun 2026 19:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、9月利上げの検討続ける可能性高い－アポロ、物価の不確実性指摘</title>
-      <link>https://news.yahoo.co.jp/articles/8924e7f7d4b1c990ea00669e566db2d35827b26d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8924e7f7d4b1c990ea00669e566db2d35827b26d</guid>
-      <pubDate>Tue, 30 Jun 2026 18:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
