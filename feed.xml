@@ -5,19 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 06:02:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:00:51 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>S&amp;P500種の構成銘柄、大半が上昇－製造業指標とウォーシュ議長発言で</title>
+      <title>【米国市況】株の大半値上がり、FRB議長発言が後押し－円は一時上昇</title>
       <link>https://news.yahoo.co.jp/articles/ee7f1c3227bddcab3d0a331d99e7707d5143a8db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee7f1c3227bddcab3d0a331d99e7707d5143a8db</guid>
       <pubDate>Thu, 02 Jul 2026 04:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラックロックのプライベートクレジットファンド、責任者退社へ</title>
+      <link>https://news.yahoo.co.jp/articles/a7d947d89339f02f8ba7c559d281a621a162998b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7d947d89339f02f8ba7c559d281a621a162998b</guid>
+      <pubDate>Thu, 02 Jul 2026 03:44:00 +0900</pubDate>
     </item>
     <item>
       <title>「ミュトス」アクセスを米政府はなお制限、外国機関の利用再開は未定</title>
       <link>https://news.yahoo.co.jp/articles/46447a2203c36ec28cf8c0b26decdd8cb6cf68b8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46447a2203c36ec28cf8c0b26decdd8cb6cf68b8</guid>
       <pubDate>Thu, 02 Jul 2026 03:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】利上げ見通し後退、短期債買われる－株は下げ幅縮小</title>
+      <link>https://news.yahoo.co.jp/articles/ba61b0296af923d53d09737d9e40b28e93719f09</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba61b0296af923d53d09737d9e40b28e93719f09</guid>
+      <pubDate>Thu, 02 Jul 2026 02:26:00 +0900</pubDate>
     </item>
     <item>
       <title>英中銀総裁、利下げは「議論の対象外」－イラン戦争の影響なお途上</title>
@@ -56,6 +68,18 @@
       <pubDate>Wed, 01 Jul 2026 23:15:00 +0900</pubDate>
     </item>
     <item>
+      <title>米ISM製造業景況指数、6月は小幅低下－6カ月連続で50を上回る</title>
+      <link>https://news.yahoo.co.jp/articles/b32f45eb4721d193b6805280b985536440089d32</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b32f45eb4721d193b6805280b985536440089d32</guid>
+      <pubDate>Thu, 02 Jul 2026 23:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油が続落、北海ブレントは72ドル割れ－中東協議が進展との見方で</title>
+      <link>https://news.yahoo.co.jp/articles/2f13ee35f7feb559f52ff5a9c1a6a2cb59dab44c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f13ee35f7feb559f52ff5a9c1a6a2cb59dab44c</guid>
+      <pubDate>Wed, 01 Jul 2026 22:41:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ウォーシュFRB議長「インフレリスクは後退」－物価安定への決意も表明</title>
       <link>https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</guid>
@@ -80,10 +104,16 @@
       <pubDate>Wed, 01 Jul 2026 21:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>米メタ、AIクラウドインフラ事業の立ち上げ計画－余剰資源を外販へ</title>
+      <title>米メタ、AIクラウドインフラ事業の立ち上げ計画－AWSなどと競合へ</title>
       <link>https://news.yahoo.co.jp/articles/8d01615898a250d5b41c130cbae2eeaf2e85ead8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d01615898a250d5b41c130cbae2eeaf2e85ead8</guid>
       <pubDate>Wed, 01 Jul 2026 21:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ADP民間雇用者数、堅調な伸び続く－過去3カ月間で大きく拡大</title>
+      <link>https://news.yahoo.co.jp/articles/cb850f0690767e053dec68e00b27470d8ce9989d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb850f0690767e053dec68e00b27470d8ce9989d</guid>
+      <pubDate>Thu, 02 Jul 2026 21:23:00 +0900</pubDate>
     </item>
     <item>
       <title>米ADP民間雇用者数、堅調な伸び続く－過去3カ月間で大きく拡大</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/67b4063af0e107acf35c99b85a8735fba4ea821a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67b4063af0e107acf35c99b85a8735fba4ea821a</guid>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ナイキ株下落、経営陣が慎重な見方－売上高と利益は予想上回る</title>
-      <link>https://news.yahoo.co.jp/articles/54fde5d74efa16149ab11b8d20cde3c6b2d41ce1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/54fde5d74efa16149ab11b8d20cde3c6b2d41ce1</guid>
-      <pubDate>Wed, 01 Jul 2026 05:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベイリー英中銀総裁、景気軟化局面のエネルギー高騰に「もどかしい」</title>
-      <link>https://news.yahoo.co.jp/articles/4ba615466ffb2cde16b6be5b8a7da1d1ee81b594</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ba615466ffb2cde16b6be5b8a7da1d1ee81b594</guid>
-      <pubDate>Wed, 01 Jul 2026 02:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クリーブランド連銀総裁、利上げ必要になる可能性言及－インフレ抑制</title>
-      <link>https://news.yahoo.co.jp/articles/55e06d7eec18ae188d23ee8f6e866e536c5a2e72</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55e06d7eec18ae188d23ee8f6e866e536c5a2e72</guid>
-      <pubDate>Wed, 01 Jul 2026 02:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ミレニアム・マネジメントのラッソ共同CIO、年末で退任へ</title>
-      <link>https://news.yahoo.co.jp/articles/cae6d6b631a5013c4ccbc28c5b5eec48968a816b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cae6d6b631a5013c4ccbc28c5b5eec48968a816b</guid>
-      <pubDate>Wed, 01 Jul 2026 02:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米共和党、9月9－10日にダラスで党全国大会－中間選挙前に初の開催</title>
-      <link>https://news.yahoo.co.jp/articles/7339a98aa9243e753a19267acfeb103b20d3f5ef</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7339a98aa9243e753a19267acfeb103b20d3f5ef</guid>
-      <pubDate>Wed, 01 Jul 2026 00:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
