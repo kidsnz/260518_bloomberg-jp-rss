@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 22:15:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:39:10 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米雇用統計、伸びが大きく減速－失業率は4.2%に低下</title>
+      <title>欧州主要国、ホルムズ通航料支払いは不可避として受け入れ－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/93a737ba6b83b037315919a3cf7a55783f94eb8e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93a737ba6b83b037315919a3cf7a55783f94eb8e</guid>
+      <pubDate>Thu, 02 Jul 2026 23:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米雇用者数、伸びが大きく減速－W杯押し上げならずレジャー部門減少</title>
       <link>https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</guid>
       <pubDate>Thu, 02 Jul 2026 21:39:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2f13ee35f7feb559f52ff5a9c1a6a2cb59dab44c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f13ee35f7feb559f52ff5a9c1a6a2cb59dab44c</guid>
       <pubDate>Wed, 01 Jul 2026 22:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長「インフレリスクは後退」－物価安定への決意も表明</title>
-      <link>https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</guid>
-      <pubDate>Thu, 02 Jul 2026 22:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
