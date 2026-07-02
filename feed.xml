@@ -5,10 +5,10 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 02:40:54 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 04:16:36 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>中国証券規制巡るインサイダー疑惑、米司法省がサスケハナの訴え調査</title>
+      <title>中国証券規制巡りインサイダー疑惑、米司法省捜査－サスケハナが提訴</title>
       <link>https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</guid>
       <pubDate>Fri, 03 Jul 2026 01:42:00 +0900</pubDate>
@@ -24,6 +24,18 @@
       <link>https://news.yahoo.co.jp/articles/df2f957fc35260091a7a2855534254eb847e4db1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df2f957fc35260091a7a2855534254eb847e4db1</guid>
       <pubDate>Thu, 02 Jul 2026 23:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>デーリーSF連銀総裁、インフレ鈍化見込むも先行きに強い不透明感</title>
+      <link>https://news.yahoo.co.jp/articles/3760a35afaed068bf5ef072bd12404dbf60dbb56</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3760a35afaed068bf5ef072bd12404dbf60dbb56</guid>
+      <pubDate>Thu, 02 Jul 2026 23:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州主要国、ホルムズ通航料支払いは不可避として受け入れ－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/c26cc14e4bf8aeded3766e6257aba6a7bc3bedc7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c26cc14e4bf8aeded3766e6257aba6a7bc3bedc7</guid>
+      <pubDate>Thu, 02 Jul 2026 23:16:00 +0900</pubDate>
     </item>
     <item>
       <title>欧州主要国、ホルムズ通航料支払いは不可避として受け入れ－関係者</title>
@@ -48,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/fbc98074f6ff95ebfc0890c8b9796c436b1520ef</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbc98074f6ff95ebfc0890c8b9796c436b1520ef</guid>
       <pubDate>Thu, 02 Jul 2026 20:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米半導体株ブームに息切れか、ハイパースケーラー株との格差縮小へ</title>
+      <link>https://news.yahoo.co.jp/articles/f6c7cc73cba88cb1b9f4773f200bde969fa576aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f6c7cc73cba88cb1b9f4773f200bde969fa576aa</guid>
+      <pubDate>Thu, 02 Jul 2026 20:29:00 +0900</pubDate>
     </item>
     <item>
       <title>ECB、追加利上げ巡る意見の違い表面化－イラン情勢受け見通し改善</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4a90241adf37d9733591e40bb2ebe6131c816f2a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a90241adf37d9733591e40bb2ebe6131c816f2a</guid>
       <pubDate>Thu, 02 Jul 2026 01:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジット会社に信頼格差、投資家の目厳しく－ピムコ</title>
-      <link>https://news.yahoo.co.jp/articles/c9796d706ebb0ea524ade4c1aec8768e8202cd56</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9796d706ebb0ea524ade4c1aec8768e8202cd56</guid>
-      <pubDate>Thu, 02 Jul 2026 00:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>LINEヤフー・ベイン連合、カカクコムに1株最大3500円で買収提案</title>
-      <link>https://news.yahoo.co.jp/articles/5e6eaefa36401e6f2c17480b4e2f94e1b3555b31</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e6eaefa36401e6f2c17480b4e2f94e1b3555b31</guid>
-      <pubDate>Thu, 02 Jul 2026 23:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>LINEヤフー、「食べログ」のカカクコムに正式な買収提案</title>
-      <link>https://news.yahoo.co.jp/articles/7e90b267ba6905b24178808b7ee5278ccf4bf7d4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e90b267ba6905b24178808b7ee5278ccf4bf7d4</guid>
-      <pubDate>Wed, 01 Jul 2026 23:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
