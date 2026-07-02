@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:57:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:13:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】日経平均が反落、米半導体株安の流れ－円は162円台半ば</title>
+      <link>https://news.yahoo.co.jp/articles/4749727748b2d9fe87e524bafe3132794d53b516</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4749727748b2d9fe87e524bafe3132794d53b516</guid>
+      <pubDate>Thu, 02 Jul 2026 09:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SEC、中国の証券規制巡るインサイダー疑惑を調査－サスケハナ提訴で</title>
+      <link>https://news.yahoo.co.jp/articles/e9e886b59bde4dedd5754714a40c52f14e4752e2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e9e886b59bde4dedd5754714a40c52f14e4752e2</guid>
+      <pubDate>Thu, 02 Jul 2026 09:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国KOSPIが下落、米半導体株安が重し－サムスンやSKが下げけん引</title>
+      <link>https://news.yahoo.co.jp/articles/939f05c0efa393c080534360daa1f0121330e59b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/939f05c0efa393c080534360daa1f0121330e59b</guid>
+      <pubDate>Thu, 02 Jul 2026 09:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュ議長、FRBバランスシート圧縮に長い道のり示唆－十分準備へ</title>
+      <link>https://news.yahoo.co.jp/articles/1864ac3067e7adedaffc45b6ae706b2cf7a51e66</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1864ac3067e7adedaffc45b6ae706b2cf7a51e66</guid>
+      <pubDate>Thu, 02 Jul 2026 09:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>巨額の為替介入でも円安基調変わらない理由とは－警戒強める日本当局</title>
       <link>https://news.yahoo.co.jp/articles/0d53691c2a8f70995d4c3e4964e625d8c9b9f9b5</link>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/aaefcbff99c0c88ea4e08dba3c266f685822c06c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaefcbff99c0c88ea4e08dba3c266f685822c06c</guid>
       <pubDate>Wed, 01 Jul 2026 09:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アルコア、AI需要に備えアルミ資産を買収－豪州や南アで56億ドル相当</title>
-      <link>https://news.yahoo.co.jp/articles/99ba8ff118f2b994b148ec0bafc0a8e543b87deb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/99ba8ff118f2b994b148ec0bafc0a8e543b87deb</guid>
-      <pubDate>Wed, 01 Jul 2026 08:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米特使ら、中東側と前向きな話し合い－イランとの実務協議も進展</title>
-      <link>https://news.yahoo.co.jp/articles/04b432170e447b00a46771875c88a7360bb32bb9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/04b432170e447b00a46771875c88a7360bb32bb9</guid>
-      <pubDate>Wed, 01 Jul 2026 08:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀短観、大企業製造業景況感は8年ぶり高水準－年内利上げ観測支え</title>
-      <link>https://news.yahoo.co.jp/articles/56538631ac26e82c48cbff40f3c993c4b36e04c4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56538631ac26e82c48cbff40f3c993c4b36e04c4</guid>
-      <pubDate>Wed, 01 Jul 2026 08:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>デジタルブリッジとJEXI、日本でデータセンタープラットフォーム設立</title>
-      <link>https://news.yahoo.co.jp/articles/79ee88b6f63f866ccd7acd272783a3afb79b6003</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79ee88b6f63f866ccd7acd272783a3afb79b6003</guid>
-      <pubDate>Wed, 01 Jul 2026 08:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
