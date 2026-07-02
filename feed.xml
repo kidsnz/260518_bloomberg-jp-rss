@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:39:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:40:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国証券規制巡るインサイダー疑惑、米司法省がサスケハナの訴え調査</title>
+      <link>https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</guid>
+      <pubDate>Fri, 03 Jul 2026 01:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株の大半が上昇、雇用統計受けて早期利上げ観測後退－円も上昇</title>
+      <link>https://news.yahoo.co.jp/articles/a094568f5e556ba8622635e4e255f3bc8d204462</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a094568f5e556ba8622635e4e255f3bc8d204462</guid>
+      <pubDate>Fri, 03 Jul 2026 01:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドル強気見通し、ウォール街の一部で懐疑論浮上－モルガンSなど</title>
+      <link>https://news.yahoo.co.jp/articles/df2f957fc35260091a7a2855534254eb847e4db1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df2f957fc35260091a7a2855534254eb847e4db1</guid>
+      <pubDate>Thu, 02 Jul 2026 23:46:00 +0900</pubDate>
+    </item>
     <item>
       <title>欧州主要国、ホルムズ通航料支払いは不可避として受け入れ－関係者</title>
       <link>https://news.yahoo.co.jp/articles/93a737ba6b83b037315919a3cf7a55783f94eb8e</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7e90b267ba6905b24178808b7ee5278ccf4bf7d4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e90b267ba6905b24178808b7ee5278ccf4bf7d4</guid>
       <pubDate>Wed, 01 Jul 2026 23:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ラガルド氏：物価と成長に関するリスク、数週間前より均衡取れている</title>
-      <link>https://news.yahoo.co.jp/articles/507c2fbaab56f6e5b0923ea57da379ecfe6f50e1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/507c2fbaab56f6e5b0923ea57da379ecfe6f50e1</guid>
-      <pubDate>Wed, 01 Jul 2026 23:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ISM製造業景況指数、6月は小幅低下－6カ月連続で50を上回る</title>
-      <link>https://news.yahoo.co.jp/articles/b32f45eb4721d193b6805280b985536440089d32</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b32f45eb4721d193b6805280b985536440089d32</guid>
-      <pubDate>Thu, 02 Jul 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油が続落、北海ブレントは72ドル割れ－中東協議が進展との見方で</title>
-      <link>https://news.yahoo.co.jp/articles/2f13ee35f7feb559f52ff5a9c1a6a2cb59dab44c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f13ee35f7feb559f52ff5a9c1a6a2cb59dab44c</guid>
-      <pubDate>Wed, 01 Jul 2026 22:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
