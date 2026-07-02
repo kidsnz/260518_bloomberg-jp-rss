@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:09:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:15:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米雇用統計、伸びが大きく減速－失業率は4.2%に低下</title>
+      <link>https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</guid>
+      <pubDate>Thu, 02 Jul 2026 21:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円が対ドルで上げ拡大、一時160円60銭台－米雇用統計の発表後</title>
+      <link>https://news.yahoo.co.jp/articles/a12aa385ec7da1fc308f17d94f670fda5c3863fc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a12aa385ec7da1fc308f17d94f670fda5c3863fc</guid>
+      <pubDate>Thu, 02 Jul 2026 21:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジ、ペルシャ湾から原油800万バレル出荷－イラン戦争以降で最大</title>
+      <link>https://news.yahoo.co.jp/articles/fbc98074f6ff95ebfc0890c8b9796c436b1520ef</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbc98074f6ff95ebfc0890c8b9796c436b1520ef</guid>
+      <pubDate>Thu, 02 Jul 2026 20:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>ECB、追加利上げ巡る意見の違い表面化－イラン情勢受け見通し改善</title>
       <link>https://news.yahoo.co.jp/articles/5dddf6275008c3d92f901ed218b696e04ddeb894</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f700ce4324dd0e023a5aa3671159eac6ede2313</guid>
       <pubDate>Thu, 02 Jul 2026 22:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長、物価安定に決意－インフレリスク後退との認識も</title>
-      <link>https://news.yahoo.co.jp/articles/5608f5b720250d57da1edadb309f897e01d5828e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5608f5b720250d57da1edadb309f897e01d5828e</guid>
-      <pubDate>Wed, 01 Jul 2026 22:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン下落、21カ月ぶり安値－大手保有企業や利上げめぐる懸念</title>
-      <link>https://news.yahoo.co.jp/articles/69aaa2f0668a3dd8507e09ca0acd0a9cf388aae2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69aaa2f0668a3dd8507e09ca0acd0a9cf388aae2</guid>
-      <pubDate>Wed, 01 Jul 2026 22:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI導入進む金融とテック業界の雇用者数、米国で月平均2.8万人減</title>
-      <link>https://news.yahoo.co.jp/articles/e771e329411d217ce9fc0d57f95fb7ef3d36aa4d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e771e329411d217ce9fc0d57f95fb7ef3d36aa4d</guid>
-      <pubDate>Wed, 01 Jul 2026 21:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
