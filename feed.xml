@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 04:16:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:40:10 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>中国証券規制巡りインサイダー疑惑、米司法省捜査－サスケハナが提訴</title>
@@ -18,6 +18,18 @@
       <link>https://news.yahoo.co.jp/articles/a094568f5e556ba8622635e4e255f3bc8d204462</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a094568f5e556ba8622635e4e255f3bc8d204462</guid>
       <pubDate>Fri, 03 Jul 2026 01:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブルー・アウルのプライベートクレジットファンド、再び解約制限</title>
+      <link>https://news.yahoo.co.jp/articles/0bdb1535d988c6f9597e2e6d078c0b343974007c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0bdb1535d988c6f9597e2e6d078c0b343974007c</guid>
+      <pubDate>Fri, 03 Jul 2026 00:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米雇用統計、FRBタカ派姿勢の必要性弱める－市場関係者の見方</title>
+      <link>https://news.yahoo.co.jp/articles/8607fe4baa99da9c9842cf29ea51ec440a6d9164</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8607fe4baa99da9c9842cf29ea51ec440a6d9164</guid>
+      <pubDate>Thu, 02 Jul 2026 23:47:00 +0900</pubDate>
     </item>
     <item>
       <title>ドル強気見通し、ウォール街の一部で懐疑論浮上－モルガンSなど</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ba61b0296af923d53d09737d9e40b28e93719f09</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba61b0296af923d53d09737d9e40b28e93719f09</guid>
       <pubDate>Thu, 02 Jul 2026 02:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英中銀総裁、利下げは「議論の対象外」－イラン戦争の影響なお途上</title>
-      <link>https://news.yahoo.co.jp/articles/8eafae7b2a065554606cdea2b693a4de13f5b391</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8eafae7b2a065554606cdea2b693a4de13f5b391</guid>
-      <pubDate>Thu, 02 Jul 2026 01:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏が対イラン協議の進展強調、詳細には触れず－交渉は継続</title>
-      <link>https://news.yahoo.co.jp/articles/4a90241adf37d9733591e40bb2ebe6131c816f2a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a90241adf37d9733591e40bb2ebe6131c816f2a</guid>
-      <pubDate>Thu, 02 Jul 2026 01:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
