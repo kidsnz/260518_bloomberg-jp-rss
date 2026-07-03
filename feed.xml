@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 18:41:04 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 21:05:32 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>高市氏、モディ首相から「美しい妹」と紹介－「親密さ」をアピール</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/3128f8d0bed8c6088da8bba71dcfdcc1dbaa0ddd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3128f8d0bed8c6088da8bba71dcfdcc1dbaa0ddd</guid>
       <pubDate>Fri, 03 Jul 2026 17:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国株、急反発－AIブームの今後占うサムスン暫定業績に投資家注目</title>
+      <link>https://news.yahoo.co.jp/articles/c0613d9ee1709cc1ccac8a2f1f2b59bc39a46490</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c0613d9ee1709cc1ccac8a2f1f2b59bc39a46490</guid>
+      <pubDate>Fri, 03 Jul 2026 17:29:00 +0900</pubDate>
     </item>
     <item>
       <title>米コーチューのヘッジファンド、年初来リターン24.5%に改善－6月好調</title>
@@ -152,7 +158,7 @@
       <pubDate>Fri, 03 Jul 2026 09:46:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株式が上げ拡大、AI以外へ資金流入続く-円は161円台前半</title>
+      <title>【日本市況】株上昇、AI以外にも買い拡大－ドル高一服で円160円後半</title>
       <link>https://news.yahoo.co.jp/articles/c2f0ba6daafd0fca6c52207e3487be31520e547f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2f0ba6daafd0fca6c52207e3487be31520e547f</guid>
       <pubDate>Fri, 03 Jul 2026 09:39:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</guid>
       <pubDate>Thu, 02 Jul 2026 21:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が上げ幅拡大、一時160円64銭－米利上げ観測後退でドル大幅安</title>
-      <link>https://news.yahoo.co.jp/articles/3271b5511a2ce383c3d951b18dff6a0cf8b63e4e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3271b5511a2ce383c3d951b18dff6a0cf8b63e4e</guid>
-      <pubDate>Fri, 03 Jul 2026 21:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
