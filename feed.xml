@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 21:05:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 23:39:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン、日本企業への原油販売に向け協議開始－ロイター</title>
+      <link>https://news.yahoo.co.jp/articles/c2f779b76b6f403c5d791da9a50dda734fd9f1fb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2f779b76b6f403c5d791da9a50dda734fd9f1fb</guid>
+      <pubDate>Fri, 03 Jul 2026 21:34:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市氏、モディ首相から「美しい妹」と紹介－「親密さ」をアピール</title>
       <link>https://news.yahoo.co.jp/articles/abda4e2b760bd373d59887e70386d38500d96120</link>
@@ -48,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/f0a45aa6e3ed4cd1df050814e471a73bb5c2876a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0a45aa6e3ed4cd1df050814e471a73bb5c2876a</guid>
       <pubDate>Fri, 03 Jul 2026 15:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GPIFの25年度運用収益41兆円、過去2番目の高水準－株高・円安受け</title>
+      <link>https://news.yahoo.co.jp/articles/b7a99f38b26d667b5a305f497614043e5fe419d0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7a99f38b26d667b5a305f497614043e5fe419d0</guid>
+      <pubDate>Fri, 03 Jul 2026 15:30:00 +0900</pubDate>
     </item>
     <item>
       <title>金融庁、金融機関のマネロン対策にばらつき－有効性確認の検査で判明</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c26cc14e4bf8aeded3766e6257aba6a7bc3bedc7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c26cc14e4bf8aeded3766e6257aba6a7bc3bedc7</guid>
       <pubDate>Thu, 02 Jul 2026 23:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州主要国、ホルムズ通航料支払いは不可避として受け入れ－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/93a737ba6b83b037315919a3cf7a55783f94eb8e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93a737ba6b83b037315919a3cf7a55783f94eb8e</guid>
-      <pubDate>Thu, 02 Jul 2026 23:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用者数、伸びが大きく減速－W杯押し上げならずレジャー部門減少</title>
-      <link>https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a081cc751769c3e43d76874480dce50fc455bdbd</guid>
-      <pubDate>Thu, 02 Jul 2026 21:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
