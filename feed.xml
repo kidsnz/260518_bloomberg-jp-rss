@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 01:21:37 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:55:48 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン、日本企業への原油販売に向け協議開始－ロイター</title>
@@ -66,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a46cb4bc81825a81d5338a18b2fdb4ae12037b86</guid>
       <pubDate>Fri, 03 Jul 2026 15:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクGとメタ、ネオクラウドに参入－コアウィーブ脅かす恐れ</title>
+      <link>https://news.yahoo.co.jp/articles/aca207c4ec01ca8aa3820841a7cd968013f21346</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aca207c4ec01ca8aa3820841a7cd968013f21346</guid>
+      <pubDate>Fri, 03 Jul 2026 15:19:00 +0900</pubDate>
     </item>
     <item>
       <title>コーヒー好きも「カフェイン管理」で睡眠重視－米国で広がる午後のデカフェ習慣</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3760a35afaed068bf5ef072bd12404dbf60dbb56</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3760a35afaed068bf5ef072bd12404dbf60dbb56</guid>
       <pubDate>Thu, 02 Jul 2026 23:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州主要国、ホルムズ通航料支払いは不可避として受け入れ－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/c26cc14e4bf8aeded3766e6257aba6a7bc3bedc7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c26cc14e4bf8aeded3766e6257aba6a7bc3bedc7</guid>
-      <pubDate>Thu, 02 Jul 2026 23:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
