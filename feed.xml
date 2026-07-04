@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:26:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:58:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>マイクロン、広島工場の拡張に着手－1.5兆円投じ次世代メモリー生産へ</title>
+      <link>https://news.yahoo.co.jp/articles/ca835fb06d3ddd241757bd8fd45a7101093acc21</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ca835fb06d3ddd241757bd8fd45a7101093acc21</guid>
+      <pubDate>Sat, 04 Jul 2026 12:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>小規模ヘッジファンドが好成績、波乱の上期で大手マルチ戦略勢しのぐ</title>
       <link>https://news.yahoo.co.jp/articles/215e8ae97c5fdbcc2279c123c828616b2b3cfe5d</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/97dc0fd5ee4f769b01bc2803da8c29d6ec0b5cb2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97dc0fd5ee4f769b01bc2803da8c29d6ec0b5cb2</guid>
       <pubDate>Fri, 03 Jul 2026 02:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国証券規制巡りインサイダー疑惑、米司法省捜査－サスケハナが提訴</title>
-      <link>https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</guid>
-      <pubDate>Fri, 03 Jul 2026 01:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
