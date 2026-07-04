@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:33:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 11:26:18 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>小規模ヘッジファンドが好成績、波乱の上期で大手マルチ戦略勢しのぐ</title>
+      <link>https://news.yahoo.co.jp/articles/215e8ae97c5fdbcc2279c123c828616b2b3cfe5d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/215e8ae97c5fdbcc2279c123c828616b2b3cfe5d</guid>
+      <pubDate>Sat, 04 Jul 2026 10:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英仏とオマーン、ホルムズ海峡の航行安全確保に向けて協力へ</title>
+      <link>https://news.yahoo.co.jp/articles/d04322bb04c063b26350c779719373774ad07cc0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d04322bb04c063b26350c779719373774ad07cc0</guid>
+      <pubDate>Sat, 04 Jul 2026 08:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>円は小幅安の161円台前半、警戒された相場急変なく－米株と債券休場</title>
       <link>https://news.yahoo.co.jp/articles/8ec0a214e60445282ed043efc82231abdf20cf9d</link>
@@ -54,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/bd3c70cbd7e674dbf789d83b1ed4cc198f8a087e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bd3c70cbd7e674dbf789d83b1ed4cc198f8a087e</guid>
       <pubDate>Fri, 03 Jul 2026 16:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>連合の目標「5%以上」を3年連続達成、賃上げの勢い定着－26年春闘</title>
+      <link>https://news.yahoo.co.jp/articles/417e3c8e85a641d93cbbb95cc7ad0c3a2abb36b0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/417e3c8e85a641d93cbbb95cc7ad0c3a2abb36b0</guid>
+      <pubDate>Fri, 03 Jul 2026 16:32:00 +0900</pubDate>
     </item>
     <item>
       <title>25年度税収84兆2226億円に、6年連続最高を更新－財務省</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/177adfc0710c830aad35b3dfc4862533a7f2faf0</guid>
       <pubDate>Fri, 03 Jul 2026 01:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】ダウ最高値、雇用統計で米利上げ観測後退－半導体は続落</title>
-      <link>https://news.yahoo.co.jp/articles/a094568f5e556ba8622635e4e255f3bc8d204462</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a094568f5e556ba8622635e4e255f3bc8d204462</guid>
-      <pubDate>Fri, 03 Jul 2026 01:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブルー・アウルのプライベートクレジットファンド、再び解約制限</title>
-      <link>https://news.yahoo.co.jp/articles/0bdb1535d988c6f9597e2e6d078c0b343974007c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0bdb1535d988c6f9597e2e6d078c0b343974007c</guid>
-      <pubDate>Fri, 03 Jul 2026 00:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パウエルFRB前議長の理事留任は「異例」－ハセットNEC委員長が批判</title>
-      <link>https://news.yahoo.co.jp/articles/7dc179379537592b891163cc0ff5538de5212ad9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dc179379537592b891163cc0ff5538de5212ad9</guid>
-      <pubDate>Fri, 03 Jul 2026 00:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
