@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 21:02:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 23:07:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
+      <link>https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</guid>
+      <pubDate>Sat, 04 Jul 2026 20:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランの故ハメネイ師の葬儀始まる、最大2000万人参列も－結束誇示へ</title>
       <link>https://news.yahoo.co.jp/articles/c642ccb11bb29d4b378262720b9d869bccf181f5</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/57c8ee191fb6a773aa325c56f4d63905d90ef7a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57c8ee191fb6a773aa325c56f4d63905d90ef7a8</guid>
       <pubDate>Fri, 03 Jul 2026 06:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジット解約請求、145億ドル払い戻しできず－4～6月</title>
-      <link>https://news.yahoo.co.jp/articles/9c7fedec6a8fc837596fd4fec989b0d3760b887b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c7fedec6a8fc837596fd4fec989b0d3760b887b</guid>
-      <pubDate>Fri, 03 Jul 2026 06:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
