@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 05:49:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 06:53:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、米建国250周年の祝賀で主役に－景気懸念の有権者と対照</title>
+      <link>https://news.yahoo.co.jp/articles/c71f2283208a163c061df061a5ab81b2ec80a7be</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c71f2283208a163c061df061a5ab81b2ec80a7be</guid>
+      <pubDate>Sat, 04 Jul 2026 23:24:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
       <link>https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2045a128f8a52cd2d71dfc9ae0e87d8bd0a0e184</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2045a128f8a52cd2d71dfc9ae0e87d8bd0a0e184</guid>
       <pubDate>Fri, 03 Jul 2026 08:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>大化けキオクシアHDや半導体株、投資家に慎重論台頭－サイクル不可避</title>
-      <link>https://news.yahoo.co.jp/articles/6e0fe0ace5f996686c8f2f35f23a7dd9d4ca627e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e0fe0ace5f996686c8f2f35f23a7dd9d4ca627e</guid>
-      <pubDate>Fri, 03 Jul 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
