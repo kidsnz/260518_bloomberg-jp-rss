@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 07:53:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:56:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米ロ首脳が電話会談、ウクライナ情勢を協議－NATO首脳会議を前に</title>
+      <link>https://news.yahoo.co.jp/articles/f760b705776dd6fd16e3ba93a04ba0de126dc884</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f760b705776dd6fd16e3ba93a04ba0de126dc884</guid>
+      <pubDate>Sun, 05 Jul 2026 08:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【焦点】ドイツ、成長回復へ再挑戦－製造業指標が試金石</title>
+      <link>https://news.yahoo.co.jp/articles/425ba213cb2b3f26d09ddaa0484a7a1c715809c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/425ba213cb2b3f26d09ddaa0484a7a1c715809c4</guid>
+      <pubDate>Sun, 05 Jul 2026 07:47:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、米建国250周年の祝賀で主役に－景気懸念の有権者と対照</title>
       <link>https://news.yahoo.co.jp/articles/c71f2283208a163c061df061a5ab81b2ec80a7be</link>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</guid>
       <pubDate>Sat, 04 Jul 2026 20:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランの故ハメネイ師の国葬、首都テヘランで開始－数百万人が参列へ</title>
+      <link>https://news.yahoo.co.jp/articles/abc13c30c1e6b52ce1a5115b4cfa079e326ad520</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/abc13c30c1e6b52ce1a5115b4cfa079e326ad520</guid>
+      <pubDate>Sat, 04 Jul 2026 17:54:00 +0900</pubDate>
     </item>
     <item>
       <title>イランの故ハメネイ師の葬儀始まる、最大2000万人参列も－結束誇示へ</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ee7f3387e15f86276bfcf3cecc6cd400ea874d21</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee7f3387e15f86276bfcf3cecc6cd400ea874d21</guid>
       <pubDate>Fri, 03 Jul 2026 08:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォール街、26年後半も強気維持－衝撃吸収する市場の強靱さに期待</title>
-      <link>https://news.yahoo.co.jp/articles/2374f21f2509e23c9756e1f94abe6603347167d7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2374f21f2509e23c9756e1f94abe6603347167d7</guid>
-      <pubDate>Fri, 03 Jul 2026 08:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本のCB発行額が22年ぶり高水準、金利高・株高で選好－上期で1兆円</title>
-      <link>https://news.yahoo.co.jp/articles/bebfb736d66adefd077cdfc00dd3cea6240c8033</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bebfb736d66adefd077cdfc00dd3cea6240c8033</guid>
-      <pubDate>Fri, 03 Jul 2026 08:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、AI株下落継続へ－米利上げ観測後退で円安一服、金利は上昇</title>
-      <link>https://news.yahoo.co.jp/articles/2045a128f8a52cd2d71dfc9ae0e87d8bd0a0e184</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2045a128f8a52cd2d71dfc9ae0e87d8bd0a0e184</guid>
-      <pubDate>Fri, 03 Jul 2026 08:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
