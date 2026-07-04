@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 04:43:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 05:49:45 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
+      <link>https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</guid>
+      <pubDate>Sat, 04 Jul 2026 20:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
       <link>https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6e0fe0ace5f996686c8f2f35f23a7dd9d4ca627e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e0fe0ace5f996686c8f2f35f23a7dd9d4ca627e</guid>
       <pubDate>Fri, 03 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株下落へ、米半導体株安でAI関連売り－米利上げ観測後退は支え</title>
-      <link>https://news.yahoo.co.jp/articles/9f8897b243fec2a585fbf44816f2c7439048ef8a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f8897b243fec2a585fbf44816f2c7439048ef8a</guid>
-      <pubDate>Fri, 03 Jul 2026 07:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
