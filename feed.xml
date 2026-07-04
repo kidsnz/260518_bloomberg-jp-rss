@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 01:58:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 03:05:13 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
@@ -72,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/8b500cc3f83ea0a066756bc4a7f984b63904570e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b500cc3f83ea0a066756bc4a7f984b63904570e</guid>
       <pubDate>Sat, 04 Jul 2026 02:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OPEC原油生産量、6月に大幅増－ホルムズ海峡経由の輸出再開受け</title>
+      <link>https://news.yahoo.co.jp/articles/f11a040c6a662ac701e339c1f4929b8de22bf4e1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f11a040c6a662ac701e339c1f4929b8de22bf4e1</guid>
+      <pubDate>Sat, 04 Jul 2026 01:04:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン、日本企業への原油販売に向け協議開始－ロイター</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9f8897b243fec2a585fbf44816f2c7439048ef8a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f8897b243fec2a585fbf44816f2c7439048ef8a</guid>
       <pubDate>Fri, 03 Jul 2026 07:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、FRBは「少し敵対的」－ウォーシュ議長の立場に理解示唆</title>
-      <link>https://news.yahoo.co.jp/articles/57c8ee191fb6a773aa325c56f4d63905d90ef7a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57c8ee191fb6a773aa325c56f4d63905d90ef7a8</guid>
-      <pubDate>Fri, 03 Jul 2026 06:36:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
