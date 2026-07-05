@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 21:48:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:27:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>台湾の鴻海、4－6月売上高が予想上回る－AIサーバー需要が追い風</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/3d82b54732f11904bff3947073c215af95cb8da4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d82b54732f11904bff3947073c215af95cb8da4</guid>
       <pubDate>Sun, 05 Jul 2026 13:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウクライナ、東部ドネツク州で要衝制圧とのロシア主張を否定</title>
+      <link>https://news.yahoo.co.jp/articles/10ced4646f0858e0484c90727264f26e91061dd8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10ced4646f0858e0484c90727264f26e91061dd8</guid>
+      <pubDate>Sun, 05 Jul 2026 11:27:00 +0900</pubDate>
     </item>
     <item>
       <title>ホルムズ通航料、中国含む友好国には「特別な配慮」－イラン駐中大使</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fd8701e52ca4a13af9844ed2895972119e124882</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd8701e52ca4a13af9844ed2895972119e124882</guid>
       <pubDate>Fri, 03 Jul 2026 11:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、マスク氏のスペースX株寄付に期待－「トランプ口座」に</title>
-      <link>https://news.yahoo.co.jp/articles/b59a5d205422b8ca65511e39592f0ba111523fa6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b59a5d205422b8ca65511e39592f0ba111523fa6</guid>
-      <pubDate>Fri, 03 Jul 2026 10:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
