@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 12:23:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 15:53:29 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI相場の揺らぎでインド株再評価、「安全資産」的な位置付けに</title>
+      <link>https://news.yahoo.co.jp/articles/3d82b54732f11904bff3947073c215af95cb8da4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d82b54732f11904bff3947073c215af95cb8da4</guid>
+      <pubDate>Sun, 05 Jul 2026 13:39:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ通航料、中国含む友好国には「特別な配慮」－イラン駐中大使</title>
       <link>https://news.yahoo.co.jp/articles/00137bab7d886df385862b6ea8296f6c47c786e8</link>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/425ba213cb2b3f26d09ddaa0484a7a1c715809c4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/425ba213cb2b3f26d09ddaa0484a7a1c715809c4</guid>
       <pubDate>Sun, 05 Jul 2026 07:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、米建国250周年祝賀で主役演出－有権者の景気懸念と対照</title>
+      <link>https://news.yahoo.co.jp/articles/1b8a452cf36ae19e4db9630509f367c5255a7c14</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b8a452cf36ae19e4db9630509f367c5255a7c14</guid>
+      <pubDate>Sun, 05 Jul 2026 23:24:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、米建国250周年の祝賀で主役に－景気懸念の有権者と対照</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b2bbe9256344e0a311aa0470e32dd9b505651a50</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2bbe9256344e0a311aa0470e32dd9b505651a50</guid>
       <pubDate>Fri, 03 Jul 2026 10:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHD株1カ月ぶり安値、時価総額首位陥落－AI関連軒並み下げ</title>
-      <link>https://news.yahoo.co.jp/articles/413de18ece43aa974fa88a7365bebcb7afe50bd6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/413de18ece43aa974fa88a7365bebcb7afe50bd6</guid>
-      <pubDate>Fri, 03 Jul 2026 09:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株上昇、AI以外にも買い拡大－ドル高一服で円160円後半</title>
-      <link>https://news.yahoo.co.jp/articles/c2f0ba6daafd0fca6c52207e3487be31520e547f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2f0ba6daafd0fca6c52207e3487be31520e547f</guid>
-      <pubDate>Fri, 03 Jul 2026 09:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
