@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 08:56:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:23:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ通航料、中国含む友好国には「特別な配慮」－イラン駐中大使</title>
+      <link>https://news.yahoo.co.jp/articles/00137bab7d886df385862b6ea8296f6c47c786e8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/00137bab7d886df385862b6ea8296f6c47c786e8</guid>
+      <pubDate>Sun, 05 Jul 2026 10:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏署名入り米ドル紙幣発行へ、建国250周年を記念－財務長官</title>
+      <link>https://news.yahoo.co.jp/articles/372cb1d1c65f4288e8c9cec03d03b04ef82a285c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/372cb1d1c65f4288e8c9cec03d03b04ef82a285c</guid>
+      <pubDate>Sun, 05 Jul 2026 09:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>米ロ首脳が電話会談、ウクライナ情勢を協議－NATO首脳会議を前に</title>
       <link>https://news.yahoo.co.jp/articles/f760b705776dd6fd16e3ba93a04ba0de126dc884</link>
@@ -54,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/df4da59c57d76924c42df146ac71fcbd599f74dd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df4da59c57d76924c42df146ac71fcbd599f74dd</guid>
       <pubDate>Sat, 04 Jul 2026 16:17:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス、米上場の手数料は調達額の0.5%を検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/4ca0759f2d534a77a816d12602ee41260efe7c81</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ca0759f2d534a77a816d12602ee41260efe7c81</guid>
+      <pubDate>Sat, 04 Jul 2026 14:41:00 +0900</pubDate>
     </item>
     <item>
       <title>マイクロン、広島工場拡張に着手－1.5兆円投じ次世代メモリー生産</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c2f0ba6daafd0fca6c52207e3487be31520e547f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2f0ba6daafd0fca6c52207e3487be31520e547f</guid>
       <pubDate>Fri, 03 Jul 2026 09:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、日本とフィリピンを批判－海洋境界協議は「国際不法行為」</title>
-      <link>https://news.yahoo.co.jp/articles/ef99552df8b72345e95004809557176eee8792aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef99552df8b72345e95004809557176eee8792aa</guid>
-      <pubDate>Fri, 03 Jul 2026 09:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、AI規制は必要だが「できる限り少なくしたい」と認識示す</title>
-      <link>https://news.yahoo.co.jp/articles/4ea39de2ebc6ce976f7e1e392036c122bf562ef4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ea39de2ebc6ce976f7e1e392036c122bf562ef4</guid>
-      <pubDate>Fri, 03 Jul 2026 09:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシア、「第10世代」サンプル出荷開始－AI市場向けを強化</title>
-      <link>https://news.yahoo.co.jp/articles/ee7f3387e15f86276bfcf3cecc6cd400ea874d21</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee7f3387e15f86276bfcf3cecc6cd400ea874d21</guid>
-      <pubDate>Fri, 03 Jul 2026 08:31:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
