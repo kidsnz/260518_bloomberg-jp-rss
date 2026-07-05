@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 05:09:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:33:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドルは主要10通貨に対して軟調、対円では161円台前半－シドニー市場</title>
+      <link>https://news.yahoo.co.jp/articles/9a91c46607a8d42481c582ed7a34a302e4259379</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a91c46607a8d42481c582ed7a34a302e4259379</guid>
+      <pubDate>Mon, 06 Jul 2026 04:31:00 +0900</pubDate>
+    </item>
     <item>
       <title>AIの次の主戦場は顧客企業への常駐支援、始まった「AI伝道師」争奪戦</title>
       <link>https://news.yahoo.co.jp/articles/a092ddc420fa4c3b99c5f93e13679b375f24489f</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/d12421833927e199d1eb5bbf822f7b5f07b497e2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d12421833927e199d1eb5bbf822f7b5f07b497e2</guid>
       <pubDate>Sun, 05 Jul 2026 17:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油タンカー、ホルムズ海峡通航－Uターン後にオマーン沿岸寄り航路で</title>
+      <link>https://news.yahoo.co.jp/articles/aa4d14601474af4f025bdd96fc162462a37ac6cb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa4d14601474af4f025bdd96fc162462a37ac6cb</guid>
+      <pubDate>Mon, 06 Jul 2026 15:46:00 +0900</pubDate>
     </item>
     <item>
       <title>ホルムズ海峡、オマーン側航路の通航急減－イランの影響力映す</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/66e078999f34fd5d4b6ec1a34a7d2974c75c5aec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66e078999f34fd5d4b6ec1a34a7d2974c75c5aec</guid>
       <pubDate>Fri, 03 Jul 2026 14:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】堅調、介入警戒強く売り方の巻き戻しも－米統計注視</title>
-      <link>https://news.yahoo.co.jp/articles/b534e6639f4fccfe945b5d68d0d93861520e1de1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b534e6639f4fccfe945b5d68d0d93861520e1de1</guid>
-      <pubDate>Fri, 03 Jul 2026 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英中銀がファンドのレポ取引制限検討、国債のベーシス取引巡り－報道</title>
-      <link>https://news.yahoo.co.jp/articles/ce5cf2e91a5c4543bb8e925e3fbb4e3124781f15</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce5cf2e91a5c4543bb8e925e3fbb4e3124781f15</guid>
-      <pubDate>Fri, 03 Jul 2026 11:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
