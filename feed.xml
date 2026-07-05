@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:46:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:03:12 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>OPECプラス、小幅な増産枠拡大を承認－供給余剰懸念も浮上</title>
+      <title>AIの次の主戦場は顧客企業への常駐支援、始まった「AI伝道師」争奪戦</title>
+      <link>https://news.yahoo.co.jp/articles/a092ddc420fa4c3b99c5f93e13679b375f24489f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a092ddc420fa4c3b99c5f93e13679b375f24489f</guid>
+      <pubDate>Mon, 06 Jul 2026 00:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OPECプラス、生産枠の小幅拡大を承認－供給余剰懸念も浮上</title>
       <link>https://news.yahoo.co.jp/articles/5de3119be715789ac546cd81af77946a478b64a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5de3119be715789ac546cd81af77946a478b64a9</guid>
       <pubDate>Sun, 05 Jul 2026 23:33:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ce5cf2e91a5c4543bb8e925e3fbb4e3124781f15</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce5cf2e91a5c4543bb8e925e3fbb4e3124781f15</guid>
       <pubDate>Fri, 03 Jul 2026 11:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI武器に中国クオンツファンド急拡大－裁量運用を上回るリターン人気</title>
-      <link>https://news.yahoo.co.jp/articles/08327ab752c93ea01d89b563e6738ff00c1c2991</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08327ab752c93ea01d89b563e6738ff00c1c2991</guid>
-      <pubDate>Fri, 03 Jul 2026 11:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
