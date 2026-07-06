@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 03:25:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 05:21:49 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米利上げ観測後退、モルガンSが長短金利差拡大見込むポジション推奨</title>
@@ -18,6 +18,18 @@
       <link>https://news.yahoo.co.jp/articles/c9d5e3b8e1e79b1ea03b7a07c575044c8618cfc0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9d5e3b8e1e79b1ea03b7a07c575044c8618cfc0</guid>
       <pubDate>Tue, 07 Jul 2026 01:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ミレニアム、2チームが6月に37億ドルの利益－指数リバランス戦略奏功</title>
+      <link>https://news.yahoo.co.jp/articles/37365821e86bba363d110b9f13e36951046f8dea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37365821e86bba363d110b9f13e36951046f8dea</guid>
+      <pubDate>Tue, 07 Jul 2026 01:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブロードコム、AI向けカスタム半導体供給でアップルとの契約拡大</title>
+      <link>https://news.yahoo.co.jp/articles/e05fb4913aa99368ee270d03ea6009ed3f239927</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e05fb4913aa99368ee270d03ea6009ed3f239927</guid>
+      <pubDate>Tue, 07 Jul 2026 00:40:00 +0900</pubDate>
     </item>
     <item>
       <title>S&amp;P500種が上昇、半導体株に押し目買い－円は162円30銭前後で小動き</title>
@@ -48,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/5b95aef2bb906c747321ddf84b00614d074f9418</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b95aef2bb906c747321ddf84b00614d074f9418</guid>
       <pubDate>Mon, 06 Jul 2026 22:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジのアジア向け原油、数十年ぶりの大幅値下げ－供給増を考慮</title>
+      <link>https://news.yahoo.co.jp/articles/de4d7cc4faa1f7d53b1c66dac14ec95a0b87c76c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de4d7cc4faa1f7d53b1c66dac14ec95a0b87c76c</guid>
+      <pubDate>Tue, 07 Jul 2026 22:30:00 +0900</pubDate>
     </item>
     <item>
       <title>サウジのアジア向け原油、数十年ぶりの大幅値下げ－供給急増を考慮</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/853ddb815a4b6aec732bf20c5753a87db999e54a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/853ddb815a4b6aec732bf20c5753a87db999e54a</guid>
       <pubDate>Sun, 05 Jul 2026 06:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、米建国250周年の祝賀行事で演説－政策課題を強調</title>
-      <link>https://news.yahoo.co.jp/articles/1b8a452cf36ae19e4db9630509f367c5255a7c14</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b8a452cf36ae19e4db9630509f367c5255a7c14</guid>
-      <pubDate>Sun, 05 Jul 2026 23:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、米建国250周年の祝賀で主役に－景気懸念の有権者と対照</title>
-      <link>https://news.yahoo.co.jp/articles/c71f2283208a163c061df061a5ab81b2ec80a7be</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c71f2283208a163c061df061a5ab81b2ec80a7be</guid>
-      <pubDate>Sat, 04 Jul 2026 23:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
-      <link>https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</guid>
-      <pubDate>Sat, 04 Jul 2026 20:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
