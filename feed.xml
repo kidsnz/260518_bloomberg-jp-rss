@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 01:15:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 03:25:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米利上げ観測後退、モルガンSが長短金利差拡大見込むポジション推奨</title>
+      <link>https://news.yahoo.co.jp/articles/6295f0617c470b25bbd120706628fb7a2f5df3d0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6295f0617c470b25bbd120706628fb7a2f5df3d0</guid>
+      <pubDate>Tue, 07 Jul 2026 01:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、習主席のワシントン訪問は9月24日頃－日程に初めて言及</title>
+      <link>https://news.yahoo.co.jp/articles/c9d5e3b8e1e79b1ea03b7a07c575044c8618cfc0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9d5e3b8e1e79b1ea03b7a07c575044c8618cfc0</guid>
+      <pubDate>Tue, 07 Jul 2026 01:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>S&amp;P500種が上昇、半導体株に押し目買い－円は162円30銭前後で小動き</title>
       <link>https://news.yahoo.co.jp/articles/5b98e475f9ac6458a6307314845bde4f20e71abf</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b6d5f343aa1e0265a4db9fd69752b9b45b27638</guid>
       <pubDate>Sat, 04 Jul 2026 20:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡でタンカーのUターン相次ぐ、一部はイラン側航路に変更</title>
-      <link>https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38f01b1899392152a2d161db46947b9e336add94</guid>
-      <pubDate>Sat, 04 Jul 2026 20:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランの故ハメネイ師の国葬、首都テヘランで開始－数百万人が参列へ</title>
-      <link>https://news.yahoo.co.jp/articles/abc13c30c1e6b52ce1a5115b4cfa079e326ad520</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/abc13c30c1e6b52ce1a5115b4cfa079e326ad520</guid>
-      <pubDate>Sat, 04 Jul 2026 17:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
