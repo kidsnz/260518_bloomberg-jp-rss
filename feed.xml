@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 02:31:29 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:47:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米財務省、イラン産石油に関する6月21日の猶予措置を取り消し</title>
+      <link>https://news.yahoo.co.jp/articles/8148bed5b077f01f917e0e6fe908ef5de2e53b71</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8148bed5b077f01f917e0e6fe908ef5de2e53b71</guid>
+      <pubDate>Wed, 08 Jul 2026 04:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックスの米国上場、需要が募集の数倍に－9日に価格決定</title>
+      <link>https://news.yahoo.co.jp/articles/7fa1674d857ea7f842c9eb566005e32d8a43fae8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7fa1674d857ea7f842c9eb566005e32d8a43fae8</guid>
+      <pubDate>Wed, 08 Jul 2026 01:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>来年の仏大統領選、ルペン氏出馬可能に－被選挙権の停止期間が短縮</title>
+      <link>https://news.yahoo.co.jp/articles/1ae0301f79da03de8530479562b2e982a24c81f0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1ae0301f79da03de8530479562b2e982a24c81f0</guid>
+      <pubDate>Tue, 07 Jul 2026 23:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ゴールドマン、欧州の資本集約型「HALO」銘柄に強気－業績相場入りへ</title>
+      <link>https://news.yahoo.co.jp/articles/f9bb9780cb96d0425cc5b46f453126a2f3689899</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9bb9780cb96d0425cc5b46f453126a2f3689899</guid>
+      <pubDate>Tue, 07 Jul 2026 23:39:00 +0900</pubDate>
+    </item>
     <item>
       <title>S&amp;P500が小幅安、半導体株に売り－サムスン最高益も買いにつながらず</title>
       <link>https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</link>
@@ -14,7 +38,7 @@
       <pubDate>Tue, 07 Jul 2026 22:56:00 +0900</pubDate>
     </item>
     <item>
-      <title>ニューヨーク連銀総裁、今後数カ月でインフレ低下へ－楽観姿勢強める</title>
+      <title>ニューヨーク連銀総裁、今後数カ月でインフレ低下へ－楽観強める</title>
       <link>https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</guid>
       <pubDate>Tue, 07 Jul 2026 22:31:00 +0900</pubDate>
@@ -24,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</guid>
       <pubDate>Tue, 07 Jul 2026 22:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米貿易赤字、5月は776億ドルに拡大－1年超ぶりの高水準</title>
+      <link>https://news.yahoo.co.jp/articles/72d53567bde23905ea0883b0b16dd2dd339d103f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72d53567bde23905ea0883b0b16dd2dd339d103f</guid>
+      <pubDate>Wed, 08 Jul 2026 21:51:00 +0900</pubDate>
     </item>
     <item>
       <title>米貿易赤字、5月は776億ドルに拡大－1年超ぶりの高水準</title>
@@ -194,6 +224,12 @@
       <pubDate>Tue, 07 Jul 2026 07:33:00 +0900</pubDate>
     </item>
     <item>
+      <title>トランプ氏称賛、トヨタの米国への一部生産移管－「関税が効果発揮」</title>
+      <link>https://news.yahoo.co.jp/articles/28496bd0829ab16f3494199c135a20e746afb10e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/28496bd0829ab16f3494199c135a20e746afb10e</guid>
+      <pubDate>Tue, 07 Jul 2026 07:04:00 +0900</pubDate>
+    </item>
+    <item>
       <title>トヨタ、タコマ生産をメキシコから米テキサス州へ移管－36億ドル投資</title>
       <link>https://news.yahoo.co.jp/articles/b593a837592cc3c54112308bd7af49a6ed43acef</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b593a837592cc3c54112308bd7af49a6ed43acef</guid>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d12edb680ff55490958840d014bb38337f4f761c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d12edb680ff55490958840d014bb38337f4f761c</guid>
       <pubDate>Tue, 07 Jul 2026 01:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブロードコム、AI向けカスタム半導体供給でアップルとの契約拡大</title>
-      <link>https://news.yahoo.co.jp/articles/e05fb4913aa99368ee270d03ea6009ed3f239927</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e05fb4913aa99368ee270d03ea6009ed3f239927</guid>
-      <pubDate>Tue, 07 Jul 2026 00:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株上昇、AIトレード復活で半導体株に買い－162円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/96b690aff358831bdcae761e1126b838e52deac0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96b690aff358831bdcae761e1126b838e52deac0</guid>
-      <pubDate>Tue, 07 Jul 2026 23:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500種が上昇、半導体株に押し目買い－円は162円30銭前後で小動き</title>
-      <link>https://news.yahoo.co.jp/articles/5b98e475f9ac6458a6307314845bde4f20e71abf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b98e475f9ac6458a6307314845bde4f20e71abf</guid>
-      <pubDate>Mon, 06 Jul 2026 23:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ISM非製造業景況指数、6月は小幅に低下－雇用は大きく改善</title>
-      <link>https://news.yahoo.co.jp/articles/4a3c128f16b7d3e93dd974d8304ca335ad3c7303</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a3c128f16b7d3e93dd974d8304ca335ad3c7303</guid>
-      <pubDate>Tue, 07 Jul 2026 23:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ＩＳＭ非製造業総合景況指数、６月は54.0に低下－市場予想54.0</title>
-      <link>https://news.yahoo.co.jp/articles/a02f4bb98bcc6dc1f708efc8cc6f261a46e09e5d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a02f4bb98bcc6dc1f708efc8cc6f261a46e09e5d</guid>
-      <pubDate>Mon, 06 Jul 2026 23:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油相場は下落、サウジがアジア顧客向け出荷価格を引き下げ</title>
-      <link>https://news.yahoo.co.jp/articles/3a52fe5402fe3e2066760a23801ca0b5fcfdebd8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a52fe5402fe3e2066760a23801ca0b5fcfdebd8</guid>
-      <pubDate>Mon, 06 Jul 2026 22:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
