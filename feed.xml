@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 18:32:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:23:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>HSBC、一部のリスク高いプライベートクレジット向け融資を停止－FT</title>
+      <link>https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</guid>
+      <pubDate>Tue, 07 Jul 2026 18:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>EQT、カカクコムへのTOB期間を再延長－価格変更含め協議へ</title>
       <link>https://news.yahoo.co.jp/articles/175d0d8db8846e0f604a655667a376b1d639229a</link>
@@ -26,7 +32,7 @@
       <pubDate>Tue, 07 Jul 2026 15:28:00 +0900</pubDate>
     </item>
     <item>
-      <title>東和銀、全東信の破産で約59億円を引き当てなどで処理へ</title>
+      <title>東和銀や三十三FGなど5地銀で損失､クレカ決済代行の全東信破産で</title>
       <link>https://news.yahoo.co.jp/articles/47b93fed83d084c7c23a93d28f5e55f9f42d8927</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/47b93fed83d084c7c23a93d28f5e55f9f42d8927</guid>
       <pubDate>Tue, 07 Jul 2026 14:54:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3a8dc1207b311c37b3f23874888b8cdac21d3d1b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a8dc1207b311c37b3f23874888b8cdac21d3d1b</guid>
       <pubDate>Mon, 06 Jul 2026 19:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、非公認のキリスト教会牧師を解放－「異例の外交取り決め」</title>
-      <link>https://news.yahoo.co.jp/articles/6019595667de5d7e4323866e472cb45bd88719b8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6019595667de5d7e4323866e472cb45bd88719b8</guid>
-      <pubDate>Mon, 06 Jul 2026 18:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
