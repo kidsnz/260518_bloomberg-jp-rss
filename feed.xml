@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:23:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:31:29 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>S&amp;P500が小幅安、半導体株に売り－サムスン最高益も買いにつながらず</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</guid>
       <pubDate>Tue, 07 Jul 2026 22:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アマゾンが社債発行へ、AIインフラ投資で250億ドル以上の調達狙う</title>
+      <link>https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</guid>
+      <pubDate>Tue, 07 Jul 2026 22:27:00 +0900</pubDate>
     </item>
     <item>
       <title>米貿易赤字、5月は776億ドルに拡大－1年超ぶりの高水準</title>
@@ -36,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</guid>
       <pubDate>Tue, 07 Jul 2026 18:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株は「買い」、ウォール街ほぼ強気一色－平均47%上昇見込む</title>
+      <link>https://news.yahoo.co.jp/articles/3fcc968328a163a9f15bbc0b594487cca7b2e90b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3fcc968328a163a9f15bbc0b594487cca7b2e90b</guid>
+      <pubDate>Wed, 08 Jul 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX株にウォール街から強気の評価－87%の上値余地見込む声も</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3a52fe5402fe3e2066760a23801ca0b5fcfdebd8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a52fe5402fe3e2066760a23801ca0b5fcfdebd8</guid>
       <pubDate>Mon, 06 Jul 2026 22:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ストラテジー、2.16億ドル相当のビットコイン売却－戦略刷新に着手</title>
-      <link>https://news.yahoo.co.jp/articles/5b95aef2bb906c747321ddf84b00614d074f9418</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b95aef2bb906c747321ddf84b00614d074f9418</guid>
-      <pubDate>Mon, 06 Jul 2026 22:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サウジのアジア向け原油、数十年ぶりの大幅値下げ－供給増を考慮</title>
-      <link>https://news.yahoo.co.jp/articles/de4d7cc4faa1f7d53b1c66dac14ec95a0b87c76c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de4d7cc4faa1f7d53b1c66dac14ec95a0b87c76c</guid>
-      <pubDate>Tue, 07 Jul 2026 22:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
