@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 21:23:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:23:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>S&amp;P500が小幅安、半導体株に売り－サムスン最高益も買いにつながらず</title>
+      <link>https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</guid>
+      <pubDate>Tue, 07 Jul 2026 22:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ニューヨーク連銀総裁、今後数カ月でインフレ低下へ－楽観姿勢強める</title>
+      <link>https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</guid>
+      <pubDate>Tue, 07 Jul 2026 22:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米貿易赤字、5月は776億ドルに拡大－1年超ぶりの高水準</title>
+      <link>https://news.yahoo.co.jp/articles/4e15a35f08c723ce83262bcffa96244168deb656</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4e15a35f08c723ce83262bcffa96244168deb656</guid>
+      <pubDate>Tue, 07 Jul 2026 21:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英中銀、一部資本規制の緩和提案－金融市場リスクへの警戒も崩さず</title>
+      <link>https://news.yahoo.co.jp/articles/81d0a718940d5631c2ede05128d1e96326b44fbf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81d0a718940d5631c2ede05128d1e96326b44fbf</guid>
+      <pubDate>Tue, 07 Jul 2026 20:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>HSBC、一部のリスク高いプライベートクレジット向け融資を停止－FT</title>
       <link>https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</guid>
       <pubDate>Tue, 07 Jul 2026 18:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株にウォール街から強気の評価－87%の上値余地見込む声も</title>
+      <link>https://news.yahoo.co.jp/articles/8ed0a09467761f920cea475a926023c8f23a937d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ed0a09467761f920cea475a926023c8f23a937d</guid>
+      <pubDate>Tue, 07 Jul 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
       <title>EQT、カカクコムへのTOB期間を再延長－価格変更含め協議へ</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/de4d7cc4faa1f7d53b1c66dac14ec95a0b87c76c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de4d7cc4faa1f7d53b1c66dac14ec95a0b87c76c</guid>
       <pubDate>Tue, 07 Jul 2026 22:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サウジのアジア向け原油、数十年ぶりの大幅値下げ－供給急増を考慮</title>
-      <link>https://news.yahoo.co.jp/articles/f23b095022de83e27a87f9558905561963e0f4e1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f23b095022de83e27a87f9558905561963e0f4e1</guid>
-      <pubDate>Mon, 06 Jul 2026 22:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マラッカ海峡、周辺国首脳が開放維持の方針－中東の混乱受け懸念増す</title>
-      <link>https://news.yahoo.co.jp/articles/facab36dc757cfe8dc5a69b2206d78ba3108f8f2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/facab36dc757cfe8dc5a69b2206d78ba3108f8f2</guid>
-      <pubDate>Mon, 06 Jul 2026 20:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス、米上場へマーケティング開始－280億ドル調達狙う</title>
-      <link>https://news.yahoo.co.jp/articles/e050402e4eb390457bda1f349d29637092b2f52d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e050402e4eb390457bda1f349d29637092b2f52d</guid>
-      <pubDate>Mon, 06 Jul 2026 20:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株は上値重い展開に、半導体以外への資金移動進む－モルガンＳ</title>
-      <link>https://news.yahoo.co.jp/articles/d120c298f969f0ea8ca1a666b132effebfd3d599</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d120c298f969f0ea8ca1a666b132effebfd3d599</guid>
-      <pubDate>Mon, 06 Jul 2026 20:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本関連の船舶、ホルムズ海峡を脱出へ－イラン寄り航路で</title>
-      <link>https://news.yahoo.co.jp/articles/3a8dc1207b311c37b3f23874888b8cdac21d3d1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a8dc1207b311c37b3f23874888b8cdac21d3d1b</guid>
-      <pubDate>Mon, 06 Jul 2026 19:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
