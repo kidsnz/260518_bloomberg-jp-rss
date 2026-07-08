@@ -5,13 +5,49 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 17:17:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:33:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>大阪取引所の日経平均先物が下げ拡大、一時6万5000円台にー中東警戒</title>
+      <link>https://news.yahoo.co.jp/articles/6062e5cc4dbd15c27eda122df3121572feade967</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6062e5cc4dbd15c27eda122df3121572feade967</guid>
+      <pubDate>Wed, 08 Jul 2026 17:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州株、債券大幅下落－トランプ氏がイラン停戦「終わった」発言</title>
+      <link>https://news.yahoo.co.jp/articles/73330b887484459f477fe7ff0bb8226cb0b9cf1c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/73330b887484459f477fe7ff0bb8226cb0b9cf1c</guid>
+      <pubDate>Wed, 08 Jul 2026 17:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国防総省、戦略備蓄用リチウム調達へ－最大487億円</title>
+      <link>https://news.yahoo.co.jp/articles/5726b00d7154df701796e8db62b849d0daa50b15</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5726b00d7154df701796e8db62b849d0daa50b15</guid>
+      <pubDate>Wed, 08 Jul 2026 17:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランとの停戦「もう終わった」－衝突再燃の恐れ</title>
+      <link>https://news.yahoo.co.jp/articles/ace0f33fbf71e25e4fc437f1c12d77653b2ee93e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ace0f33fbf71e25e4fc437f1c12d77653b2ee93e</guid>
+      <pubDate>Wed, 08 Jul 2026 17:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、最新AIモデル「GPT-5.6」を9日に公開へ－限定提供を解除</title>
+      <link>https://news.yahoo.co.jp/articles/ee282c1c0747a3d77fd9431f054a49950320baea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee282c1c0747a3d77fd9431f054a49950320baea</guid>
+      <pubDate>Wed, 08 Jul 2026 17:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>政投銀13年ぶりでサントリーHDも、変動利付債が長期金利上昇で高水準</title>
       <link>https://news.yahoo.co.jp/articles/38d9246e5b1702d32af82b1ac18a01a6c0c5494c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38d9246e5b1702d32af82b1ac18a01a6c0c5494c</guid>
       <pubDate>Wed, 08 Jul 2026 16:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>三菱マが海外市場でCB発行へ、総額700億円－成長投資に充当</title>
+      <link>https://news.yahoo.co.jp/articles/31870659eecc840a4a10d1ac280cdd4c4ed753c3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31870659eecc840a4a10d1ac280cdd4c4ed753c3</guid>
+      <pubDate>Wed, 08 Jul 2026 16:28:00 +0900</pubDate>
     </item>
     <item>
       <title>マイクロソフトのXboxの大規模リストラ、背景にGame Pass戦略の失敗</title>
@@ -110,7 +146,7 @@
       <pubDate>Wed, 08 Jul 2026 09:29:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】長期金利30年ぶり高水準、財政拡張懸念－円は162円前半</title>
+      <title>【日本市況】長期金利30年ぶり高水準、財政拡張懸念－株は大幅続落</title>
       <link>https://news.yahoo.co.jp/articles/1738997dae9bf9e7a7e4ebf1bade42b20505dd6f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1738997dae9bf9e7a7e4ebf1bade42b20505dd6f</guid>
       <pubDate>Wed, 08 Jul 2026 09:14:00 +0900</pubDate>
@@ -158,7 +194,7 @@
       <pubDate>Wed, 08 Jul 2026 07:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油急伸、ブレント一時3%高－米のイラン攻撃でホルムズ通航に暗雲</title>
+      <title>原油急伸､一時ブレント4%超上昇-トランプ氏がイラン停戦は終了と発言</title>
       <link>https://news.yahoo.co.jp/articles/3423332def485f170b7567af725e5e6dc0b98bd6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3423332def485f170b7567af725e5e6dc0b98bd6</guid>
       <pubDate>Wed, 08 Jul 2026 07:09:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/be8d20a7622c30dd6cbdac30814063d77193f472</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be8d20a7622c30dd6cbdac30814063d77193f472</guid>
       <pubDate>Tue, 07 Jul 2026 20:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>HSBC、一部のリスク高いプライベートクレジット向け融資を停止－FT</title>
-      <link>https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31688f9b632becad0e33d637d14ded6cbb445edc</guid>
-      <pubDate>Tue, 07 Jul 2026 18:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株は「買い」、ウォール街ほぼ強気一色－平均47%上昇見込む</title>
-      <link>https://news.yahoo.co.jp/articles/3fcc968328a163a9f15bbc0b594487cca7b2e90b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3fcc968328a163a9f15bbc0b594487cca7b2e90b</guid>
-      <pubDate>Wed, 08 Jul 2026 17:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株にウォール街から強気の評価－87%の上値余地見込む声も</title>
-      <link>https://news.yahoo.co.jp/articles/8ed0a09467761f920cea475a926023c8f23a937d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ed0a09467761f920cea475a926023c8f23a937d</guid>
-      <pubDate>Tue, 07 Jul 2026 17:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>EQT、カカクコムへのTOB期間を再延長－価格変更含め協議へ</title>
-      <link>https://news.yahoo.co.jp/articles/175d0d8db8846e0f604a655667a376b1d639229a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/175d0d8db8846e0f604a655667a376b1d639229a</guid>
-      <pubDate>Tue, 07 Jul 2026 16:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三井住友信託､ニュージーランド運用会社に出資—共同運用2400億円</title>
-      <link>https://news.yahoo.co.jp/articles/993388f0f797d71cd40804ce03b81c1b395663ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/993388f0f797d71cd40804ce03b81c1b395663ab</guid>
-      <pubDate>Tue, 07 Jul 2026 15:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>香港、新たな金清算システムの試験運用開始－地金取引のハブ目指す</title>
-      <link>https://news.yahoo.co.jp/articles/86a028a1e8ba7f75161e5fcbaed9b35fa623d898</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86a028a1e8ba7f75161e5fcbaed9b35fa623d898</guid>
-      <pubDate>Tue, 07 Jul 2026 15:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
