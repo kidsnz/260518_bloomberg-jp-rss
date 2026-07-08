@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 02:59:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 04:42:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏「今夜も攻撃するだろう」、イランに警告－港湾封鎖再開も</title>
+      <link>https://news.yahoo.co.jp/articles/3b7e770d6b818788ee102a42aa01bbe50c5c9519</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b7e770d6b818788ee102a42aa01bbe50c5c9519</guid>
+      <pubDate>Thu, 09 Jul 2026 03:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>6月FOMC会合での利上げ、「数人」が論拠を主張－議事要旨で判明</title>
+      <link>https://news.yahoo.co.jp/articles/4135cfc489a2880c354fdf434a3c5d036e5a9cfc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4135cfc489a2880c354fdf434a3c5d036e5a9cfc</guid>
+      <pubDate>Thu, 09 Jul 2026 03:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブルー・アウルが光ファイバー網会社設立－データセンター需要見込む</title>
+      <link>https://news.yahoo.co.jp/articles/658e0bd14bc39b2fae42aa391d18ef5a989fea01</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/658e0bd14bc39b2fae42aa391d18ef5a989fea01</guid>
+      <pubDate>Thu, 09 Jul 2026 01:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、グリーンランド執着をエスカレート－返還「愚かだった」</title>
       <link>https://news.yahoo.co.jp/articles/01d5e0bfa5f276d9e8e567b42a416b6a8dc8033c</link>
@@ -212,7 +230,7 @@
       <pubDate>Wed, 08 Jul 2026 07:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油一段高、ブレントはバレル当たり80ドル突破－トランプ氏発言で</title>
+      <title>原油バレル当たり80ドル突破、トランプ氏の停戦終了・追加攻撃発言で</title>
       <link>https://news.yahoo.co.jp/articles/33d1efcc26f761fa85f04b355cef9f1865ecef60</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33d1efcc26f761fa85f04b355cef9f1865ecef60</guid>
       <pubDate>Thu, 09 Jul 2026 07:09:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</guid>
       <pubDate>Tue, 07 Jul 2026 22:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ニューヨーク連銀総裁、今後数カ月でインフレ低下へ－楽観強める</title>
-      <link>https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87b2ff4f45f36a0d60f056f1dae72328bdae41e5</guid>
-      <pubDate>Tue, 07 Jul 2026 22:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アマゾンが250億ドル起債、需要伸び悩む－AI関連債急増で熱狂一服</title>
-      <link>https://news.yahoo.co.jp/articles/3147fed4ac2aff319bd01d108168e32e7dad23cb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3147fed4ac2aff319bd01d108168e32e7dad23cb</guid>
-      <pubDate>Tue, 07 Jul 2026 22:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アマゾンが社債発行へ、AIインフラ投資で250億ドル以上の調達狙う</title>
-      <link>https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</guid>
-      <pubDate>Tue, 07 Jul 2026 22:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
