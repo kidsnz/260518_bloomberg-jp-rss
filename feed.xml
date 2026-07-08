@@ -5,12 +5,30 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 08:53:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 11:09:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI・半導体株が下落、AI相場の持続性に再び懸念－米関連株安引き継ぐ</title>
+      <link>https://news.yahoo.co.jp/articles/b83a20c97ead6c7c82fc90688d5467c24da3db48</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b83a20c97ead6c7c82fc90688d5467c24da3db48</guid>
+      <pubDate>Wed, 08 Jul 2026 09:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】株が続落、中東情勢緊迫とAI懸念－円は162円前半に下落</title>
+      <link>https://news.yahoo.co.jp/articles/1738997dae9bf9e7a7e4ebf1bade42b20505dd6f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1738997dae9bf9e7a7e4ebf1bade42b20505dd6f</guid>
+      <pubDate>Wed, 08 Jul 2026 09:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>有力ヘッジファンド、21年以来の上期好成績－テック重点の投資追い風</title>
       <link>https://news.yahoo.co.jp/articles/98d8641b361979838569894b8a4f56019ed1f05a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98d8641b361979838569894b8a4f56019ed1f05a</guid>
+      <pubDate>Wed, 08 Jul 2026 08:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>骨太方針原案における金融政策の記述、政府が一部修正を検討－朝日</title>
+      <link>https://news.yahoo.co.jp/articles/844d6ed0402480bbc701dcd00e468909252029a5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/844d6ed0402480bbc701dcd00e468909252029a5</guid>
       <pubDate>Wed, 08 Jul 2026 08:29:00 +0900</pubDate>
     </item>
     <item>
@@ -38,7 +56,7 @@
       <pubDate>Wed, 08 Jul 2026 07:31:00 +0900</pubDate>
     </item>
     <item>
-      <title>米軍がイラン空爆再開、商船への攻撃受け－原油販売の制裁緩和も撤回</title>
+      <title>米軍がイラン空爆再開、商船への攻撃受け－原油販売許可も取り消し</title>
       <link>https://news.yahoo.co.jp/articles/37c5dd466035d5a79a263120ef9fb53b43c2a440</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37c5dd466035d5a79a263120ef9fb53b43c2a440</guid>
       <pubDate>Wed, 08 Jul 2026 07:13:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/48326a096048dcbd00b5c78668acc980e1355152</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48326a096048dcbd00b5c78668acc980e1355152</guid>
       <pubDate>Tue, 07 Jul 2026 08:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムスン営業益19倍、株価は10%超安－高成長慣れた投資家は満足せず</title>
-      <link>https://news.yahoo.co.jp/articles/3fb320de29e176c302cf721778fb2208e95c06e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3fb320de29e176c302cf721778fb2208e95c06e0</guid>
-      <pubDate>Tue, 07 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は上昇へ、米半導体株売り一服を好感－サムスン決算追い風</title>
-      <link>https://news.yahoo.co.jp/articles/068274cff5242e842a8a2c98d04f3109ee5d54d6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/068274cff5242e842a8a2c98d04f3109ee5d54d6</guid>
-      <pubDate>Tue, 07 Jul 2026 07:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>KKRの個人向けプライベートクレジット、解約請求を全額受け入れ</title>
-      <link>https://news.yahoo.co.jp/articles/2054d63164b05074bedaa995ba6b4ac78abb92a3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2054d63164b05074bedaa995ba6b4ac78abb92a3</guid>
-      <pubDate>Tue, 07 Jul 2026 07:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
