@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 01:26:48 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 02:59:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏、グリーンランド執着をエスカレート－返還「愚かだった」</title>
@@ -212,6 +212,12 @@
       <pubDate>Wed, 08 Jul 2026 07:13:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油一段高、ブレントはバレル当たり80ドル突破－トランプ氏発言で</title>
+      <link>https://news.yahoo.co.jp/articles/33d1efcc26f761fa85f04b355cef9f1865ecef60</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33d1efcc26f761fa85f04b355cef9f1865ecef60</guid>
+      <pubDate>Thu, 09 Jul 2026 07:09:00 +0900</pubDate>
+    </item>
+    <item>
       <title>原油急伸､一時ブレント5%超上昇-トランプ氏がイラン停戦は終了と発言</title>
       <link>https://news.yahoo.co.jp/articles/3423332def485f170b7567af725e5e6dc0b98bd6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3423332def485f170b7567af725e5e6dc0b98bd6</guid>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b73862430c24683328fb9427096f554e9ef458d</guid>
       <pubDate>Tue, 07 Jul 2026 22:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米貿易赤字、5月は776億ドルに拡大－1年超ぶりの高水準</title>
-      <link>https://news.yahoo.co.jp/articles/72d53567bde23905ea0883b0b16dd2dd339d103f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72d53567bde23905ea0883b0b16dd2dd339d103f</guid>
-      <pubDate>Wed, 08 Jul 2026 21:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
