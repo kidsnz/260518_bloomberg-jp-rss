@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 06:01:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:30:46 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米中央軍、イランに対する追加の空爆を開始したとXに投稿</title>
+      <title>原油は上げ拡大、米軍がイラン追加攻撃開始－ブレント一時80ドル突破</title>
+      <link>https://news.yahoo.co.jp/articles/d5e030d06eff688340106a15bed44d1bccfcddaf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5e030d06eff688340106a15bed44d1bccfcddaf</guid>
+      <pubDate>Thu, 09 Jul 2026 06:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米民主党重鎮、イスラエルは「国際社会で孤立」－無条件支援終了訴え</title>
+      <link>https://news.yahoo.co.jp/articles/3c20c1c70af8d4c47f6849acbbc46048cae95753</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c20c1c70af8d4c47f6849acbbc46048cae95753</guid>
+      <pubDate>Thu, 09 Jul 2026 05:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍、イランを2日連続で攻撃－すでに脆弱な停戦に暗雲</title>
       <link>https://news.yahoo.co.jp/articles/8694c849cab6f101c6f9d98bedae8e556e65bc81</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8694c849cab6f101c6f9d98bedae8e556e65bc81</guid>
       <pubDate>Thu, 09 Jul 2026 05:24:00 +0900</pubDate>
@@ -26,6 +38,12 @@
       <pubDate>Thu, 09 Jul 2026 03:11:00 +0900</pubDate>
     </item>
     <item>
+      <title>【欧州市況】株は3日続落、トランプ氏発言でリスク再燃－国債下落</title>
+      <link>https://news.yahoo.co.jp/articles/5bc230ad3193e0a8f13dd25c02bf4ab572fe3d2b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bc230ad3193e0a8f13dd25c02bf4ab572fe3d2b</guid>
+      <pubDate>Thu, 09 Jul 2026 02:56:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ブルー・アウルが光ファイバー網会社設立－データセンター需要見込む</title>
       <link>https://news.yahoo.co.jp/articles/658e0bd14bc39b2fae42aa391d18ef5a989fea01</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/658e0bd14bc39b2fae42aa391d18ef5a989fea01</guid>
@@ -36,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/01d5e0bfa5f276d9e8e567b42a416b6a8dc8033c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/01d5e0bfa5f276d9e8e567b42a416b6a8dc8033c</guid>
       <pubDate>Wed, 08 Jul 2026 23:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500種が小幅続落、イラン情勢緊迫で原油高・金利上昇</title>
+      <link>https://news.yahoo.co.jp/articles/660c8a2c724075c5ac472842f5513f0b42ed8311</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/660c8a2c724075c5ac472842f5513f0b42ed8311</guid>
+      <pubDate>Wed, 08 Jul 2026 22:55:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株が下落、トランプ氏発言で原油高・金利上昇－ドルも上昇</title>
@@ -146,7 +170,7 @@
       <pubDate>Wed, 08 Jul 2026 12:39:00 +0900</pubDate>
     </item>
     <item>
-      <title>アサヒGHDの26年12月期、営業益計画は前期比6割増－株価上げ拡大</title>
+      <title>アサヒGHD、26年12月期営業益6割増計画－売上は初の3兆円超へ</title>
       <link>https://news.yahoo.co.jp/articles/3243bf42466dcda40f178bb70f1a6c94e83cac1c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3243bf42466dcda40f178bb70f1a6c94e83cac1c</guid>
       <pubDate>Wed, 08 Jul 2026 12:21:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7fa1674d857ea7f842c9eb566005e32d8a43fae8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7fa1674d857ea7f842c9eb566005e32d8a43fae8</guid>
       <pubDate>Wed, 08 Jul 2026 01:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者のインフレ期待、6月は短・中期ともに上昇－NY連銀調査</title>
-      <link>https://news.yahoo.co.jp/articles/2df8bb2eccdbef7960e8a2aa209aaa61e5b57c6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2df8bb2eccdbef7960e8a2aa209aaa61e5b57c6e</guid>
-      <pubDate>Wed, 08 Jul 2026 01:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>来年の仏大統領選、ルペン氏出馬可能に－被選挙権の停止期間が短縮</title>
-      <link>https://news.yahoo.co.jp/articles/1ae0301f79da03de8530479562b2e982a24c81f0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1ae0301f79da03de8530479562b2e982a24c81f0</guid>
-      <pubDate>Tue, 07 Jul 2026 23:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン、欧州の資本集約型「HALO」銘柄に強気－業績相場入りへ</title>
-      <link>https://news.yahoo.co.jp/articles/f9bb9780cb96d0425cc5b46f453126a2f3689899</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9bb9780cb96d0425cc5b46f453126a2f3689899</guid>
-      <pubDate>Tue, 07 Jul 2026 23:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>リフォームUKのファラージ氏、下院議員辞職－補欠選で議席奪還目指す</title>
-      <link>https://news.yahoo.co.jp/articles/cc9c5dae54a4823bafd0b322da2d3f5312567a56</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc9c5dae54a4823bafd0b322da2d3f5312567a56</guid>
-      <pubDate>Tue, 07 Jul 2026 23:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
