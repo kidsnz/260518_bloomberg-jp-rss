@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:42:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 06:01:05 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>トランプ氏「今夜も攻撃するだろう」、イランに警告－港湾封鎖再開も</title>
+      <title>米中央軍、イランに対する追加の空爆を開始したとXに投稿</title>
+      <link>https://news.yahoo.co.jp/articles/8694c849cab6f101c6f9d98bedae8e556e65bc81</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8694c849cab6f101c6f9d98bedae8e556e65bc81</guid>
+      <pubDate>Thu, 09 Jul 2026 05:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏「今夜も攻撃するだろう」、イランに警告－再び港湾封鎖も</title>
       <link>https://news.yahoo.co.jp/articles/3b7e770d6b818788ee102a42aa01bbe50c5c9519</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b7e770d6b818788ee102a42aa01bbe50c5c9519</guid>
       <pubDate>Thu, 09 Jul 2026 03:43:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/cc9c5dae54a4823bafd0b322da2d3f5312567a56</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc9c5dae54a4823bafd0b322da2d3f5312567a56</guid>
       <pubDate>Tue, 07 Jul 2026 23:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500が小幅安、半導体株に売り－サムスン最高益も買いにつながらず</title>
-      <link>https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fb0d06d379e530b789f14a8566517b860592bb2</guid>
-      <pubDate>Tue, 07 Jul 2026 22:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
