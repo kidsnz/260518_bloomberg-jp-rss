@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 21:16:11 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:53:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国株が下落、トランプ氏発言で原油高・金利上昇－ドルも上昇</title>
+      <link>https://news.yahoo.co.jp/articles/957ad1e6f6c7b0d67dbf40335c4b075f9860b77b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/957ad1e6f6c7b0d67dbf40335c4b075f9860b77b</guid>
+      <pubDate>Wed, 08 Jul 2026 22:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップルとブロードコムの契約、300億ドル超拡大へ－半導体開発</title>
+      <link>https://news.yahoo.co.jp/articles/1823da1b938c31b116abb23b0efbf83355e41239</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1823da1b938c31b116abb23b0efbf83355e41239</guid>
+      <pubDate>Wed, 08 Jul 2026 20:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>大阪取引所の日経平均先物が下げ拡大、一時6万5000円台にー中東警戒</title>
       <link>https://news.yahoo.co.jp/articles/6062e5cc4dbd15c27eda122df3121572feade967</link>
@@ -110,7 +122,7 @@
       <pubDate>Wed, 08 Jul 2026 12:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>ホルムズ海峡の通航量が減少、相次ぐタンカーへの攻撃被害を受け</title>
+      <title>ホルムズ海峡のタンカー通航細る、トランプ氏発言直前は数隻を確認</title>
       <link>https://news.yahoo.co.jp/articles/a35de31184db2f57275dcfaee98c6e091d2a4f2c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a35de31184db2f57275dcfaee98c6e091d2a4f2c</guid>
       <pubDate>Wed, 08 Jul 2026 11:51:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4e15a35f08c723ce83262bcffa96244168deb656</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4e15a35f08c723ce83262bcffa96244168deb656</guid>
       <pubDate>Tue, 07 Jul 2026 21:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英中銀、一部資本規制の緩和提案－金融市場リスクへの警戒も崩さず</title>
-      <link>https://news.yahoo.co.jp/articles/81d0a718940d5631c2ede05128d1e96326b44fbf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81d0a718940d5631c2ede05128d1e96326b44fbf</guid>
-      <pubDate>Tue, 07 Jul 2026 20:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、欧州の銀行に最先端AIによる脅威への対応計画策定求める</title>
-      <link>https://news.yahoo.co.jp/articles/be8d20a7622c30dd6cbdac30814063d77193f472</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be8d20a7622c30dd6cbdac30814063d77193f472</guid>
-      <pubDate>Tue, 07 Jul 2026 20:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
