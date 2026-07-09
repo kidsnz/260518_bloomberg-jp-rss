@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 23:02:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 01:59:39 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米中古住宅販売、6月は再び減少－ローン金利高止まりの逆風続く</title>
+      <link>https://news.yahoo.co.jp/articles/5ed880a1a6881e3bfa6a1183b241d81b3d0210ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ed880a1a6881e3bfa6a1183b241d81b3d0210ab</guid>
+      <pubDate>Thu, 09 Jul 2026 23:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>米・イランが空爆応酬、戦争逆戻りへの懸念強まる－和平交渉進展せず</title>
       <link>https://news.yahoo.co.jp/articles/df3a25dd15b3fce865683dd3e5aae3c7183286a0</link>
@@ -26,7 +32,7 @@
       <pubDate>Thu, 09 Jul 2026 21:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>米マイクロン、半導体サプライチェーン強化に最大30億ドル投資へ</title>
+      <title>マイクロン、米設備投資計画を40兆円超に引き上げ－メモリー需要増で</title>
       <link>https://news.yahoo.co.jp/articles/88e7a9759c27902816df6b0eca78546b03ac171b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88e7a9759c27902816df6b0eca78546b03ac171b</guid>
       <pubDate>Thu, 09 Jul 2026 21:38:00 +0900</pubDate>
@@ -60,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/580fd930d4bebf132839c7a2eb6a9b3387c23ee9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/580fd930d4bebf132839c7a2eb6a9b3387c23ee9</guid>
       <pubDate>Thu, 09 Jul 2026 17:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英ジュピター、米国債保有ゼロに－主要ファンドで欧州・新興国債へ</title>
+      <link>https://news.yahoo.co.jp/articles/d4e5e34fd7557a564b0279e7cef82889df85dc73</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4e5e34fd7557a564b0279e7cef82889df85dc73</guid>
+      <pubDate>Thu, 09 Jul 2026 17:44:00 +0900</pubDate>
     </item>
     <item>
       <title>iスペース株がストップ高、スペースXとの月面輸送計画を好感</title>
@@ -230,7 +242,7 @@
       <pubDate>Thu, 09 Jul 2026 07:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油価格、小幅安に転じる－米国とイランの新たな軍事衝突見極め</title>
+      <title>原油ほぼ変わらず、米・イラン攻撃応酬でホルムズ海峡通航に懸念</title>
       <link>https://news.yahoo.co.jp/articles/c512f62902a762c5235d76890caa4dab101a04d7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c512f62902a762c5235d76890caa4dab101a04d7</guid>
       <pubDate>Thu, 09 Jul 2026 07:14:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/660c8a2c724075c5ac472842f5513f0b42ed8311</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/660c8a2c724075c5ac472842f5513f0b42ed8311</guid>
       <pubDate>Wed, 08 Jul 2026 22:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株が下落、トランプ氏発言で原油高・金利上昇－ドルも上昇</title>
-      <link>https://news.yahoo.co.jp/articles/957ad1e6f6c7b0d67dbf40335c4b075f9860b77b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/957ad1e6f6c7b0d67dbf40335c4b075f9860b77b</guid>
-      <pubDate>Wed, 08 Jul 2026 22:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップルとブロードコムの契約、300億ドル超拡大へ－半導体開発</title>
-      <link>https://news.yahoo.co.jp/articles/1823da1b938c31b116abb23b0efbf83355e41239</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1823da1b938c31b116abb23b0efbf83355e41239</guid>
-      <pubDate>Wed, 08 Jul 2026 20:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
