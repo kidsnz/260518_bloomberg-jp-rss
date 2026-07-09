@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 01:59:39 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 03:52:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】株は反発、ハイテクや鉱業銘柄に買い－国債は上昇</title>
+      <link>https://news.yahoo.co.jp/articles/3d51cfd6130eb476cf47f18e56e6decc5cd54d6a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d51cfd6130eb476cf47f18e56e6decc5cd54d6a</guid>
+      <pubDate>Fri, 10 Jul 2026 02:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米大手銀5行の決算が14日に集中、アナリスト臨戦態勢－朝4時台に始動</title>
+      <link>https://news.yahoo.co.jp/articles/20875787fdc98308183452ddad01f34a1b060dd9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20875787fdc98308183452ddad01f34a1b060dd9</guid>
+      <pubDate>Fri, 10 Jul 2026 01:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アポロ組成のAI半導体関連債券、近く一部の取引開始－総額350億ドル</title>
+      <link>https://news.yahoo.co.jp/articles/d8d66614e68d7bfc0db9c026e65150ba70b89522</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d8d66614e68d7bfc0db9c026e65150ba70b89522</guid>
+      <pubDate>Fri, 10 Jul 2026 01:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>米中古住宅販売、6月は再び減少－ローン金利高止まりの逆風続く</title>
       <link>https://news.yahoo.co.jp/articles/5ed880a1a6881e3bfa6a1183b241d81b3d0210ab</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ed880a1a6881e3bfa6a1183b241d81b3d0210ab</guid>
       <pubDate>Thu, 09 Jul 2026 23:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500種は反発、ハイテク株が持ち直し－原油相場の落ち着きも寄与</title>
+      <link>https://news.yahoo.co.jp/articles/f35cdeb34f9d2cadbdb2c3bd9917368318b11a99</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f35cdeb34f9d2cadbdb2c3bd9917368318b11a99</guid>
+      <pubDate>Thu, 09 Jul 2026 23:10:00 +0900</pubDate>
     </item>
     <item>
       <title>米・イランが空爆応酬、戦争逆戻りへの懸念強まる－和平交渉進展せず</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4135cfc489a2880c354fdf434a3c5d036e5a9cfc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4135cfc489a2880c354fdf434a3c5d036e5a9cfc</guid>
       <pubDate>Thu, 09 Jul 2026 03:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株は3日続落、トランプ氏発言でリスク再燃－国債下落</title>
-      <link>https://news.yahoo.co.jp/articles/5bc230ad3193e0a8f13dd25c02bf4ab572fe3d2b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bc230ad3193e0a8f13dd25c02bf4ab572fe3d2b</guid>
-      <pubDate>Thu, 09 Jul 2026 02:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブルー・アウルが光ファイバー網会社設立－データセンター需要見込む</title>
-      <link>https://news.yahoo.co.jp/articles/658e0bd14bc39b2fae42aa391d18ef5a989fea01</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/658e0bd14bc39b2fae42aa391d18ef5a989fea01</guid>
-      <pubDate>Thu, 09 Jul 2026 01:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、グリーンランド執着をエスカレート－返還「愚かだった」</title>
-      <link>https://news.yahoo.co.jp/articles/01d5e0bfa5f276d9e8e567b42a416b6a8dc8033c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/01d5e0bfa5f276d9e8e567b42a416b6a8dc8033c</guid>
-      <pubDate>Wed, 08 Jul 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500種が小幅続落、イラン情勢緊迫で原油高・金利上昇</title>
-      <link>https://news.yahoo.co.jp/articles/660c8a2c724075c5ac472842f5513f0b42ed8311</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/660c8a2c724075c5ac472842f5513f0b42ed8311</guid>
-      <pubDate>Wed, 08 Jul 2026 22:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
