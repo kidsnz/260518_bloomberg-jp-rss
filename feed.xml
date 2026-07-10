@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 03:56:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:22:16 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>SKグループ会長､米投資拡大に意欲－「350億ドルよりはるかに大きい」</title>
+      <link>https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</guid>
+      <pubDate>Sat, 11 Jul 2026 03:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>【欧州市況】週間で株は5週ぶり下落、国債も安い－中東懸念強まる</title>
       <link>https://news.yahoo.co.jp/articles/4fa0d2d344a33290b1bf0a25a69619eaba537c45</link>
@@ -29,6 +35,12 @@
       <title>デルタ航空、四半期業績が予想上回る－燃料高を上級席重視で乗り切る</title>
       <link>https://news.yahoo.co.jp/articles/7dbda93ba166bc18412fd471adc74965104e4488</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dbda93ba166bc18412fd471adc74965104e4488</guid>
+      <pubDate>Sat, 11 Jul 2026 00:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アポロが買収攻勢､年初来で記録的な規模-英航空会社の争奪戦にも参戦</title>
+      <link>https://news.yahoo.co.jp/articles/cf5e53abd84e4db0ce273d310c307d75d034eae5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf5e53abd84e4db0ce273d310c307d75d034eae5</guid>
       <pubDate>Sat, 11 Jul 2026 00:52:00 +0900</pubDate>
     </item>
     <item>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b507ac2fe62b0ba2db2a5208930f6b66d9a8ea1f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b507ac2fe62b0ba2db2a5208930f6b66d9a8ea1f</guid>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI関連銘柄への資金集中、危険水域に－日本株の先行きに不透明感</title>
-      <link>https://news.yahoo.co.jp/articles/6a3a1d4addb7dc1408bd278a4dba9267219da8df</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a3a1d4addb7dc1408bd278a4dba9267219da8df</guid>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は162円台前半、地政学リスクと介入警戒でもみ合い－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/1e73e08adb0ca8a990fc06057b13f6fc81c9b91e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e73e08adb0ca8a990fc06057b13f6fc81c9b91e</guid>
-      <pubDate>Fri, 10 Jul 2026 07:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
