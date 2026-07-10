@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 21:28:52 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:13:25 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米市場で大型上場果たしたSKハイニックス、レバレッジ型商品投入へ</title>
+      <title>SKハイニックスADR、21%高で発行日前取引開始の見通し</title>
+      <link>https://news.yahoo.co.jp/articles/b3601278715f9d490ca9c79217116a9d926ee8c9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3601278715f9d490ca9c79217116a9d926ee8c9</guid>
+      <pubDate>Fri, 10 Jul 2026 23:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックスADR連動のレバ型商品、来週にも登場へ－米国上場で</title>
       <link>https://news.yahoo.co.jp/articles/e4620208789fee94dbcca5f3d9600f97a06fae44</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4620208789fee94dbcca5f3d9600f97a06fae44</guid>
       <pubDate>Fri, 10 Jul 2026 19:40:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d8d66614e68d7bfc0db9c026e65150ba70b89522</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d8d66614e68d7bfc0db9c026e65150ba70b89522</guid>
       <pubDate>Fri, 10 Jul 2026 01:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>自動運転車、ハンドル搭載義務の廃止を検討へ－モリソン米NHTSA長官</title>
-      <link>https://news.yahoo.co.jp/articles/011695eeb0e0b8ae110a43138af4a605a3ea733b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/011695eeb0e0b8ae110a43138af4a605a3ea733b</guid>
-      <pubDate>Fri, 10 Jul 2026 00:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
