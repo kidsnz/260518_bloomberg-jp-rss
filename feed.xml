@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 05:22:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:33:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル、企業秘密の盗用でOpenAIを提訴</title>
+      <link>https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</guid>
+      <pubDate>Sat, 11 Jul 2026 05:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックスCEO、メモリー不足は2030年代まで続くと予想</title>
+      <link>https://news.yahoo.co.jp/articles/07022629964e7fbf109fbeba5e91f33011740a6b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07022629964e7fbf109fbeba5e91f33011740a6b</guid>
+      <pubDate>Sat, 11 Jul 2026 05:31:00 +0900</pubDate>
+    </item>
     <item>
       <title>SKグループ会長､米投資拡大に意欲－「350億ドルよりはるかに大きい」</title>
       <link>https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3e0218d3169086d8e9aee2424cb26610b4434839</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3e0218d3169086d8e9aee2424cb26610b4434839</guid>
       <pubDate>Fri, 10 Jul 2026 08:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン、暫定和平合意は機能不全に－空爆応酬で協議再開メド立たず</title>
-      <link>https://news.yahoo.co.jp/articles/9874d765b18dfe4a4f8e05b025d83517605aa3ba</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9874d765b18dfe4a4f8e05b025d83517605aa3ba</guid>
-      <pubDate>Fri, 10 Jul 2026 08:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、AI楽観論や国内小売決算、原油安受け株高－円も下げ一服</title>
-      <link>https://news.yahoo.co.jp/articles/b507ac2fe62b0ba2db2a5208930f6b66d9a8ea1f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b507ac2fe62b0ba2db2a5208930f6b66d9a8ea1f</guid>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
