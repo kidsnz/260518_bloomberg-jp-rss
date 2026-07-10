@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 07:55:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:55:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国、イランに公の声明発表を要求－ホルムズ海峡の全航路開放巡り</title>
+      <link>https://news.yahoo.co.jp/articles/c38f7d6eabd938781e5b0d6ccf04ffe7f09e4d7f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c38f7d6eabd938781e5b0d6ccf04ffe7f09e4d7f</guid>
+      <pubDate>Sat, 11 Jul 2026 08:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>アップル、企業秘密の盗用でOpenAIを提訴</title>
       <link>https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7e68b220a0784584dc78b92f1783e21b84cf7902</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e68b220a0784584dc78b92f1783e21b84cf7902</guid>
       <pubDate>Fri, 10 Jul 2026 09:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀企業物価は3年3カ月ぶり高い伸び、中東情勢が影響－利上げ支えに</title>
-      <link>https://news.yahoo.co.jp/articles/3e0218d3169086d8e9aee2424cb26610b4434839</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3e0218d3169086d8e9aee2424cb26610b4434839</guid>
-      <pubDate>Fri, 10 Jul 2026 08:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
