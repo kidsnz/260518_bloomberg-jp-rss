@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:47:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:06:14 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>中国の習主席、北朝鮮と金総書記への支持不変と表明－条約締結65年で</title>
@@ -44,10 +44,22 @@
       <pubDate>Sat, 11 Jul 2026 05:31:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油は続落、米イランの協議継続が重し－週間では緊張再燃で上昇</title>
+      <link>https://news.yahoo.co.jp/articles/91280d6eb73e09f42270cfe6b094fae87563927c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91280d6eb73e09f42270cfe6b094fae87563927c</guid>
+      <pubDate>Sat, 11 Jul 2026 05:13:00 +0900</pubDate>
+    </item>
+    <item>
       <title>SKグループ会長､米投資拡大に意欲－「350億ドルよりはるかに大きい」</title>
       <link>https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</guid>
       <pubDate>Sat, 11 Jul 2026 03:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRB、物価安定実現への意欲を改めて表明－半期の金融政策報告</title>
+      <link>https://news.yahoo.co.jp/articles/6dec7ef9508786c74ad7387325ee6e86596788f2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6dec7ef9508786c74ad7387325ee6e86596788f2</guid>
+      <pubDate>Sat, 11 Jul 2026 02:39:00 +0900</pubDate>
     </item>
     <item>
       <title>【欧州市況】週間で株は5週ぶり下落、国債も安い－中東懸念強まる</title>
@@ -104,7 +116,7 @@
       <pubDate>Fri, 10 Jul 2026 23:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>SKハイニックスADR、初値170ドル－公募価格比14%高、米上場で好発進</title>
+      <title>SKハイニックスADR、公募価格比13%高で初日終了－米上場で好発進</title>
       <link>https://news.yahoo.co.jp/articles/b40301b0add1de33b5d9009b278d604d8fa48e3a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b40301b0add1de33b5d9009b278d604d8fa48e3a</guid>
       <pubDate>Sat, 11 Jul 2026 23:26:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9d3733192e1dbd584d7187835288eca19476e810</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d3733192e1dbd584d7187835288eca19476e810</guid>
       <pubDate>Fri, 10 Jul 2026 10:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相、GPIFなど年金基金の国内投資を後押し－発言でトリプル高</title>
-      <link>https://news.yahoo.co.jp/articles/2f4dd6637a964cbcfdc41e3d59fcd261bf74f3de</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f4dd6637a964cbcfdc41e3d59fcd261bf74f3de</guid>
-      <pubDate>Fri, 10 Jul 2026 10:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本を再び偉大な産業国家へ、高市首相の壁は財政規律－長期政権が成否握る</title>
-      <link>https://news.yahoo.co.jp/articles/cd73930897da5c469c835143ab761918f6ba4a0b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd73930897da5c469c835143ab761918f6ba4a0b</guid>
-      <pubDate>Fri, 10 Jul 2026 10:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
