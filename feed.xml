@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 23:34:40 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:50:29 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イランは交渉を拒否、米側の「合意事項」履行が応じる前提と譲らず</title>
+      <link>https://news.yahoo.co.jp/articles/2c453cd22ea5ba6743c3c29854b3379606c950ef</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c453cd22ea5ba6743c3c29854b3379606c950ef</guid>
+      <pubDate>Sat, 11 Jul 2026 22:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国の習主席、北朝鮮と金総書記への支持不変と表明－条約締結65年で</title>
       <link>https://news.yahoo.co.jp/articles/e6337a1a3bfa3c00beb0b68adfd612e37b186451</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b69888289f120f25069a16766438930955099c2a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b69888289f120f25069a16766438930955099c2a</guid>
       <pubDate>Fri, 10 Jul 2026 10:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>赤沢経産相、全東信破産で全国378カ所に相談窓口－資金繰り支援へ</title>
-      <link>https://news.yahoo.co.jp/articles/9d3733192e1dbd584d7187835288eca19476e810</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d3733192e1dbd584d7187835288eca19476e810</guid>
-      <pubDate>Fri, 10 Jul 2026 10:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
