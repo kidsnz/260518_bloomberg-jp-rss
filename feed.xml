@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 14:25:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:23:07 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏、イラン破壊を命令済みと明かす－自分の暗殺を試みた場合</title>
@@ -206,6 +206,12 @@
       <pubDate>Fri, 10 Jul 2026 12:55:00 +0900</pubDate>
     </item>
     <item>
+      <title>中国テンセント、AIエージェント開発マナスの筆頭株主目指し協議</title>
+      <link>https://news.yahoo.co.jp/articles/c6493d3689de4872365975cb900f35312020448d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6493d3689de4872365975cb900f35312020448d</guid>
+      <pubDate>Fri, 10 Jul 2026 12:37:00 +0900</pubDate>
+    </item>
+    <item>
       <title>中国テンセント、AI新興マナスの筆頭株主となる方向で協議中－FT</title>
       <link>https://news.yahoo.co.jp/articles/55ef9b45eb656db205dcc604b9eaaf329600d109</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55ef9b45eb656db205dcc604b9eaaf329600d109</guid>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a43dc225b6c62b1699a9a9b72be5afa08ffb4101</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a43dc225b6c62b1699a9a9b72be5afa08ffb4101</guid>
       <pubDate>Fri, 10 Jul 2026 09:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米政府、イランと実務協議の継続を強調－空爆の応酬後も対話を模索</title>
-      <link>https://news.yahoo.co.jp/articles/619805c1633a283663f28f65b444ad9c2085026e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/619805c1633a283663f28f65b444ad9c2085026e</guid>
-      <pubDate>Fri, 10 Jul 2026 09:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
