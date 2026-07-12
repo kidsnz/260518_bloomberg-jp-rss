@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 22:07:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:39:41 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米共和党の重鎮グラム上院議員、「急病」で死去</title>
+      <title>米軍、ホルムズ海峡は開放されていると表明－イランは封鎖宣言</title>
+      <link>https://news.yahoo.co.jp/articles/04c96fcca1debad2e2364b9cc7460b2e23670de6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/04c96fcca1debad2e2364b9cc7460b2e23670de6</guid>
+      <pubDate>Sun, 12 Jul 2026 21:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米共和党の重鎮グラム上院議員、病気で急死－トランプ氏の盟友</title>
       <link>https://news.yahoo.co.jp/articles/345c3fc9b92a9433aa92f8dfd69a31160edc2acf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/345c3fc9b92a9433aa92f8dfd69a31160edc2acf</guid>
       <pubDate>Sun, 12 Jul 2026 15:25:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/dd29080343b02d17a1c825802bce4b82c79c3560</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd29080343b02d17a1c825802bce4b82c79c3560</guid>
       <pubDate>Fri, 10 Jul 2026 12:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIインフラ投資、2027年を通じて強気論優勢続く－フランクリン</title>
-      <link>https://news.yahoo.co.jp/articles/6f48f6df6fa5e3d317b5be6011b8fbc2c0a1347c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f48f6df6fa5e3d317b5be6011b8fbc2c0a1347c</guid>
-      <pubDate>Fri, 10 Jul 2026 12:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
