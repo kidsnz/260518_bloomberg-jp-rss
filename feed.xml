@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 10:01:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:48:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米プライマリーディーラー、社債売り持ちに転じる－要因見極め必要</title>
+      <link>https://news.yahoo.co.jp/articles/9b151e12311eb43deeca14202c97fba6512f350b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b151e12311eb43deeca14202c97fba6512f350b</guid>
+      <pubDate>Sun, 12 Jul 2026 13:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国株の低バリュエーション、投資機会かメモリー市況変調の兆しか</title>
+      <link>https://news.yahoo.co.jp/articles/af8b89f41e4a81ad256f2f089a1ffce09131dc18</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/af8b89f41e4a81ad256f2f089a1ffce09131dc18</guid>
+      <pubDate>Sun, 12 Jul 2026 11:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>米軍、攻撃再開－イランはホルムズ海峡封鎖を宣言</title>
       <link>https://news.yahoo.co.jp/articles/ced1afc7fe5b0162f5760bea0204863598e168e4</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e41f34b65334a4733996c905b8ab8a6e4d9c8850</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e41f34b65334a4733996c905b8ab8a6e4d9c8850</guid>
       <pubDate>Fri, 10 Jul 2026 11:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山金融相、金融システムへの影響ないとの認識－全東信破産で</title>
-      <link>https://news.yahoo.co.jp/articles/427dbba6dd89cee034773cb989c4e306758e1ede</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/427dbba6dd89cee034773cb989c4e306758e1ede</guid>
-      <pubDate>Fri, 10 Jul 2026 11:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジットがソフト業界敬遠－高金利提示も借り換え難航</title>
-      <link>https://news.yahoo.co.jp/articles/e8c1b9231c0d0d0c01f6db0a45d0b027847975b1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e8c1b9231c0d0d0c01f6db0a45d0b027847975b1</guid>
-      <pubDate>Fri, 10 Jul 2026 11:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
