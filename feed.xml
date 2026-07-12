@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:13:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:13:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米軍、イランへのさらなる攻撃開始－商船への攻撃能力低下を目指す</title>
+      <link>https://news.yahoo.co.jp/articles/d59b2738ac2f3a1f1058b3e6cda4afbb5e9fc7ff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d59b2738ac2f3a1f1058b3e6cda4afbb5e9fc7ff</guid>
+      <pubDate>Mon, 13 Jul 2026 06:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国とイラン、報復の応酬が激化－ホルムズ海峡巡る主張に食い違い</title>
+      <link>https://news.yahoo.co.jp/articles/0e0393c42efe61c6500dcaa07da4b6ca1ee2b99d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e0393c42efe61c6500dcaa07da4b6ca1ee2b99d</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>米軍、ホルムズ海峡は開放されていると表明－イランは封鎖宣言</title>
       <link>https://news.yahoo.co.jp/articles/04c96fcca1debad2e2364b9cc7460b2e23670de6</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1382cefef8fa10a72271fb66a4c53fc9e4476bd9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1382cefef8fa10a72271fb66a4c53fc9e4476bd9</guid>
       <pubDate>Fri, 10 Jul 2026 12:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>GPIF巡る片山氏発言は日本買い追い風、新たなアプローチにー市場の声</title>
-      <link>https://news.yahoo.co.jp/articles/cdd5fb7d43944c2131295942eb4e1da652198b49</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cdd5fb7d43944c2131295942eb4e1da652198b49</guid>
-      <pubDate>Fri, 10 Jul 2026 12:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>東京スター銀、全東信への貸出金40億円を貸倒引当金として計上へ</title>
-      <link>https://news.yahoo.co.jp/articles/dd29080343b02d17a1c825802bce4b82c79c3560</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd29080343b02d17a1c825802bce4b82c79c3560</guid>
-      <pubDate>Fri, 10 Jul 2026 12:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
