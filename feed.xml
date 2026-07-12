@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 13:48:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:26:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米共和党の重鎮グラム上院議員、「急病」で死去</title>
+      <link>https://news.yahoo.co.jp/articles/345c3fc9b92a9433aa92f8dfd69a31160edc2acf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/345c3fc9b92a9433aa92f8dfd69a31160edc2acf</guid>
+      <pubDate>Sun, 12 Jul 2026 15:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>米プライマリーディーラー、社債売り持ちに転じる－要因見極め必要</title>
       <link>https://news.yahoo.co.jp/articles/9b151e12311eb43deeca14202c97fba6512f350b</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6f48f6df6fa5e3d317b5be6011b8fbc2c0a1347c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f48f6df6fa5e3d317b5be6011b8fbc2c0a1347c</guid>
       <pubDate>Fri, 10 Jul 2026 12:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SNSへの投稿をためらうのはなぜ－記者たちの1カ月実験で見えたこと</title>
-      <link>https://news.yahoo.co.jp/articles/e41f34b65334a4733996c905b8ab8a6e4d9c8850</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e41f34b65334a4733996c905b8ab8a6e4d9c8850</guid>
-      <pubDate>Fri, 10 Jul 2026 11:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
