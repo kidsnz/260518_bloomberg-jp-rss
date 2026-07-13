@@ -5,16 +5,34 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:02:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:56:15 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>【日本市況】債券上昇、GPIFの国内投資引き上げ期待－円は162円近辺</title>
+      <title>韓国SKハイニックス株急落、利益確定売り観測－米上場後の本国初取引</title>
+      <link>https://news.yahoo.co.jp/articles/d5d8ebbb5c89a48c2509f2afb30c6e604a141c3a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d5d8ebbb5c89a48c2509f2afb30c6e604a141c3a</guid>
+      <pubDate>Mon, 13 Jul 2026 10:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米2年国債利回り一時4.24%に上昇、25年2月以来－米イラン衝突激化で</title>
+      <link>https://news.yahoo.co.jp/articles/dbbe72b896578a5c4d69c9138f657e209fee1ab3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbbe72b896578a5c4d69c9138f657e209fee1ab3</guid>
+      <pubDate>Mon, 13 Jul 2026 10:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>MUFG株が時価総額で一時国内首位に、トヨタやキオクシア上回る</title>
+      <link>https://news.yahoo.co.jp/articles/d91c83f4eb1afd41fce7868ca5ba57f619664a35</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d91c83f4eb1afd41fce7868ca5ba57f619664a35</guid>
+      <pubDate>Mon, 13 Jul 2026 09:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】円が162円台前半に下落、有事のドル買い－株は下げ転換</title>
       <link>https://news.yahoo.co.jp/articles/1397f4bff8e578ebd817ee23ad257cbf4793c3a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1397f4bff8e578ebd817ee23ad257cbf4793c3a8</guid>
       <pubDate>Mon, 13 Jul 2026 09:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>日本ペイントHD、アクゾの塗料部門に約1.4兆円で買収提案－関係者</title>
+      <title>日本ペイントHD､アクゾの塗料部門に約1.4兆円で買収提案－関係者</title>
       <link>https://news.yahoo.co.jp/articles/483e9bd84e3baae597f1a58860f33171675a56d7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/483e9bd84e3baae597f1a58860f33171675a56d7</guid>
       <pubDate>Mon, 13 Jul 2026 08:08:00 +0900</pubDate>
@@ -38,7 +56,7 @@
       <pubDate>Mon, 13 Jul 2026 07:45:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油急上昇、米イランが新たに攻撃－北海ブレント78ドル上回る</title>
+      <title>原油急伸、米イラン攻撃応酬で地政学リスク再燃－ブレント78ドル台</title>
       <link>https://news.yahoo.co.jp/articles/4fec3118b312ac3035fb5b914c701a1d06fd21e1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4fec3118b312ac3035fb5b914c701a1d06fd21e1</guid>
       <pubDate>Mon, 13 Jul 2026 07:08:00 +0900</pubDate>
@@ -50,7 +68,7 @@
       <pubDate>Mon, 13 Jul 2026 06:58:00 +0900</pubDate>
     </item>
     <item>
-      <title>米がイランに追加攻撃を開始、応酬激化－ホルムズ海峡の再開巡り対立</title>
+      <title>米がイランに再攻撃で応酬激化－ホルムズ封鎖、双方の主張が食い違い</title>
       <link>https://news.yahoo.co.jp/articles/d59b2738ac2f3a1f1058b3e6cda4afbb5e9fc7ff</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d59b2738ac2f3a1f1058b3e6cda4afbb5e9fc7ff</guid>
       <pubDate>Mon, 13 Jul 2026 06:27:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c3a55617c6ef047378d719b10207bcad6900676b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c3a55617c6ef047378d719b10207bcad6900676b</guid>
       <pubDate>Fri, 10 Jul 2026 17:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG、元ゴールドマントレーダーをVFの財務統括に－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/d6bfd8599a5fe908ebb8565d8c903f410aaa5d67</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d6bfd8599a5fe908ebb8565d8c903f410aaa5d67</guid>
-      <pubDate>Fri, 10 Jul 2026 16:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>予測市場ポリマーケット､証拠金取引の認可申請-機関投資家取り込みへ</title>
-      <link>https://news.yahoo.co.jp/articles/63c04a948b4030238ac73992029e033441aeb9e7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63c04a948b4030238ac73992029e033441aeb9e7</guid>
-      <pubDate>Fri, 10 Jul 2026 16:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>G10通貨キャリートレード、2000年以来の好環境－ゴールドマン</title>
-      <link>https://news.yahoo.co.jp/articles/74340d896d3ad327664776d8e3acf5bd46c67c5d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74340d896d3ad327664776d8e3acf5bd46c67c5d</guid>
-      <pubDate>Fri, 10 Jul 2026 15:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
