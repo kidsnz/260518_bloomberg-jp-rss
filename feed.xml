@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:05:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:25:09 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米銀決算、トレーディング収入390億ドルに迫る－14日に大手5行発表</title>
@@ -20,13 +20,25 @@
       <pubDate>Tue, 14 Jul 2026 03:02:00 +0900</pubDate>
     </item>
     <item>
+      <title>【欧州市況】債券下落、トランプ氏がイラン再封鎖表明－株もみ合い</title>
+      <link>https://news.yahoo.co.jp/articles/f398484130468f0f8736a3711e06e5e270c79d3f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f398484130468f0f8736a3711e06e5e270c79d3f</guid>
+      <pubDate>Tue, 14 Jul 2026 02:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インテル、50億ユーロ投じアイルランド工場拡張－AI需要受け皿</title>
+      <link>https://news.yahoo.co.jp/articles/002b40506fa4168e9c789477ef66c327e444b16e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/002b40506fa4168e9c789477ef66c327e444b16e</guid>
+      <pubDate>Tue, 14 Jul 2026 02:27:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ウォラーFRB理事、近く利上げ必要となる可能性－基調インフレを懸念</title>
       <link>https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</guid>
       <pubDate>Tue, 14 Jul 2026 01:45:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油は大幅反発、一時5%超高－トランプ氏がイラン船舶の再封鎖を表明</title>
+      <title>原油9%超の急騰、トランプ氏がホルムズ通航料要求－海峡正常化遠のく</title>
       <link>https://news.yahoo.co.jp/articles/1cef4d5c3cdccd97cb56f4f52dec35ce40a7d1ca</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1cef4d5c3cdccd97cb56f4f52dec35ce40a7d1ca</guid>
       <pubDate>Tue, 14 Jul 2026 01:00:00 +0900</pubDate>
@@ -50,6 +62,12 @@
       <pubDate>Mon, 13 Jul 2026 22:50:00 +0900</pubDate>
     </item>
     <item>
+      <title>トランプ氏、ホルムズ海峡通航で20%対価要求-イラン再封鎖を宣言</title>
+      <link>https://news.yahoo.co.jp/articles/d7238018e727dd4a57b6886053f8ae49544d5c42</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7238018e727dd4a57b6886053f8ae49544d5c42</guid>
+      <pubDate>Tue, 14 Jul 2026 21:28:00 +0900</pubDate>
+    </item>
+    <item>
       <title>トランプ氏、ホルムズ海峡通航で20%の対価要求－イラン再封鎖を宣言</title>
       <link>https://news.yahoo.co.jp/articles/8500f09fff578d427dbc7fccd53ade78701b4abd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8500f09fff578d427dbc7fccd53ade78701b4abd</guid>
@@ -60,6 +78,12 @@
       <link>https://news.yahoo.co.jp/articles/67b7eaa96dd6351c01769a1496e29b6c6a82b270</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67b7eaa96dd6351c01769a1496e29b6c6a82b270</guid>
       <pubDate>Mon, 13 Jul 2026 20:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>防衛テックの独新興企業にゴールドマンら出資、企業価値180億ドル</title>
+      <link>https://news.yahoo.co.jp/articles/6deb05235b4ce89c79a71ee58c392f969b6623c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6deb05235b4ce89c79a71ee58c392f969b6623c4</guid>
+      <pubDate>Mon, 13 Jul 2026 19:27:00 +0900</pubDate>
     </item>
     <item>
       <title>テック以外でも好決算の見通し、米国株上昇の裾野拡大へ－モルガンS</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</guid>
       <pubDate>Sat, 11 Jul 2026 05:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックスCEO、メモリー不足は2030年代まで続くと予想</title>
-      <link>https://news.yahoo.co.jp/articles/07022629964e7fbf109fbeba5e91f33011740a6b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07022629964e7fbf109fbeba5e91f33011740a6b</guid>
-      <pubDate>Sat, 11 Jul 2026 05:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は続落、米イランの協議継続が重し－週間では緊張再燃で上昇</title>
-      <link>https://news.yahoo.co.jp/articles/91280d6eb73e09f42270cfe6b094fae87563927c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91280d6eb73e09f42270cfe6b094fae87563927c</guid>
-      <pubDate>Sat, 11 Jul 2026 05:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKグループ会長､米投資拡大に意欲－「350億ドルよりはるかに大きい」</title>
-      <link>https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b453838420a110632c5dac8f2d1d874244661fe0</guid>
-      <pubDate>Sat, 11 Jul 2026 03:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB、物価安定実現への意欲を改めて表明－半期の金融政策報告</title>
-      <link>https://news.yahoo.co.jp/articles/6dec7ef9508786c74ad7387325ee6e86596788f2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6dec7ef9508786c74ad7387325ee6e86596788f2</guid>
-      <pubDate>Sat, 11 Jul 2026 02:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
