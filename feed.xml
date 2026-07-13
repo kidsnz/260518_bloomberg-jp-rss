@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 04:59:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:05:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米銀決算、トレーディング収入390億ドルに迫る－14日に大手5行発表</title>
+      <link>https://news.yahoo.co.jp/articles/dd9f2f301addf910c3cda1fe15d97a39f7f6fd3f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd9f2f301addf910c3cda1fe15d97a39f7f6fd3f</guid>
+      <pubDate>Tue, 14 Jul 2026 05:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>FOMC、7月利上げの確率は五分五分－金融引き締め観測が市場で高まる</title>
       <link>https://news.yahoo.co.jp/articles/241355159f9ed510b44461d95dc338516cb00325</link>
@@ -14,7 +20,7 @@
       <pubDate>Tue, 14 Jul 2026 03:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>ウォラーFRB理事、利上げ必要となる可能性指摘－基調インフレ抑制で</title>
+      <title>ウォラーFRB理事、近く利上げ必要となる可能性－基調インフレを懸念</title>
       <link>https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</guid>
       <pubDate>Tue, 14 Jul 2026 01:45:00 +0900</pubDate>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</guid>
       <pubDate>Tue, 14 Jul 2026 00:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックスADR急落、公募価格に迫る－韓国AI売りが米国にも波及</title>
+      <link>https://news.yahoo.co.jp/articles/f8e865f908d43fe7d88ff4aa15b1edb55a31fbed</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8e865f908d43fe7d88ff4aa15b1edb55a31fbed</guid>
+      <pubDate>Mon, 13 Jul 2026 23:55:00 +0900</pubDate>
     </item>
     <item>
       <title>米テック株に売り、SKハイニックスADR急落－インフレ懸念再燃</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6dec7ef9508786c74ad7387325ee6e86596788f2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6dec7ef9508786c74ad7387325ee6e86596788f2</guid>
       <pubDate>Sat, 11 Jul 2026 02:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】週間で株は5週ぶり下落、国債も安い－中東懸念強まる</title>
-      <link>https://news.yahoo.co.jp/articles/4fa0d2d344a33290b1bf0a25a69619eaba537c45</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4fa0d2d344a33290b1bf0a25a69619eaba537c45</guid>
-      <pubDate>Sat, 11 Jul 2026 02:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB不透明感、為替市場にボラティリティー復活の兆し－ヘッジ需要増</title>
-      <link>https://news.yahoo.co.jp/articles/8208a2c3f9dbd841815addbdb677acbe6a236450</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8208a2c3f9dbd841815addbdb677acbe6a236450</guid>
-      <pubDate>Sat, 11 Jul 2026 02:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
