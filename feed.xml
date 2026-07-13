@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 07:25:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:24:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、米国のホルムズ海峡再閉鎖で株・債券下落へ－円も軟調</title>
+      <link>https://news.yahoo.co.jp/articles/5d8618d0e2eedd4945c80c3bb7195097b7c4bb0a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d8618d0e2eedd4945c80c3bb7195097b7c4bb0a</guid>
+      <pubDate>Tue, 14 Jul 2026 08:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏要求のホルムズ「通航料」、超大型タンカー1隻50億円相当</title>
+      <link>https://news.yahoo.co.jp/articles/8fd0a7f6ef1801fa137cd39a6fa593c1f8fd73b8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8fd0a7f6ef1801fa137cd39a6fa593c1f8fd73b8</guid>
+      <pubDate>Tue, 14 Jul 2026 07:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米個人投資家の米国株買い続く､押し目買いには変化の兆し－シタデルS</title>
+      <link>https://news.yahoo.co.jp/articles/9e3e68b05047e159d22cf785ea93c697420bc486</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e3e68b05047e159d22cf785ea93c697420bc486</guid>
+      <pubDate>Tue, 14 Jul 2026 07:07:00 +0900</pubDate>
+    </item>
     <item>
       <title>米銀決算、トレーディング収入390億ドルに迫る－14日に大手5行発表</title>
       <link>https://news.yahoo.co.jp/articles/dd9f2f301addf910c3cda1fe15d97a39f7f6fd3f</link>
@@ -62,7 +80,7 @@
       <pubDate>Mon, 13 Jul 2026 22:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏、ホルムズ海峡通航で20%対価要求-イラン再封鎖を宣言</title>
+      <title>トランプ氏、ホルムズ通航で20%対価要求－米軍は3夜連続で攻撃開始</title>
       <link>https://news.yahoo.co.jp/articles/d7238018e727dd4a57b6886053f8ae49544d5c42</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7238018e727dd4a57b6886053f8ae49544d5c42</guid>
       <pubDate>Tue, 14 Jul 2026 21:28:00 +0900</pubDate>
@@ -182,6 +200,12 @@
       <pubDate>Mon, 13 Jul 2026 08:02:00 +0900</pubDate>
     </item>
     <item>
+      <title>日本株は続落へ、ホルムズ海峡の情勢悪化を嫌気－半導体に売り</title>
+      <link>https://news.yahoo.co.jp/articles/fba9dcce8ab19a930042a67767eace928f45e427</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fba9dcce8ab19a930042a67767eace928f45e427</guid>
+      <pubDate>Mon, 13 Jul 2026 07:50:00 +0900</pubDate>
+    </item>
+    <item>
       <title>日本株は反落へ、米国とイランの攻撃激化でリスクオフ－原油高を嫌気</title>
       <link>https://news.yahoo.co.jp/articles/dbd00a7af7ee3ee7798b1092774ebd4b7ab475cf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbd00a7af7ee3ee7798b1092774ebd4b7ab475cf</guid>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e6337a1a3bfa3c00beb0b68adfd612e37b186451</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e6337a1a3bfa3c00beb0b68adfd612e37b186451</guid>
       <pubDate>Sat, 11 Jul 2026 16:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イラン破壊を命令済みと明かす－自分の暗殺を試みた場合</title>
-      <link>https://news.yahoo.co.jp/articles/b9e1c4bbf08b0f74917f92d3fc2cc44cfd76d2d2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9e1c4bbf08b0f74917f92d3fc2cc44cfd76d2d2</guid>
-      <pubDate>Sat, 11 Jul 2026 12:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス米上場の意義、好不況のサイクルをAIが変えるとの賭け</title>
-      <link>https://news.yahoo.co.jp/articles/aa0f07be11bc6f6976529298fa4cd161ded58764</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa0f07be11bc6f6976529298fa4cd161ded58764</guid>
-      <pubDate>Sat, 11 Jul 2026 12:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国、イランに公の声明発表を要求－ホルムズ海峡の全航路開放巡り</title>
-      <link>https://news.yahoo.co.jp/articles/c38f7d6eabd938781e5b0d6ccf04ffe7f09e4d7f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c38f7d6eabd938781e5b0d6ccf04ffe7f09e4d7f</guid>
-      <pubDate>Sat, 11 Jul 2026 08:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル、営業秘密の盗用でOpenAIを提訴－緊密な提携関係から一転</title>
-      <link>https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2428c8bbc67331148a19be461fd703f26cbade88</guid>
-      <pubDate>Sat, 11 Jul 2026 05:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
