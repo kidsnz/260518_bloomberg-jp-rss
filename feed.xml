@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 23:21:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 01:55:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円相場の先行き、トレーダーは2022年以来の顕著な弱気姿勢－BofA調査</title>
+      <link>https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</guid>
+      <pubDate>Tue, 14 Jul 2026 00:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>米テック株に売り、SKハイニックスADR急落－インフレ懸念再燃</title>
       <link>https://news.yahoo.co.jp/articles/008ab5c66e79a60323d169cfb0f32eaaa091c5fc</link>
@@ -14,7 +20,7 @@
       <pubDate>Mon, 13 Jul 2026 22:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ大統領、「ホルムズ海峡は米国が支配しつつある」</title>
+      <title>トランプ氏、ホルムズ海峡通航で20%の対価要求－イラン再封鎖を宣言</title>
       <link>https://news.yahoo.co.jp/articles/8500f09fff578d427dbc7fccd53ade78701b4abd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8500f09fff578d427dbc7fccd53ade78701b4abd</guid>
       <pubDate>Mon, 13 Jul 2026 21:28:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/cf5e53abd84e4db0ce273d310c307d75d034eae5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf5e53abd84e4db0ce273d310c307d75d034eae5</guid>
       <pubDate>Sat, 11 Jul 2026 00:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「AI失業」の裏で起業ラッシュ、米でコロナ禍並み－専門職で顕著</title>
-      <link>https://news.yahoo.co.jp/articles/238b55cb94f1f9e39c903657270e16c08be2395d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/238b55cb94f1f9e39c903657270e16c08be2395d</guid>
-      <pubDate>Sat, 11 Jul 2026 00:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
