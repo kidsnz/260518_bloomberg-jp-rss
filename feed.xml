@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 01:55:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 03:29:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォラーFRB理事、利上げ必要となる可能性指摘－基調インフレ抑制で</title>
+      <link>https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</guid>
+      <pubDate>Tue, 14 Jul 2026 01:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>円相場の先行き、トレーダーは2022年以来の顕著な弱気姿勢－BofA調査</title>
       <link>https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</link>
@@ -299,12 +305,6 @@
       <title>デルタ航空、四半期業績が予想上回る－燃料高を上級席重視で乗り切る</title>
       <link>https://news.yahoo.co.jp/articles/7dbda93ba166bc18412fd471adc74965104e4488</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dbda93ba166bc18412fd471adc74965104e4488</guid>
-      <pubDate>Sat, 11 Jul 2026 00:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アポロが買収攻勢､年初来で記録的な規模-英航空会社の争奪戦にも参戦</title>
-      <link>https://news.yahoo.co.jp/articles/cf5e53abd84e4db0ce273d310c307d75d034eae5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf5e53abd84e4db0ce273d310c307d75d034eae5</guid>
       <pubDate>Sat, 11 Jul 2026 00:52:00 +0900</pubDate>
     </item>
   </channel>
