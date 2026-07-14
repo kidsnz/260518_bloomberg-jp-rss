@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 05:06:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:28:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォール街の株取引収入が過去最高､熱狂と不安が売買呼ぶ-大手行決算</title>
+      <link>https://news.yahoo.co.jp/articles/97d1b63e2385ea09f18317a2e120de9a286a9ab9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97d1b63e2385ea09f18317a2e120de9a286a9ab9</guid>
+      <pubDate>Wed, 15 Jul 2026 04:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>7月の米利上げ観測後退、CPIが予想以上に鈍化－FRBに様子見の余地</title>
+      <link>https://news.yahoo.co.jp/articles/b1767b53852ed8787d3d32ed0433b2e38a5bdbd3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1767b53852ed8787d3d32ed0433b2e38a5bdbd3</guid>
+      <pubDate>Wed, 15 Jul 2026 04:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、ホルムズ海峡20%通航料計画を撤回－湾岸諸国の要請受け</title>
       <link>https://news.yahoo.co.jp/articles/2d865d20e7deac1bfa931611dbeb6eaa134bd2c8</link>
@@ -26,10 +38,28 @@
       <pubDate>Wed, 15 Jul 2026 00:02:00 +0900</pubDate>
     </item>
     <item>
+      <title>中国AI新興DeepSeek、年内のIPO申請を視野に準備－注目の大型案件に</title>
+      <link>https://news.yahoo.co.jp/articles/34250f3b9ad8fbee895d8e4e4020068c04e08136</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34250f3b9ad8fbee895d8e4e4020068c04e08136</guid>
+      <pubDate>Tue, 14 Jul 2026 23:17:00 +0900</pubDate>
+    </item>
+    <item>
       <title>中国AIスタートアップDeepSeek、年内のIPO申請を視野に準備－関係者</title>
       <link>https://news.yahoo.co.jp/articles/075e7ecb5bf5e7ad4aa975cc6b8a3559d5c0c644</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/075e7ecb5bf5e7ad4aa975cc6b8a3559d5c0c644</guid>
       <pubDate>Tue, 14 Jul 2026 23:17:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米IBM株が26％安、約60年ぶり大幅下落－暫定売上高が市場予想届かず</title>
+      <link>https://news.yahoo.co.jp/articles/f5693c117de229bfddc0208b3ea4d6782aebf794</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5693c117de229bfddc0208b3ea4d6782aebf794</guid>
+      <pubDate>Tue, 14 Jul 2026 23:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株と国債が上昇、CPI下振れで利上げ警戒緩む－原油続伸</title>
+      <link>https://news.yahoo.co.jp/articles/c299dd6c743816f50797e5b007d5c60801a09b20</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c299dd6c743816f50797e5b007d5c60801a09b20</guid>
+      <pubDate>Wed, 15 Jul 2026 21:53:00 +0900</pubDate>
     </item>
     <item>
       <title>CPI発表後の米国株は上昇、国債利回りは低下－インフレ警戒緩む</title>
@@ -38,7 +68,7 @@
       <pubDate>Tue, 14 Jul 2026 21:53:00 +0900</pubDate>
     </item>
     <item>
-      <title>米CPI、6月は前月比で2020年以来の低下－コア指数は横ばい</title>
+      <title>米CPIは前月比で2020年以来の低下、コア横ばい－利上げ圧力やや後退</title>
       <link>https://news.yahoo.co.jp/articles/2482176bf2b2046a9f560e992e24d7ead29b6d94</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2482176bf2b2046a9f560e992e24d7ead29b6d94</guid>
       <pubDate>Tue, 14 Jul 2026 21:47:00 +0900</pubDate>
@@ -236,6 +266,12 @@
       <pubDate>Tue, 14 Jul 2026 09:40:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油相場が上げ幅縮小、トランプ氏が20%「通航料」計画を撤回</title>
+      <link>https://news.yahoo.co.jp/articles/245b5ed94dca3cd032d1891971d6e1e169e8aba6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/245b5ed94dca3cd032d1891971d6e1e169e8aba6</guid>
+      <pubDate>Tue, 14 Jul 2026 09:22:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ブレント原油上昇、86ドル超－トランプ氏がイラン船舶封鎖を再開</title>
       <link>https://news.yahoo.co.jp/articles/9ffe44897c437657f141506fc718aa02332db2db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9ffe44897c437657f141506fc718aa02332db2db</guid>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9e3e68b05047e159d22cf785ea93c697420bc486</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e3e68b05047e159d22cf785ea93c697420bc486</guid>
       <pubDate>Tue, 14 Jul 2026 07:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックスADR急落､公募価格に迫る－韓国AI売りが米にも波及</title>
-      <link>https://news.yahoo.co.jp/articles/dcbb7f9258b4b37c0344a779f5808d96fb080677</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dcbb7f9258b4b37c0344a779f5808d96fb080677</guid>
-      <pubDate>Tue, 14 Jul 2026 06:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米銀決算、トレーディング収入390億ドルに迫る－14日に大手5行発表</title>
-      <link>https://news.yahoo.co.jp/articles/dd9f2f301addf910c3cda1fe15d97a39f7f6fd3f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd9f2f301addf910c3cda1fe15d97a39f7f6fd3f</guid>
-      <pubDate>Tue, 14 Jul 2026 05:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FOMC、7月利上げの確率は五分五分－金融引き締め観測が市場で高まる</title>
-      <link>https://news.yahoo.co.jp/articles/241355159f9ed510b44461d95dc338516cb00325</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/241355159f9ed510b44461d95dc338516cb00325</guid>
-      <pubDate>Tue, 14 Jul 2026 03:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】債券下落、トランプ氏がイラン再封鎖表明－株もみ合い</title>
-      <link>https://news.yahoo.co.jp/articles/f398484130468f0f8736a3711e06e5e270c79d3f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f398484130468f0f8736a3711e06e5e270c79d3f</guid>
-      <pubDate>Tue, 14 Jul 2026 02:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インテル、50億ユーロ投じアイルランド工場拡張－AI需要受け皿</title>
-      <link>https://news.yahoo.co.jp/articles/002b40506fa4168e9c789477ef66c327e444b16e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/002b40506fa4168e9c789477ef66c327e444b16e</guid>
-      <pubDate>Tue, 14 Jul 2026 02:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォラーFRB理事、近く利上げ必要となる可能性－基調インフレを懸念</title>
-      <link>https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</guid>
-      <pubDate>Tue, 14 Jul 2026 01:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
