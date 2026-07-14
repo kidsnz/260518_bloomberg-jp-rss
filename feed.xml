@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 03:36:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:06:30 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏、ホルムズ海峡20%通航料計画を撤回－湾岸諸国の要請受け</title>
@@ -62,6 +62,12 @@
       <pubDate>Tue, 14 Jul 2026 21:22:00 +0900</pubDate>
     </item>
     <item>
+      <title>ゴールドマン、株式トレーディング収入が過去最高－業界内記録更新</title>
+      <link>https://news.yahoo.co.jp/articles/945a1c58a9a2c894224895d4569fe02346253f15</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/945a1c58a9a2c894224895d4569fe02346253f15</guid>
+      <pubDate>Wed, 15 Jul 2026 21:05:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ゴールドマン、株式トレーディング収入が過去最高－業界でも記録更新</title>
       <link>https://news.yahoo.co.jp/articles/f5d9dfb1e88d07eca0b3cc42ebe4cd976bc57e82</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5d9dfb1e88d07eca0b3cc42ebe4cd976bc57e82</guid>
@@ -72,6 +78,12 @@
       <link>https://news.yahoo.co.jp/articles/d20e57daee914f9ddae2bfd02355cef4d35c0962</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d20e57daee914f9ddae2bfd02355cef4d35c0962</guid>
       <pubDate>Tue, 14 Jul 2026 20:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>JPモルガン、四半期利益が過去最高－株式トレーディングが好調</title>
+      <link>https://news.yahoo.co.jp/articles/78b914e813aaff8696bf3c92145abf8928d0c32b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78b914e813aaff8696bf3c92145abf8928d0c32b</guid>
+      <pubDate>Wed, 15 Jul 2026 20:35:00 +0900</pubDate>
     </item>
     <item>
       <title>JPモルガン、四半期利益が過去最高－株式トレーディングが好調</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22d16a83c83fcfbc187d142984448cf2cd18d81c</guid>
       <pubDate>Tue, 14 Jul 2026 01:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油9%超の急騰、トランプ氏がホルムズ通航料要求－海峡正常化遠のく</title>
-      <link>https://news.yahoo.co.jp/articles/1cef4d5c3cdccd97cb56f4f52dec35ce40a7d1ca</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1cef4d5c3cdccd97cb56f4f52dec35ce40a7d1ca</guid>
-      <pubDate>Tue, 14 Jul 2026 01:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円相場の先行き、トレーダーは2022年以来の顕著な弱気姿勢－BofA調査</title>
-      <link>https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</guid>
-      <pubDate>Tue, 14 Jul 2026 00:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
