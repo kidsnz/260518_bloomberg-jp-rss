@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:28:53 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:31:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米最大送電網PJM、容量オークションで供給力また未達－AI電力需要</title>
+      <link>https://news.yahoo.co.jp/articles/e7ce5f5a474b2e2aa6ad3e96b9fde727cc8b1f49</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7ce5f5a474b2e2aa6ad3e96b9fde727cc8b1f49</guid>
+      <pubDate>Wed, 15 Jul 2026 06:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、ホームスピーカーの発売を計画－初のハードウエア製品</title>
+      <link>https://news.yahoo.co.jp/articles/2c7eb7c9b372dc7024aec18ecf68957bd55f61bc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c7eb7c9b372dc7024aec18ecf68957bd55f61bc</guid>
+      <pubDate>Wed, 15 Jul 2026 06:02:00 +0900</pubDate>
+    </item>
     <item>
       <title>ウォール街の株取引収入が過去最高､熱狂と不安が売買呼ぶ-大手行決算</title>
       <link>https://news.yahoo.co.jp/articles/97d1b63e2385ea09f18317a2e120de9a286a9ab9</link>
@@ -50,10 +62,22 @@
       <pubDate>Tue, 14 Jul 2026 23:17:00 +0900</pubDate>
     </item>
     <item>
+      <title>IBM株が25％急落、約60年ぶり大幅安-暫定売上高が市場予想届かず</title>
+      <link>https://news.yahoo.co.jp/articles/9dfd55caf4ff04ab6a19211842f979c5bb69928e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9dfd55caf4ff04ab6a19211842f979c5bb69928e</guid>
+      <pubDate>Wed, 15 Jul 2026 23:06:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米IBM株が26％安、約60年ぶり大幅下落－暫定売上高が市場予想届かず</title>
       <link>https://news.yahoo.co.jp/articles/f5693c117de229bfddc0208b3ea4d6782aebf794</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5693c117de229bfddc0208b3ea4d6782aebf794</guid>
       <pubDate>Tue, 14 Jul 2026 23:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトウエア銘柄が総崩れ、さえないIBM業績を嫌気－AI脅威論が再燃</title>
+      <link>https://news.yahoo.co.jp/articles/902c82d84b3a9f9aa8287e201fec7ccdccaaed30</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/902c82d84b3a9f9aa8287e201fec7ccdccaaed30</guid>
+      <pubDate>Wed, 15 Jul 2026 22:54:00 +0900</pubDate>
     </item>
     <item>
       <title>【米国市況】株と国債が上昇、CPI下振れで利上げ警戒緩む－原油続伸</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fe520ce82bcd7da7bd4f8fb84cb71fd7cf9bf4ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe520ce82bcd7da7bd4f8fb84cb71fd7cf9bf4ec</guid>
       <pubDate>Tue, 14 Jul 2026 08:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>UAEタンカーにイランのミサイル着弾､船員1人死亡－火災発生し8人負傷</title>
-      <link>https://news.yahoo.co.jp/articles/c3396fac35817004e42998011e9add9473f40e54</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c3396fac35817004e42998011e9add9473f40e54</guid>
-      <pubDate>Tue, 14 Jul 2026 08:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米国のホルムズ海峡再閉鎖で株・債券下落へ－円も軟調</title>
-      <link>https://news.yahoo.co.jp/articles/5d8618d0e2eedd4945c80c3bb7195097b7c4bb0a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d8618d0e2eedd4945c80c3bb7195097b7c4bb0a</guid>
-      <pubDate>Tue, 14 Jul 2026 08:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏要求のホルムズ「通航料」、超大型タンカー1隻50億円相当</title>
-      <link>https://news.yahoo.co.jp/articles/8fd0a7f6ef1801fa137cd39a6fa593c1f8fd73b8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8fd0a7f6ef1801fa137cd39a6fa593c1f8fd73b8</guid>
-      <pubDate>Tue, 14 Jul 2026 07:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米個人投資家の米国株買い続く､押し目買いには変化の兆し－シタデルS</title>
-      <link>https://news.yahoo.co.jp/articles/9e3e68b05047e159d22cf785ea93c697420bc486</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e3e68b05047e159d22cf785ea93c697420bc486</guid>
-      <pubDate>Tue, 14 Jul 2026 07:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
