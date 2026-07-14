@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 17:33:30 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:40:29 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>国債NISA対象化が浮上､安定消化へ個人マネー呼び込み―副作用もはらむ</title>
+      <link>https://news.yahoo.co.jp/articles/db86587a117b18f770d45d118034f7520ef6d55a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/db86587a117b18f770d45d118034f7520ef6d55a</guid>
+      <pubDate>Tue, 14 Jul 2026 18:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>オマーン近海でタンカーにミサイル攻撃との報告－英海事機関UKMTO</title>
       <link>https://news.yahoo.co.jp/articles/eafb7d7c6cf222b39260b8d7b903fb52d59b5bfd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eafb7d7c6cf222b39260b8d7b903fb52d59b5bfd</guid>
       <pubDate>Tue, 14 Jul 2026 16:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国DeepSeekの梁文峰氏、AIモデル開発企業創業者で世界一の富豪に</title>
+      <link>https://news.yahoo.co.jp/articles/8dafaf3b018ae07ef8f897a5070ee73a7cb3fbf9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8dafaf3b018ae07ef8f897a5070ee73a7cb3fbf9</guid>
+      <pubDate>Tue, 14 Jul 2026 16:23:00 +0900</pubDate>
     </item>
     <item>
       <title>韓国サムスン電子、ADR発行を巡り初期段階の協議－関係者</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e81286b676e5322cccaf0c61826fb09429b8553b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e81286b676e5322cccaf0c61826fb09429b8553b</guid>
       <pubDate>Mon, 13 Jul 2026 15:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国SKハイニックスはいかに躍進したか－経営危機から1兆ドル企業へ</title>
-      <link>https://news.yahoo.co.jp/articles/8523df2511bbce487a8d749edb5c84a9f0d8dd2a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8523df2511bbce487a8d749edb5c84a9f0d8dd2a</guid>
-      <pubDate>Mon, 13 Jul 2026 14:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>TSMC、4－6月は36%増収－AI向けハードウエア需要が堅調と示唆</title>
-      <link>https://news.yahoo.co.jp/articles/9cd21c32ab3f9dfe5ad39baa5d00ef4791cfbb61</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9cd21c32ab3f9dfe5ad39baa5d00ef4791cfbb61</guid>
-      <pubDate>Mon, 13 Jul 2026 14:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
