@@ -5,10 +5,10 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 02:08:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 03:36:09 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>トランプ氏、ホルムズ海峡の20%通航料計画を撤回－批判相次ぎ</title>
+      <title>トランプ氏、ホルムズ海峡20%通航料計画を撤回－湾岸諸国の要請受け</title>
       <link>https://news.yahoo.co.jp/articles/2d865d20e7deac1bfa931611dbeb6eaa134bd2c8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d865d20e7deac1bfa931611dbeb6eaa134bd2c8</guid>
       <pubDate>Wed, 15 Jul 2026 00:39:00 +0900</pubDate>
@@ -48,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/0a0aceda18f55910c0b360815b19502fe029ddb8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0a0aceda18f55910c0b360815b19502fe029ddb8</guid>
       <pubDate>Tue, 14 Jul 2026 21:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュ議長、高インフレ「容認せず」－FRB改革への意欲も表明</title>
+      <link>https://news.yahoo.co.jp/articles/26014ddb9792b4d1e645eb0006311910730f336e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26014ddb9792b4d1e645eb0006311910730f336e</guid>
+      <pubDate>Wed, 15 Jul 2026 21:34:00 +0900</pubDate>
     </item>
     <item>
       <title>バフェット氏、8年以内にバークシャー全株手放す方針－家族の財団へ</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be442a029c96bd1f221e36c7b5dae7dd7022c170</guid>
       <pubDate>Tue, 14 Jul 2026 00:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックスADR急落、公募価格に迫る－韓国AI売りが米国にも波及</title>
-      <link>https://news.yahoo.co.jp/articles/f8e865f908d43fe7d88ff4aa15b1edb55a31fbed</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8e865f908d43fe7d88ff4aa15b1edb55a31fbed</guid>
-      <pubDate>Mon, 13 Jul 2026 23:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
