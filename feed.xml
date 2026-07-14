@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 07:31:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:47:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、CPI下振れによる米利上げ観測後退で株・債券高へ―円横ばい</title>
+      <link>https://news.yahoo.co.jp/articles/0db5526c45f0f1c9b4a40b1b6a1608b3819dfeb1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0db5526c45f0f1c9b4a40b1b6a1608b3819dfeb1</guid>
+      <pubDate>Wed, 15 Jul 2026 08:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は続伸へ、米国の早期利上げ観測後退が追い風－AI関連に買い</title>
+      <link>https://news.yahoo.co.jp/articles/bf0d292b8dba3f520a6a5d5367307735620ace4d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf0d292b8dba3f520a6a5d5367307735620ace4d</guid>
+      <pubDate>Wed, 15 Jul 2026 07:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>米最大送電網PJM、容量オークションで供給力また未達－AI電力需要</title>
       <link>https://news.yahoo.co.jp/articles/e7ce5f5a474b2e2aa6ad3e96b9fde727cc8b1f49</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/245b5ed94dca3cd032d1891971d6e1e169e8aba6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/245b5ed94dca3cd032d1891971d6e1e169e8aba6</guid>
       <pubDate>Tue, 14 Jul 2026 09:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油上昇、86ドル超－トランプ氏がイラン船舶封鎖を再開</title>
-      <link>https://news.yahoo.co.jp/articles/9ffe44897c437657f141506fc718aa02332db2db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9ffe44897c437657f141506fc718aa02332db2db</guid>
-      <pubDate>Tue, 14 Jul 2026 09:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>故グラム米上院議員の妹を後任に任命、州知事が残任期間を託す</title>
-      <link>https://news.yahoo.co.jp/articles/fe520ce82bcd7da7bd4f8fb84cb71fd7cf9bf4ec</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe520ce82bcd7da7bd4f8fb84cb71fd7cf9bf4ec</guid>
-      <pubDate>Tue, 14 Jul 2026 08:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
