@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 21:49:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:44:10 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>NY連銀総裁、金利は「適切な位置にある」－インフレ鈍化に期待</title>
+      <link>https://news.yahoo.co.jp/articles/b1ca819bf10bf8f03170c486fafd6f51f1fae360</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1ca819bf10bf8f03170c486fafd6f51f1fae360</guid>
+      <pubDate>Wed, 15 Jul 2026 22:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRBのフォワードガイダンス縮小で米5、10年債に投資妙味－ピムコ</title>
+      <link>https://news.yahoo.co.jp/articles/cce948d152d4ffe374857daee5fc24ce4fe7a3a2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cce948d152d4ffe374857daee5fc24ce4fe7a3a2</guid>
+      <pubDate>Wed, 15 Jul 2026 21:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>ブラックロック、運用資産残高が初の15兆ドル突破－ETFに資金流入</title>
       <link>https://news.yahoo.co.jp/articles/62b58b8c078f0a21c5782aea202901c981d196c8</link>
@@ -50,7 +62,7 @@
       <pubDate>Wed, 15 Jul 2026 16:15:00 +0900</pubDate>
     </item>
     <item>
-      <title>ホルムズ迂回のパイプラインに協力を、UAEやサウジが要請－石連会長</title>
+      <title>ホルムズ迂回パイプラインに協力を、UAEやサウジ要請－石連会長</title>
       <link>https://news.yahoo.co.jp/articles/d27566a900531b07e84015509c309ff38ead90ff</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d27566a900531b07e84015509c309ff38ead90ff</guid>
       <pubDate>Wed, 15 Jul 2026 15:54:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2482176bf2b2046a9f560e992e24d7ead29b6d94</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2482176bf2b2046a9f560e992e24d7ead29b6d94</guid>
       <pubDate>Tue, 14 Jul 2026 21:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで上げ幅拡大、一時161円60銭台－米CPI発表後</title>
-      <link>https://news.yahoo.co.jp/articles/0a0aceda18f55910c0b360815b19502fe029ddb8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0a0aceda18f55910c0b360815b19502fe029ddb8</guid>
-      <pubDate>Tue, 14 Jul 2026 21:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ議長、高インフレ「容認せず」－FRB改革への意欲も表明</title>
-      <link>https://news.yahoo.co.jp/articles/26014ddb9792b4d1e645eb0006311910730f336e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26014ddb9792b4d1e645eb0006311910730f336e</guid>
-      <pubDate>Wed, 15 Jul 2026 21:34:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
