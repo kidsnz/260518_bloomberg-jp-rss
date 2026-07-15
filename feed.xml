@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:27:08 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:08:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>インド、国内の半導体製造を強化へ－2兆円超える追加支援策</title>
+      <link>https://news.yahoo.co.jp/articles/a252b07222f97b33de5d783a91acb725601bc15a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a252b07222f97b33de5d783a91acb725601bc15a</guid>
+      <pubDate>Wed, 15 Jul 2026 19:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECB、慎重な運営でインフレ期待の安定維持を－イタリア中銀総裁</title>
+      <link>https://news.yahoo.co.jp/articles/cb2f089446cd945be289c492aba56a461001ff7e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb2f089446cd945be289c492aba56a461001ff7e</guid>
+      <pubDate>Wed, 15 Jul 2026 19:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>骨太方針の注釈に日銀の｢自主性｣言及、手法は委ねると明記－再修正案</title>
       <link>https://news.yahoo.co.jp/articles/a595f23e9e14683d554902bdb46a6f44dff2966b</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/945a1c58a9a2c894224895d4569fe02346253f15</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/945a1c58a9a2c894224895d4569fe02346253f15</guid>
       <pubDate>Wed, 15 Jul 2026 21:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン、株式トレーディング収入が過去最高－業界でも記録更新</title>
-      <link>https://news.yahoo.co.jp/articles/f5d9dfb1e88d07eca0b3cc42ebe4cd976bc57e82</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5d9dfb1e88d07eca0b3cc42ebe4cd976bc57e82</guid>
-      <pubDate>Tue, 14 Jul 2026 21:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シンガポール閣僚2人、ブルームバーグの記事巡る名誉毀損訴訟で勝訴</title>
-      <link>https://news.yahoo.co.jp/articles/d20e57daee914f9ddae2bfd02355cef4d35c0962</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d20e57daee914f9ddae2bfd02355cef4d35c0962</guid>
-      <pubDate>Tue, 14 Jul 2026 20:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
