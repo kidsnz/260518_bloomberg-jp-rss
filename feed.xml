@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:08:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:49:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブラックロック、運用資産残高が初の15兆ドル突破－ETFに資金流入</title>
+      <link>https://news.yahoo.co.jp/articles/62b58b8c078f0a21c5782aea202901c981d196c8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62b58b8c078f0a21c5782aea202901c981d196c8</guid>
+      <pubDate>Wed, 15 Jul 2026 20:05:00 +0900</pubDate>
+    </item>
     <item>
       <title>インド、国内の半導体製造を強化へ－2兆円超える追加支援策</title>
       <link>https://news.yahoo.co.jp/articles/a252b07222f97b33de5d783a91acb725601bc15a</link>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/6f001d59714d89150ce2acf0fb47dba9817694a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f001d59714d89150ce2acf0fb47dba9817694a9</guid>
       <pubDate>Wed, 15 Jul 2026 18:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の信用拡大、6月は予想下回る－金融機関の新規融資低調</title>
+      <link>https://news.yahoo.co.jp/articles/704a365a5d0a8d1739dd293b2f7b8331930da473</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/704a365a5d0a8d1739dd293b2f7b8331930da473</guid>
+      <pubDate>Wed, 15 Jul 2026 16:45:00 +0900</pubDate>
     </item>
     <item>
       <title>上半期訪日客は2108万人で微減、中国減速をアジア・欧米の需要が補う</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/26014ddb9792b4d1e645eb0006311910730f336e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26014ddb9792b4d1e645eb0006311910730f336e</guid>
       <pubDate>Wed, 15 Jul 2026 21:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バフェット氏、8年以内にバークシャー全株手放す方針－家族の財団へ</title>
-      <link>https://news.yahoo.co.jp/articles/8c53a6d4311136b60880377de035438c0958595c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c53a6d4311136b60880377de035438c0958595c</guid>
-      <pubDate>Tue, 14 Jul 2026 21:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン、株式トレーディング収入が過去最高－業界内記録更新</title>
-      <link>https://news.yahoo.co.jp/articles/945a1c58a9a2c894224895d4569fe02346253f15</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/945a1c58a9a2c894224895d4569fe02346253f15</guid>
-      <pubDate>Wed, 15 Jul 2026 21:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
