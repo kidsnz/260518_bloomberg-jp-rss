@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 02:44:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 04:02:45 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米地区連銀報告：経済活動は「わずか」から「緩やか」なペースで拡大</title>
+      <link>https://news.yahoo.co.jp/articles/0aeec766a084290eab771c4fafae7ed2d5a4eff6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0aeec766a084290eab771c4fafae7ed2d5a4eff6</guid>
+      <pubDate>Thu, 16 Jul 2026 03:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、今後数週間に投資家との会合を計画－大型IPOを控え</title>
       <link>https://news.yahoo.co.jp/articles/910ca32e6c6b78d9c5a220812668f84dea131f96</link>
@@ -18,6 +24,18 @@
       <link>https://news.yahoo.co.jp/articles/0cd7a2d4ceb46483daf1e4827209dd6d1b1c4969</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0cd7a2d4ceb46483daf1e4827209dd6d1b1c4969</guid>
       <pubDate>Wed, 15 Jul 2026 23:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、「来週には発電所も標的｣－対イラン攻撃の強化を表明</title>
+      <link>https://news.yahoo.co.jp/articles/acd2c0893b7ac44196374d025ed26850cbfe78c1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/acd2c0893b7ac44196374d025ed26850cbfe78c1</guid>
+      <pubDate>Wed, 15 Jul 2026 22:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、「来週には発電所も標的｣－対イラン攻撃の強化を表明</title>
+      <link>https://news.yahoo.co.jp/articles/85d13b13886dadc471699e3a9ead809fd72725ca</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85d13b13886dadc471699e3a9ead809fd72725ca</guid>
+      <pubDate>Wed, 15 Jul 2026 22:56:00 +0900</pubDate>
     </item>
     <item>
       <title>カナダ企業の銅鉱床開発権益､買い手候補に三菱商事や三井物産-関係者</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/83c69c3912e0c20636c20522a9176af23e02d8af</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83c69c3912e0c20636c20522a9176af23e02d8af</guid>
       <pubDate>Wed, 15 Jul 2026 00:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国AI新興DeepSeek、年内のIPO申請を視野に準備－注目の大型案件に</title>
-      <link>https://news.yahoo.co.jp/articles/34250f3b9ad8fbee895d8e4e4020068c04e08136</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34250f3b9ad8fbee895d8e4e4020068c04e08136</guid>
-      <pubDate>Tue, 14 Jul 2026 23:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国AIスタートアップDeepSeek、年内のIPO申請を視野に準備－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/075e7ecb5bf5e7ad4aa975cc6b8a3559d5c0c644</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/075e7ecb5bf5e7ad4aa975cc6b8a3559d5c0c644</guid>
-      <pubDate>Tue, 14 Jul 2026 23:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>IBM株が25％急落、約60年ぶり大幅安-暫定売上高が市場予想届かず</title>
-      <link>https://news.yahoo.co.jp/articles/9dfd55caf4ff04ab6a19211842f979c5bb69928e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9dfd55caf4ff04ab6a19211842f979c5bb69928e</guid>
-      <pubDate>Wed, 15 Jul 2026 23:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
