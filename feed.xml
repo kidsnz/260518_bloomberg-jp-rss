@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 01:16:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 02:44:51 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アンソロピック、今後数週間に投資家との会合を計画－大型IPOを控え</title>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 15 Jul 2026 22:32:00 +0900</pubDate>
     </item>
     <item>
-      <title>NY連銀総裁、金利は「適切な位置にある」－インフレ鈍化に期待</title>
+      <title>NY連銀総裁、金利は「適切な位置にある」－インフレは既にピーク</title>
       <link>https://news.yahoo.co.jp/articles/b1ca819bf10bf8f03170c486fafd6f51f1fae360</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1ca819bf10bf8f03170c486fafd6f51f1fae360</guid>
       <pubDate>Wed, 15 Jul 2026 22:29:00 +0900</pubDate>
@@ -42,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/cce948d152d4ffe374857daee5fc24ce4fe7a3a2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cce948d152d4ffe374857daee5fc24ce4fe7a3a2</guid>
       <pubDate>Wed, 15 Jul 2026 21:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡は非常に危険、IMOトップが商船に通航控えるよう求める</title>
+      <link>https://news.yahoo.co.jp/articles/856b8b9c7b1f13e1a215fc12fd5cfb496a092efd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/856b8b9c7b1f13e1a215fc12fd5cfb496a092efd</guid>
+      <pubDate>Wed, 15 Jul 2026 20:12:00 +0900</pubDate>
     </item>
     <item>
       <title>ブラックロック、運用資産残高が初の15兆ドル突破－ETFに資金流入</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9dfd55caf4ff04ab6a19211842f979c5bb69928e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9dfd55caf4ff04ab6a19211842f979c5bb69928e</guid>
       <pubDate>Wed, 15 Jul 2026 23:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米IBM株が26％安、約60年ぶり大幅下落－暫定売上高が市場予想届かず</title>
-      <link>https://news.yahoo.co.jp/articles/f5693c117de229bfddc0208b3ea4d6782aebf794</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5693c117de229bfddc0208b3ea4d6782aebf794</guid>
-      <pubDate>Tue, 14 Jul 2026 23:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
