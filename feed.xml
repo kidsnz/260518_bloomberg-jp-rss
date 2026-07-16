@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 23:00:12 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:53:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米が封鎖再開後初のタンカー攻撃、ホルムズ通航細る－イラン攻撃強化</title>
+      <link>https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</guid>
+      <pubDate>Fri, 17 Jul 2026 00:05:00 +0900</pubDate>
+    </item>
     <item>
       <title>米新規失業保険申請、予想外に減少－労働市場の安定継続を示唆</title>
       <link>https://news.yahoo.co.jp/articles/d2ba1ec8255113218bdbcffba7be10fa76765040</link>
@@ -14,7 +20,7 @@
       <pubDate>Thu, 16 Jul 2026 21:46:00 +0900</pubDate>
     </item>
     <item>
-      <title>米小売売上高は小幅に増加、ガソリンスタンドでの支出は減少</title>
+      <title>米小売売上高は小幅に増加、ガソリン価格の低下が支出を後押し</title>
       <link>https://news.yahoo.co.jp/articles/31a5ae5938fb09a9db0c08bade8da6e63aceffc6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31a5ae5938fb09a9db0c08bade8da6e63aceffc6</guid>
       <pubDate>Thu, 16 Jul 2026 21:41:00 +0900</pubDate>
@@ -236,7 +242,7 @@
       <pubDate>Thu, 16 Jul 2026 10:03:00 +0900</pubDate>
     </item>
     <item>
-      <title>韓国中銀が利上げ、23年以来－半導体ブームで想定上回る経済成長</title>
+      <title>韓国中銀が3年半ぶり利上げ、AIブームで成長加速－物価高止まり警戒</title>
       <link>https://news.yahoo.co.jp/articles/1cda346732163f173aabe8a64da5ab43f3231ae2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1cda346732163f173aabe8a64da5ab43f3231ae2</guid>
       <pubDate>Thu, 16 Jul 2026 09:53:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2e4b855b5adaa50bc7081bee8a9d6cb55da1ac43</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e4b855b5adaa50bc7081bee8a9d6cb55da1ac43</guid>
       <pubDate>Thu, 16 Jul 2026 07:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>債券上昇へ、物価予想下回り米長期金利低下－円は対ドル162円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/c5bb64ea9cbb1880cdb3035d5d1a7a0b122b422f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5bb64ea9cbb1880cdb3035d5d1a7a0b122b422f</guid>
-      <pubDate>Thu, 16 Jul 2026 07:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
