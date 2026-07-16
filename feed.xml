@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:53:20 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:09:18 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米が封鎖再開後初のタンカー攻撃、ホルムズ通航細る－イラン攻撃強化</title>
       <link>https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</guid>
       <pubDate>Fri, 17 Jul 2026 00:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米株式は軟調スタート、半導体に売り－ドル一時162円40銭に上昇</title>
+      <link>https://news.yahoo.co.jp/articles/a62cabee8c3cb9089fa232f3ec754bd2241d57c5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a62cabee8c3cb9089fa232f3ec754bd2241d57c5</guid>
+      <pubDate>Thu, 16 Jul 2026 23:20:00 +0900</pubDate>
     </item>
     <item>
       <title>米新規失業保険申請、予想外に減少－労働市場の安定継続を示唆</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3274e75e4309ddab67d6a97cba5a1d469c0f4924</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3274e75e4309ddab67d6a97cba5a1d469c0f4924</guid>
       <pubDate>Thu, 16 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株反落へ、米半導体株安が重し－TSMC決算やエヌビディア発表注目</title>
-      <link>https://news.yahoo.co.jp/articles/2e4b855b5adaa50bc7081bee8a9d6cb55da1ac43</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e4b855b5adaa50bc7081bee8a9d6cb55da1ac43</guid>
-      <pubDate>Thu, 16 Jul 2026 07:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
