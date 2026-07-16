@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 02:09:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 03:38:27 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米が封鎖再開後初のタンカー攻撃、ホルムズ通航細る－イラン攻撃強化</title>
+      <title>原油は前日終値近辺で高止まり、中東からの供給懸念強まる</title>
+      <link>https://news.yahoo.co.jp/articles/e790073b92bbd8748750bdb78bc2e83cded1909f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e790073b92bbd8748750bdb78bc2e83cded1909f</guid>
+      <pubDate>Fri, 17 Jul 2026 01:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米が封鎖再開後で初の商船攻撃、ホルムズ通航細る－対イラン攻撃強化</title>
       <link>https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</guid>
       <pubDate>Fri, 17 Jul 2026 00:05:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8560dd5d514e9cca9976f2e36acc7354db085d75</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8560dd5d514e9cca9976f2e36acc7354db085d75</guid>
       <pubDate>Thu, 16 Jul 2026 08:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアの技術活用､富士通･ファナックがフィジカルAIで協業</title>
-      <link>https://news.yahoo.co.jp/articles/3274e75e4309ddab67d6a97cba5a1d469c0f4924</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3274e75e4309ddab67d6a97cba5a1d469c0f4924</guid>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
