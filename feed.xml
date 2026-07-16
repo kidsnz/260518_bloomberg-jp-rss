@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:02:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:58:18 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>セブン&amp;アイがポーランドコンビニ大手に出資検討､数千億円も－関係者</title>
       <link>https://news.yahoo.co.jp/articles/706a8022449030c65c4f80e6c6dd9cbcfaeb0963</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/706a8022449030c65c4f80e6c6dd9cbcfaeb0963</guid>
       <pubDate>Thu, 16 Jul 2026 18:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フィデリティ、金保有を再び積み増しへ－長期強気シナリオ維持</title>
+      <link>https://news.yahoo.co.jp/articles/207059f10d517e1bf56b826564ac419c58896565</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/207059f10d517e1bf56b826564ac419c58896565</guid>
+      <pubDate>Thu, 16 Jul 2026 17:28:00 +0900</pubDate>
     </item>
     <item>
       <title>中国、債務膨らむLGFVの新規債発行を抑制－借り換えに重し</title>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/cab2631dff5089e80219d82a98b4e0042bc210ad</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cab2631dff5089e80219d82a98b4e0042bc210ad</guid>
       <pubDate>Thu, 16 Jul 2026 16:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国､個別銘柄レバ型ETFの新規上場を一時停止－市場変動を抑制へ</title>
+      <link>https://news.yahoo.co.jp/articles/14edfcc7beffcadd872beb151c090ad31a095de5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14edfcc7beffcadd872beb151c090ad31a095de5</guid>
+      <pubDate>Thu, 16 Jul 2026 16:19:00 +0900</pubDate>
     </item>
     <item>
       <title>英ポンド指数が1年ぶり高水準、財務相にマフムード氏起用と報道</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/64fe12d738c0738de2397356443c85597970f033</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/64fe12d738c0738de2397356443c85597970f033</guid>
       <pubDate>Thu, 16 Jul 2026 23:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株と国債が上昇、連日の物価統計下振れで利上げ先送り観測</title>
-      <link>https://news.yahoo.co.jp/articles/0cd7a2d4ceb46483daf1e4827209dd6d1b1c4969</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0cd7a2d4ceb46483daf1e4827209dd6d1b1c4969</guid>
-      <pubDate>Wed, 15 Jul 2026 23:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>モルガンS、株式トレーディングが過去最高－ウォール街の競合に続く</title>
-      <link>https://news.yahoo.co.jp/articles/ff28c2e9e6c4598816e54d0b3af2af3b015eaa7e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ff28c2e9e6c4598816e54d0b3af2af3b015eaa7e</guid>
-      <pubDate>Wed, 15 Jul 2026 23:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
