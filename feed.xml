@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 04:58:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:05:09 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米軍、イランに連日の攻撃を実施－ホルムズ海峡の通航量減少</title>
+      <title>Netflixが売上高の伸び2四半期連続で鈍化へ－見通しが市場予想届かず</title>
+      <link>https://news.yahoo.co.jp/articles/38e0cf34540a2c7493be378f9390f6e4d98b60b5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38e0cf34540a2c7493be378f9390f6e4d98b60b5</guid>
+      <pubDate>Fri, 17 Jul 2026 05:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍がイランに連日の攻撃実施－危険増すホルムズ海峡、通航量が急減</title>
       <link>https://news.yahoo.co.jp/articles/49c30b0574e88d8e63fb0086c4ed1287b572d959</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49c30b0574e88d8e63fb0086c4ed1287b572d959</guid>
       <pubDate>Fri, 17 Jul 2026 04:06:00 +0900</pubDate>
@@ -32,13 +38,13 @@
       <pubDate>Thu, 16 Jul 2026 23:20:00 +0900</pubDate>
     </item>
     <item>
-      <title>米新規失業保険申請、予想外に減少－労働市場の安定継続を示唆</title>
+      <title>米新規失業保険、予想下回る水準に減少－労働市場の安定継続示す</title>
       <link>https://news.yahoo.co.jp/articles/d2ba1ec8255113218bdbcffba7be10fa76765040</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d2ba1ec8255113218bdbcffba7be10fa76765040</guid>
       <pubDate>Thu, 16 Jul 2026 21:46:00 +0900</pubDate>
     </item>
     <item>
-      <title>米小売売上高は小幅に増加、ガソリン価格の低下が支出を後押し</title>
+      <title>米小売売上高は小幅増、全般は堅調もガソリンスタンドでは減少</title>
       <link>https://news.yahoo.co.jp/articles/31a5ae5938fb09a9db0c08bade8da6e63aceffc6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/31a5ae5938fb09a9db0c08bade8da6e63aceffc6</guid>
       <pubDate>Thu, 16 Jul 2026 21:41:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/13787ce0c5c35ce71d109132b9c8710dd9b612ea</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/13787ce0c5c35ce71d109132b9c8710dd9b612ea</guid>
       <pubDate>Thu, 16 Jul 2026 08:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、半導体銘柄中心に株下落へ－米インフレ沈静期待で金利低下</title>
-      <link>https://news.yahoo.co.jp/articles/fc80eb8e493cf5c855e61973e29b3766e9f121fd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc80eb8e493cf5c855e61973e29b3766e9f121fd</guid>
-      <pubDate>Thu, 16 Jul 2026 08:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
