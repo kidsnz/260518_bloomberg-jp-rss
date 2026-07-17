@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 20:03:55 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:41:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>英労働党党首にバーナム氏選出、次期首相に就任へ</title>
+      <link>https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</guid>
+      <pubDate>Fri, 17 Jul 2026 20:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>米イランの衝突深刻化の恐れ－6日連続攻撃、ホルムズ海峡の通航激減</title>
       <link>https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</link>
@@ -50,7 +56,7 @@
       <pubDate>Fri, 17 Jul 2026 15:58:00 +0900</pubDate>
     </item>
     <item>
-      <title>EQT、カカクコムへのTOB価格を1株3450円に引き上げ－従来1株3000円</title>
+      <title>EQT、カカクコムへのTOB価格を1株3450円に引き上げ</title>
       <link>https://news.yahoo.co.jp/articles/aaec63c282ce6e176168892aa0c2c6ca7d135195</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaec63c282ce6e176168892aa0c2c6ca7d135195</guid>
       <pubDate>Fri, 17 Jul 2026 15:47:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/77f2fcd987d73e466cc4857c8020927f7b4f6e08</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/77f2fcd987d73e466cc4857c8020927f7b4f6e08</guid>
       <pubDate>Thu, 16 Jul 2026 18:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フィデリティ、金保有を再び積み増しへ－長期強気シナリオ維持</title>
-      <link>https://news.yahoo.co.jp/articles/207059f10d517e1bf56b826564ac419c58896565</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/207059f10d517e1bf56b826564ac419c58896565</guid>
-      <pubDate>Thu, 16 Jul 2026 17:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
