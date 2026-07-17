@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 07:12:23 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:21:02 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ政権、AIの安全性を審査する規制機関の創設検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/630bae9db136428a972fdbc08cbbef2e5dfe988e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/630bae9db136428a972fdbc08cbbef2e5dfe988e</guid>
+      <pubDate>Sat, 18 Jul 2026 06:27:00 +0900</pubDate>
+    </item>
     <item>
       <title>アップル、反トラスト訴訟巡り司法省と和解協議－関係者</title>
       <link>https://news.yahoo.co.jp/articles/7ba13441f17fbc563f1def5882636d1a46bbb321</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/49c30b0574e88d8e63fb0086c4ed1287b572d959</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49c30b0574e88d8e63fb0086c4ed1287b572d959</guid>
       <pubDate>Fri, 17 Jul 2026 04:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米カンザスシティー連銀総裁、インフレが一段と加速するリスク</title>
-      <link>https://news.yahoo.co.jp/articles/d24ad816170990184df3413d6b84e90ec27c3477</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d24ad816170990184df3413d6b84e90ec27c3477</guid>
-      <pubDate>Fri, 17 Jul 2026 03:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
