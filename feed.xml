@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 21:41:17 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:28:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国株は続落、半導体株指数が弱気相場入りに近づく</title>
+      <link>https://news.yahoo.co.jp/articles/b07c1635dd9308dadaa5e8074e8dd1772ae8dbb8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b07c1635dd9308dadaa5e8074e8dd1772ae8dbb8</guid>
+      <pubDate>Fri, 17 Jul 2026 22:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米製造業生産指数、6月は横ばい－耐久財の落ち込みが重し</title>
+      <link>https://news.yahoo.co.jp/articles/5d2d25642452d4d15b200ae7d462b0decfa68686</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d2d25642452d4d15b200ae7d462b0decfa68686</guid>
+      <pubDate>Fri, 17 Jul 2026 22:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>英労働党党首にバーナム氏選出、次期首相に就任へ</title>
       <link>https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</link>
@@ -14,10 +26,16 @@
       <pubDate>Fri, 17 Jul 2026 20:23:00 +0900</pubDate>
     </item>
     <item>
-      <title>米イランの衝突深刻化の恐れ－6日連続攻撃、ホルムズ海峡の通航激減</title>
+      <title>米イランの衝突に深刻化の恐れ－6日連続、ホルムズ海峡の通航激減</title>
       <link>https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</guid>
       <pubDate>Fri, 17 Jul 2026 18:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>TSMC株急落、台湾株が調整局面入り－アジア半導体銘柄に売り広がる</title>
+      <link>https://news.yahoo.co.jp/articles/306e20dc66d84146e44d0a5c4a9f31b5bf5877b1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/306e20dc66d84146e44d0a5c4a9f31b5bf5877b1</guid>
+      <pubDate>Fri, 17 Jul 2026 17:49:00 +0900</pubDate>
     </item>
     <item>
       <title>コアウィーブ、26億ドル与信枠募集を開始－AIインフラ投資資金調達へ</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a15607f0242806c12f36dc4971a2f3c5e2bc8db0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a15607f0242806c12f36dc4971a2f3c5e2bc8db0</guid>
       <pubDate>Thu, 16 Jul 2026 19:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI需要、アジアの航空会社に恩恵－半導体輸送急増が貨物収入押し上げ</title>
-      <link>https://news.yahoo.co.jp/articles/230e5c48209abc2d727c21b3eeaa5474047987e9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/230e5c48209abc2d727c21b3eeaa5474047987e9</guid>
-      <pubDate>Thu, 16 Jul 2026 18:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>セブン&amp;アイがポーランドコンビニ大手に出資検討､数千億円も－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/706a8022449030c65c4f80e6c6dd9cbcfaeb0963</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/706a8022449030c65c4f80e6c6dd9cbcfaeb0963</guid>
-      <pubDate>Thu, 16 Jul 2026 18:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英中銀、景気弱い中で利上げする理由ほぼなし－ブリーデン副総裁</title>
-      <link>https://news.yahoo.co.jp/articles/77f2fcd987d73e466cc4857c8020927f7b4f6e08</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/77f2fcd987d73e466cc4857c8020927f7b4f6e08</guid>
-      <pubDate>Thu, 16 Jul 2026 18:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
