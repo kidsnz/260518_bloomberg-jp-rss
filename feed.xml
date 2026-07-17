@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 02:08:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:32:49 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>半導体株指数が3日続落、弱気相場入りへ－驚異的上昇ペースが急失速</title>
+      <title>【欧州市況】テック株下落、中国AI懸念－安全資産需要で超長期債上昇</title>
+      <link>https://news.yahoo.co.jp/articles/3f219d1a98b8011fac497cfe4c77acb79bd8ff25</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f219d1a98b8011fac497cfe4c77acb79bd8ff25</guid>
+      <pubDate>Sat, 18 Jul 2026 02:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米半導体株指数が3日続落、弱気相場入りへ－驚異的上昇ペース急失速</title>
       <link>https://news.yahoo.co.jp/articles/0e3284bb89a80731cddebf2a45057f0291cc7850</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e3284bb89a80731cddebf2a45057f0291cc7850</guid>
       <pubDate>Sat, 18 Jul 2026 00:45:00 +0900</pubDate>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/1fb74189e6301be3fcc0e6b05bb2befc38af6923</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1fb74189e6301be3fcc0e6b05bb2befc38af6923</guid>
       <pubDate>Fri, 17 Jul 2026 23:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者マインド指数、7月は54.4に上昇－ 5カ月ぶり高水準</title>
+      <link>https://news.yahoo.co.jp/articles/eea12da1a1f017055459a4659bb3240e26cbb89b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eea12da1a1f017055459a4659bb3240e26cbb89b</guid>
+      <pubDate>Fri, 17 Jul 2026 23:12:00 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド指数、7月は5カ月ぶりの高水準－ガソリン安で改善</title>
@@ -54,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</guid>
       <pubDate>Fri, 17 Jul 2026 20:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン関連タンカーがUターンやジグザグ航行、米海上封鎖措置で</title>
+      <link>https://news.yahoo.co.jp/articles/18623098933ec97b2b7de821800dc8c4086b9683</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18623098933ec97b2b7de821800dc8c4086b9683</guid>
+      <pubDate>Fri, 17 Jul 2026 19:25:00 +0900</pubDate>
     </item>
     <item>
       <title>米イランの衝突に深刻化の恐れ－6日連続、ホルムズ海峡の通航激減</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fa23c763d8fbe5e2954cf645f580dae742d5aa7e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa23c763d8fbe5e2954cf645f580dae742d5aa7e</guid>
       <pubDate>Thu, 16 Jul 2026 23:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】半導体に売り、巨額AI支出に不安－中東緊張でリスクオフ</title>
-      <link>https://news.yahoo.co.jp/articles/b3509171cbd7bbae490b97ad0eddaacd8dbd0c2f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3509171cbd7bbae490b97ad0eddaacd8dbd0c2f</guid>
-      <pubDate>Fri, 17 Jul 2026 23:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株式は軟調スタート、半導体に売り－ドル一時162円40銭に上昇</title>
-      <link>https://news.yahoo.co.jp/articles/a62cabee8c3cb9089fa232f3ec754bd2241d57c5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a62cabee8c3cb9089fa232f3ec754bd2241d57c5</guid>
-      <pubDate>Thu, 16 Jul 2026 23:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米NAHB住宅市場指数、2カ月連続で低下－年初来の最低水準と一致</title>
-      <link>https://news.yahoo.co.jp/articles/7d9ee8e2f4268a28286db426b82be9ce91e285e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d9ee8e2f4268a28286db426b82be9ce91e285e0</guid>
-      <pubDate>Fri, 17 Jul 2026 23:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
