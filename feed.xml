@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 06:13:28 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:12:23 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アップル、反トラスト訴訟巡り司法省と和解協議－関係者</title>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 18 Jul 2026 02:29:00 +0900</pubDate>
     </item>
     <item>
-      <title>Apple、時価総額で一時Nvidiaから首位奪還－AI投資巡る資金シフトで</title>
+      <title>アップル、時価総額で一時Nvidia抜き首位－AI投資巡る資金シフトで</title>
       <link>https://news.yahoo.co.jp/articles/0d77b8ec3c9a71907c851596098b0e50e344cb13</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d77b8ec3c9a71907c851596098b0e50e344cb13</guid>
       <pubDate>Sat, 18 Jul 2026 01:33:00 +0900</pubDate>
@@ -72,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/bda8f3f2033bd19e56b1dda8b8ced51a05793b0b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bda8f3f2033bd19e56b1dda8b8ced51a05793b0b</guid>
       <pubDate>Fri, 17 Jul 2026 22:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500続落、半導体株が弱気相場入り－イラン情勢も意識</title>
+      <link>https://news.yahoo.co.jp/articles/1a8f34f2bbfc7ab6fdac2a23bae57e17901762f2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a8f34f2bbfc7ab6fdac2a23bae57e17901762f2</guid>
+      <pubDate>Sat, 18 Jul 2026 22:53:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株は続落、半導体株指数が弱気相場入りに近づく</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d24ad816170990184df3413d6b84e90ec27c3477</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d24ad816170990184df3413d6b84e90ec27c3477</guid>
       <pubDate>Fri, 17 Jul 2026 03:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】債券下落、イラン情勢悪化で利上げ観測拡大－株は小幅高</title>
-      <link>https://news.yahoo.co.jp/articles/7df1893cb5c134c79f511818b9239d8e52e728ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7df1893cb5c134c79f511818b9239d8e52e728ab</guid>
-      <pubDate>Fri, 17 Jul 2026 02:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
