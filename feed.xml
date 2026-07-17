@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 03:32:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 05:01:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル、反トラスト訴訟巡り司法省と和解協議－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/7ba13441f17fbc563f1def5882636d1a46bbb321</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7ba13441f17fbc563f1def5882636d1a46bbb321</guid>
+      <pubDate>Sat, 18 Jul 2026 02:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>【欧州市況】テック株下落、中国AI懸念－安全資産需要で超長期債上昇</title>
       <link>https://news.yahoo.co.jp/articles/3f219d1a98b8011fac497cfe4c77acb79bd8ff25</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f219d1a98b8011fac497cfe4c77acb79bd8ff25</guid>
       <pubDate>Sat, 18 Jul 2026 02:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Apple、時価総額で一時Nvidiaから首位奪還－AI投資巡る資金シフトで</title>
+      <link>https://news.yahoo.co.jp/articles/0d77b8ec3c9a71907c851596098b0e50e344cb13</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d77b8ec3c9a71907c851596098b0e50e344cb13</guid>
+      <pubDate>Sat, 18 Jul 2026 01:33:00 +0900</pubDate>
     </item>
     <item>
       <title>米半導体株指数が3日続落、弱気相場入りへ－驚異的上昇ペース急失速</title>
@@ -48,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/bdd4b589ef60ee75fe00a0f6648434eb98ce3938</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdd4b589ef60ee75fe00a0f6648434eb98ce3938</guid>
       <pubDate>Fri, 17 Jul 2026 23:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>IBMショックが映すテック企業の明暗、ソフトウエア株に強まる逆風</title>
+      <link>https://news.yahoo.co.jp/articles/bda8f3f2033bd19e56b1dda8b8ced51a05793b0b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bda8f3f2033bd19e56b1dda8b8ced51a05793b0b</guid>
+      <pubDate>Fri, 17 Jul 2026 22:57:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株は続落、半導体株指数が弱気相場入りに近づく</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e790073b92bbd8748750bdb78bc2e83cded1909f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e790073b92bbd8748750bdb78bc2e83cded1909f</guid>
       <pubDate>Fri, 17 Jul 2026 01:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>BofAモイニハン氏、ミュトスなど先端AIに警戒感示す</title>
-      <link>https://news.yahoo.co.jp/articles/943b97b1b87394399b0fd9f87ab84117688f7fc5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/943b97b1b87394399b0fd9f87ab84117688f7fc5</guid>
-      <pubDate>Fri, 17 Jul 2026 00:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米が封鎖再開後で初の商船攻撃、ホルムズ通航細る－対イラン攻撃強化</title>
-      <link>https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c14107f58107add03d30257ba5e5d2433d1dedb0</guid>
-      <pubDate>Fri, 17 Jul 2026 00:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックCEOら、AI安全性重視するスーパーPACに3.2億円寄付</title>
-      <link>https://news.yahoo.co.jp/articles/fa23c763d8fbe5e2954cf645f580dae742d5aa7e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa23c763d8fbe5e2954cf645f580dae742d5aa7e</guid>
-      <pubDate>Thu, 16 Jul 2026 23:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
