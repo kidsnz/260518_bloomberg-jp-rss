@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 05:01:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:13:28 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アップル、反トラスト訴訟巡り司法省と和解協議－関係者</title>
@@ -36,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/07507f6558989dc43e694786a8722c7b08b50644</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07507f6558989dc43e694786a8722c7b08b50644</guid>
       <pubDate>Sat, 18 Jul 2026 00:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株6日続落、時価総額1兆ドル消失の見通し－ピーク時から</title>
+      <link>https://news.yahoo.co.jp/articles/8126a30ab699316e052582a1fc60f817ad419585</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8126a30ab699316e052582a1fc60f817ad419585</guid>
+      <pubDate>Sat, 18 Jul 2026 23:43:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX株下落、時価総額1兆ドル消失の見通し－ピーク時から</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7df1893cb5c134c79f511818b9239d8e52e728ab</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7df1893cb5c134c79f511818b9239d8e52e728ab</guid>
       <pubDate>Fri, 17 Jul 2026 02:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は前日終値近辺で高止まり、中東からの供給懸念強まる</title>
-      <link>https://news.yahoo.co.jp/articles/e790073b92bbd8748750bdb78bc2e83cded1909f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e790073b92bbd8748750bdb78bc2e83cded1909f</guid>
-      <pubDate>Fri, 17 Jul 2026 01:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
