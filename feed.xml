@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 23:28:22 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:56:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米企業経営陣の自社株売却、21年以来の高水準－一部投資家は警戒</title>
+      <link>https://news.yahoo.co.jp/articles/1fb74189e6301be3fcc0e6b05bb2befc38af6923</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1fb74189e6301be3fcc0e6b05bb2befc38af6923</guid>
+      <pubDate>Fri, 17 Jul 2026 23:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者マインド指数、7月は5カ月ぶりの高水準－ガソリン安で改善</title>
+      <link>https://news.yahoo.co.jp/articles/bdd4b589ef60ee75fe00a0f6648434eb98ce3938</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdd4b589ef60ee75fe00a0f6648434eb98ce3938</guid>
+      <pubDate>Fri, 17 Jul 2026 23:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国株は続落、半導体株指数が弱気相場入りに近づく</title>
       <link>https://news.yahoo.co.jp/articles/b07c1635dd9308dadaa5e8074e8dd1772ae8dbb8</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5a67fa38ec55fcc26e4920ceea5bf46b73d48bb2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a67fa38ec55fcc26e4920ceea5bf46b73d48bb2</guid>
       <pubDate>Thu, 16 Jul 2026 21:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン交渉トップ､報復訴える強硬派けん制-終戦へ外交努力継続を主張</title>
-      <link>https://news.yahoo.co.jp/articles/e5f1fabd65bbe4d899461033f9b0bbb7c0ff9807</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e5f1fabd65bbe4d899461033f9b0bbb7c0ff9807</guid>
-      <pubDate>Thu, 16 Jul 2026 20:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バイドゥ、香港とナスダックのデュアルプライマリー上場目指す方針</title>
-      <link>https://news.yahoo.co.jp/articles/a15607f0242806c12f36dc4971a2f3c5e2bc8db0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a15607f0242806c12f36dc4971a2f3c5e2bc8db0</guid>
-      <pubDate>Thu, 16 Jul 2026 19:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
