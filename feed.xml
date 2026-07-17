@@ -5,8 +5,38 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:25:17 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:58:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>自民PT､株主権限の厳格化を提案へ－アクティビスト活動に一定の規制</title>
+      <link>https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08d7fd7e5fd0c12559d68cb77f5aec90f927cf1e</guid>
+      <pubDate>Fri, 17 Jul 2026 09:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】日経平均2400円安、キオクシア売られる－長期金利は低下</title>
+      <link>https://news.yahoo.co.jp/articles/f445a45f452d764ddcc8f97b55b7275590db381f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f445a45f452d764ddcc8f97b55b7275590db381f</guid>
+      <pubDate>Fri, 17 Jul 2026 09:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>キオクシアHD株、上場来高値から1カ月弱で半値に－AI相場失速で売り</title>
+      <link>https://news.yahoo.co.jp/articles/8db7633081bcdf9bf182f827704c823084dba240</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8db7633081bcdf9bf182f827704c823084dba240</guid>
+      <pubDate>Fri, 17 Jul 2026 09:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>1ドル=170円予測の的中率1位アナリスト、独自モデルでニュース追わず</title>
+      <link>https://news.yahoo.co.jp/articles/abbe8ea77393970c0a882fdc5bc307b02fde8755</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/abbe8ea77393970c0a882fdc5bc307b02fde8755</guid>
+      <pubDate>Fri, 17 Jul 2026 08:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、AI収益化巡る不安で株式続落へ－中東情勢混迷が円の重しに</title>
+      <link>https://news.yahoo.co.jp/articles/8b9e3c111a32fcc055f01606cf6cabd917faed77</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b9e3c111a32fcc055f01606cf6cabd917faed77</guid>
+      <pubDate>Fri, 17 Jul 2026 08:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>止まらぬ自動車株の地盤沈下、中東情勢改善しても中国勢との競争重し</title>
       <link>https://news.yahoo.co.jp/articles/1f5d12e295a36573d6a2798282a3f4e4adbc0ebe</link>
@@ -140,6 +170,12 @@
       <pubDate>Thu, 16 Jul 2026 19:22:00 +0900</pubDate>
     </item>
     <item>
+      <title>AI需要、アジアの航空会社に恩恵－半導体輸送急増が貨物収入押し上げ</title>
+      <link>https://news.yahoo.co.jp/articles/230e5c48209abc2d727c21b3eeaa5474047987e9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/230e5c48209abc2d727c21b3eeaa5474047987e9</guid>
+      <pubDate>Thu, 16 Jul 2026 18:42:00 +0900</pubDate>
+    </item>
+    <item>
       <title>セブン&amp;アイがポーランドコンビニ大手に出資検討､数千億円も－関係者</title>
       <link>https://news.yahoo.co.jp/articles/706a8022449030c65c4f80e6c6dd9cbcfaeb0963</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/706a8022449030c65c4f80e6c6dd9cbcfaeb0963</guid>
@@ -164,7 +200,7 @@
       <pubDate>Thu, 16 Jul 2026 17:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>GU､高級ブランド出身者に託す｢刷新｣－海外展開へブランド確立急ぐ</title>
+      <title>ファストリのGU、高級ブランド出身者に託す｢刷新｣－海外展開へブランド確立急ぐ</title>
       <link>https://news.yahoo.co.jp/articles/b848099650eb45203319563607a1661e4e826ff3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b848099650eb45203319563607a1661e4e826ff3</guid>
       <pubDate>Thu, 16 Jul 2026 16:51:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/85e90f32f1b9e9a229599fff2b77a95e5c31864f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85e90f32f1b9e9a229599fff2b77a95e5c31864f</guid>
       <pubDate>Thu, 16 Jul 2026 11:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>異常気象頻発でPE投資家動く、保有資産の気候リスク分析を本格化</title>
-      <link>https://news.yahoo.co.jp/articles/9d1c842ad32ff46c89e28280df3b52c198bbcbd6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d1c842ad32ff46c89e28280df3b52c198bbcbd6</guid>
-      <pubDate>Thu, 16 Jul 2026 11:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>国民会議、給付付き税額控除を29年度導入で一致－消費減税は継続協議</title>
-      <link>https://news.yahoo.co.jp/articles/29783359efb8bc05bddde0f5b7ce1eb70448b521</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/29783359efb8bc05bddde0f5b7ce1eb70448b521</guid>
-      <pubDate>Thu, 16 Jul 2026 11:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相、市場の声に「謙虚に耳傾ける」－金融政策は日銀に委ねる</title>
-      <link>https://news.yahoo.co.jp/articles/fb2cf9655dac1843a06eb150b3a2d465c049dc35</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb2cf9655dac1843a06eb150b3a2d465c049dc35</guid>
-      <pubDate>Thu, 16 Jul 2026 11:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍、イランに対する夜間の一連の攻撃を完了</title>
-      <link>https://news.yahoo.co.jp/articles/0d66723516d3e2ef0cb7ec463a650057c2570535</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d66723516d3e2ef0cb7ec463a650057c2570535</guid>
-      <pubDate>Thu, 16 Jul 2026 10:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>東京エレク、エヌビディアとの協業拡大－エージェント型AIやロボット</title>
-      <link>https://news.yahoo.co.jp/articles/a8af9b9ab6c6754c660347eef1a5a5ae63292fc0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a8af9b9ab6c6754c660347eef1a5a5ae63292fc0</guid>
-      <pubDate>Thu, 16 Jul 2026 10:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏が米国民向け演説、日本時間あす午前10時－ホワイトハウス</title>
-      <link>https://news.yahoo.co.jp/articles/506c3a8258c97be922b07c1634f49389ad0e105b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/506c3a8258c97be922b07c1634f49389ad0e105b</guid>
-      <pubDate>Thu, 16 Jul 2026 10:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
