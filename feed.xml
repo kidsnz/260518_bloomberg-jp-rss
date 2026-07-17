@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 18:05:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:03:55 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米イランの衝突深刻化の恐れ－6日連続攻撃、ホルムズ海峡の通航激減</title>
+      <link>https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</guid>
+      <pubDate>Fri, 17 Jul 2026 18:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>コアウィーブ、26億ドル与信枠募集を開始－AIインフラ投資資金調達へ</title>
+      <link>https://news.yahoo.co.jp/articles/1802bbdda435184e23cb09436edf96b5aefc81c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1802bbdda435184e23cb09436edf96b5aefc81c7</guid>
+      <pubDate>Fri, 17 Jul 2026 17:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>日銀は成長率見通しを引き上げる公算大、世界的にAI需要拡大－関係者</title>
       <link>https://news.yahoo.co.jp/articles/f166285db2da7be42733f781dc8001abcd129f7a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f166285db2da7be42733f781dc8001abcd129f7a</guid>
       <pubDate>Fri, 17 Jul 2026 17:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国AIのムーンショット、新モデル発表－米大手並みの性能に迫る</title>
+      <link>https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</guid>
+      <pubDate>Fri, 17 Jul 2026 16:53:00 +0900</pubDate>
     </item>
     <item>
       <title>アサヒGHD、取引先の個人情報も漏えいの恐れ－25年9月のサイバー攻撃</title>
@@ -110,7 +128,7 @@
       <pubDate>Fri, 17 Jul 2026 09:35:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均4000円安、キオクシアHDストップ安－金利が低下</title>
+      <title>【日本市況】日経平均2700円安、キオクシアHD半値－超長期金利が上昇</title>
       <link>https://news.yahoo.co.jp/articles/f445a45f452d764ddcc8f97b55b7275590db381f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f445a45f452d764ddcc8f97b55b7275590db381f</guid>
       <pubDate>Fri, 17 Jul 2026 09:35:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/207059f10d517e1bf56b826564ac419c58896565</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/207059f10d517e1bf56b826564ac419c58896565</guid>
       <pubDate>Thu, 16 Jul 2026 17:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、債務膨らむLGFVの新規債発行を抑制－借り換えに重し</title>
-      <link>https://news.yahoo.co.jp/articles/026f07dc1389b8d824b69e3bd71b370e0508b7cd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/026f07dc1389b8d824b69e3bd71b370e0508b7cd</guid>
-      <pubDate>Thu, 16 Jul 2026 17:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ファストリのGU、高級ブランド出身者に託す｢刷新｣－海外展開へブランド確立急ぐ</title>
-      <link>https://news.yahoo.co.jp/articles/b848099650eb45203319563607a1661e4e826ff3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b848099650eb45203319563607a1661e4e826ff3</guid>
-      <pubDate>Thu, 16 Jul 2026 16:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>国産AI開発のソフトバンク連合､エヌビディアのGPUを大規模導入</title>
-      <link>https://news.yahoo.co.jp/articles/cab2631dff5089e80219d82a98b4e0042bc210ad</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cab2631dff5089e80219d82a98b4e0042bc210ad</guid>
-      <pubDate>Thu, 16 Jul 2026 16:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
