@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 07:12:48 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:23:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米軍、イランへの新たな空爆を開始－米中央軍</title>
+      <link>https://news.yahoo.co.jp/articles/e385508a294b7ba235481038fbc6c8213d18454b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e385508a294b7ba235481038fbc6c8213d18454b</guid>
+      <pubDate>Sun, 19 Jul 2026 07:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>ムーンショット「Kimi」、米国優位のAI業界の常識覆す－中国勢が猛追</title>
       <link>https://news.yahoo.co.jp/articles/35a3b8e2d95e69ea9cc7c2129c64e6537f47826f</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/03ce242f193ecaa1c24071fe0c4dcef3cfa1fb0a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03ce242f193ecaa1c24071fe0c4dcef3cfa1fb0a</guid>
       <pubDate>Fri, 17 Jul 2026 09:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相、為替「必要なら果断な措置」－口先介入にも円は反応薄</title>
-      <link>https://news.yahoo.co.jp/articles/1d640473b9544b79e6a5c11aa712f96bf3e89bd7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1d640473b9544b79e6a5c11aa712f96bf3e89bd7</guid>
-      <pubDate>Fri, 17 Jul 2026 09:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
