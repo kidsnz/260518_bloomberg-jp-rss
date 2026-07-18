@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 09:52:38 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 12:50:56 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米イラン攻撃応酬止まらず、一層深刻化の恐れ－原油4月以来の大幅高</title>
+      <link>https://news.yahoo.co.jp/articles/d9275b08a3ead436f9a1c844e3cf43d21083a3d2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d9275b08a3ead436f9a1c844e3cf43d21083a3d2</guid>
+      <pubDate>Sat, 18 Jul 2026 11:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「DeepSeekショック」再来を警戒－半導体株指数、最高値から20%下落</title>
+      <link>https://news.yahoo.co.jp/articles/73e22bdf75e40ebe765e355be523383dc5182d97</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/73e22bdf75e40ebe765e355be523383dc5182d97</guid>
+      <pubDate>Sat, 18 Jul 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国ソフトパワー輸出、Cビューティーが次の武器－韓国コスメを追う</title>
+      <link>https://news.yahoo.co.jp/articles/960e3c88194d1a75a0915e8ed395fb2025388fb9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/960e3c88194d1a75a0915e8ed395fb2025388fb9</guid>
+      <pubDate>Sat, 18 Jul 2026 08:26:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ政権、AIの安全性を審査する規制機関の創設検討－関係者</title>
       <link>https://news.yahoo.co.jp/articles/630bae9db136428a972fdbc08cbbef2e5dfe988e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/630bae9db136428a972fdbc08cbbef2e5dfe988e</guid>
       <pubDate>Sat, 18 Jul 2026 06:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油反発、米イラン戦闘激化を懸念－ブレント週間で4月以来の大幅高</title>
+      <link>https://news.yahoo.co.jp/articles/950a5117b43367be8b5892b896eb4c6bd412b0c1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/950a5117b43367be8b5892b896eb4c6bd412b0c1</guid>
+      <pubDate>Sat, 18 Jul 2026 05:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>メタ、AI向け計算能力の提供でアンソロピックと協議－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/48762f15e8cf5abd1b1cdf06c47d980db6e3f941</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48762f15e8cf5abd1b1cdf06c47d980db6e3f941</guid>
+      <pubDate>Sat, 18 Jul 2026 04:07:00 +0900</pubDate>
     </item>
     <item>
       <title>アップル、反トラスト訴訟巡り司法省と和解協議－関係者</title>
@@ -110,6 +140,12 @@
       <pubDate>Fri, 17 Jul 2026 19:25:00 +0900</pubDate>
     </item>
     <item>
+      <title>米イランの衝突深刻化の恐れ－6日連続、ホルムズ海峡の通航激減</title>
+      <link>https://news.yahoo.co.jp/articles/5def3decde13d79091c31aa886ec84f29156a716</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5def3decde13d79091c31aa886ec84f29156a716</guid>
+      <pubDate>Fri, 17 Jul 2026 18:52:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米イランの衝突に深刻化の恐れ－6日連続、ホルムズ海峡の通航激減</title>
       <link>https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</guid>
@@ -134,7 +170,7 @@
       <pubDate>Fri, 17 Jul 2026 17:34:00 +0900</pubDate>
     </item>
     <item>
-      <title>中国AIのムーンショット、新モデル発表－米大手並みの性能に迫る</title>
+      <title>中国発の最新AIに市場動揺－「Kimiモーメント」と投資家警戒</title>
       <link>https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</guid>
       <pubDate>Fri, 17 Jul 2026 16:53:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a7058fd2c721b82e2281164d5714e3c31e39a6a2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7058fd2c721b82e2281164d5714e3c31e39a6a2</guid>
       <pubDate>Fri, 17 Jul 2026 07:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は続落へ、米半導体株安が重し－AI関連への売り続く</title>
-      <link>https://news.yahoo.co.jp/articles/cb3bae3e5827bb7867993de652393d7ea0cb5e3c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb3bae3e5827bb7867993de652393d7ea0cb5e3c</guid>
-      <pubDate>Fri, 17 Jul 2026 07:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米住宅ローン金利6.55%、約1年ぶり高水準－中東情勢で住宅市場に逆風</title>
-      <link>https://news.yahoo.co.jp/articles/e95c6c9f8173c6558faffca80769132aa240ebf3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e95c6c9f8173c6558faffca80769132aa240ebf3</guid>
-      <pubDate>Fri, 17 Jul 2026 07:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株のIPO価格割れ、新規上場銘柄に冷や水－AI相場の熱気後退</title>
-      <link>https://news.yahoo.co.jp/articles/8c67b74481e94756bc1cbc5e4d7c0e7f81247dcd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c67b74481e94756bc1cbc5e4d7c0e7f81247dcd</guid>
-      <pubDate>Fri, 17 Jul 2026 06:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は利益確定売りで反落、週間では依然11%高-供給混乱への懸念続く</title>
-      <link>https://news.yahoo.co.jp/articles/823b9de11746a978741acd1e1ef49ce32751d976</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/823b9de11746a978741acd1e1ef49ce32751d976</guid>
-      <pubDate>Fri, 17 Jul 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>Netflix、ヒット作恵まれず投資家の不安強まる－スポーツ中継などに今後注力</title>
-      <link>https://news.yahoo.co.jp/articles/38e0cf34540a2c7493be378f9390f6e4d98b60b5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38e0cf34540a2c7493be378f9390f6e4d98b60b5</guid>
-      <pubDate>Fri, 17 Jul 2026 05:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍がイランに6日連続の攻撃－危険増すホルムズ海峡、通航量は細る</title>
-      <link>https://news.yahoo.co.jp/articles/49c30b0574e88d8e63fb0086c4ed1287b572d959</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49c30b0574e88d8e63fb0086c4ed1287b572d959</guid>
-      <pubDate>Fri, 17 Jul 2026 04:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
