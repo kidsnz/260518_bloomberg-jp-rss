@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 00:51:15 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 01:50:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン、米軍攻撃への報復強化－クウェートへ大規模攻撃</title>
+      <link>https://news.yahoo.co.jp/articles/48d2a0f36912472742b2cdc533a9b93d92124e47</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48d2a0f36912472742b2cdc533a9b93d92124e47</guid>
+      <pubDate>Sat, 18 Jul 2026 22:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国のムーンショットAIとは、なぜ世界の株式市場を揺るがすのか</title>
       <link>https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f445a45f452d764ddcc8f97b55b7275590db381f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f445a45f452d764ddcc8f97b55b7275590db381f</guid>
       <pubDate>Fri, 17 Jul 2026 09:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHD株、最高値から1カ月弱で半値－時価総額30兆円消失</title>
-      <link>https://news.yahoo.co.jp/articles/8db7633081bcdf9bf182f827704c823084dba240</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8db7633081bcdf9bf182f827704c823084dba240</guid>
-      <pubDate>Fri, 17 Jul 2026 09:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
