@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 12:50:56 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:59:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国、外国AIモデルの不正利用疑惑を否定－「蒸留」批判は見当違い</title>
+      <link>https://news.yahoo.co.jp/articles/0c4396fb8b604fc9119e7c5fd5bead3f4bba2aed</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c4396fb8b604fc9119e7c5fd5bead3f4bba2aed</guid>
+      <pubDate>Sat, 18 Jul 2026 13:26:00 +0900</pubDate>
+    </item>
     <item>
       <title>米イラン攻撃応酬止まらず、一層深刻化の恐れ－原油4月以来の大幅高</title>
       <link>https://news.yahoo.co.jp/articles/d9275b08a3ead436f9a1c844e3cf43d21083a3d2</link>
@@ -60,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/0d77b8ec3c9a71907c851596098b0e50e344cb13</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d77b8ec3c9a71907c851596098b0e50e344cb13</guid>
       <pubDate>Sat, 18 Jul 2026 01:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>著名投資家バーリ氏､香港の割安株に好機-「今が特に良いタイミング」</title>
+      <link>https://news.yahoo.co.jp/articles/ed5f5602d13ddeaec7cc436e6150146b7e58cbb1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed5f5602d13ddeaec7cc436e6150146b7e58cbb1</guid>
+      <pubDate>Sat, 18 Jul 2026 00:51:00 +0900</pubDate>
     </item>
     <item>
       <title>米半導体株指数が3日続落、弱気相場入りへ－驚異的上昇ペース急失速</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8b9e3c111a32fcc055f01606cf6cabd917faed77</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b9e3c111a32fcc055f01606cf6cabd917faed77</guid>
       <pubDate>Fri, 17 Jul 2026 08:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>止まらぬ自動車株の地盤沈下、中東情勢改善しても中国勢との競争重し</title>
-      <link>https://news.yahoo.co.jp/articles/1f5d12e295a36573d6a2798282a3f4e4adbc0ebe</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f5d12e295a36573d6a2798282a3f4e4adbc0ebe</guid>
-      <pubDate>Fri, 17 Jul 2026 08:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドル162円台前半、中東紛争激化でドル買い優勢－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/a7058fd2c721b82e2281164d5714e3c31e39a6a2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7058fd2c721b82e2281164d5714e3c31e39a6a2</guid>
-      <pubDate>Fri, 17 Jul 2026 07:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
