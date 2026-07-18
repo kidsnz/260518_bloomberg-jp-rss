@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:04:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:53:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国のムーンショットAIとは、なぜ世界の株式市場を揺るがすのか</title>
+      <link>https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6</guid>
+      <pubDate>Sat, 18 Jul 2026 16:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>アップル、日本でiPhone販売価格を引き上げ－歴史的な円安水準で</title>
       <link>https://news.yahoo.co.jp/articles/c47e5edf1267eff702e5eed9c804e837ffbdffe5</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8db7633081bcdf9bf182f827704c823084dba240</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8db7633081bcdf9bf182f827704c823084dba240</guid>
       <pubDate>Fri, 17 Jul 2026 09:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>的中率1位アナリストは1ドル=170円予測、独自モデルでニュース追わず</title>
-      <link>https://news.yahoo.co.jp/articles/abbe8ea77393970c0a882fdc5bc307b02fde8755</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/abbe8ea77393970c0a882fdc5bc307b02fde8755</guid>
-      <pubDate>Fri, 17 Jul 2026 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
