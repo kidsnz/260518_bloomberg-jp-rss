@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 06:13:59 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:23:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米イラン情勢が一段と緊迫、2日間で3人目の米兵死亡－報復合戦続く</title>
+      <link>https://news.yahoo.co.jp/articles/4c3349bdabfa2a54ef5d440b2f6d7255cc487b30</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c3349bdabfa2a54ef5d440b2f6d7255cc487b30</guid>
+      <pubDate>Mon, 20 Jul 2026 04:28:00 +0900</pubDate>
+    </item>
     <item>
       <title>韓国、ウォン取引規制を大幅緩和へ－外国人の取引容易に</title>
       <link>https://news.yahoo.co.jp/articles/55976abfa0256598fb8ac1a7a82fa77a2b2bd894</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/817e35e9fa0bd698dc5ab70ed5adeef42f040c21</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/817e35e9fa0bd698dc5ab70ed5adeef42f040c21</guid>
       <pubDate>Fri, 17 Jul 2026 11:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国AI台頭、世界ルール形成図る習氏－安全保障見据え米中が覇権争い</title>
-      <link>https://news.yahoo.co.jp/articles/32d9273e3d1d40c3f6e54c8aa34740747466543e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32d9273e3d1d40c3f6e54c8aa34740747466543e</guid>
-      <pubDate>Fri, 17 Jul 2026 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
