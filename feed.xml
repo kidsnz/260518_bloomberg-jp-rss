@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:23:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:58:11 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米軍、イランへの新たな空爆を開始－米中央軍</title>
@@ -20,16 +20,22 @@
       <pubDate>Sun, 19 Jul 2026 00:28:00 +0900</pubDate>
     </item>
     <item>
-      <title>米兵2人がヨルダンで戦死、行方不明・負傷者も－イラン和平合意破棄</title>
+      <title>米国、イランを追加攻撃－ヨルダンで米兵2人死亡受け「処罰」と説明</title>
       <link>https://news.yahoo.co.jp/articles/b0beb79b8abd49c9f61ede44cfb661dc565c6538</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b0beb79b8abd49c9f61ede44cfb661dc565c6538</guid>
-      <pubDate>Sun, 19 Jul 2026 22:40:00 +0900</pubDate>
+      <pubDate>Sat, 18 Jul 2026 22:40:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン、米軍攻撃への報復強化－クウェートへ大規模攻撃</title>
       <link>https://news.yahoo.co.jp/articles/48d2a0f36912472742b2cdc533a9b93d92124e47</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48d2a0f36912472742b2cdc533a9b93d92124e47</guid>
       <pubDate>Sat, 18 Jul 2026 22:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スカイルート、インド民間企業で初のロケット軌道投入に成功</title>
+      <link>https://news.yahoo.co.jp/articles/c1ae6b9abf59ced7994cec5901d9559503be68aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1ae6b9abf59ced7994cec5901d9559503be68aa</guid>
+      <pubDate>Sat, 18 Jul 2026 17:24:00 +0900</pubDate>
     </item>
     <item>
       <title>中国のムーンショットAIとは、なぜ世界の株式市場を揺るがすのか</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5287ceff6388b4311c0abfd4f2101e01c3423841</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5287ceff6388b4311c0abfd4f2101e01c3423841</guid>
       <pubDate>Fri, 17 Jul 2026 10:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日経平均が4%超下落、キオクシアなどAI・半導体関連に売り継続</title>
-      <link>https://news.yahoo.co.jp/articles/03ce242f193ecaa1c24071fe0c4dcef3cfa1fb0a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03ce242f193ecaa1c24071fe0c4dcef3cfa1fb0a</guid>
-      <pubDate>Fri, 17 Jul 2026 09:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
