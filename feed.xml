@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 13:21:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:03:12 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国、ウォン取引規制を大幅緩和へ－外国人の取引容易に</title>
+      <link>https://news.yahoo.co.jp/articles/55976abfa0256598fb8ac1a7a82fa77a2b2bd894</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55976abfa0256598fb8ac1a7a82fa77a2b2bd894</guid>
+      <pubDate>Sun, 19 Jul 2026 14:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>米軍、イランへの新たな空爆を開始－米中央軍</title>
       <link>https://news.yahoo.co.jp/articles/e385508a294b7ba235481038fbc6c8213d18454b</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/32d9273e3d1d40c3f6e54c8aa34740747466543e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32d9273e3d1d40c3f6e54c8aa34740747466543e</guid>
       <pubDate>Fri, 17 Jul 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホンダ、米国のEV販売終了へ－需要低迷でハイブリッド車に軸足</title>
-      <link>https://news.yahoo.co.jp/articles/5287ceff6388b4311c0abfd4f2101e01c3423841</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5287ceff6388b4311c0abfd4f2101e01c3423841</guid>
-      <pubDate>Fri, 17 Jul 2026 10:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
