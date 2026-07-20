@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 17:22:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:20:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>香港取引所、株式取引時間の延長や昼休み廃止を検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/6d3b2ddfc5147d87755452440dc880c3825faf36</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d3b2ddfc5147d87755452440dc880c3825faf36</guid>
+      <pubDate>Mon, 20 Jul 2026 16:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏に「良い選択肢なし」－イラン対応、軍事も外交も険しい道</title>
       <link>https://news.yahoo.co.jp/articles/83d7cc391c591c028f628de307b4059b5da1b18f</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2a2739318bfa6fd808b2f8a05ab53171849081d2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a2739318bfa6fd808b2f8a05ab53171849081d2</guid>
       <pubDate>Fri, 17 Jul 2026 15:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】弱含み、実需ドル買いと介入警戒交錯－ECBやCPI焦点</title>
-      <link>https://news.yahoo.co.jp/articles/5a9a9b5236e33f88b31b59c4769781211a1dd3ef</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a9a9b5236e33f88b31b59c4769781211a1dd3ef</guid>
-      <pubDate>Fri, 17 Jul 2026 13:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
