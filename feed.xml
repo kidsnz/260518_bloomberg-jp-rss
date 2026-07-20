@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:01:53 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:22:12 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏に「良い選択肢なし」－イラン対応、軍事も外交も険しい道</title>
+      <link>https://news.yahoo.co.jp/articles/83d7cc391c591c028f628de307b4059b5da1b18f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83d7cc391c591c028f628de307b4059b5da1b18f</guid>
+      <pubDate>Mon, 20 Jul 2026 13:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブレント原油90ドル台、米イランが報復の応酬－ホルムズ輸送懸念</title>
+      <link>https://news.yahoo.co.jp/articles/0230edee580c931f9c0af84edbc3617d652db723</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0230edee580c931f9c0af84edbc3617d652db723</guid>
+      <pubDate>Mon, 20 Jul 2026 10:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペイン、2度目のW杯優勝－延長1－0で下す、アルゼンチンは退場響く</title>
       <link>https://news.yahoo.co.jp/articles/decbb7492fbded744f197ea1ce8c80c439731fe0</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5a9a9b5236e33f88b31b59c4769781211a1dd3ef</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a9a9b5236e33f88b31b59c4769781211a1dd3ef</guid>
       <pubDate>Fri, 17 Jul 2026 13:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHDの特許侵害を認める米陪審評決、損害賠償金約371億円</title>
-      <link>https://news.yahoo.co.jp/articles/6eaca9d3ee4fa49621cdbd9322c2426cc18ef535</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6eaca9d3ee4fa49621cdbd9322c2426cc18ef535</guid>
-      <pubDate>Fri, 17 Jul 2026 13:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米、中国人記者のビザ期間を90日に短縮－「メディア戦争」再燃に懸念</title>
-      <link>https://news.yahoo.co.jp/articles/10966a83207178e430e0f0d21548957878d47d9b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/10966a83207178e430e0f0d21548957878d47d9b</guid>
-      <pubDate>Fri, 17 Jul 2026 13:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
