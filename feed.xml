@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 22:23:48 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 00:26:29 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ヘッジファンド、米ハイテク株を過去最大ペースで売却－ゴールドマン</title>
+      <link>https://news.yahoo.co.jp/articles/6ffedf0bb0f9f21e8a9aa717d82e92a56af9f7c1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ffedf0bb0f9f21e8a9aa717d82e92a56af9f7c1</guid>
+      <pubDate>Mon, 20 Jul 2026 23:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>英バーナム新首相、初演説で新たな経済モデル公約－10年で首相7人目</title>
       <link>https://news.yahoo.co.jp/articles/cccabd236e3e6e88b93895bda9b1304c1ba1224c</link>
@@ -14,10 +20,16 @@
       <pubDate>Mon, 20 Jul 2026 21:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>親イラン武装組織フーシ派、サウジへの海上封鎖を実施すると表明</title>
+      <title>フーシ派、サウジへの海上封鎖を表明－紅海経由の原油供給にリスク</title>
       <link>https://news.yahoo.co.jp/articles/6b1fb276a520e2e9a49c01a81022bc03ca625837</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b1fb276a520e2e9a49c01a81022bc03ca625837</guid>
       <pubDate>Mon, 20 Jul 2026 21:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国が9日連続で対イラン攻撃、ホルムズ海峡めぐる対立深まる</title>
+      <link>https://news.yahoo.co.jp/articles/ffc2d8333f2900b78febf079c0cc7d2a3dffbf3f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ffc2d8333f2900b78febf079c0cc7d2a3dffbf3f</guid>
+      <pubDate>Mon, 20 Jul 2026 18:32:00 +0900</pubDate>
     </item>
     <item>
       <title>中国レアアース磁石、対米輸出が貿易戦争前を20％下回る－順守に疑念</title>
@@ -38,7 +50,7 @@
       <pubDate>Mon, 20 Jul 2026 13:10:00 +0900</pubDate>
     </item>
     <item>
-      <title>ブレント原油一時91ドル台、米イランが報復の応酬－ホルムズ輸送懸念</title>
+      <title>ブレント原油88ドル近辺－米イランの攻撃停止、仲介国が提案</title>
       <link>https://news.yahoo.co.jp/articles/0230edee580c931f9c0af84edbc3617d652db723</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0230edee580c931f9c0af84edbc3617d652db723</guid>
       <pubDate>Mon, 20 Jul 2026 10:32:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</guid>
       <pubDate>Fri, 17 Jul 2026 16:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アサヒGHD、取引先の個人情報も漏えいの恐れ－25年9月のサイバー攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/927808103b0560d31d87799c75c51e08e9e37b84</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/927808103b0560d31d87799c75c51e08e9e37b84</guid>
-      <pubDate>Fri, 17 Jul 2026 16:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、GPIFによる日本の金融資産への投資後押しする方策重要</title>
-      <link>https://news.yahoo.co.jp/articles/44f10aa44baefd350c4f0f73a3c4d8329a3ec265</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44f10aa44baefd350c4f0f73a3c4d8329a3ec265</guid>
-      <pubDate>Fri, 17 Jul 2026 16:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
