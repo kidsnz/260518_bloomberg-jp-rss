@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 01:54:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 03:50:08 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>グーグル、Gemini向けに独自の半導体を開発－インフォメーション</title>
@@ -26,6 +26,12 @@
       <pubDate>Mon, 20 Jul 2026 23:21:00 +0900</pubDate>
     </item>
     <item>
+      <title>英バーナム新首相、財政ルールの範囲内で「柔軟性」活用の方針示す</title>
+      <link>https://news.yahoo.co.jp/articles/2929892ea3ac6b34d6edb7238043354da8f4cb65</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2929892ea3ac6b34d6edb7238043354da8f4cb65</guid>
+      <pubDate>Tue, 21 Jul 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
       <title>英バーナム新首相、新たな経済モデル公約－政治安定回復へ</title>
       <link>https://news.yahoo.co.jp/articles/cccabd236e3e6e88b93895bda9b1304c1ba1224c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cccabd236e3e6e88b93895bda9b1304c1ba1224c</guid>
@@ -38,10 +44,22 @@
       <pubDate>Mon, 20 Jul 2026 21:19:00 +0900</pubDate>
     </item>
     <item>
+      <title>イラン、対立緩和へ仲介国と接触－正式協議再開の兆しなお見えず</title>
+      <link>https://news.yahoo.co.jp/articles/8d4f4d6eca967f8d9b4f5bc3b29dce7eb8f51408</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d4f4d6eca967f8d9b4f5bc3b29dce7eb8f51408</guid>
+      <pubDate>Mon, 20 Jul 2026 18:32:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米国が9日連続で対イラン攻撃、ホルムズ海峡めぐる対立深まる</title>
       <link>https://news.yahoo.co.jp/articles/ffc2d8333f2900b78febf079c0cc7d2a3dffbf3f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ffc2d8333f2900b78febf079c0cc7d2a3dffbf3f</guid>
       <pubDate>Mon, 20 Jul 2026 18:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ガソリン価格、1カ月ぶり4ドル超える－米イラン衝突激化で原油上昇</title>
+      <link>https://news.yahoo.co.jp/articles/51b6774db53957569574a6470be4359848cb3d94</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51b6774db53957569574a6470be4359848cb3d94</guid>
+      <pubDate>Mon, 20 Jul 2026 17:45:00 +0900</pubDate>
     </item>
     <item>
       <title>中国レアアース磁石、対米輸出が貿易戦争前を20％下回る－順守に疑念</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5def3decde13d79091c31aa886ec84f29156a716</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5def3decde13d79091c31aa886ec84f29156a716</guid>
       <pubDate>Fri, 17 Jul 2026 18:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イランの衝突に深刻化の恐れ－6日連続、ホルムズ海峡の通航激減</title>
-      <link>https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d71532762976aba61cadc55a450bae02dd3e8b75</guid>
-      <pubDate>Fri, 17 Jul 2026 18:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>TSMC株急落、台湾株が調整局面入り－アジア半導体銘柄に売り広がる</title>
-      <link>https://news.yahoo.co.jp/articles/306e20dc66d84146e44d0a5c4a9f31b5bf5877b1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/306e20dc66d84146e44d0a5c4a9f31b5bf5877b1</guid>
-      <pubDate>Fri, 17 Jul 2026 17:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>コアウィーブ、26億ドル与信枠募集を開始－AIインフラ投資資金調達へ</title>
-      <link>https://news.yahoo.co.jp/articles/1802bbdda435184e23cb09436edf96b5aefc81c7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1802bbdda435184e23cb09436edf96b5aefc81c7</guid>
-      <pubDate>Fri, 17 Jul 2026 17:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
