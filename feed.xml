@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:39:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:53:52 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ政権、カナダ製品の一部に50%関税へ－貿易摩擦激化の可能性</title>
+      <link>https://news.yahoo.co.jp/articles/737b74faacdb4d15ab18f42e513582d9f23e8de4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/737b74faacdb4d15ab18f42e513582d9f23e8de4</guid>
+      <pubDate>Tue, 21 Jul 2026 06:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国ムーンショット、DeepSeek脚光の陰で戦略転換－大型モデルが奏功</title>
       <link>https://news.yahoo.co.jp/articles/f00d22352f6af77cf307fb470f9ec021552014ad</link>
@@ -72,6 +78,12 @@
       <link>https://news.yahoo.co.jp/articles/6b1fb276a520e2e9a49c01a81022bc03ca625837</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b1fb276a520e2e9a49c01a81022bc03ca625837</guid>
       <pubDate>Mon, 20 Jul 2026 21:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ボーイング、次世代機投入は2030年代末に－CEOが見通し示す</title>
+      <link>https://news.yahoo.co.jp/articles/1de7bf1402c642a5b1ca59ba7a88a4919dd02790</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1de7bf1402c642a5b1ca59ba7a88a4919dd02790</guid>
+      <pubDate>Mon, 20 Jul 2026 19:33:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン、対立緩和へ仲介国と接触－正式協議再開の兆しなお見えず</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bdd4b589ef60ee75fe00a0f6648434eb98ce3938</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdd4b589ef60ee75fe00a0f6648434eb98ce3938</guid>
       <pubDate>Fri, 17 Jul 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>IBMショックが映すテック企業の明暗、ソフトウエア株に強まる逆風</title>
-      <link>https://news.yahoo.co.jp/articles/bda8f3f2033bd19e56b1dda8b8ced51a05793b0b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bda8f3f2033bd19e56b1dda8b8ced51a05793b0b</guid>
-      <pubDate>Fri, 17 Jul 2026 22:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500続落、半導体株が弱気相場入り－イラン情勢も意識</title>
-      <link>https://news.yahoo.co.jp/articles/1a8f34f2bbfc7ab6fdac2a23bae57e17901762f2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a8f34f2bbfc7ab6fdac2a23bae57e17901762f2</guid>
-      <pubDate>Sat, 18 Jul 2026 22:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
