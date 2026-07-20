@@ -4,6 +4,16 @@
 形式は [Keep a Changelog](https://keepachangelog.com/ja/1.1.0/) に従い、
 バージョニングは [Semantic Versioning](https://semver.org/lang/ja/) に従います。
 
+## [1.0.2] - 2026-07-20
+
+### Fixed
+- 1.0.1 のリトライ処理が `git pull --rebase` で `feed.xml` のコンフリクトを起こし、
+  ワークフローが exit code 1 で失敗する問題を解消（run #1186）。
+- `feed.xml` は生成物のためマージせず、`git fetch` + `git reset --hard origin/main` の上に
+  生成済みファイルを置き直して commit/push する方式に変更。
+- 3回試行しても push できない場合は明示的にエラー終了するように（従来はループ内の
+  最終コマンドの終了状態に依存していた）。
+
 ## [1.0.1] - 2026-06-18
 
 ### Fixed
@@ -25,5 +35,6 @@
 - Google News RSS 経由（Bloomberg.com リンク）の旧実装を
   `archive/fetch_and_build_googlenews.py` に参考として保存。
 
+[1.0.2]: https://github.com/kidsnz/260518_bloomberg-jp-rss/releases/tag/v1.0.2
 [1.0.1]: https://github.com/kidsnz/260518_bloomberg-jp-rss/releases/tag/v1.0.1
 [1.0.0]: https://github.com/kidsnz/260518_bloomberg-jp-rss/releases/tag/v1.0.0

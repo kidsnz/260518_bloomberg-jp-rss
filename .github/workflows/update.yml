@@ -39,11 +39,23 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
-          git commit -m "chore: update feed.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          # Retry with rebase in case another run pushed first (fetch-first reject).
+          # feed.xml is a generated artifact: never merge it, just replay the
+          # freshly built file on top of whatever origin/main currently has.
+          cp feed.xml "$RUNNER_TEMP/feed.xml"
           for i in 1 2 3; do
-            git push && break
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$RUNNER_TEMP/feed.xml" feed.xml
+            if git diff --quiet feed.xml; then
+              echo "feed.xml already up to date on origin/main, nothing to push"
+              exit 0
+            fi
+            git add feed.xml
+            git commit -m "chore: update feed.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            if git push; then
+              exit 0
+            fi
             echo "push rejected, retrying ($i)..."
-            git pull --rebase --autostash
           done
+          echo "::error::failed to push feed.xml after 3 attempts"
+          exit 1
