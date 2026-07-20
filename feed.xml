@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:50:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:17:16 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、米兵死亡でイランに「報い」警告－仲介国は停戦模索</title>
+      <link>https://news.yahoo.co.jp/articles/07973ececce1374c4427aced371d336cd17d9dc3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07973ececce1374c4427aced371d336cd17d9dc3</guid>
+      <pubDate>Tue, 21 Jul 2026 03:48:00 +0900</pubDate>
+    </item>
     <item>
       <title>グーグル、Gemini向けに独自の半導体を開発－インフォメーション</title>
       <link>https://news.yahoo.co.jp/articles/75de5efbb3a6b7edd1ab36e91eb070185fb0b31d</link>
@@ -26,7 +32,7 @@
       <pubDate>Mon, 20 Jul 2026 23:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>英バーナム新首相、財政ルールの範囲内で「柔軟性」活用の方針示す</title>
+      <title>バーナム英首相､財政ルール内で柔軟対応-財務相に元国防相ヒーリー氏</title>
       <link>https://news.yahoo.co.jp/articles/2929892ea3ac6b34d6edb7238043354da8f4cb65</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2929892ea3ac6b34d6edb7238043354da8f4cb65</guid>
       <pubDate>Tue, 21 Jul 2026 21:43:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/18623098933ec97b2b7de821800dc8c4086b9683</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18623098933ec97b2b7de821800dc8c4086b9683</guid>
       <pubDate>Fri, 17 Jul 2026 19:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イランの衝突深刻化の恐れ－6日連続、ホルムズ海峡の通航激減</title>
-      <link>https://news.yahoo.co.jp/articles/5def3decde13d79091c31aa886ec84f29156a716</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5def3decde13d79091c31aa886ec84f29156a716</guid>
-      <pubDate>Fri, 17 Jul 2026 18:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
