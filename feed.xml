@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 05:17:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:39:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国ムーンショット、DeepSeek脚光の陰で戦略転換－大型モデルが奏功</title>
+      <link>https://news.yahoo.co.jp/articles/f00d22352f6af77cf307fb470f9ec021552014ad</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f00d22352f6af77cf307fb470f9ec021552014ad</guid>
+      <pubDate>Tue, 21 Jul 2026 06:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油続伸、中東情勢巡る報道で乱高下－WTIが6月中旬以来の高値</title>
+      <link>https://news.yahoo.co.jp/articles/7335206368e675ee3dc9df8a23734bc01b8f4e13</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7335206368e675ee3dc9df8a23734bc01b8f4e13</guid>
+      <pubDate>Tue, 21 Jul 2026 06:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、米兵死亡でイランに「報い」警告－仲介国は停戦模索</title>
       <link>https://news.yahoo.co.jp/articles/07973ececce1374c4427aced371d336cd17d9dc3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07973ececce1374c4427aced371d336cd17d9dc3</guid>
       <pubDate>Tue, 21 Jul 2026 03:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英財務相にジョン・ヒーリー前国防相、予想外の人事</title>
+      <link>https://news.yahoo.co.jp/articles/8b87855273cebab27056e5d5f6a7affe973037b0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b87855273cebab27056e5d5f6a7affe973037b0</guid>
+      <pubDate>Tue, 21 Jul 2026 02:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株下落、中東情勢を注視－英国債は財政リスク懸念で下落</title>
+      <link>https://news.yahoo.co.jp/articles/06a3c6e0e48819ddcee8997279816c94f6776e01</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/06a3c6e0e48819ddcee8997279816c94f6776e01</guid>
+      <pubDate>Tue, 21 Jul 2026 02:18:00 +0900</pubDate>
     </item>
     <item>
       <title>グーグル、Gemini向けに独自の半導体を開発－インフォメーション</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1a8f34f2bbfc7ab6fdac2a23bae57e17901762f2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a8f34f2bbfc7ab6fdac2a23bae57e17901762f2</guid>
       <pubDate>Sat, 18 Jul 2026 22:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株は続落、半導体株指数が弱気相場入りに近づく</title>
-      <link>https://news.yahoo.co.jp/articles/b07c1635dd9308dadaa5e8074e8dd1772ae8dbb8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b07c1635dd9308dadaa5e8074e8dd1772ae8dbb8</guid>
-      <pubDate>Fri, 17 Jul 2026 22:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米製造業生産指数、6月は横ばい－耐久財の落ち込みが重し</title>
-      <link>https://news.yahoo.co.jp/articles/5d2d25642452d4d15b200ae7d462b0decfa68686</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d2d25642452d4d15b200ae7d462b0decfa68686</guid>
-      <pubDate>Fri, 17 Jul 2026 22:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英労働党党首にバーナム氏選出、次期首相に就任へ</title>
-      <link>https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2d147b09c9f7697364413bb4f14880b500637df</guid>
-      <pubDate>Fri, 17 Jul 2026 20:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン関連タンカーがUターンやジグザグ航行、米海上封鎖措置で</title>
-      <link>https://news.yahoo.co.jp/articles/18623098933ec97b2b7de821800dc8c4086b9683</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18623098933ec97b2b7de821800dc8c4086b9683</guid>
-      <pubDate>Fri, 17 Jul 2026 19:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
