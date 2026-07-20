@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:26:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 01:54:29 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>グーグル、Gemini向けに独自の半導体を開発－インフォメーション</title>
+      <link>https://news.yahoo.co.jp/articles/75de5efbb3a6b7edd1ab36e91eb070185fb0b31d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75de5efbb3a6b7edd1ab36e91eb070185fb0b31d</guid>
+      <pubDate>Tue, 21 Jul 2026 00:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500反発、半導体株に買い戻し－米イラン和平期待で原油が値を消す</title>
+      <link>https://news.yahoo.co.jp/articles/0a4bac3b3938246e858b6b5b103e6973dfa838f4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0a4bac3b3938246e858b6b5b103e6973dfa838f4</guid>
+      <pubDate>Mon, 20 Jul 2026 23:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>ヘッジファンド、米ハイテク株を過去最大ペースで売却－ゴールドマン</title>
       <link>https://news.yahoo.co.jp/articles/6ffedf0bb0f9f21e8a9aa717d82e92a56af9f7c1</link>
@@ -14,7 +26,7 @@
       <pubDate>Mon, 20 Jul 2026 23:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>英バーナム新首相、初演説で新たな経済モデル公約－10年で首相7人目</title>
+      <title>英バーナム新首相、新たな経済モデル公約－政治安定回復へ</title>
       <link>https://news.yahoo.co.jp/articles/cccabd236e3e6e88b93895bda9b1304c1ba1224c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cccabd236e3e6e88b93895bda9b1304c1ba1224c</guid>
       <pubDate>Mon, 20 Jul 2026 21:43:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1802bbdda435184e23cb09436edf96b5aefc81c7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1802bbdda435184e23cb09436edf96b5aefc81c7</guid>
       <pubDate>Fri, 17 Jul 2026 17:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀は成長率見通しを引き上げる公算大、世界的にAI需要拡大－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/f166285db2da7be42733f781dc8001abcd129f7a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f166285db2da7be42733f781dc8001abcd129f7a</guid>
-      <pubDate>Fri, 17 Jul 2026 17:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国発の最新AIに市場動揺－「Kimiモーメント」と投資家警戒</title>
-      <link>https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aeb0994e85d2bf3b37dc832b63c61b0d765c3219</guid>
-      <pubDate>Fri, 17 Jul 2026 16:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
