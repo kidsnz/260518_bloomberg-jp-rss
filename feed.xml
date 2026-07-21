@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 06:59:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:04:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ米政権、24日までに新関税発動へ－10%関税失効前に空白回避</title>
+      <link>https://news.yahoo.co.jp/articles/c288978edb874fb5ff05235f459eb8e63f652f23</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c288978edb874fb5ff05235f459eb8e63f652f23</guid>
+      <pubDate>Wed, 22 Jul 2026 07:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油3日続伸、ホルムズ・紅海の輸送リスク警戒－ブレント92ドル目前</title>
       <link>https://news.yahoo.co.jp/articles/1689b7df341a0e0860f0dc39551b6898a09115b6</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/4bf866e83d2c2a1615488278cd81ec8ffc0c6aca</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4bf866e83d2c2a1615488278cd81ec8ffc0c6aca</guid>
       <pubDate>Wed, 22 Jul 2026 05:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】英国債ほぼ変わらず、新首相歓迎ムードなし－株は反発</title>
+      <link>https://news.yahoo.co.jp/articles/22305729eade1b5ddb9585d711bc8588a45b2d49</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22305729eade1b5ddb9585d711bc8588a45b2d49</guid>
+      <pubDate>Wed, 22 Jul 2026 03:00:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン戦争激化､湾岸の米同盟国にいら立ち-米軍の強硬対応求める声も</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8b87855273cebab27056e5d5f6a7affe973037b0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b87855273cebab27056e5d5f6a7affe973037b0</guid>
       <pubDate>Tue, 21 Jul 2026 02:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株下落、中東情勢を注視－英国債は財政リスク懸念で下落</title>
-      <link>https://news.yahoo.co.jp/articles/06a3c6e0e48819ddcee8997279816c94f6776e01</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/06a3c6e0e48819ddcee8997279816c94f6776e01</guid>
-      <pubDate>Tue, 21 Jul 2026 02:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グーグル、Gemini向けに独自の半導体を開発－インフォメーション</title>
-      <link>https://news.yahoo.co.jp/articles/75de5efbb3a6b7edd1ab36e91eb070185fb0b31d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75de5efbb3a6b7edd1ab36e91eb070185fb0b31d</guid>
-      <pubDate>Tue, 21 Jul 2026 00:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
