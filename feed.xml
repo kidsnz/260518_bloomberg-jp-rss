@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 23:32:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:19:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国ムーンショット、企業価値8兆円超での資金調達を協議－IPO前に</title>
+      <link>https://news.yahoo.co.jp/articles/bc1704561d3d037b82254624ef05210f52c67c37</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc1704561d3d037b82254624ef05210f52c67c37</guid>
+      <pubDate>Tue, 21 Jul 2026 23:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の超大型原油タンカーが紅海でUターン、フーシ派の攻撃警告で</title>
+      <link>https://news.yahoo.co.jp/articles/9202a4830ded82ce63bddf5483a14e22012a0a61</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9202a4830ded82ce63bddf5483a14e22012a0a61</guid>
+      <pubDate>Tue, 21 Jul 2026 22:39:00 +0900</pubDate>
+    </item>
     <item>
       <title>ベッセント長官、中国製AIモデルを米政府調査へ－知財盗用なら制裁も</title>
       <link>https://news.yahoo.co.jp/articles/5c9de378d4ce01e50e8efad392f6df1d812d08cf</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1de7bf1402c642a5b1ca59ba7a88a4919dd02790</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1de7bf1402c642a5b1ca59ba7a88a4919dd02790</guid>
       <pubDate>Mon, 20 Jul 2026 19:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、対立緩和へ仲介国と接触－正式協議再開の兆しなお見えず</title>
-      <link>https://news.yahoo.co.jp/articles/8d4f4d6eca967f8d9b4f5bc3b29dce7eb8f51408</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d4f4d6eca967f8d9b4f5bc3b29dce7eb8f51408</guid>
-      <pubDate>Mon, 20 Jul 2026 18:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国が9日連続で対イラン攻撃、ホルムズ海峡めぐる対立深まる</title>
-      <link>https://news.yahoo.co.jp/articles/ffc2d8333f2900b78febf079c0cc7d2a3dffbf3f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ffc2d8333f2900b78febf079c0cc7d2a3dffbf3f</guid>
-      <pubDate>Mon, 20 Jul 2026 18:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
