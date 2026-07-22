@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:55:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:45:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>BMW、パリ･モーターショーへの出展取りやめ－コスト削減を優先</title>
+      <link>https://news.yahoo.co.jp/articles/00a0d5d9b754cefc4869f7ce828a9301e08d6ba0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/00a0d5d9b754cefc4869f7ce828a9301e08d6ba0</guid>
+      <pubDate>Wed, 22 Jul 2026 19:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油上げ拡大、ブレントは95ドル突破－米イラン交渉への期待後退</title>
+      <link>https://news.yahoo.co.jp/articles/1aeffa27e680f723096cd0cbc3545713a08afb28</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1aeffa27e680f723096cd0cbc3545713a08afb28</guid>
+      <pubDate>Wed, 22 Jul 2026 18:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国、官民総動員で株安阻止－「国家隊」や保険会社が相次ぎ買い支え</title>
       <link>https://news.yahoo.co.jp/articles/2980b664bd1ea2639337648d92a1d95f501d270f</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/67d093b4f711f640562aab5d2b1bfa10a29ef4be</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67d093b4f711f640562aab5d2b1bfa10a29ef4be</guid>
       <pubDate>Tue, 21 Jul 2026 14:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウクライナ企業、長距離兵器を開発－ロシアに対する作戦で試験中</title>
-      <link>https://news.yahoo.co.jp/articles/3787f5d5267d73d333b413d953f2025b631cea1c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3787f5d5267d73d333b413d953f2025b631cea1c</guid>
-      <pubDate>Tue, 21 Jul 2026 14:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>生損保の超長期債買越額が3年ぶり高水準、6月日証協－需要安定の兆し</title>
-      <link>https://news.yahoo.co.jp/articles/3399d63e1e2e2194f7f7a52a9778294d6aeba287</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3399d63e1e2e2194f7f7a52a9778294d6aeba287</guid>
-      <pubDate>Tue, 21 Jul 2026 14:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
