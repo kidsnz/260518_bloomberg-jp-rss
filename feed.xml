@@ -5,19 +5,55 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:59:42 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:10:30 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>アルファベット、クラウド売上高が市場予想上回る</title>
+      <title>米とサウジ、原子力技術共有協定を締結－ウラン濃縮巡る懸念浮上</title>
+      <link>https://news.yahoo.co.jp/articles/731eca83466e1a5a05394f4f883615cbc2b34bf8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/731eca83466e1a5a05394f4f883615cbc2b34bf8</guid>
+      <pubDate>Thu, 23 Jul 2026 05:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米IBM、通期売上高見通し引き下げ－メインフレーム不振で</title>
+      <link>https://news.yahoo.co.jp/articles/80be7a24d2f5e978e6f225b136c31702b766b7d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80be7a24d2f5e978e6f225b136c31702b766b7d3</guid>
+      <pubDate>Thu, 23 Jul 2026 05:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アルファベット、クラウド売上高が市場予想上回る－Gemini利用拡大</title>
       <link>https://news.yahoo.co.jp/articles/2afdc7c3e46849de64ef023b341887a0c64e5030</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2afdc7c3e46849de64ef023b341887a0c64e5030</guid>
       <pubDate>Thu, 23 Jul 2026 05:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米テスラ、4－6月利益が市場予想を下回る－時間外で株価2.8%安</title>
+      <link>https://news.yahoo.co.jp/articles/e4223b82f92523544efdf4a1a8c1379806ecf513</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4223b82f92523544efdf4a1a8c1379806ecf513</guid>
+      <pubDate>Thu, 23 Jul 2026 05:14:00 +0900</pubDate>
     </item>
     <item>
       <title>日本、円相場から利回り重視に転換も－ドイツ銀のサクデバ氏</title>
       <link>https://news.yahoo.co.jp/articles/97d74c2d39ed916627f18831e013b1112a3a1acc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97d74c2d39ed916627f18831e013b1112a3a1acc</guid>
       <pubDate>Thu, 23 Jul 2026 03:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】欧州株は上昇、決算手掛かりにリスクオン－国債は下落</title>
+      <link>https://news.yahoo.co.jp/articles/f4291af10ff9d8d3f56f2e4d540d4faa138b27d0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4291af10ff9d8d3f56f2e4d540d4faa138b27d0</guid>
+      <pubDate>Thu, 23 Jul 2026 02:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州天然ガス上昇、燃料調達懸念高まる－月間で40%超値上がり</title>
+      <link>https://news.yahoo.co.jp/articles/551e4e7796aee1a22cac559de702834e3caada04</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/551e4e7796aee1a22cac559de702834e3caada04</guid>
+      <pubDate>Thu, 23 Jul 2026 01:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ナイキが中国販売代理店との契約終了へ－数百社対象、事業再建の一環</title>
+      <link>https://news.yahoo.co.jp/articles/94f730b68e607bf4243f47559f758eb5a71ab462</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/94f730b68e607bf4243f47559f758eb5a71ab462</guid>
+      <pubDate>Thu, 23 Jul 2026 00:57:00 +0900</pubDate>
     </item>
     <item>
       <title>【米国市況】S&amp;P500下落、テック決算控え警戒感－円は40年ぶり安値圏</title>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a3990333a48cc742058085398eec4e9d56bc8a91</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3990333a48cc742058085398eec4e9d56bc8a91</guid>
       <pubDate>Wed, 22 Jul 2026 22:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国の超大型原油タンカーが紅海でUターン、フーシ派の攻撃警告で</title>
-      <link>https://news.yahoo.co.jp/articles/9202a4830ded82ce63bddf5483a14e22012a0a61</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9202a4830ded82ce63bddf5483a14e22012a0a61</guid>
-      <pubDate>Tue, 21 Jul 2026 22:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベッセント長官、中国製AIモデルを米政府調査へ－知財盗用なら制裁も</title>
-      <link>https://news.yahoo.co.jp/articles/5c9de378d4ce01e50e8efad392f6df1d812d08cf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c9de378d4ce01e50e8efad392f6df1d812d08cf</guid>
-      <pubDate>Tue, 21 Jul 2026 21:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>GM、通期見通し引き上げ－トラックの高価格維持とコスト削減が寄与</title>
-      <link>https://news.yahoo.co.jp/articles/046fc75f41f6f90e0544bfac267c66d1b6c9fde3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/046fc75f41f6f90e0544bfac267c66d1b6c9fde3</guid>
-      <pubDate>Tue, 21 Jul 2026 21:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国の李大統領、住宅ローン規制巡り非難の的－マンション売却裏目に</title>
-      <link>https://news.yahoo.co.jp/articles/0abf57dc34dec090527a09484da3dbd225e8f246</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0abf57dc34dec090527a09484da3dbd225e8f246</guid>
-      <pubDate>Tue, 21 Jul 2026 20:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フーシ派、サウジアラビアへの寄港控えるよう全船舶に警告</title>
-      <link>https://news.yahoo.co.jp/articles/3ec61ae0c4f2ec7949112ebf58a1b3f17daba466</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ec61ae0c4f2ec7949112ebf58a1b3f17daba466</guid>
-      <pubDate>Tue, 21 Jul 2026 19:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>HSBCケトナー氏、株式への強気姿勢で実績積む－3年半方針ほぼ変えず</title>
-      <link>https://news.yahoo.co.jp/articles/a631f73e5d38bbe103a222ace15ff00de9f3104d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a631f73e5d38bbe103a222ace15ff00de9f3104d</guid>
-      <pubDate>Tue, 21 Jul 2026 18:31:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
