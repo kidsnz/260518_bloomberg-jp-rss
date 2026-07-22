@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:28:13 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 01:55:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>S&amp;P500種反落、アルファベット決算控え警戒感－円相場40年ぶり安値圏</title>
+      <link>https://news.yahoo.co.jp/articles/3a7ed0151c54fdfaccc9e85b36da9928d5286117</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a7ed0151c54fdfaccc9e85b36da9928d5286117</guid>
+      <pubDate>Thu, 23 Jul 2026 00:16:00 +0900</pubDate>
+    </item>
     <item>
       <title>AMD、アンソロピックに最大50億ドル出資－AI向け半導体巡り提携</title>
       <link>https://news.yahoo.co.jp/articles/c7f02090d465a980056093fbec77bf69863f2cb2</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2813b42302839eae5812c72ccaaa6c25ba6a86db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2813b42302839eae5812c72ccaaa6c25ba6a86db</guid>
       <pubDate>Tue, 21 Jul 2026 16:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>政府が金融戦略公表、GPIFオルタナ投資促進を明記－上限5%に向け</title>
-      <link>https://news.yahoo.co.jp/articles/0453deb321f7d882fcac1c3a45438cec75d5e4d1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0453deb321f7d882fcac1c3a45438cec75d5e4d1</guid>
-      <pubDate>Tue, 21 Jul 2026 16:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
