@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:05:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 04:51:17 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>S&amp;P500種反落、アルファベット決算控え警戒感－円相場40年ぶり安値圏</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/c7f02090d465a980056093fbec77bf69863f2cb2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7f02090d465a980056093fbec77bf69863f2cb2</guid>
       <pubDate>Wed, 22 Jul 2026 23:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランの橋や発電所の爆撃警告－協議再開のめど立たず</title>
+      <link>https://news.yahoo.co.jp/articles/46c34eb764f6af0a3ede350fc0d7fb728eb35fc0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46c34eb764f6af0a3ede350fc0d7fb728eb35fc0</guid>
+      <pubDate>Wed, 22 Jul 2026 20:12:00 +0900</pubDate>
     </item>
     <item>
       <title>米国、対イラン攻撃を拡大－協議再開の見通し立たず緊張続く</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/049bfb97410116dcf231c80fb5d991bb07bbc3bc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/049bfb97410116dcf231c80fb5d991bb07bbc3bc</guid>
       <pubDate>Tue, 21 Jul 2026 17:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、広範な株価下支え策－CXMT上場控えテクノロジー銘柄対象</title>
-      <link>https://news.yahoo.co.jp/articles/2813b42302839eae5812c72ccaaa6c25ba6a86db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2813b42302839eae5812c72ccaaa6c25ba6a86db</guid>
-      <pubDate>Tue, 21 Jul 2026 16:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
