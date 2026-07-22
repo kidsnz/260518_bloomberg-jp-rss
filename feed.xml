@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 20:45:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:38:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国、対イラン攻撃を拡大－協議再開の見通し立たず緊張続く</title>
+      <link>https://news.yahoo.co.jp/articles/f86ba92b21ee9150d783e4cf5b0ccc895eb4c0a4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f86ba92b21ee9150d783e4cf5b0ccc895eb4c0a4</guid>
+      <pubDate>Wed, 22 Jul 2026 20:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>BMW、パリ･モーターショーへの出展取りやめ－コスト削減を優先</title>
       <link>https://news.yahoo.co.jp/articles/00a0d5d9b754cefc4869f7ce828a9301e08d6ba0</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0578f78821fc389e5b9fd67616e6520bee96c880</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0578f78821fc389e5b9fd67616e6520bee96c880</guid>
       <pubDate>Tue, 21 Jul 2026 15:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン、ブレント原油120ドル超も－ホルムズ海峡の混乱続けば</title>
-      <link>https://news.yahoo.co.jp/articles/67d093b4f711f640562aab5d2b1bfa10a29ef4be</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67d093b4f711f640562aab5d2b1bfa10a29ef4be</guid>
-      <pubDate>Tue, 21 Jul 2026 14:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
