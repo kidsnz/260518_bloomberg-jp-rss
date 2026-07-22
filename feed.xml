@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 04:51:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:59:42 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>S&amp;P500種反落、アルファベット決算控え警戒感－円相場40年ぶり安値圏</title>
+      <title>アルファベット、クラウド売上高が市場予想上回る</title>
+      <link>https://news.yahoo.co.jp/articles/2afdc7c3e46849de64ef023b341887a0c64e5030</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2afdc7c3e46849de64ef023b341887a0c64e5030</guid>
+      <pubDate>Thu, 23 Jul 2026 05:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本、円相場から利回り重視に転換も－ドイツ銀のサクデバ氏</title>
+      <link>https://news.yahoo.co.jp/articles/97d74c2d39ed916627f18831e013b1112a3a1acc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97d74c2d39ed916627f18831e013b1112a3a1acc</guid>
+      <pubDate>Thu, 23 Jul 2026 03:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500下落、テック決算控え警戒感－円は40年ぶり安値圏</title>
       <link>https://news.yahoo.co.jp/articles/3a7ed0151c54fdfaccc9e85b36da9928d5286117</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a7ed0151c54fdfaccc9e85b36da9928d5286117</guid>
       <pubDate>Thu, 23 Jul 2026 00:16:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a631f73e5d38bbe103a222ace15ff00de9f3104d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a631f73e5d38bbe103a222ace15ff00de9f3104d</guid>
       <pubDate>Tue, 21 Jul 2026 18:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英国債が小幅高､バーナム新政権の政策見極め－10年債利回り5.01%</title>
-      <link>https://news.yahoo.co.jp/articles/c057a7511f617feaffb7d097c1a1537294322310</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c057a7511f617feaffb7d097c1a1537294322310</guid>
-      <pubDate>Tue, 21 Jul 2026 18:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>TSMC、2027年に半導体製造サービス価格を最大10%引き上げ－日経</title>
-      <link>https://news.yahoo.co.jp/articles/049bfb97410116dcf231c80fb5d991bb07bbc3bc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/049bfb97410116dcf231c80fb5d991bb07bbc3bc</guid>
-      <pubDate>Tue, 21 Jul 2026 17:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
