@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 07:51:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:55:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場はトリプル安へ、中東紛争激化やAI設備投資負担に懸念強まる</title>
+      <link>https://news.yahoo.co.jp/articles/8016baaf359c19b6ff0c66aa56469e62dafd4e6e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8016baaf359c19b6ff0c66aa56469e62dafd4e6e</guid>
+      <pubDate>Fri, 24 Jul 2026 08:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株下落へ、原油高と米ハイテク株安が重し－インテル好決算は支え</title>
+      <link>https://news.yahoo.co.jp/articles/01dd30ddde6e95b67fd6682be043105cb140b9c2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/01dd30ddde6e95b67fd6682be043105cb140b9c2</guid>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで163円台後半、中東緊迫化で有事のドル買い－債券下落へ</title>
+      <link>https://news.yahoo.co.jp/articles/526da7e76f926f349d56de075bd41c9d2b4f5b14</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/526da7e76f926f349d56de075bd41c9d2b4f5b14</guid>
+      <pubDate>Fri, 24 Jul 2026 07:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>海外勢の日本株買いにブレーキの恐れ、歴史的円安が外貨建て収益圧迫</title>
       <link>https://news.yahoo.co.jp/articles/76e458c3b2b4a929f7e99fd1052b8b78ea2b88f1</link>
@@ -14,7 +32,7 @@
       <pubDate>Fri, 24 Jul 2026 07:15:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国、強制労働理由に関税の壁再構築－日本には少なくとも12.5%</title>
+      <title>米国が新関税、日本や韓国に最大12.5%－強制労働対策で24日発動</title>
       <link>https://news.yahoo.co.jp/articles/0be2620bbaffd2b5fcfef72958dfe82f21bac240</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0be2620bbaffd2b5fcfef72958dfe82f21bac240</guid>
       <pubDate>Fri, 24 Jul 2026 06:06:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2afdc7c3e46849de64ef023b341887a0c64e5030</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2afdc7c3e46849de64ef023b341887a0c64e5030</guid>
       <pubDate>Thu, 23 Jul 2026 05:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>テスラ株、約1年ぶりの大幅安－AI・ロボット企業への転身に逆風</title>
-      <link>https://news.yahoo.co.jp/articles/60eac1a1e3d4d823f30c8a844561fa00761d8f12</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60eac1a1e3d4d823f30c8a844561fa00761d8f12</guid>
-      <pubDate>Fri, 24 Jul 2026 05:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>テスラ4－6月利益が予想下回る、コスト増が圧迫－時間外で株価下落</title>
-      <link>https://news.yahoo.co.jp/articles/e4223b82f92523544efdf4a1a8c1379806ecf513</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4223b82f92523544efdf4a1a8c1379806ecf513</guid>
-      <pubDate>Thu, 23 Jul 2026 05:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本、円相場から利回り重視に転換も－ドイツ銀のサクデバ氏</title>
-      <link>https://news.yahoo.co.jp/articles/97d74c2d39ed916627f18831e013b1112a3a1acc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97d74c2d39ed916627f18831e013b1112a3a1acc</guid>
-      <pubDate>Thu, 23 Jul 2026 03:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
