@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 05:09:09 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:34:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国、強制労働を理由に主要貿易相手に10－12.5%の関税を賦課</title>
+      <link>https://news.yahoo.co.jp/articles/0be2620bbaffd2b5fcfef72958dfe82f21bac240</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0be2620bbaffd2b5fcfef72958dfe82f21bac240</guid>
+      <pubDate>Fri, 24 Jul 2026 06:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インテル、売上高見通しが市場予想上回る－データセンター需要拡大</title>
+      <link>https://news.yahoo.co.jp/articles/1e7cad94e33c678528cfe4aa9898a4069a417467</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e7cad94e33c678528cfe4aa9898a4069a417467</guid>
+      <pubDate>Fri, 24 Jul 2026 05:24:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国債、下落しても高利回りが損失への緩衝材に－ブラックロック</title>
       <link>https://news.yahoo.co.jp/articles/369b61eab1ab404121ce77ea29157c19530951fa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/369b61eab1ab404121ce77ea29157c19530951fa</guid>
       <pubDate>Fri, 24 Jul 2026 04:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ラガルド氏、年内は総裁にとどまる考え－早期退任の可能性も残す</title>
+      <link>https://news.yahoo.co.jp/articles/19e4d43f0992d04068b5d936f9eceabf357e42ac</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19e4d43f0992d04068b5d936f9eceabf357e42ac</guid>
+      <pubDate>Fri, 24 Jul 2026 23:56:00 +0900</pubDate>
     </item>
     <item>
       <title>ラガルド氏、年内は総裁にとどまる考え－早期退任の可能性も否定せず</title>
@@ -48,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/41639fd67fa128231e8737bc229071d55ac29b4c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41639fd67fa128231e8737bc229071d55ac29b4c</guid>
       <pubDate>Thu, 23 Jul 2026 21:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、フーシ派からの攻撃は「イランの責任｣－ 戦渦拡大の恐れ</title>
+      <link>https://news.yahoo.co.jp/articles/c750efca833877d0b3ec4e00e86af8e54a2900a8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c750efca833877d0b3ec4e00e86af8e54a2900a8</guid>
+      <pubDate>Fri, 24 Jul 2026 21:38:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、フーシ派からの攻撃は今後「イランに責任負わせる」</title>
@@ -218,7 +242,7 @@
       <pubDate>Thu, 23 Jul 2026 07:54:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油続伸、北海ブレント一時100ドル超－紅海での船舶攻撃で供給懸念</title>
+      <title>原油続伸、ブレント2カ月ぶり100ドル台－ホルムズから紅海に戦線拡大</title>
       <link>https://news.yahoo.co.jp/articles/b4a6c68cb307c4f3cb377dc8c63d4cf12aac36c9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b4a6c68cb307c4f3cb377dc8c63d4cf12aac36c9</guid>
       <pubDate>Thu, 23 Jul 2026 07:12:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/94f730b68e607bf4243f47559f758eb5a71ab462</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/94f730b68e607bf4243f47559f758eb5a71ab462</guid>
       <pubDate>Thu, 23 Jul 2026 00:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500下落、テック決算控え警戒感－円は40年ぶり安値圏</title>
-      <link>https://news.yahoo.co.jp/articles/3a7ed0151c54fdfaccc9e85b36da9928d5286117</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a7ed0151c54fdfaccc9e85b36da9928d5286117</guid>
-      <pubDate>Thu, 23 Jul 2026 00:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AMD、アンソロピックに最大50億ドル出資－AI向け半導体巡り提携</title>
-      <link>https://news.yahoo.co.jp/articles/c7f02090d465a980056093fbec77bf69863f2cb2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7f02090d465a980056093fbec77bf69863f2cb2</guid>
-      <pubDate>Wed, 22 Jul 2026 23:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フーシ派、紅海でタンカー攻撃と発表－米軍は12日連続でイランを攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/46c34eb764f6af0a3ede350fc0d7fb728eb35fc0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46c34eb764f6af0a3ede350fc0d7fb728eb35fc0</guid>
-      <pubDate>Thu, 23 Jul 2026 20:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国、対イラン攻撃を拡大－協議再開の見通し立たず緊張続く</title>
-      <link>https://news.yahoo.co.jp/articles/f86ba92b21ee9150d783e4cf5b0ccc895eb4c0a4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f86ba92b21ee9150d783e4cf5b0ccc895eb4c0a4</guid>
-      <pubDate>Wed, 22 Jul 2026 20:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
