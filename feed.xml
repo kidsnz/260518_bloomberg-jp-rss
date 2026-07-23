@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:51:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 02:14:23 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ラガルド氏、年内は総裁にとどまる考え－早期退任の可能性も否定せず</title>
+      <link>https://news.yahoo.co.jp/articles/ac195e570644f56d7b7101e7830fa785941b8e2f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac195e570644f56d7b7101e7830fa785941b8e2f</guid>
+      <pubDate>Thu, 23 Jul 2026 23:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米株は下落、ハイテク銘柄に売り－米金利上昇で円安・ドル高が加速</title>
+      <link>https://news.yahoo.co.jp/articles/8ceba3c39b5a23323dcdf47d9630916284623ece</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ceba3c39b5a23323dcdf47d9630916284623ece</guid>
+      <pubDate>Thu, 23 Jul 2026 23:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、サウジ原子力協定に条件－イスラエルとの国交正常化要求</title>
       <link>https://news.yahoo.co.jp/articles/d9e44687ec97367cfc678a5c8dd7986506b0e3ab</link>
@@ -20,7 +32,7 @@
       <pubDate>Thu, 23 Jul 2026 22:54:00 +0900</pubDate>
     </item>
     <item>
-      <title>米新規失業保険申請、1969年以来の低水準に減少－労働市場の安定示す</title>
+      <title>米新規失業保険申請、1969年以来の低水準－レイオフ抑制の継続を示唆</title>
       <link>https://news.yahoo.co.jp/articles/41639fd67fa128231e8737bc229071d55ac29b4c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41639fd67fa128231e8737bc229071d55ac29b4c</guid>
       <pubDate>Thu, 23 Jul 2026 21:51:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1aeffa27e680f723096cd0cbc3545713a08afb28</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1aeffa27e680f723096cd0cbc3545713a08afb28</guid>
       <pubDate>Wed, 22 Jul 2026 18:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、官民総動員で株安阻止－「国家隊」や保険会社が相次ぎ買い支え</title>
-      <link>https://news.yahoo.co.jp/articles/2980b664bd1ea2639337648d92a1d95f501d270f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2980b664bd1ea2639337648d92a1d95f501d270f</guid>
-      <pubDate>Wed, 22 Jul 2026 17:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フーシ派が紅海で船舶攻撃準備、ミサイル・ドローン配備－JMIC</title>
-      <link>https://news.yahoo.co.jp/articles/275f3d5945a347dadfce589f013db6f819b9f26e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/275f3d5945a347dadfce589f013db6f819b9f26e</guid>
-      <pubDate>Wed, 22 Jul 2026 16:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
