@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:52:41 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 02:24:29 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米・イランが限定的な攻撃を応酬、トランプ氏は「大規模な攻撃」警告</title>
+      <link>https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</guid>
+      <pubDate>Sat, 25 Jul 2026 01:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRBの次の一手は「利下げ」、エコノミストの見方は金融市場と対照的</title>
+      <link>https://news.yahoo.co.jp/articles/e81814802b7acbb3ce43aa76a19f2bf7e38312f6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e81814802b7acbb3ce43aa76a19f2bf7e38312f6</guid>
+      <pubDate>Sat, 25 Jul 2026 01:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500ほぼ変わらず、原油高一服で落ち着く－ドル163円70銭台</title>
+      <link>https://news.yahoo.co.jp/articles/78e688d8e0fb68cac2eb5e9996e591d552fc3cf8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78e688d8e0fb68cac2eb5e9996e591d552fc3cf8</guid>
+      <pubDate>Sat, 25 Jul 2026 00:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>視力回復インプラント、欧州で一般販売へ－来年の米市場投入も視野</title>
       <link>https://news.yahoo.co.jp/articles/e7b3743f5ae6a6df7b13e1a324208078621cd021</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7b3743f5ae6a6df7b13e1a324208078621cd021</guid>
       <pubDate>Fri, 24 Jul 2026 23:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円安進行で日銀「一段とタカ派色を強める」可能性－ナティクシス</title>
+      <link>https://news.yahoo.co.jp/articles/6435c5c21ea3bd196ef4537581a1c190cadf7220</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6435c5c21ea3bd196ef4537581a1c190cadf7220</guid>
+      <pubDate>Fri, 24 Jul 2026 23:12:00 +0900</pubDate>
     </item>
     <item>
       <title>ブラックロック､2兆円起債で需要調査開始－メタのデータセンター向け</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/26c897f0de64d37e5161238480d1b5a79374582c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26c897f0de64d37e5161238480d1b5a79374582c</guid>
       <pubDate>Thu, 23 Jul 2026 23:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米金利が上昇、原油高で利上げリスク意識－円安加速し163円80銭台</title>
-      <link>https://news.yahoo.co.jp/articles/dbc113a6a3563c5a059b1df225d58e49ee8a6da2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbc113a6a3563c5a059b1df225d58e49ee8a6da2</guid>
-      <pubDate>Thu, 23 Jul 2026 22:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新規失業保険申請、1969年以来の低水準－レイオフ抑制の継続を示唆</title>
-      <link>https://news.yahoo.co.jp/articles/41639fd67fa128231e8737bc229071d55ac29b4c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41639fd67fa128231e8737bc229071d55ac29b4c</guid>
-      <pubDate>Thu, 23 Jul 2026 21:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏が報復警告､フーシ派参戦の｢責任はイラン｣-13日連続で攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/c750efca833877d0b3ec4e00e86af8e54a2900a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c750efca833877d0b3ec4e00e86af8e54a2900a8</guid>
-      <pubDate>Fri, 24 Jul 2026 21:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、フーシ派からの攻撃は今後「イランに責任負わせる」</title>
-      <link>https://news.yahoo.co.jp/articles/3614d9fd8a1fa82813957f3c05e52fb12ccd5035</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3614d9fd8a1fa82813957f3c05e52fb12ccd5035</guid>
-      <pubDate>Thu, 23 Jul 2026 21:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
