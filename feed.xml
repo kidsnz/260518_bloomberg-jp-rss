@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 21:16:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 23:19:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブラックロック､2兆円起債で需要調査開始－メタのデータセンター向け</title>
+      <link>https://news.yahoo.co.jp/articles/8f71c46e956fae29e9ce04cf69022f2e9890aefe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8f71c46e956fae29e9ce04cf69022f2e9890aefe</guid>
+      <pubDate>Fri, 24 Jul 2026 22:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>世界の国債利回り急上昇、各国中銀に圧力－背景に原油価格の再上昇</title>
+      <link>https://news.yahoo.co.jp/articles/c82926ecf02dd91ea42bac8142b69271e936deb5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c82926ecf02dd91ea42bac8142b69271e936deb5</guid>
+      <pubDate>Fri, 24 Jul 2026 21:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油反落、北海ブレントは100ドル割り込む－米新関税で需要に懸念</title>
       <link>https://news.yahoo.co.jp/articles/5f1a439f63477cfcebae746f7dd013d6edd87cdd</link>
@@ -50,7 +62,7 @@
       <pubDate>Fri, 24 Jul 2026 15:58:00 +0900</pubDate>
     </item>
     <item>
-      <title>ECBコッハー氏、9月は利上げか据え置き－独仏中銀総裁もコメント</title>
+      <title>ECB、9月の利上げは夏のデータ見極め判断－コッハー氏ら</title>
       <link>https://news.yahoo.co.jp/articles/96b23dec518a7103d22800b94d114f938952c6ca</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96b23dec518a7103d22800b94d114f938952c6ca</guid>
       <pubDate>Fri, 24 Jul 2026 15:50:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3f4a000fccc2ed4f91b14d0e4f9f3130c0f8b655</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f4a000fccc2ed4f91b14d0e4f9f3130c0f8b655</guid>
       <pubDate>Fri, 24 Jul 2026 21:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECBが金利据え置き、インフレ動向を見極め－9月利上げの準備と関係者</title>
-      <link>https://news.yahoo.co.jp/articles/a47417181fe871647e0f85091720f7c4ea5ab138</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a47417181fe871647e0f85091720f7c4ea5ab138</guid>
-      <pubDate>Thu, 23 Jul 2026 21:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、中銀預金金利を2.25%に据え置き</title>
-      <link>https://news.yahoo.co.jp/articles/bdd1c66461444c1b58a008febeeb5c97b71f2b2b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdd1c66461444c1b58a008febeeb5c97b71f2b2b</guid>
-      <pubDate>Thu, 23 Jul 2026 21:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
