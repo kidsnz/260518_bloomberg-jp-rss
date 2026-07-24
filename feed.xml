@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 05:16:19 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 06:35:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ大統領、EUに新たな関税警告－グーグル制裁金に報復</title>
+      <link>https://news.yahoo.co.jp/articles/ac6bb449665c7c247805e958a53163ba62e26abd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac6bb449665c7c247805e958a53163ba62e26abd</guid>
+      <pubDate>Sat, 25 Jul 2026 04:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀のタカ派姿勢に備えよ、歴史的な円安でヘッジ推奨広がる</title>
+      <link>https://news.yahoo.co.jp/articles/7dde5f9a7819285dd31c1debb111c42d2bcbfb0e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dde5f9a7819285dd31c1debb111c42d2bcbfb0e</guid>
+      <pubDate>Sat, 25 Jul 2026 03:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>米・イランが限定的な攻撃を応酬、トランプ氏は「大規模な攻撃」警告</title>
       <link>https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</link>
@@ -20,7 +32,7 @@
       <pubDate>Sat, 25 Jul 2026 01:47:00 +0900</pubDate>
     </item>
     <item>
-      <title>S&amp;P500ほぼ変わらず、原油高一服で落ち着く－ドル163円70銭台</title>
+      <title>【米国市況】S&amp;P500横ばい、半導体株には売り－原油高一服で金利低下</title>
       <link>https://news.yahoo.co.jp/articles/78e688d8e0fb68cac2eb5e9996e591d552fc3cf8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78e688d8e0fb68cac2eb5e9996e591d552fc3cf8</guid>
       <pubDate>Sat, 25 Jul 2026 00:19:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8ceba3c39b5a23323dcdf47d9630916284623ece</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ceba3c39b5a23323dcdf47d9630916284623ece</guid>
       <pubDate>Thu, 23 Jul 2026 23:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、サウジ原子力協定に条件－イスラエルとの国交正常化要求</title>
-      <link>https://news.yahoo.co.jp/articles/d9e44687ec97367cfc678a5c8dd7986506b0e3ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d9e44687ec97367cfc678a5c8dd7986506b0e3ab</guid>
-      <pubDate>Thu, 23 Jul 2026 23:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トルコ中銀が金利据え置き、原油価格急騰でインフレ低下に不透明性</title>
-      <link>https://news.yahoo.co.jp/articles/53be9f60be49ed6ffd76a3536028f6b76148a759</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/53be9f60be49ed6ffd76a3536028f6b76148a759</guid>
-      <pubDate>Thu, 23 Jul 2026 23:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
