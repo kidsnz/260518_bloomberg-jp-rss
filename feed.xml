@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 19:32:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 21:16:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油反落、北海ブレントは100ドル割り込む－米新関税で需要に懸念</title>
+      <link>https://news.yahoo.co.jp/articles/5f1a439f63477cfcebae746f7dd013d6edd87cdd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f1a439f63477cfcebae746f7dd013d6edd87cdd</guid>
+      <pubDate>Fri, 24 Jul 2026 20:11:00 +0900</pubDate>
+    </item>
     <item>
       <title>フォルクスワーゲン、通期売上高見通し引き下げ－株価一時3.2%安</title>
       <link>https://news.yahoo.co.jp/articles/3594a789d288a67be0047d570c902d2a6338b744</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bdd1c66461444c1b58a008febeeb5c97b71f2b2b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdd1c66461444c1b58a008febeeb5c97b71f2b2b</guid>
       <pubDate>Thu, 23 Jul 2026 21:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン戦争でフーシ派が戦線開く､紅海で商船攻撃－原油100ドル迫る</title>
-      <link>https://news.yahoo.co.jp/articles/f9a4d48e396ce33963268a3cef8c5ad4ef6e1fe3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9a4d48e396ce33963268a3cef8c5ad4ef6e1fe3</guid>
-      <pubDate>Thu, 23 Jul 2026 19:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
