@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 03:13:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 04:41:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>フランス・スペインの山火事が拡大、25万人超が避難－延焼止まらず</title>
+      <link>https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</guid>
+      <pubDate>Sat, 25 Jul 2026 23:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>フーシ派、サウジをミサイル攻撃と主張－米軍は対イラン攻撃を中断か</title>
       <link>https://news.yahoo.co.jp/articles/2f525bbae15d2a459579745d301d3d8e61c34670</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/01dd30ddde6e95b67fd6682be043105cb140b9c2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/01dd30ddde6e95b67fd6682be043105cb140b9c2</guid>
       <pubDate>Fri, 24 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで163円台後半、中東緊迫化で有事のドル買い－債券下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/526da7e76f926f349d56de075bd41c9d2b4f5b14</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/526da7e76f926f349d56de075bd41c9d2b4f5b14</guid>
-      <pubDate>Fri, 24 Jul 2026 07:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
