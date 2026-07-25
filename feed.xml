@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 15:11:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 17:28:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ新関税巡り米中小企業が提訴、通商法301条の適用に異議</title>
+      <link>https://news.yahoo.co.jp/articles/6e12ba3ba326322e6abcdb2a647625be50f28c05</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e12ba3ba326322e6abcdb2a647625be50f28c05</guid>
+      <pubDate>Sat, 25 Jul 2026 16:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州山火事拡大－スペインは非常事態、仏ボルドー近郊で11万人避難</title>
+      <link>https://news.yahoo.co.jp/articles/f9917484059cdf50a71db0aa7b80d86999c5a03d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9917484059cdf50a71db0aa7b80d86999c5a03d</guid>
+      <pubDate>Sat, 25 Jul 2026 15:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>スペースX「スターシップ」、IPO後初の試験飛行－衛星20基投入し帰還</title>
       <link>https://news.yahoo.co.jp/articles/c74750495f589c31c0c498d60eaad0153131989d</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/76e458c3b2b4a929f7e99fd1052b8b78ea2b88f1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76e458c3b2b4a929f7e99fd1052b8b78ea2b88f1</guid>
       <pubDate>Fri, 24 Jul 2026 07:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国が新関税、日本や韓国に最大12.5%－強制労働対策で24日発動</title>
-      <link>https://news.yahoo.co.jp/articles/0be2620bbaffd2b5fcfef72958dfe82f21bac240</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0be2620bbaffd2b5fcfef72958dfe82f21bac240</guid>
-      <pubDate>Fri, 24 Jul 2026 06:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インテル、AI需要で業績回復鮮明－売上高見通しが市場予想上回る</title>
-      <link>https://news.yahoo.co.jp/articles/1e7cad94e33c678528cfe4aa9898a4069a417467</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e7cad94e33c678528cfe4aa9898a4069a417467</guid>
-      <pubDate>Fri, 24 Jul 2026 05:24:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
