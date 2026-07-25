@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 12:45:53 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:11:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースX「スターシップ」、IPO後初の試験飛行－衛星20基投入し帰還</title>
+      <link>https://news.yahoo.co.jp/articles/c74750495f589c31c0c498d60eaad0153131989d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c74750495f589c31c0c498d60eaad0153131989d</guid>
+      <pubDate>Sat, 25 Jul 2026 13:27:00 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディア、韓国ネイバーに10億ドル出資へ－SKグループと提携拡充</title>
       <link>https://news.yahoo.co.jp/articles/66c4e47f974ae80d6f7cd99623915472ba759a0d</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1e7cad94e33c678528cfe4aa9898a4069a417467</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e7cad94e33c678528cfe4aa9898a4069a417467</guid>
       <pubDate>Fri, 24 Jul 2026 05:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国債、下落しても高利回りが損失への緩衝材に－ブラックロック</title>
-      <link>https://news.yahoo.co.jp/articles/369b61eab1ab404121ce77ea29157c19530951fa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/369b61eab1ab404121ce77ea29157c19530951fa</guid>
-      <pubDate>Fri, 24 Jul 2026 04:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
