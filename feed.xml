@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 05:51:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 06:53:56 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>キオクシアHD株に値動き増幅のリスク、米国から「レバETF」の波迫る</title>
+      <link>https://news.yahoo.co.jp/articles/443cc33dba0d0df219259ec9aaaddbc820dda622</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/443cc33dba0d0df219259ec9aaaddbc820dda622</guid>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドルは対G10通貨で横ばい、円は先週末とほぼ変わらず－シドニー早朝</title>
+      <link>https://news.yahoo.co.jp/articles/3345ce3115931379a99ca0b0f304e0518c445ea1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3345ce3115931379a99ca0b0f304e0518c445ea1</guid>
+      <pubDate>Mon, 27 Jul 2026 04:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国半導体CXMT、上海市場に27日上場－初日に時価総額でトップ浮上も</title>
       <link>https://news.yahoo.co.jp/articles/a5580dd357c856d22134a6d454db1db1cdaa745b</link>
@@ -48,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</guid>
       <pubDate>Sat, 25 Jul 2026 23:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米が連続で空爆停止、イランも報復控える－トランプ氏の対応見通せず</title>
+      <link>https://news.yahoo.co.jp/articles/46cef4e3b0d9a88bf23cc49b45dd446a0606daf6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46cef4e3b0d9a88bf23cc49b45dd446a0606daf6</guid>
+      <pubDate>Sat, 25 Jul 2026 18:02:00 +0900</pubDate>
     </item>
     <item>
       <title>米とイランが攻撃停止、2週間ぶり－迎撃ミサイル枯渇懸念との報道も</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e622cca0782dd0529bf7275cf4833e89fd545bf5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e622cca0782dd0529bf7275cf4833e89fd545bf5</guid>
       <pubDate>Fri, 24 Jul 2026 11:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX、ファルコン9の民間受注停止－スターシップ移行に大勝負</title>
-      <link>https://news.yahoo.co.jp/articles/850c75059d8f9f1ca0935380c2c205c0ee35a486</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/850c75059d8f9f1ca0935380c2c205c0ee35a486</guid>
-      <pubDate>Fri, 24 Jul 2026 11:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インフレによる「見えない増税」とは－物価高で増す家計負担の仕組み</title>
-      <link>https://news.yahoo.co.jp/articles/ec28410ea7b08b2d661862f97b8da9833a45aae0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec28410ea7b08b2d661862f97b8da9833a45aae0</guid>
-      <pubDate>Fri, 24 Jul 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相､為替対応｢断固たる措置を果断に｣－米国と常に緊密連携</title>
-      <link>https://news.yahoo.co.jp/articles/69681ed1b67bc5dc47814b114e556e2aad283d1a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69681ed1b67bc5dc47814b114e556e2aad283d1a</guid>
-      <pubDate>Fri, 24 Jul 2026 10:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
