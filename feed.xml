@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 11:13:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 14:44:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相、27日午前に閉会後の国会論戦に臨む－消費税減税など焦点</title>
+      <link>https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</guid>
+      <pubDate>Sun, 26 Jul 2026 13:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>フランス・スペインの山火事が拡大、25万人超が避難－延焼止まらず</title>
       <link>https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2e61679ae118b5ba0b354dee498cd515054d61a1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e61679ae118b5ba0b354dee498cd515054d61a1</guid>
       <pubDate>Fri, 24 Jul 2026 08:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場はトリプル安へ、中東紛争激化やAI設備投資負担に懸念強まる</title>
-      <link>https://news.yahoo.co.jp/articles/8016baaf359c19b6ff0c66aa56469e62dafd4e6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8016baaf359c19b6ff0c66aa56469e62dafd4e6e</guid>
-      <pubDate>Fri, 24 Jul 2026 08:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
