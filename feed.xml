@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 14:44:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:16:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】FRBと日銀、英中銀が政策決定へ－原油100ドルの警戒感に注目</title>
+      <link>https://news.yahoo.co.jp/articles/a4a66b1924b29be674ad3fb4271e1cceae56fa11</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4a66b1924b29be674ad3fb4271e1cceae56fa11</guid>
+      <pubDate>Sun, 26 Jul 2026 14:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相、27日午前に閉会後の国会論戦に臨む－消費税減税など焦点</title>
       <link>https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</link>
@@ -126,6 +132,12 @@
       <link>https://news.yahoo.co.jp/articles/c82926ecf02dd91ea42bac8142b69271e936deb5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c82926ecf02dd91ea42bac8142b69271e936deb5</guid>
       <pubDate>Fri, 24 Jul 2026 21:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油反落、北海ブレントは100ドル割れ－サウジ産原油の輸送継続で</title>
+      <link>https://news.yahoo.co.jp/articles/38e0549e5827eb0724d783444f6ae6a4485f0015</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38e0549e5827eb0724d783444f6ae6a4485f0015</guid>
+      <pubDate>Sat, 25 Jul 2026 20:11:00 +0900</pubDate>
     </item>
     <item>
       <title>原油反落、北海ブレントは100ドル割り込む－米新関税で需要に懸念</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fcb5e59cb9d7e1100cd54cf33e7f77b9b10c4eac</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcb5e59cb9d7e1100cd54cf33e7f77b9b10c4eac</guid>
       <pubDate>Fri, 24 Jul 2026 09:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アジアで好調の環境ファンド、日本株投資を拡大－AI電力問題で存在感</title>
-      <link>https://news.yahoo.co.jp/articles/71eead1cc806fc9fd5dd0edb5af1c66efc649134</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71eead1cc806fc9fd5dd0edb5af1c66efc649134</guid>
-      <pubDate>Fri, 24 Jul 2026 09:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>6月の消費者物価、3カ月ぶりに伸び拡大－日銀利上げ路線をサポート</title>
-      <link>https://news.yahoo.co.jp/articles/2e61679ae118b5ba0b354dee498cd515054d61a1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e61679ae118b5ba0b354dee498cd515054d61a1</guid>
-      <pubDate>Fri, 24 Jul 2026 08:31:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
