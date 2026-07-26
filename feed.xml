@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 06:53:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 07:54:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブレント原油90ドル割れ、米イランが攻撃一時停止－欧州ガスは7.8%安</title>
+      <link>https://news.yahoo.co.jp/articles/9cda6db1f830edded28e934d903542ca3cbfefd9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9cda6db1f830edded28e934d903542ca3cbfefd9</guid>
+      <pubDate>Mon, 27 Jul 2026 07:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRB、物価上昇懸念で政策金利判断難しく－FOMCで意見割れる可能性</title>
+      <link>https://news.yahoo.co.jp/articles/5827b1a1f5c92c97054de5ae8af5379cd74b0176</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5827b1a1f5c92c97054de5ae8af5379cd74b0176</guid>
+      <pubDate>Mon, 27 Jul 2026 06:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>キオクシアHD株に値動き増幅のリスク、米国から「レバETF」の波迫る</title>
       <link>https://news.yahoo.co.jp/articles/443cc33dba0d0df219259ec9aaaddbc820dda622</link>
@@ -42,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</guid>
       <pubDate>Sun, 26 Jul 2026 13:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドの若者デモ終結、モディ政権が教育相辞任など要求受け入れ</title>
+      <link>https://news.yahoo.co.jp/articles/b6b6c1f3702c3eee05d5f45cf5958da27840be2a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6b6c1f3702c3eee05d5f45cf5958da27840be2a</guid>
+      <pubDate>Sun, 26 Jul 2026 05:16:00 +0900</pubDate>
     </item>
     <item>
       <title>DeepSeekが資金調達見合わせ、創業者発言巡る投稿の拡散後－関係者</title>
@@ -128,6 +146,12 @@
       <pubDate>Sat, 25 Jul 2026 03:32:00 +0900</pubDate>
     </item>
     <item>
+      <title>【欧州市況】英国債など債券軒並み上昇、原油反落を好感－株も堅調</title>
+      <link>https://news.yahoo.co.jp/articles/1167288e869d9e524a3a4009277118edc81eea91</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1167288e869d9e524a3a4009277118edc81eea91</guid>
+      <pubDate>Sat, 25 Jul 2026 02:32:00 +0900</pubDate>
+    </item>
+    <item>
       <title>トランプ氏「軍は万全の態勢」、イランと協議継続－大規模攻撃は未定</title>
       <link>https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</guid>
@@ -156,6 +180,12 @@
       <link>https://news.yahoo.co.jp/articles/03dc512d0dcd7e1003a25b3e5f0e813a6517c44a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03dc512d0dcd7e1003a25b3e5f0e813a6517c44a</guid>
       <pubDate>Fri, 24 Jul 2026 23:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米新築住宅販売が3カ月ぶりに増加、予想上回る－大幅値引き寄与</title>
+      <link>https://news.yahoo.co.jp/articles/750f2464000f46e7810343a831f499ecde31d165</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/750f2464000f46e7810343a831f499ecde31d165</guid>
+      <pubDate>Sat, 25 Jul 2026 23:15:00 +0900</pubDate>
     </item>
     <item>
       <title>円安進行で日銀「一段とタカ派色を強める」可能性－ナティクシス</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6ef3803758b3acc306b9c129907c2d2ea3527573</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ef3803758b3acc306b9c129907c2d2ea3527573</guid>
       <pubDate>Fri, 24 Jul 2026 14:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利に上昇圧力継続、中東緊迫と日銀タカ派化</title>
-      <link>https://news.yahoo.co.jp/articles/c83c2943e824519b5f10de63729146b2d9751d29</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c83c2943e824519b5f10de63729146b2d9751d29</guid>
-      <pubDate>Fri, 24 Jul 2026 13:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国KOSPIが一時6%安、4日ぶりに反落－半導体株売りが重し</title>
-      <link>https://news.yahoo.co.jp/articles/995195f7d18e79252d288247f5f02d88b91a84a0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/995195f7d18e79252d288247f5f02d88b91a84a0</guid>
-      <pubDate>Fri, 24 Jul 2026 12:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】165円を試す展開、中東情勢と中銀会合で円売り圧力</title>
-      <link>https://news.yahoo.co.jp/articles/0f0ec8e8cd19394b20e71ac177fd48e7ef588627</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f0ec8e8cd19394b20e71ac177fd48e7ef588627</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は５月以来最悪の週間パフォーマンス、対ドルで165円が視野入り</title>
-      <link>https://news.yahoo.co.jp/articles/a7a0bce1df7a5785586c526f99ddda2bdb6bdb1b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7a0bce1df7a5785586c526f99ddda2bdb6bdb1b</guid>
-      <pubDate>Fri, 24 Jul 2026 11:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>南鳥島沖で採掘の泥から重レアアース確認、中国依存の低減に一歩前進</title>
-      <link>https://news.yahoo.co.jp/articles/e622cca0782dd0529bf7275cf4833e89fd545bf5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e622cca0782dd0529bf7275cf4833e89fd545bf5</guid>
-      <pubDate>Fri, 24 Jul 2026 11:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
