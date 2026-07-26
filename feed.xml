@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 19:16:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 20:42:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イランが報復休止、米軍の攻撃停止受け－軍報道官が国営テレビに語る</title>
+      <link>https://news.yahoo.co.jp/articles/290099dec9e09df188735f06802258197e35e13c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/290099dec9e09df188735f06802258197e35e13c</guid>
+      <pubDate>Sun, 26 Jul 2026 19:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>【焦点】FRBと日銀、英中銀が政策決定へ－原油100ドルの警戒感に注目</title>
       <link>https://news.yahoo.co.jp/articles/a4a66b1924b29be674ad3fb4271e1cceae56fa11</link>
@@ -18,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</guid>
       <pubDate>Sun, 26 Jul 2026 13:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フランス・スペインの山火事が拡大、30万人超が避難－延焼止まらず</title>
+      <link>https://news.yahoo.co.jp/articles/fe057e16cf41fde85089476dea9ab3022a757ac5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe057e16cf41fde85089476dea9ab3022a757ac5</guid>
+      <pubDate>Sat, 25 Jul 2026 23:06:00 +0900</pubDate>
     </item>
     <item>
       <title>フランス・スペインの山火事が拡大、25万人超が避難－延焼止まらず</title>
@@ -170,6 +182,12 @@
       <pubDate>Fri, 24 Jul 2026 17:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>サウジ原油輸送続く、ギリシャ船は紅海通過－日本向け船はスエズ経由</title>
+      <link>https://news.yahoo.co.jp/articles/d81c9c5609c0ccccfdf638f2a5a66541492d291e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d81c9c5609c0ccccfdf638f2a5a66541492d291e</guid>
+      <pubDate>Fri, 24 Jul 2026 16:53:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ギリシャ船籍タンカー、紅海抜ける－日本に向かう船はスエズ運河選択</title>
       <link>https://news.yahoo.co.jp/articles/4f99f5fa4c7d63e1ff7b5959b15c1ea513a0472f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4f99f5fa4c7d63e1ff7b5959b15c1ea513a0472f</guid>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f18c84eac3dee26fcdfe4baedfffcf9c689067f3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f18c84eac3dee26fcdfe4baedfffcf9c689067f3</guid>
       <pubDate>Fri, 24 Jul 2026 09:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アルファベットなどテック社債も下落、AI投資を支える大量発行を懸念</title>
-      <link>https://news.yahoo.co.jp/articles/ff0fb1498e14122512c8f85375f9f1442a927d52</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ff0fb1498e14122512c8f85375f9f1442a927d52</guid>
-      <pubDate>Fri, 24 Jul 2026 09:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国、レバ型ETFの最低預託金引き上げ前倒し－7月31日実施</title>
-      <link>https://news.yahoo.co.jp/articles/84408270a0ee501cabf66b32cd76421fe58a7a3e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/84408270a0ee501cabf66b32cd76421fe58a7a3e</guid>
-      <pubDate>Fri, 24 Jul 2026 09:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シンガポール政府系ファンドGIC、ヘッジファンド投資300億ドル増額へ</title>
-      <link>https://news.yahoo.co.jp/articles/fcb5e59cb9d7e1100cd54cf33e7f77b9b10c4eac</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcb5e59cb9d7e1100cd54cf33e7f77b9b10c4eac</guid>
-      <pubDate>Fri, 24 Jul 2026 09:13:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
