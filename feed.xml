@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:42:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:07:42 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イランが報復休止、米軍の攻撃停止受け－軍報道官が国営テレビに語る</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</guid>
       <pubDate>Sun, 26 Jul 2026 13:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>DeepSeekが資金調達見合わせ、創業者発言巡る投稿の拡散後－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/b38336b17aa86b819e5c5a3fbcedd658a87a5770</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b38336b17aa86b819e5c5a3fbcedd658a87a5770</guid>
+      <pubDate>Sun, 26 Jul 2026 03:32:00 +0900</pubDate>
     </item>
     <item>
       <title>フランス・スペインの山火事が拡大、30万人超が避難－延焼止まらず</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b20beb99f564682b9d82bdb6a9c54b37f1acfefd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b20beb99f564682b9d82bdb6a9c54b37f1acfefd</guid>
       <pubDate>Fri, 24 Jul 2026 09:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】日経平均1800円安、中東悪化とAI懸念－超長期金利が急騰</title>
-      <link>https://news.yahoo.co.jp/articles/f18c84eac3dee26fcdfe4baedfffcf9c689067f3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f18c84eac3dee26fcdfe4baedfffcf9c689067f3</guid>
-      <pubDate>Fri, 24 Jul 2026 09:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
