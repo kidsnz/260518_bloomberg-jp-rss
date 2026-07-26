@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:57:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 02:02:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国半導体CXMT、上海市場に27日上場－初日に時価総額でトップ浮上も</title>
+      <link>https://news.yahoo.co.jp/articles/a5580dd357c856d22134a6d454db1db1cdaa745b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5580dd357c856d22134a6d454db1db1cdaa745b</guid>
+      <pubDate>Sun, 26 Jul 2026 23:27:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランが報復休止、米軍の攻撃停止受け－軍報道官が国営テレビに語る</title>
       <link>https://news.yahoo.co.jp/articles/290099dec9e09df188735f06802258197e35e13c</link>
@@ -44,7 +50,7 @@
       <pubDate>Sat, 25 Jul 2026 23:06:00 +0900</pubDate>
     </item>
     <item>
-      <title>米、イラン空爆停止－迎撃ミサイル枯渇の懸念で攻撃拡大見送りと報道</title>
+      <title>米とイランが攻撃停止、2週間ぶり－迎撃ミサイル枯渇懸念との報道も</title>
       <link>https://news.yahoo.co.jp/articles/5190234d0f31320a8f26c9737f5a4ecc3583f738</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5190234d0f31320a8f26c9737f5a4ecc3583f738</guid>
       <pubDate>Sat, 25 Jul 2026 18:02:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/69681ed1b67bc5dc47814b114e556e2aad283d1a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69681ed1b67bc5dc47814b114e556e2aad283d1a</guid>
       <pubDate>Fri, 24 Jul 2026 10:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>デフレ脱却へ､中東情勢の影響に伴うGDPギャップ見極め必要－経済白書</title>
-      <link>https://news.yahoo.co.jp/articles/b20beb99f564682b9d82bdb6a9c54b37f1acfefd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b20beb99f564682b9d82bdb6a9c54b37f1acfefd</guid>
-      <pubDate>Fri, 24 Jul 2026 09:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
