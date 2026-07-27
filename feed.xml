@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 22:24:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:57:39 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国政府系企業、DUV露光装置の製造開始－ジ・インフォメーション</title>
+      <link>https://news.yahoo.co.jp/articles/1f0e0f58a3f1952e45494e831426afb5479adc25</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f0e0f58a3f1952e45494e831426afb5479adc25</guid>
+      <pubDate>Mon, 27 Jul 2026 23:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米コア資本財の受注、6月は市場予想を上回る伸び－前月も上方修正</title>
+      <link>https://news.yahoo.co.jp/articles/dc766f92cfc218f01c23c99ea51a0d5d422beaf0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dc766f92cfc218f01c23c99ea51a0d5d422beaf0</guid>
+      <pubDate>Mon, 27 Jul 2026 22:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI導入企業、利益率が改善へ－モルガン・スタンレーが予想</title>
+      <link>https://news.yahoo.co.jp/articles/d19c9be8202a28f1dd55e8561dcf773e83efb43a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d19c9be8202a28f1dd55e8561dcf773e83efb43a</guid>
+      <pubDate>Mon, 27 Jul 2026 21:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相、食料品消費減税は「最後の最後まで知恵を出し合いたい」</title>
       <link>https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</link>
@@ -116,7 +134,7 @@
       <pubDate>Mon, 27 Jul 2026 09:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>エヌビディアが41兆円保証協議、OpenAI計算能力リース支援－WSJ</title>
+      <title>エヌビディア、OpenAIのリース支援で協議－82兆円データセンター計画</title>
       <link>https://news.yahoo.co.jp/articles/c5791996bd2e32487f95c3bd561dfe022f4a748e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5791996bd2e32487f95c3bd561dfe022f4a748e</guid>
       <pubDate>Mon, 27 Jul 2026 08:36:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1167288e869d9e524a3a4009277118edc81eea91</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1167288e869d9e524a3a4009277118edc81eea91</guid>
       <pubDate>Sat, 25 Jul 2026 02:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏「軍は万全の態勢」、イランと協議継続－大規模攻撃は未定</title>
-      <link>https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f256b2ba980fe28c912ac5720e1969ce57ea39d7</guid>
-      <pubDate>Sat, 25 Jul 2026 01:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRBの次の一手は「利下げ」、エコノミストの見方は金融市場と対照的</title>
-      <link>https://news.yahoo.co.jp/articles/e81814802b7acbb3ce43aa76a19f2bf7e38312f6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e81814802b7acbb3ce43aa76a19f2bf7e38312f6</guid>
-      <pubDate>Sat, 25 Jul 2026 01:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500横ばい、半導体株には売り－原油高一服で金利低下</title>
-      <link>https://news.yahoo.co.jp/articles/78e688d8e0fb68cac2eb5e9996e591d552fc3cf8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78e688d8e0fb68cac2eb5e9996e591d552fc3cf8</guid>
-      <pubDate>Sat, 25 Jul 2026 00:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
