@@ -5,10 +5,10 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 02:42:37 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 04:18:39 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>S&amp;P500伸び悩む、半導体株売られ米イラン巡る期待相殺－163円台後半</title>
+      <title>S&amp;P500下落、半導体に売り－米イラン巡る期待で原油安、163円台後半</title>
       <link>https://news.yahoo.co.jp/articles/6f27e49c61778306d696438d0c13f962dc79096a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f27e49c61778306d696438d0c13f962dc79096a</guid>
       <pubDate>Tue, 28 Jul 2026 00:22:00 +0900</pubDate>
@@ -42,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</guid>
       <pubDate>Mon, 27 Jul 2026 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランとの「踏み込んだ協議」強調－3夜連続攻撃停止</title>
+      <link>https://news.yahoo.co.jp/articles/a4e6b3a9f2fca7b154dd4867e8ce50d03ba3fdcf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4e6b3a9f2fca7b154dd4867e8ce50d03ba3fdcf</guid>
+      <pubDate>Mon, 27 Jul 2026 18:13:00 +0900</pubDate>
     </item>
     <item>
       <title>米イランが3夜連続で攻撃控える－原油価格下落、株と債券は上昇</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/35c9880df7b3a4d99533571bb9b5c3698c12f204</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/35c9880df7b3a4d99533571bb9b5c3698c12f204</guid>
       <pubDate>Sat, 25 Jul 2026 08:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ米大統領、EUに新たな関税警告－グーグル制裁金に報復</title>
-      <link>https://news.yahoo.co.jp/articles/ac6bb449665c7c247805e958a53163ba62e26abd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac6bb449665c7c247805e958a53163ba62e26abd</guid>
-      <pubDate>Sat, 25 Jul 2026 04:08:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
