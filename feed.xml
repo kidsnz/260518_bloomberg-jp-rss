@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 21:50:32 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:15:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>半導体株安が加速、ナスダック100指数は調整局面入りへ</title>
+      <link>https://news.yahoo.co.jp/articles/93483e6fdf6e35a224b5a9f52644515913bccea6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93483e6fdf6e35a224b5a9f52644515913bccea6</guid>
+      <pubDate>Tue, 28 Jul 2026 23:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株、IPO価格を2割下回る－時価総額ピークから1.2兆ドル消失</title>
+      <link>https://news.yahoo.co.jp/articles/04c3d0d193824c0eef1f62ed1174d3094034be18</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/04c3d0d193824c0eef1f62ed1174d3094034be18</guid>
+      <pubDate>Tue, 28 Jul 2026 23:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ビザが2600人削減へ、全社員の7%相当－競争激化受けて効率化推進</title>
+      <link>https://news.yahoo.co.jp/articles/ad30b5d35173c6c97ef8859542272f79164d6e77</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad30b5d35173c6c97ef8859542272f79164d6e77</guid>
+      <pubDate>Tue, 28 Jul 2026 22:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>メタとブラックロック、テキサス州にデータセンター建設－2028年稼働</title>
       <link>https://news.yahoo.co.jp/articles/51c5200e41910cb3f2ad979691a14c16dfb79f25</link>
@@ -32,7 +50,7 @@
       <pubDate>Tue, 28 Jul 2026 16:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>熊本県で震度7の地震､イオンモールで爆発－川内・玄海原発に異常なし</title>
+      <title>熊本県で震度7の地震､50人以上が負傷との情報－イオンモールでは爆発</title>
       <link>https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</guid>
       <pubDate>Tue, 28 Jul 2026 16:38:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4b8fbdc1044ddd6c536a72e207ceebcc303ba942</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b8fbdc1044ddd6c536a72e207ceebcc303ba942</guid>
       <pubDate>Tue, 28 Jul 2026 22:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米コア資本財の受注、6月は市場予想を上回る伸び－前月も上方修正</title>
-      <link>https://news.yahoo.co.jp/articles/dc766f92cfc218f01c23c99ea51a0d5d422beaf0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dc766f92cfc218f01c23c99ea51a0d5d422beaf0</guid>
-      <pubDate>Mon, 27 Jul 2026 22:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI導入企業、利益率が改善へ－モルガン・スタンレーが予想</title>
-      <link>https://news.yahoo.co.jp/articles/d19c9be8202a28f1dd55e8561dcf773e83efb43a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d19c9be8202a28f1dd55e8561dcf773e83efb43a</guid>
-      <pubDate>Mon, 27 Jul 2026 21:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、食料品消費減税は「最後の最後まで知恵を出し合いたい」</title>
-      <link>https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</guid>
-      <pubDate>Mon, 27 Jul 2026 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
