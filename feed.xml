@@ -5,8 +5,50 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 07:32:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:54:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、AI投資への懸念や原油反発で株式続落へ－債券不安定な動き</title>
+      <link>https://news.yahoo.co.jp/articles/25dc290debc2fb72a6b93edb13a5cd2b4535c4f4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25dc290debc2fb72a6b93edb13a5cd2b4535c4f4</guid>
+      <pubDate>Wed, 29 Jul 2026 08:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで163円台後半、中東警戒後退しFOMC待ち－債券は上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/fcd04526404d4a6410eb1b1585ac08e69e5a38cf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcd04526404d4a6410eb1b1585ac08e69e5a38cf</guid>
+      <pubDate>Wed, 29 Jul 2026 08:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油が急上昇、WTIは一時5%高－米イラン戦闘再燃でエネルギー懸念</title>
+      <link>https://news.yahoo.co.jp/articles/7f7a9c1af68f949f871c64112122f973be10e8d2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f7a9c1af68f949f871c64112122f973be10e8d2</guid>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジ石油施設に無人機攻撃相次ぐ－イラクの親イラン民兵が連日攻撃</title>
+      <link>https://news.yahoo.co.jp/articles/48bb702fcf915861223dc45855c182971d232f2e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48bb702fcf915861223dc45855c182971d232f2e</guid>
+      <pubDate>Wed, 29 Jul 2026 07:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米軍、中東駐留部隊へのイランのミサイル攻撃を阻止－NY原油5%急上昇</title>
+      <link>https://news.yahoo.co.jp/articles/e1a9a9d3d663d39fba494e826e19fc86389d3f8c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1a9a9d3d663d39fba494e826e19fc86389d3f8c</guid>
+      <pubDate>Wed, 29 Jul 2026 07:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米OpenAIのAIエージェント、別の企業顧客にも不正侵入－ロイター</title>
+      <link>https://news.yahoo.co.jp/articles/f7eea0099925198b1cebced57507bdb72aa132a2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7eea0099925198b1cebced57507bdb72aa132a2</guid>
+      <pubDate>Wed, 29 Jul 2026 07:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>シタデル・セキュリティーズの米利上げ予想、市場の警戒感高める</title>
+      <link>https://news.yahoo.co.jp/articles/7dd625730a4650d33fe8342baf1efc1ddde9ea8f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dd625730a4650d33fe8342baf1efc1ddde9ea8f</guid>
+      <pubDate>Wed, 29 Jul 2026 07:02:00 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディアCEO、オープン型AIの重要性訴え－ムーンショット台頭で</title>
       <link>https://news.yahoo.co.jp/articles/d87b515bc23277893fc90e4f1464aae6bf3b794b</link>
@@ -60,6 +102,12 @@
       <link>https://news.yahoo.co.jp/articles/93483e6fdf6e35a224b5a9f52644515913bccea6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93483e6fdf6e35a224b5a9f52644515913bccea6</guid>
       <pubDate>Tue, 28 Jul 2026 23:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX株上げに転じる－荒い値動き続く、一時は公開価格2割下回る</title>
+      <link>https://news.yahoo.co.jp/articles/7c1bd1ebb3c245a2047d1789515b10cf06f686e6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7c1bd1ebb3c245a2047d1789515b10cf06f686e6</guid>
+      <pubDate>Wed, 29 Jul 2026 23:01:00 +0900</pubDate>
     </item>
     <item>
       <title>スペースX株、IPO価格を2割下回る－時価総額ピークから1.2兆ドル消失</title>
@@ -116,16 +164,16 @@
       <pubDate>Tue, 28 Jul 2026 16:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>熊本地震、イオンモール爆発で2人死亡－日本製紙工場では2人心肺停止</title>
-      <link>https://news.yahoo.co.jp/articles/48f97f40194fe4fd085351d93177a4f02d58ff8a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48f97f40194fe4fd085351d93177a4f02d58ff8a</guid>
-      <pubDate>Wed, 29 Jul 2026 16:38:00 +0900</pubDate>
-    </item>
-    <item>
       <title>熊本県で震度7の地震、負傷者多数との情報－イオンモールでは爆発</title>
       <link>https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</guid>
       <pubDate>Tue, 28 Jul 2026 16:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>熊本地震、イオンモール爆発で2人死亡－日本製紙工場では2人心肺停止</title>
+      <link>https://news.yahoo.co.jp/articles/48f97f40194fe4fd085351d93177a4f02d58ff8a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48f97f40194fe4fd085351d93177a4f02d58ff8a</guid>
+      <pubDate>Wed, 29 Jul 2026 16:38:00 +0900</pubDate>
     </item>
     <item>
       <title>ゴールドマンなどが一般向けプライベートファンド、41万円で投資可能</title>
@@ -258,54 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bb1db09f61d2a0d9dc47c97a65b0bfe4334ad88f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb1db09f61d2a0d9dc47c97a65b0bfe4334ad88f</guid>
       <pubDate>Tue, 28 Jul 2026 09:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>世界的な半導体株安が加速、AI資金循環や中国勢との競争激化を警戒</title>
-      <link>https://news.yahoo.co.jp/articles/beda34d9026d71af8e742d082de9930551bce2cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/beda34d9026d71af8e742d082de9930551bce2cc</guid>
-      <pubDate>Tue, 28 Jul 2026 09:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米通商代表、さらなる関税の可能性指摘－貿易相手の過剰生産能力調査</title>
-      <link>https://news.yahoo.co.jp/articles/52e97665a6544a5dd489e853c8f087db559b1889</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/52e97665a6544a5dd489e853c8f087db559b1889</guid>
-      <pubDate>Tue, 28 Jul 2026 09:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブラックロック、2兆円規模社債上昇－ジャンク債並み高利回りに買い</title>
-      <link>https://news.yahoo.co.jp/articles/0e99ec3799748888a51ebf5bfd8588cd2668fbc8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e99ec3799748888a51ebf5bfd8588cd2668fbc8</guid>
-      <pubDate>Tue, 28 Jul 2026 09:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、AI収益性疑念で株式下落へ－中銀会合控え円は安値もみ合い</title>
-      <link>https://news.yahoo.co.jp/articles/8e2b0806c0afcf67a20e6c776ea401ac83804e18</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e2b0806c0afcf67a20e6c776ea401ac83804e18</guid>
-      <pubDate>Tue, 28 Jul 2026 08:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株下落へ、エヌビディア巨額投資や中国の露光装置製造報道を懸念</title>
-      <link>https://news.yahoo.co.jp/articles/8c2d3c0b64b04721f9a871b220d748798f10e7d4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c2d3c0b64b04721f9a871b220d748798f10e7d4</guid>
-      <pubDate>Tue, 28 Jul 2026 08:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで163円台後半、インフレ警戒続く－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/241cac22e9c008636c2954c1c611d6673e18b0c4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/241cac22e9c008636c2954c1c611d6673e18b0c4</guid>
-      <pubDate>Tue, 28 Jul 2026 07:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドジャースオーナーの携帯電話、FBIが昨年押収－金融取引捜査の一環</title>
-      <link>https://news.yahoo.co.jp/articles/33c3d579db03f216771b75ca0bf718951293c0b4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33c3d579db03f216771b75ca0bf718951293c0b4</guid>
-      <pubDate>Tue, 28 Jul 2026 07:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シタデル・セキュリティーズ、今週のFOMCでサプライズ利上げ予想</title>
-      <link>https://news.yahoo.co.jp/articles/e4197204522afc5a4316767a48c9a6661195112d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4197204522afc5a4316767a48c9a6661195112d</guid>
-      <pubDate>Tue, 28 Jul 2026 07:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
