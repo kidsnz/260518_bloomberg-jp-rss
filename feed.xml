@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 04:59:22 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:12:39 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【米国市況】S&amp;P500種上昇、半導体株は売り加速－ドル163円台後半</title>
+      <link>https://news.yahoo.co.jp/articles/3bf9ef78e53ca2343627a816751083078554f2db</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bf9ef78e53ca2343627a816751083078554f2db</guid>
+      <pubDate>Wed, 29 Jul 2026 02:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ大統領、戦闘の再燃避けたい考え強調－イランに合意促す</title>
       <link>https://news.yahoo.co.jp/articles/d253e416276e92f3ab0a714c7431b83b6c7c3df7</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f598ca6b17cd3b744a8435f11def8d3c1a625a5f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f598ca6b17cd3b744a8435f11def8d3c1a625a5f</guid>
       <pubDate>Tue, 28 Jul 2026 06:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>NZから豪州へ移住止まらず、賃金格差で頭脳流出－医療や建設分野で人材不足の懸念</title>
-      <link>https://news.yahoo.co.jp/articles/5c7ad60790c51b6fb7a719b5446d68acbea1d3bf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c7ad60790c51b6fb7a719b5446d68acbea1d3bf</guid>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
