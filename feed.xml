@@ -5,8 +5,50 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 14:28:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 17:00:12 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ゴールドマンなどが一般向けプライベートファンド、41万円で投資可能</title>
+      <link>https://news.yahoo.co.jp/articles/356045993d9fb10621d3abb140c757e566885de0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/356045993d9fb10621d3abb140c757e566885de0</guid>
+      <pubDate>Tue, 28 Jul 2026 16:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国DeepSeek創業者のヘッジファンド、CXMT上場で多額の利益</title>
+      <link>https://news.yahoo.co.jp/articles/8784044b84f805f06fea1e1eaf251f7604e587bf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8784044b84f805f06fea1e1eaf251f7604e587bf</guid>
+      <pubDate>Tue, 28 Jul 2026 16:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱</title>
+      <link>https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5</guid>
+      <pubDate>Tue, 28 Jul 2026 14:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米税関、中国系工場を抜き打ち検査－対ベトナム追加関税へ懸念強まる</title>
+      <link>https://news.yahoo.co.jp/articles/44cedde996f5f54ad03c9bf032069ac6fbcbf997</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44cedde996f5f54ad03c9bf032069ac6fbcbf997</guid>
+      <pubDate>Tue, 28 Jul 2026 14:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIブーム警戒のピムコ、メガディールを慎重に選別－リスク軽減を優先</title>
+      <link>https://news.yahoo.co.jp/articles/e4508e37346d511dff2d9010a5efb1b0a0b92371</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4508e37346d511dff2d9010a5efb1b0a0b92371</guid>
+      <pubDate>Tue, 28 Jul 2026 14:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀試算の特殊要因除く消費者物価2.7%上昇、年内利上げ観測サポート</title>
+      <link>https://news.yahoo.co.jp/articles/9e5e0f5d363d183bd9277cafdf6fb35f7a470987</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e5e0f5d363d183bd9277cafdf6fb35f7a470987</guid>
+      <pubDate>Tue, 28 Jul 2026 14:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>豪、「世界初」のデータセンター規制巡り協議－17兆円規模の計画対象</title>
+      <link>https://news.yahoo.co.jp/articles/210ea15dfcbfba72cf2147c52b970d080c3b1778</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/210ea15dfcbfba72cf2147c52b970d080c3b1778</guid>
+      <pubDate>Tue, 28 Jul 2026 14:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>台湾検察、エヌビディア従業員を拘束－中国へのAI半導体密輸疑惑で</title>
       <link>https://news.yahoo.co.jp/articles/45495ce9d54a83b5e265309d2dad9da9088b94d5</link>
@@ -18,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/840c3f53df1c9ac02844002440ef5421638c6ee0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/840c3f53df1c9ac02844002440ef5421638c6ee0</guid>
       <pubDate>Tue, 28 Jul 2026 12:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドの「ゴキブリ人民党」とは？ 若者の怒りがモディ政権揺さぶる</title>
+      <link>https://news.yahoo.co.jp/articles/861e23568b1bd215f3ed1a4a9da88d2f28b0dcb0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/861e23568b1bd215f3ed1a4a9da88d2f28b0dcb0</guid>
+      <pubDate>Tue, 28 Jul 2026 12:35:00 +0900</pubDate>
     </item>
     <item>
       <title>キオクシアHD再びストップ安、巨額投資や中国懸念でAI・半導体株急落</title>
@@ -68,7 +116,7 @@
       <pubDate>Tue, 28 Jul 2026 10:09:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均2カ月ぶり安値、AI過剰投資懸念－債券・円膠着</title>
+      <title>【日本市況】株2カ月ぶり安値、AI投資懸念－消費減税観測が債券重し</title>
       <link>https://news.yahoo.co.jp/articles/f149d8d0f72f472337841b0887a6204dc6302aa1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f149d8d0f72f472337841b0887a6204dc6302aa1</guid>
       <pubDate>Tue, 28 Jul 2026 09:45:00 +0900</pubDate>
@@ -140,7 +188,7 @@
       <pubDate>Tue, 28 Jul 2026 07:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油価格が続落、米・イラン協議への期待で－WTI82ドル割れ</title>
+      <title>原油続落、米・イラン協議進展への期待で－ブレント88ドル割れ</title>
       <link>https://news.yahoo.co.jp/articles/4db1c8c4f200ab2a4dd4919faeffbf7d6c301ee7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4db1c8c4f200ab2a4dd4919faeffbf7d6c301ee7</guid>
       <pubDate>Tue, 28 Jul 2026 07:12:00 +0900</pubDate>
@@ -258,54 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5371129e33bcbf78785498c110531a951f8ee9aa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5371129e33bcbf78785498c110531a951f8ee9aa</guid>
       <pubDate>Mon, 27 Jul 2026 15:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市政権の支持率低下、一部市場で円安・金利上昇の加速に警戒感</title>
-      <link>https://news.yahoo.co.jp/articles/b40ad10be446c70fa17c3d412da98e4a88f6789b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b40ad10be446c70fa17c3d412da98e4a88f6789b</guid>
-      <pubDate>Mon, 27 Jul 2026 15:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI株から中国バイオ銘柄に関心シフト－新興国市場の成長テーマで</title>
-      <link>https://news.yahoo.co.jp/articles/5517ac45ad0cef9f0febd19cfdfe2fac95f0e914</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5517ac45ad0cef9f0febd19cfdfe2fac95f0e914</guid>
-      <pubDate>Mon, 27 Jul 2026 15:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米シアトルのフードフェスティバルで銃撃事件、2人死亡</title>
-      <link>https://news.yahoo.co.jp/articles/c3064d1639e12f7ed91d951da82e10cdf9093d8f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c3064d1639e12f7ed91d951da82e10cdf9093d8f</guid>
-      <pubDate>Mon, 27 Jul 2026 14:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクGへの6.5兆円融資、21社が新たに参加－OPENAI投資資金</title>
-      <link>https://news.yahoo.co.jp/articles/3262fb5482f8a5bf4881d495cff92326e5ce5ab0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3262fb5482f8a5bf4881d495cff92326e5ce5ab0</guid>
-      <pubDate>Mon, 27 Jul 2026 13:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国当局、輸出企業にドル資金の還流促す－SKハイニックスの動き契機</title>
-      <link>https://news.yahoo.co.jp/articles/cac35cb0126af8469f0b62d66e2e306296683e16</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cac35cb0126af8469f0b62d66e2e306296683e16</guid>
-      <pubDate>Mon, 27 Jul 2026 13:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>核兵器は「究極の盾」、北朝鮮が非核化要求を一蹴</title>
-      <link>https://news.yahoo.co.jp/articles/8a6c28a4d09a4525439232f487404464473be245</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a6c28a4d09a4525439232f487404464473be245</guid>
-      <pubDate>Mon, 27 Jul 2026 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国ムーンショットAI、新型AIモデル「Kimi K3」を開発者向けに公開</title>
-      <link>https://news.yahoo.co.jp/articles/f54f44b760de05561dba1c880be8a82b1e308b02</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f54f44b760de05561dba1c880be8a82b1e308b02</guid>
-      <pubDate>Mon, 27 Jul 2026 11:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドネシア中銀のペリー・ワルジヨ総裁が辞任－任期途中で</title>
-      <link>https://news.yahoo.co.jp/articles/511d56f9428666ae676ecc5afea6565f291d46d4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/511d56f9428666ae676ecc5afea6565f291d46d4</guid>
-      <pubDate>Mon, 27 Jul 2026 10:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
