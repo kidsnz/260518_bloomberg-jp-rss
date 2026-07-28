@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:42:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:50:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>メタとブラックロック、テキサス州にデータセンター建設－2028年稼働</title>
+      <link>https://news.yahoo.co.jp/articles/51c5200e41910cb3f2ad979691a14c16dfb79f25</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51c5200e41910cb3f2ad979691a14c16dfb79f25</guid>
+      <pubDate>Tue, 28 Jul 2026 21:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>ペトロチャイナ、LNGカナダ株の一部売却検討－第2期計画の資金確保へ</title>
       <link>https://news.yahoo.co.jp/articles/8ce9a58614f817eea703a551bf8077d2f8711c34</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ce9a58614f817eea703a551bf8077d2f8711c34</guid>
       <pubDate>Tue, 28 Jul 2026 17:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドイツ、貿易戦争に備え中国の弱点を洗い出し－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/f7e16511fb8a7d7e3645ab4b48496fe81f5a2cee</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7e16511fb8a7d7e3645ab4b48496fe81f5a2cee</guid>
+      <pubDate>Tue, 28 Jul 2026 17:44:00 +0900</pubDate>
     </item>
     <item>
       <title>JPX山道CEO、個別株レバETFの東証上場に慎重姿勢－米上場は注視</title>
@@ -20,7 +32,7 @@
       <pubDate>Tue, 28 Jul 2026 16:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>熊本県熊本地方で地震、宇城市などで震度7観測－津波注意報発令</title>
+      <title>熊本県で震度7の地震､イオンモールで爆発－川内・玄海原発に異常なし</title>
       <link>https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</guid>
       <pubDate>Tue, 28 Jul 2026 16:38:00 +0900</pubDate>
@@ -212,7 +224,7 @@
       <pubDate>Tue, 28 Jul 2026 07:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油続落、米・イラン協議進展への期待で－ブレント88ドル割れ</title>
+      <title>原油続落、ブレント85ドル割れ－米・イラン協議進展に期待</title>
       <link>https://news.yahoo.co.jp/articles/4db1c8c4f200ab2a4dd4919faeffbf7d6c301ee7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4db1c8c4f200ab2a4dd4919faeffbf7d6c301ee7</guid>
       <pubDate>Tue, 28 Jul 2026 07:12:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e3c701de9dc66bfe9de2622119ab632a95f6879</guid>
       <pubDate>Mon, 27 Jul 2026 19:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イランと合意「十分あり得る」－戦闘休止で交渉再開探る</title>
-      <link>https://news.yahoo.co.jp/articles/a4e6b3a9f2fca7b154dd4867e8ce50d03ba3fdcf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4e6b3a9f2fca7b154dd4867e8ce50d03ba3fdcf</guid>
-      <pubDate>Tue, 28 Jul 2026 18:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イランが3夜連続で攻撃控える－原油価格下落、株と債券は上昇</title>
-      <link>https://news.yahoo.co.jp/articles/f69397e0e840e4c11479c0d6be4caa1df1edfd06</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f69397e0e840e4c11479c0d6be4caa1df1edfd06</guid>
-      <pubDate>Mon, 27 Jul 2026 18:13:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
