@@ -5,13 +5,67 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:32:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:01:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日経平均4%超安、巨額投資や中国勢参入への懸念でAI・半導体関連売り</title>
+      <link>https://news.yahoo.co.jp/articles/124f77f2350dc79475a8cb5f3084cc1f292935fe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/124f77f2350dc79475a8cb5f3084cc1f292935fe</guid>
+      <pubDate>Tue, 28 Jul 2026 09:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>大和証グループ、中国事業再編で元クレディ･スイス幹部採用－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/bb1db09f61d2a0d9dc47c97a65b0bfe4334ad88f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb1db09f61d2a0d9dc47c97a65b0bfe4334ad88f</guid>
+      <pubDate>Tue, 28 Jul 2026 09:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国株急落、AI投資懸念で半導体株に売り－KOSPIは4月20日以来の安値</title>
+      <link>https://news.yahoo.co.jp/articles/beda34d9026d71af8e742d082de9930551bce2cc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/beda34d9026d71af8e742d082de9930551bce2cc</guid>
+      <pubDate>Tue, 28 Jul 2026 09:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブラックロック、2兆円規模社債上昇－ジャンク債並み高利回りに買い</title>
+      <link>https://news.yahoo.co.jp/articles/0e99ec3799748888a51ebf5bfd8588cd2668fbc8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e99ec3799748888a51ebf5bfd8588cd2668fbc8</guid>
+      <pubDate>Tue, 28 Jul 2026 09:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、AI収益性疑念で株式下落へ－中銀会合控え円は安値もみ合い</title>
+      <link>https://news.yahoo.co.jp/articles/8e2b0806c0afcf67a20e6c776ea401ac83804e18</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e2b0806c0afcf67a20e6c776ea401ac83804e18</guid>
+      <pubDate>Tue, 28 Jul 2026 08:13:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本株下落へ、エヌビディア巨額投資や中国の露光装置製造報道を懸念</title>
       <link>https://news.yahoo.co.jp/articles/8c2d3c0b64b04721f9a871b220d748798f10e7d4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c2d3c0b64b04721f9a871b220d748798f10e7d4</guid>
       <pubDate>Tue, 28 Jul 2026 08:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで163円台後半、インフレ警戒続く－債券は上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/241cac22e9c008636c2954c1c611d6673e18b0c4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/241cac22e9c008636c2954c1c611d6673e18b0c4</guid>
+      <pubDate>Tue, 28 Jul 2026 07:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドジャースオーナーの携帯電話、FBIが昨年押収－金融取引捜査の一環</title>
+      <link>https://news.yahoo.co.jp/articles/33c3d579db03f216771b75ca0bf718951293c0b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33c3d579db03f216771b75ca0bf718951293c0b4</guid>
+      <pubDate>Tue, 28 Jul 2026 07:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>シタデル・セキュリティーズ、今週のFOMCでサプライズ利上げ予想</title>
+      <link>https://news.yahoo.co.jp/articles/e4197204522afc5a4316767a48c9a6661195112d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4197204522afc5a4316767a48c9a6661195112d</guid>
+      <pubDate>Tue, 28 Jul 2026 07:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックスADR、初の公募価格割れ－半導体株安で上場来安値</title>
+      <link>https://news.yahoo.co.jp/articles/83e45cd954d46e561b826436160713c2b0d54988</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83e45cd954d46e561b826436160713c2b0d54988</guid>
+      <pubDate>Tue, 28 Jul 2026 07:26:00 +0900</pubDate>
     </item>
     <item>
       <title>原油価格が続落、米・イラン協議への期待で－WTI82ドル割れ</title>
@@ -252,60 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/290099dec9e09df188735f06802258197e35e13c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/290099dec9e09df188735f06802258197e35e13c</guid>
       <pubDate>Sun, 26 Jul 2026 19:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【焦点】FRBと日銀、英中銀が政策決定へ－原油100ドルの警戒感に注目</title>
-      <link>https://news.yahoo.co.jp/articles/a4a66b1924b29be674ad3fb4271e1cceae56fa11</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4a66b1924b29be674ad3fb4271e1cceae56fa11</guid>
-      <pubDate>Sun, 26 Jul 2026 14:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市内閣の支持率が大幅下落、物価高対策に厳しい評価－各社世論調査</title>
-      <link>https://news.yahoo.co.jp/articles/884b0444d23e87e87082da9eb0a15b1058566b32</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/884b0444d23e87e87082da9eb0a15b1058566b32</guid>
-      <pubDate>Mon, 27 Jul 2026 13:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、27日午前に閉会後の国会論戦に臨む－消費税減税など焦点</title>
-      <link>https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d0c755fb3506d553f873d24c44b4416e49b1a1d</guid>
-      <pubDate>Sun, 26 Jul 2026 13:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベルリンで群衆に車突入、1人死亡･16人負傷－性的少数者のパレードで</title>
-      <link>https://news.yahoo.co.jp/articles/6f9ab5b50077bc47d5d3e3a7f758b0b0dbeed82e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f9ab5b50077bc47d5d3e3a7f758b0b0dbeed82e</guid>
-      <pubDate>Sun, 26 Jul 2026 11:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドの若者デモ終結、モディ政権が教育相辞任など要求受け入れ</title>
-      <link>https://news.yahoo.co.jp/articles/b6b6c1f3702c3eee05d5f45cf5958da27840be2a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6b6c1f3702c3eee05d5f45cf5958da27840be2a</guid>
-      <pubDate>Sun, 26 Jul 2026 05:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>DeepSeekが資金調達見合わせ、創業者発言巡る投稿の拡散後－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/b38336b17aa86b819e5c5a3fbcedd658a87a5770</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b38336b17aa86b819e5c5a3fbcedd658a87a5770</guid>
-      <pubDate>Sun, 26 Jul 2026 03:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フランス・スペインの山火事が拡大、30万人超が避難－延焼止まらず</title>
-      <link>https://news.yahoo.co.jp/articles/fe057e16cf41fde85089476dea9ab3022a757ac5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe057e16cf41fde85089476dea9ab3022a757ac5</guid>
-      <pubDate>Sat, 25 Jul 2026 23:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フランス・スペインの山火事が拡大、25万人超が避難－延焼止まらず</title>
-      <link>https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b45247048ef8d9b46992f5cec82de2459fd5162a</guid>
-      <pubDate>Sat, 25 Jul 2026 23:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米が連続で空爆停止、イランも報復控える－トランプ氏の対応見通せず</title>
-      <link>https://news.yahoo.co.jp/articles/46cef4e3b0d9a88bf23cc49b45dd446a0606daf6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/46cef4e3b0d9a88bf23cc49b45dd446a0606daf6</guid>
-      <pubDate>Sat, 25 Jul 2026 18:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
