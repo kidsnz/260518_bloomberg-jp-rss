@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 01:49:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 03:03:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国ムーンショットAI、資金調達で評価額350億ドルに－引き合い強く</title>
+      <link>https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</guid>
+      <pubDate>Wed, 29 Jul 2026 23:05:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油上昇、ブレントが一時90ドル突破－トランプ氏がイラン再攻撃警告</title>
       <link>https://news.yahoo.co.jp/articles/6e4fbc6090ffafe5791fb87137c1a31f7f67a04b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e4fbc6090ffafe5791fb87137c1a31f7f67a04b</guid>
       <pubDate>Wed, 29 Jul 2026 22:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国、レバETF投資規制を強化へ－株急落受け7月31日発効策に追加</title>
+      <link>https://news.yahoo.co.jp/articles/481a7217e7b402c48a3ae761095deb70aadb9709</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/481a7217e7b402c48a3ae761095deb70aadb9709</guid>
+      <pubDate>Wed, 29 Jul 2026 22:18:00 +0900</pubDate>
     </item>
     <item>
       <title>韓国、レバETF投資規制を強化へ－株急落受け7月31日発効策に上乗せ</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/de6e469fd07ca17756f423732b63d2aa40d2d2f1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de6e469fd07ca17756f423732b63d2aa40d2d2f1</guid>
       <pubDate>Tue, 28 Jul 2026 23:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者信頼感指数、7月は低下－現況指数が2021年以来の低水準</title>
-      <link>https://news.yahoo.co.jp/articles/622d5593778851e57a6d0daf2a24ff647200cf33</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/622d5593778851e57a6d0daf2a24ff647200cf33</guid>
-      <pubDate>Tue, 28 Jul 2026 23:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>半導体株安加速、ナスダック100指数は調整局面目前－AI投資に懐疑論</title>
-      <link>https://news.yahoo.co.jp/articles/902029fc2362c162e08c81205cbbc57d42e6f927</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/902029fc2362c162e08c81205cbbc57d42e6f927</guid>
-      <pubDate>Wed, 29 Jul 2026 23:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
