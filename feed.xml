@@ -5,8 +5,44 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:35:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:30:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国株が一時13%急落、個人投資家の売り殺到－楽観論から恐怖に一転</title>
+      <link>https://news.yahoo.co.jp/articles/e7b4978a919355eace8461edbea8f9674705880a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7b4978a919355eace8461edbea8f9674705880a</guid>
+      <pubDate>Wed, 29 Jul 2026 15:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドイツ銀、4～6月の債券トレーディング収入好調－米銀勢上回る伸び</title>
+      <link>https://news.yahoo.co.jp/articles/146c31bfcad22b9a84fb3c7924477bec99bcc628</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/146c31bfcad22b9a84fb3c7924477bec99bcc628</guid>
+      <pubDate>Wed, 29 Jul 2026 15:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国総人口が3年連続で増加、在留外国人増が超高齢社会下支え</title>
+      <link>https://news.yahoo.co.jp/articles/6f7bcadfddd016193682b1261ff26710ab808b1c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f7bcadfddd016193682b1261ff26710ab808b1c</guid>
+      <pubDate>Wed, 29 Jul 2026 15:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス株の異常約定、永久先物で98億円強制決済の衝撃</title>
+      <link>https://news.yahoo.co.jp/articles/509d48ca17c9d956f78f399cea974bf28268eded</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/509d48ca17c9d956f78f399cea974bf28268eded</guid>
+      <pubDate>Wed, 29 Jul 2026 14:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スイスのUBS、新たな自社株買い約4900億円－4～6月の業績好調</title>
+      <link>https://news.yahoo.co.jp/articles/f0df2f27cdf4de045b6eae73de028603d323bbc3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0df2f27cdf4de045b6eae73de028603d323bbc3</guid>
+      <pubDate>Wed, 29 Jul 2026 14:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホンダの熊本製作所、31日まで稼働を停止</title>
+      <link>https://news.yahoo.co.jp/articles/58c90930393eaebef941087d4a629b28486322f9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58c90930393eaebef941087d4a629b28486322f9</guid>
+      <pubDate>Wed, 29 Jul 2026 14:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>米ソフトウエア会社が今年最大の借り換えへ、投資家心理占う試金石に</title>
       <link>https://news.yahoo.co.jp/articles/4cc414c7b116518f7f528ed33a0f1e9b0945a399</link>
@@ -26,7 +62,7 @@
       <pubDate>Wed, 29 Jul 2026 12:33:00 +0900</pubDate>
     </item>
     <item>
-      <title>AI投資加速するソフトバンクG、円建て社債を条件決定－需要は旺盛に</title>
+      <title>ソフトバンクG、AI投資支える資金調達に旺盛な需要－900億円起債</title>
       <link>https://news.yahoo.co.jp/articles/2b19086347d39cc0fd6306f9d8c6885f1eb88c9b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2b19086347d39cc0fd6306f9d8c6885f1eb88c9b</guid>
       <pubDate>Wed, 29 Jul 2026 12:06:00 +0900</pubDate>
@@ -74,13 +110,13 @@
       <pubDate>Wed, 29 Jul 2026 09:29:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株式が失速、AI・半導体株の一角に売り－長期金利は低下</title>
+      <title>【日本市況】日経平均が連日安、AI・半導体売り続く－地震受け金利安</title>
       <link>https://news.yahoo.co.jp/articles/5fcd21ee6fbfcb0e7c8d0fb360fcd12070a038fd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fcd21ee6fbfcb0e7c8d0fb360fcd12070a038fd</guid>
       <pubDate>Wed, 29 Jul 2026 09:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>熊本地震で死者13人､被害徐々に明らかに-イオンモール熊本で爆発</title>
+      <title>熊本地震で死者13人､イオンモール依然4人安否不明－被害明らかに</title>
       <link>https://news.yahoo.co.jp/articles/72076f3da65cab5e93c97560050950a149159c56</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72076f3da65cab5e93c97560050950a149159c56</guid>
       <pubDate>Wed, 29 Jul 2026 09:25:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b40ee4950e7917f9c4e95000ce0060cbace568f5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b40ee4950e7917f9c4e95000ce0060cbace568f5</guid>
       <pubDate>Tue, 28 Jul 2026 16:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>熊本県で震度7の地震、負傷者多数との情報－イオンモールでは爆発</title>
-      <link>https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a21c09fc5f00928d9c2fe14b2ea559e10529372a</guid>
-      <pubDate>Tue, 28 Jul 2026 16:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>熊本地震、イオンモール爆発で2人死亡－日本製紙工場では2人心肺停止</title>
-      <link>https://news.yahoo.co.jp/articles/48f97f40194fe4fd085351d93177a4f02d58ff8a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48f97f40194fe4fd085351d93177a4f02d58ff8a</guid>
-      <pubDate>Wed, 29 Jul 2026 16:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマンなどが一般向けプライベートファンド、41万円で投資可能</title>
-      <link>https://news.yahoo.co.jp/articles/356045993d9fb10621d3abb140c757e566885de0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/356045993d9fb10621d3abb140c757e566885de0</guid>
-      <pubDate>Tue, 28 Jul 2026 16:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国DeepSeek創業者のヘッジファンド、CXMT上場で多額の利益</title>
-      <link>https://news.yahoo.co.jp/articles/8784044b84f805f06fea1e1eaf251f7604e587bf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8784044b84f805f06fea1e1eaf251f7604e587bf</guid>
-      <pubDate>Tue, 28 Jul 2026 16:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国株急落、取引停止相次ぐ－半導体銘柄売りが市場全体に波及</title>
-      <link>https://news.yahoo.co.jp/articles/c7039a2aefb49d3571d225f39c0c56079e86645c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7039a2aefb49d3571d225f39c0c56079e86645c</guid>
-      <pubDate>Tue, 28 Jul 2026 15:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックCEO、オープン型AI全面規制に反対－安全性試験を提唱</title>
-      <link>https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e85b387a0921333d0d0b8485f400122c0ac5fb5</guid>
-      <pubDate>Tue, 28 Jul 2026 14:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
