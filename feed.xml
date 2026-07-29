@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 04:51:22 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:48:39 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>FOMCは金利維持､物価安定実現を改めて表明－利上げ求め3人が反対</title>
+      <title>マイクロソフト、クラウド事業好調－Azure増収率は市場予想上回る</title>
+      <link>https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</guid>
+      <pubDate>Thu, 30 Jul 2026 05:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米30年債利回り19年ぶり高水準－FOMC据え置き後、9月利上げ観測後退</title>
+      <link>https://news.yahoo.co.jp/articles/05273b65f344a652c615e8bd7144eefd11d4ef93</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05273b65f344a652c615e8bd7144eefd11d4ef93</guid>
+      <pubDate>Thu, 30 Jul 2026 04:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FOMCは金利維持、3人が反対－議長は物価安定への決意改めて示す</title>
       <link>https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</guid>
       <pubDate>Thu, 30 Jul 2026 03:14:00 +0900</pubDate>
@@ -18,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/174a39b82f0697a6f63e54317a8f656999619465</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/174a39b82f0697a6f63e54317a8f656999619465</guid>
       <pubDate>Thu, 30 Jul 2026 03:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】債券反落、原油高でインフレ懸念再燃－エルメス株急落</title>
+      <link>https://news.yahoo.co.jp/articles/14696b7987fac9de78d8e12f5b89ecd9e9a2f017</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14696b7987fac9de78d8e12f5b89ecd9e9a2f017</guid>
+      <pubDate>Thu, 30 Jul 2026 02:35:00 +0900</pubDate>
     </item>
     <item>
       <title>中国ムーンショットAI、資金調達で評価額350億ドルに－引き合い強く</title>
@@ -48,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/630d2bbb16c90b26a42117bd9c85c3187a7f625b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/630d2bbb16c90b26a42117bd9c85c3187a7f625b</guid>
       <pubDate>Wed, 29 Jul 2026 21:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏､イランを｢激しく攻撃する｣－ヨルダン米基地への攻撃受け</title>
+      <link>https://news.yahoo.co.jp/articles/9d31ea69c374b5598ac7c08d74c27e17614a005f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d31ea69c374b5598ac7c08d74c27e17614a005f</guid>
+      <pubDate>Wed, 29 Jul 2026 21:29:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏､イランを激しく攻撃へ－ヨルダン米基地への攻撃受け</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7dd625730a4650d33fe8342baf1efc1ddde9ea8f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dd625730a4650d33fe8342baf1efc1ddde9ea8f</guid>
       <pubDate>Wed, 29 Jul 2026 07:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアCEO、オープン型AIの重要性訴え－ムーンショット台頭で</title>
-      <link>https://news.yahoo.co.jp/articles/d87b515bc23277893fc90e4f1464aae6bf3b794b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d87b515bc23277893fc90e4f1464aae6bf3b794b</guid>
-      <pubDate>Wed, 29 Jul 2026 07:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>165円接近の円安相場、焦点は日銀会見－試される植田総裁の対話力</title>
-      <link>https://news.yahoo.co.jp/articles/58f68b7cc3e2c0d1996e36b3ce6b5546a0685044</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58f68b7cc3e2c0d1996e36b3ce6b5546a0685044</guid>
-      <pubDate>Wed, 29 Jul 2026 06:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン証、AI株の成長ストーリーは健在－国内決算で反発余地</title>
-      <link>https://news.yahoo.co.jp/articles/6cb2bb1bbd9737f6a52df46aae11e061bd1493b5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6cb2bb1bbd9737f6a52df46aae11e061bd1493b5</guid>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500種上昇、半導体株は売り加速－ドル163円台後半</title>
-      <link>https://news.yahoo.co.jp/articles/3bf9ef78e53ca2343627a816751083078554f2db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bf9ef78e53ca2343627a816751083078554f2db</guid>
-      <pubDate>Wed, 29 Jul 2026 02:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
