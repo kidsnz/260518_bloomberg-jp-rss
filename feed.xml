@@ -5,16 +5,34 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 05:48:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:54:56 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>マイクロソフト、クラウド事業好調－Azure増収率は市場予想上回る</title>
+      <title>日銀会合注目点:最新見通しと総裁会見で利上げペース探る-政策維持へ</title>
+      <link>https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</guid>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株下落、ナスダック100調整入り－ドル下げて163円台半ば</title>
+      <link>https://news.yahoo.co.jp/articles/23a26f40a6263b778e1eba88c2244bd6059434aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/23a26f40a6263b778e1eba88c2244bd6059434aa</guid>
+      <pubDate>Thu, 30 Jul 2026 05:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフト、クラウド事業好調－Azureは22年以来最高の伸び</title>
       <link>https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</guid>
       <pubDate>Thu, 30 Jul 2026 05:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>米30年債利回り19年ぶり高水準－FOMC据え置き後、9月利上げ観測後退</title>
+      <title>クアルコム、四半期利益見通しが市場予想下回る－株価は時間外で4%安</title>
+      <link>https://news.yahoo.co.jp/articles/a487b7cb98cdc039271ee3a5023035c9042939b3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a487b7cb98cdc039271ee3a5023035c9042939b3</guid>
+      <pubDate>Thu, 30 Jul 2026 05:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米30年債利回りが急上昇、FOMC金利据え置き後に19年ぶり高水準</title>
       <link>https://news.yahoo.co.jp/articles/05273b65f344a652c615e8bd7144eefd11d4ef93</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05273b65f344a652c615e8bd7144eefd11d4ef93</guid>
       <pubDate>Thu, 30 Jul 2026 04:52:00 +0900</pubDate>
@@ -42,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</guid>
       <pubDate>Wed, 29 Jul 2026 23:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油は急反発、ブレント再び90ドル台－トランプ氏がイラン再攻撃警告</title>
+      <link>https://news.yahoo.co.jp/articles/e9be53b062eec047ef7572a3ab884ebf38b5d5dc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e9be53b062eec047ef7572a3ab884ebf38b5d5dc</guid>
+      <pubDate>Wed, 29 Jul 2026 22:33:00 +0900</pubDate>
     </item>
     <item>
       <title>原油上昇、ブレントが一時90ドル突破－トランプ氏がイラン再攻撃警告</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6ec520c981e17bccaa7609884e0801e184a835d8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ec520c981e17bccaa7609884e0801e184a835d8</guid>
       <pubDate>Wed, 29 Jul 2026 07:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サウジ石油施設に無人機攻撃相次ぐ－イラクの親イラン民兵が連日攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/48bb702fcf915861223dc45855c182971d232f2e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48bb702fcf915861223dc45855c182971d232f2e</guid>
-      <pubDate>Wed, 29 Jul 2026 07:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍、中東駐留部隊へのイランのミサイル攻撃を阻止－NY原油5%急上昇</title>
-      <link>https://news.yahoo.co.jp/articles/e1a9a9d3d663d39fba494e826e19fc86389d3f8c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1a9a9d3d663d39fba494e826e19fc86389d3f8c</guid>
-      <pubDate>Wed, 29 Jul 2026 07:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米OpenAIのAIエージェント、別の企業顧客にも不正侵入－ロイター</title>
-      <link>https://news.yahoo.co.jp/articles/f7eea0099925198b1cebced57507bdb72aa132a2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7eea0099925198b1cebced57507bdb72aa132a2</guid>
-      <pubDate>Wed, 29 Jul 2026 07:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シタデル・セキュリティーズの米利上げ予想、市場の警戒感高める</title>
-      <link>https://news.yahoo.co.jp/articles/7dd625730a4650d33fe8342baf1efc1ddde9ea8f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dd625730a4650d33fe8342baf1efc1ddde9ea8f</guid>
-      <pubDate>Wed, 29 Jul 2026 07:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
