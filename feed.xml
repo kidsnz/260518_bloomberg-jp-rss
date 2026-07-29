@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 03:03:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 04:51:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>FOMCは金利維持､物価安定実現を改めて表明－利上げ求め3人が反対</title>
+      <link>https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</guid>
+      <pubDate>Thu, 30 Jul 2026 03:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円が対ドルで上げ拡大、一時163円40銭台－FOMC政策発表後</title>
+      <link>https://news.yahoo.co.jp/articles/174a39b82f0697a6f63e54317a8f656999619465</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/174a39b82f0697a6f63e54317a8f656999619465</guid>
+      <pubDate>Thu, 30 Jul 2026 03:02:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国ムーンショットAI、資金調達で評価額350億ドルに－引き合い強く</title>
       <link>https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3bf9ef78e53ca2343627a816751083078554f2db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bf9ef78e53ca2343627a816751083078554f2db</guid>
       <pubDate>Wed, 29 Jul 2026 02:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ大統領、戦闘の再燃避けたい考え強調－イランに合意促す</title>
-      <link>https://news.yahoo.co.jp/articles/d253e416276e92f3ab0a714c7431b83b6c7c3df7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d253e416276e92f3ab0a714c7431b83b6c7c3df7</guid>
-      <pubDate>Wed, 29 Jul 2026 00:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7月の米消費者信頼感指数は低下、雇用認識悪化－現況指数は低下</title>
-      <link>https://news.yahoo.co.jp/articles/de6e469fd07ca17756f423732b63d2aa40d2d2f1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de6e469fd07ca17756f423732b63d2aa40d2d2f1</guid>
-      <pubDate>Tue, 28 Jul 2026 23:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
