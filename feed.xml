@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:54:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:56:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【FOMC】9月利上げ視野の一方、年内利下げ予想も－市場関係者の見方</title>
+      <link>https://news.yahoo.co.jp/articles/0df77fca3bccc75d1ab0b863043582f302afa683</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0df77fca3bccc75d1ab0b863043582f302afa683</guid>
+      <pubDate>Thu, 30 Jul 2026 06:28:00 +0900</pubDate>
+    </item>
     <item>
       <title>日銀会合注目点:最新見通しと総裁会見で利上げペース探る-政策維持へ</title>
       <link>https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</link>
@@ -18,6 +24,18 @@
       <link>https://news.yahoo.co.jp/articles/23a26f40a6263b778e1eba88c2244bd6059434aa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/23a26f40a6263b778e1eba88c2244bd6059434aa</guid>
       <pubDate>Thu, 30 Jul 2026 05:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG傘下アームの売上高見通し､市場期待満たせず－株価下落</title>
+      <link>https://news.yahoo.co.jp/articles/ece2f95e9963d131521ba61078332025f799b414</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ece2f95e9963d131521ba61078332025f799b414</guid>
+      <pubDate>Thu, 30 Jul 2026 05:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>メタの売上高見通しさえず、AI投資への懸念強まる－株価下落</title>
+      <link>https://news.yahoo.co.jp/articles/f897f2ddb292572316402f3892d3a8ae27550469</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f897f2ddb292572316402f3892d3a8ae27550469</guid>
+      <pubDate>Thu, 30 Jul 2026 05:24:00 +0900</pubDate>
     </item>
     <item>
       <title>マイクロソフト、クラウド事業好調－Azureは22年以来最高の伸び</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/89d38319a68686bc4bc81f535168a5d8cbf4b10a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89d38319a68686bc4bc81f535168a5d8cbf4b10a</guid>
       <pubDate>Wed, 29 Jul 2026 08:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで163円台後半、中東警戒後退しFOMC待ち－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/fcd04526404d4a6410eb1b1585ac08e69e5a38cf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcd04526404d4a6410eb1b1585ac08e69e5a38cf</guid>
-      <pubDate>Wed, 29 Jul 2026 08:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油が急上昇、3日続落から反発－米イランの戦闘再燃による供給懸念</title>
-      <link>https://news.yahoo.co.jp/articles/7f7a9c1af68f949f871c64112122f973be10e8d2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f7a9c1af68f949f871c64112122f973be10e8d2</guid>
-      <pubDate>Wed, 29 Jul 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス、AI過剰投資への懸念強まる－株価は過去最大の下げ</title>
-      <link>https://news.yahoo.co.jp/articles/6ec520c981e17bccaa7609884e0801e184a835d8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ec520c981e17bccaa7609884e0801e184a835d8</guid>
-      <pubDate>Wed, 29 Jul 2026 07:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
