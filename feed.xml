@@ -5,16 +5,52 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 07:01:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:30:59 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>アップル、中国とサービス事業の売上高が市場予想下回る</title>
+      <title>日本市場、米ハイテク決算好感し株高へ－急伸した円は日銀にらみに</title>
+      <link>https://news.yahoo.co.jp/articles/3281f576d3733e67f9ed5853396a72eed97248ff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3281f576d3733e67f9ed5853396a72eed97248ff</guid>
+      <pubDate>Fri, 31 Jul 2026 08:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は大幅高へ、国内外のハイテク好決算でAI・半導体関連に買い</title>
+      <link>https://news.yahoo.co.jp/articles/a9e1f7fe6be9772afa3ca527a541fc01b2145f11</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9e1f7fe6be9772afa3ca527a541fc01b2145f11</guid>
+      <pubDate>Fri, 31 Jul 2026 07:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>政府・日銀が円買い介入実施、円が対ドルで一時157円台－上昇率3%超</title>
+      <link>https://news.yahoo.co.jp/articles/f1946045cbd71ba3cdb9828c1ca0a0cd583182ee</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f1946045cbd71ba3cdb9828c1ca0a0cd583182ee</guid>
+      <pubDate>Fri, 31 Jul 2026 07:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>為替介入で円が対ドルで急伸、政府・日銀が海外で－債券相場は下落へ</title>
+      <link>https://news.yahoo.co.jp/articles/9c1c394a76155fa7dd375695ad891663c795a0f8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c1c394a76155fa7dd375695ad891663c795a0f8</guid>
+      <pubDate>Fri, 31 Jul 2026 07:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント米財務長官「円は著しく過小評価」－FOXビジネスに発言</title>
+      <link>https://news.yahoo.co.jp/articles/7e82867f0149a0c449b5077601d7522d484610a0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e82867f0149a0c449b5077601d7522d484610a0</guid>
+      <pubDate>Fri, 31 Jul 2026 07:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国海警局、なぜ放水やレーザー照射？ 「グレーゾーン作戦」の実態</title>
+      <link>https://news.yahoo.co.jp/articles/42e30f4799d25f4199be74ab9c1534ad2031642f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42e30f4799d25f4199be74ab9c1534ad2031642f</guid>
+      <pubDate>Fri, 31 Jul 2026 07:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップル株急落、部品不足で売上高見通しが市場予想に届かず</title>
       <link>https://news.yahoo.co.jp/articles/1274c15fc67ad8a44efa58f9fc53e4b1b744cb39</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1274c15fc67ad8a44efa58f9fc53e4b1b744cb39</guid>
       <pubDate>Fri, 31 Jul 2026 05:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>アマゾン、クラウド事業売上高が市場予想超え－AI需要追い風</title>
+      <title>アマゾン､クラウド事業売上高の伸び5四半期連続で加速－AI追い風</title>
       <link>https://news.yahoo.co.jp/articles/fdc9d8066ea25c2ad0a44f5222171163a5e425e7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdc9d8066ea25c2ad0a44f5222171163a5e425e7</guid>
       <pubDate>Fri, 31 Jul 2026 05:32:00 +0900</pubDate>
@@ -120,6 +156,12 @@
       <link>https://news.yahoo.co.jp/articles/f4d3f0516c2b908b786fcf654caddc44ba2a7d88</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4d3f0516c2b908b786fcf654caddc44ba2a7d88</guid>
       <pubDate>Thu, 30 Jul 2026 18:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油が反落、ブレント89ドル前後－戦闘激化もホルムズ海峡の通過増加</title>
+      <link>https://news.yahoo.co.jp/articles/53052212198251bc769f2846a83b41a0e1dbaeb6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/53052212198251bc769f2846a83b41a0e1dbaeb6</guid>
+      <pubDate>Fri, 31 Jul 2026 18:04:00 +0900</pubDate>
     </item>
     <item>
       <title>原油が反落、ブレント90ドル前後－米イランの戦闘再開で底堅く</title>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/99023ae885713c6daca4a4f9e65cf12d44a02b16</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/99023ae885713c6daca4a4f9e65cf12d44a02b16</guid>
       <pubDate>Thu, 30 Jul 2026 09:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHD、強まる株主還元期待－投資家層の拡大で株価てこ入れ</title>
-      <link>https://news.yahoo.co.jp/articles/19cda001bd3bec1cda376e7c3b175c951402f4e2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19cda001bd3bec1cda376e7c3b175c951402f4e2</guid>
-      <pubDate>Thu, 30 Jul 2026 08:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソニーGがレンズ製造のタムロンに買収提案､2000億円規模の報道も</title>
-      <link>https://news.yahoo.co.jp/articles/2eab2fa165f9051e604300fb53fca5385e62630f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2eab2fa165f9051e604300fb53fca5385e62630f</guid>
-      <pubDate>Thu, 30 Jul 2026 08:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、AI投資負担や中東情勢悪化懸念で株・債券安へ－円は膠着</title>
-      <link>https://news.yahoo.co.jp/articles/3282caf72329d25047daf424654066178ad0a851</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3282caf72329d25047daf424654066178ad0a851</guid>
-      <pubDate>Thu, 30 Jul 2026 08:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで163円台半ば、米利上げ見送りでドル売り－債券は下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/a50ac8a4878296df4b93a1503b432f9e2ba723df</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a50ac8a4878296df4b93a1503b432f9e2ba723df</guid>
-      <pubDate>Thu, 30 Jul 2026 07:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、中国がイランに武器供与なら「失望」－習氏発言を強調</title>
-      <link>https://news.yahoo.co.jp/articles/33c32828293a0340f52b82da6a11253bc439c4f5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33c32828293a0340f52b82da6a11253bc439c4f5</guid>
-      <pubDate>Thu, 30 Jul 2026 07:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【FOMC】9月利上げ視野の一方、年内利下げ予想も－市場関係者の見方</title>
-      <link>https://news.yahoo.co.jp/articles/0df77fca3bccc75d1ab0b863043582f302afa683</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0df77fca3bccc75d1ab0b863043582f302afa683</guid>
-      <pubDate>Thu, 30 Jul 2026 06:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀会合注目点:最新見通しと総裁会見で利上げペース探る-政策維持へ</title>
-      <link>https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</guid>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
