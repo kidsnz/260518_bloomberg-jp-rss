@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 21:10:28 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:39:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円が対ドルで2%超える上昇、159円台後半に－介入観測強まる</title>
+      <link>https://news.yahoo.co.jp/articles/b80f41e1948174fdf914bf63fbbf40a12f5f8f29</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b80f41e1948174fdf914bf63fbbf40a12f5f8f29</guid>
+      <pubDate>Thu, 30 Jul 2026 22:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米GDP、予想下回る前期比年率1.5%増－個人消費は堅調</title>
+      <link>https://news.yahoo.co.jp/articles/a7df66acb1aa433c66edf9cd4d829ba8617e47b1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7df66acb1aa433c66edf9cd4d829ba8617e47b1</guid>
+      <pubDate>Thu, 30 Jul 2026 21:41:00 +0900</pubDate>
+    </item>
     <item>
       <title>韓国、レバレッジ型ETFは段階的縮小を－運用会社が呼び掛け</title>
       <link>https://news.yahoo.co.jp/articles/87ab28b5e00099ad0b48e8223891ca60e8e82a04</link>
@@ -26,7 +38,7 @@
       <pubDate>Thu, 30 Jul 2026 18:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油再び上昇、ブレント92ドルに－米イランの戦闘再開受け</title>
+      <title>原油が反落、ブレント90ドル前後－米イランの戦闘再開で底堅く</title>
       <link>https://news.yahoo.co.jp/articles/8cd87f0993cb418fb3e6387a6359b2b6879295d8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8cd87f0993cb418fb3e6387a6359b2b6879295d8</guid>
       <pubDate>Thu, 30 Jul 2026 18:04:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/eee3212ec7dd35661d2d705e451d8456241ffe8a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eee3212ec7dd35661d2d705e451d8456241ffe8a</guid>
       <pubDate>Wed, 29 Jul 2026 22:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油、一時90ドル突破－トランプ氏がイランを再攻撃へと発言</title>
-      <link>https://news.yahoo.co.jp/articles/630d2bbb16c90b26a42117bd9c85c3187a7f625b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/630d2bbb16c90b26a42117bd9c85c3187a7f625b</guid>
-      <pubDate>Wed, 29 Jul 2026 21:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏､イランを｢激しく攻撃する｣－ヨルダン米基地への攻撃受け</title>
-      <link>https://news.yahoo.co.jp/articles/9d31ea69c374b5598ac7c08d74c27e17614a005f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d31ea69c374b5598ac7c08d74c27e17614a005f</guid>
-      <pubDate>Wed, 29 Jul 2026 21:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
