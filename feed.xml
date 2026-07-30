@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 19:18:58 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:10:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国、レバレッジ型ETFは段階的縮小を－運用会社が呼び掛け</title>
+      <link>https://news.yahoo.co.jp/articles/87ab28b5e00099ad0b48e8223891ca60e8e82a04</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87ab28b5e00099ad0b48e8223891ca60e8e82a04</guid>
+      <pubDate>Thu, 30 Jul 2026 20:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英中銀、政策金利3.75%に据え置き－インフレ圧力緩和の兆候を指摘</title>
+      <link>https://news.yahoo.co.jp/articles/271950d9cde0eb442e37ede07421381ecca32189</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/271950d9cde0eb442e37ede07421381ecca32189</guid>
+      <pubDate>Thu, 30 Jul 2026 20:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>韓国株の極端なボラティリティーに二の足、割安でも外国勢戻らず</title>
       <link>https://news.yahoo.co.jp/articles/f4d3f0516c2b908b786fcf654caddc44ba2a7d88</link>
@@ -80,7 +92,7 @@
       <pubDate>Thu, 30 Jul 2026 12:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>高市首相、食料品消費税は来年4月から2年間1%と表明－自民幹事長</title>
+      <title>高市首相、食料品消費税は来年4月から2年間1%－赤字国債頼らず財源</title>
       <link>https://news.yahoo.co.jp/articles/1f0d8cd158dccf24001a0c126c48c451bf213a76</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f0d8cd158dccf24001a0c126c48c451bf213a76</guid>
       <pubDate>Thu, 30 Jul 2026 12:11:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9d31ea69c374b5598ac7c08d74c27e17614a005f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d31ea69c374b5598ac7c08d74c27e17614a005f</guid>
       <pubDate>Wed, 29 Jul 2026 21:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏､イランを激しく攻撃へ－ヨルダン米基地への攻撃受け</title>
-      <link>https://news.yahoo.co.jp/articles/5f575f59c5dfb3200b5f756ad7705ac321e5ca50</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f575f59c5dfb3200b5f756ad7705ac321e5ca50</guid>
-      <pubDate>Wed, 29 Jul 2026 21:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「Mr.ブレグジット」がみずほ退社、ドバイで新たな役職に就任へ</title>
-      <link>https://news.yahoo.co.jp/articles/c6c654f70bcc36866e25ac4fe49a1748577b484f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6c654f70bcc36866e25ac4fe49a1748577b484f</guid>
-      <pubDate>Wed, 29 Jul 2026 21:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
