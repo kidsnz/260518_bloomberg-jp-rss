@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:16:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:40:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】英国債上昇、利上げ当面ないとの見方－好決算で株反発</title>
+      <link>https://news.yahoo.co.jp/articles/e1a97f586ae184573044ab9f00931afc0288d4e0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1a97f586ae184573044ab9f00931afc0288d4e0</guid>
+      <pubDate>Fri, 31 Jul 2026 03:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフト、時価総額4900億ドル増の勢い－1日当たりで史上最大</title>
+      <link>https://news.yahoo.co.jp/articles/e4569f1248245a838a140fcef9cad8488abee96c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4569f1248245a838a140fcef9cad8488abee96c</guid>
+      <pubDate>Fri, 31 Jul 2026 03:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI出身者のファンドが手放したAI関連株、大半をシタデルが取得</title>
+      <link>https://news.yahoo.co.jp/articles/19e161296efdf60355dbe14e10482b8ded81d6f4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19e161296efdf60355dbe14e10482b8ded81d6f4</guid>
+      <pubDate>Fri, 31 Jul 2026 02:17:00 +0900</pubDate>
+    </item>
     <item>
       <title>米株上昇、半導体指数6日ぶり反発－30年債利回りなお19年ぶり高水準</title>
       <link>https://news.yahoo.co.jp/articles/feff9cef316f08ce669af401f34e3f15d68990fb</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</guid>
       <pubDate>Thu, 30 Jul 2026 05:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クアルコム、四半期利益見通しが市場予想下回る－株価は時間外で下落</title>
-      <link>https://news.yahoo.co.jp/articles/a487b7cb98cdc039271ee3a5023035c9042939b3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a487b7cb98cdc039271ee3a5023035c9042939b3</guid>
-      <pubDate>Thu, 30 Jul 2026 05:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米30年債利回りが急上昇、FOMC金利据え置き後に19年ぶり高水準</title>
-      <link>https://news.yahoo.co.jp/articles/05273b65f344a652c615e8bd7144eefd11d4ef93</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05273b65f344a652c615e8bd7144eefd11d4ef93</guid>
-      <pubDate>Thu, 30 Jul 2026 04:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FOMCは金利維持、3人が反対－議長は物価安定への決意改めて示す</title>
-      <link>https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</guid>
-      <pubDate>Thu, 30 Jul 2026 03:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
