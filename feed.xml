@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 02:55:07 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:16:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米株上昇、半導体指数6日ぶり反発－30年債利回りなお19年ぶり高水準</title>
+      <link>https://news.yahoo.co.jp/articles/feff9cef316f08ce669af401f34e3f15d68990fb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/feff9cef316f08ce669af401f34e3f15d68990fb</guid>
+      <pubDate>Fri, 31 Jul 2026 01:46:00 +0900</pubDate>
+    </item>
     <item>
       <title>米軍がイラン再び攻撃、ヨルダンやクウェートなど中東全域に戦火拡大</title>
       <link>https://news.yahoo.co.jp/articles/df731714888db7939cb9ac1ec55e215f3e3900e8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df731714888db7939cb9ac1ec55e215f3e3900e8</guid>
       <pubDate>Fri, 31 Jul 2026 00:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NYSE親会社のICE、マーケットアクセスの買収で合意－債券取引強化</title>
+      <link>https://news.yahoo.co.jp/articles/1532abb39a0297690787a6ebfa796a168add4326</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1532abb39a0297690787a6ebfa796a168add4326</guid>
+      <pubDate>Thu, 30 Jul 2026 23:36:00 +0900</pubDate>
     </item>
     <item>
       <title>円が対ドルで3%超える上昇、一時157円台－介入観測強まる</title>
@@ -36,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/87ab28b5e00099ad0b48e8223891ca60e8e82a04</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/87ab28b5e00099ad0b48e8223891ca60e8e82a04</guid>
       <pubDate>Thu, 30 Jul 2026 20:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英中銀、政策金利3.75%に据え置き－インフレ圧力緩和の兆候指摘</title>
+      <link>https://news.yahoo.co.jp/articles/c248eb1ac2e48aac2cdf74e06a754d1094fcfa7d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c248eb1ac2e48aac2cdf74e06a754d1094fcfa7d</guid>
+      <pubDate>Fri, 31 Jul 2026 20:01:00 +0900</pubDate>
     </item>
     <item>
       <title>英中銀、政策金利3.75%に据え置き－インフレ圧力緩和の兆候指摘</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f753805c3ebd25e457e89cc5d948fdbc1f28b4bf</guid>
       <pubDate>Thu, 30 Jul 2026 03:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで上げ拡大、一時163円40銭台－FOMC政策発表後</title>
-      <link>https://news.yahoo.co.jp/articles/174a39b82f0697a6f63e54317a8f656999619465</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/174a39b82f0697a6f63e54317a8f656999619465</guid>
-      <pubDate>Thu, 30 Jul 2026 03:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】債券反落、原油高でインフレ懸念再燃－エルメス株急落</title>
-      <link>https://news.yahoo.co.jp/articles/14696b7987fac9de78d8e12f5b89ecd9e9a2f017</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14696b7987fac9de78d8e12f5b89ecd9e9a2f017</guid>
-      <pubDate>Thu, 30 Jul 2026 02:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国ムーンショットAI、資金調達で評価額350億ドルに－引き合い強く</title>
-      <link>https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</guid>
-      <pubDate>Wed, 29 Jul 2026 23:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
