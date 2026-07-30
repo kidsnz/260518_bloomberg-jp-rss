@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:22:42 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 02:55:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米軍がイラン再び攻撃、ヨルダンやクウェートなど中東全域に戦火拡大</title>
+      <link>https://news.yahoo.co.jp/articles/df731714888db7939cb9ac1ec55e215f3e3900e8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df731714888db7939cb9ac1ec55e215f3e3900e8</guid>
+      <pubDate>Fri, 31 Jul 2026 00:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>円が対ドルで3%超える上昇、一時157円台－介入観測強まる</title>
       <link>https://news.yahoo.co.jp/articles/34354c21c315316f44a3cf6b750931260f3a4f37</link>
@@ -36,6 +42,18 @@
       <link>https://news.yahoo.co.jp/articles/271950d9cde0eb442e37ede07421381ecca32189</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/271950d9cde0eb442e37ede07421381ecca32189</guid>
       <pubDate>Thu, 30 Jul 2026 20:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ユーロ圏4－6月期GDP、予想上回る0.4%増－イラン戦争でも底堅さ示す</title>
+      <link>https://news.yahoo.co.jp/articles/98960294c5965c784cfbf838f57ef2cb356136ae</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98960294c5965c784cfbf838f57ef2cb356136ae</guid>
+      <pubDate>Thu, 30 Jul 2026 19:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡の船舶往来増加、米軍がタンカー護衛と米エネルギー長官</title>
+      <link>https://news.yahoo.co.jp/articles/d8cd8c3f3c2befe7b1763619fd52991b3d54305b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d8cd8c3f3c2befe7b1763619fd52991b3d54305b</guid>
+      <pubDate>Thu, 30 Jul 2026 18:57:00 +0900</pubDate>
     </item>
     <item>
       <title>韓国株の極端なボラティリティーに二の足、割安でも外国勢戻らず</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/931f685b86b7e8563d5ba10e8f372e5abf3814fc</guid>
       <pubDate>Wed, 29 Jul 2026 23:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は急反発、ブレント再び90ドル台－トランプ氏がイラン再攻撃警告</title>
-      <link>https://news.yahoo.co.jp/articles/e9be53b062eec047ef7572a3ab884ebf38b5d5dc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e9be53b062eec047ef7572a3ab884ebf38b5d5dc</guid>
-      <pubDate>Wed, 29 Jul 2026 22:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油上昇、ブレントが一時90ドル突破－トランプ氏がイラン再攻撃警告</title>
-      <link>https://news.yahoo.co.jp/articles/6e4fbc6090ffafe5791fb87137c1a31f7f67a04b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e4fbc6090ffafe5791fb87137c1a31f7f67a04b</guid>
-      <pubDate>Wed, 29 Jul 2026 22:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国、レバETF投資規制を強化へ－株急落受け7月31日発効策に追加</title>
-      <link>https://news.yahoo.co.jp/articles/481a7217e7b402c48a3ae761095deb70aadb9709</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/481a7217e7b402c48a3ae761095deb70aadb9709</guid>
-      <pubDate>Wed, 29 Jul 2026 22:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
