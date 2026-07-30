@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:39:54 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 01:22:42 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>円が対ドルで2%超える上昇、159円台後半に－介入観測強まる</title>
+      <title>円が対ドルで3%超える上昇、一時157円台－介入観測強まる</title>
+      <link>https://news.yahoo.co.jp/articles/34354c21c315316f44a3cf6b750931260f3a4f37</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34354c21c315316f44a3cf6b750931260f3a4f37</guid>
+      <pubDate>Fri, 31 Jul 2026 22:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円が対ドルで3%超える上昇、一時157円台－介入観測強まる</title>
       <link>https://news.yahoo.co.jp/articles/b80f41e1948174fdf914bf63fbbf40a12f5f8f29</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b80f41e1948174fdf914bf63fbbf40a12f5f8f29</guid>
       <pubDate>Thu, 30 Jul 2026 22:43:00 +0900</pubDate>
@@ -26,7 +32,7 @@
       <pubDate>Thu, 30 Jul 2026 20:12:00 +0900</pubDate>
     </item>
     <item>
-      <title>英中銀、政策金利3.75%に据え置き－インフレ圧力緩和の兆候を指摘</title>
+      <title>英中銀、政策金利3.75%に据え置き－インフレ圧力緩和の兆候指摘</title>
       <link>https://news.yahoo.co.jp/articles/271950d9cde0eb442e37ede07421381ecca32189</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/271950d9cde0eb442e37ede07421381ecca32189</guid>
       <pubDate>Thu, 30 Jul 2026 20:01:00 +0900</pubDate>
@@ -299,12 +305,6 @@
       <title>韓国、レバETF投資規制を強化へ－株急落受け7月31日発効策に追加</title>
       <link>https://news.yahoo.co.jp/articles/481a7217e7b402c48a3ae761095deb70aadb9709</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/481a7217e7b402c48a3ae761095deb70aadb9709</guid>
-      <pubDate>Wed, 29 Jul 2026 22:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国、レバETF投資規制を強化へ－株急落受け7月31日発効策に上乗せ</title>
-      <link>https://news.yahoo.co.jp/articles/eee3212ec7dd35661d2d705e451d8456241ffe8a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eee3212ec7dd35661d2d705e451d8456241ffe8a</guid>
       <pubDate>Wed, 29 Jul 2026 22:18:00 +0900</pubDate>
     </item>
   </channel>
