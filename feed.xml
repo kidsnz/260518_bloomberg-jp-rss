@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 05:40:34 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:01:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル、中国とサービス事業の売上高が市場予想下回る</title>
+      <link>https://news.yahoo.co.jp/articles/1274c15fc67ad8a44efa58f9fc53e4b1b744cb39</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1274c15fc67ad8a44efa58f9fc53e4b1b744cb39</guid>
+      <pubDate>Fri, 31 Jul 2026 05:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アマゾン、クラウド事業売上高が市場予想超え－AI需要追い風</title>
+      <link>https://news.yahoo.co.jp/articles/fdc9d8066ea25c2ad0a44f5222171163a5e425e7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdc9d8066ea25c2ad0a44f5222171163a5e425e7</guid>
+      <pubDate>Fri, 31 Jul 2026 05:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、対イラン攻撃再開で深まるジレンマ－戦争の出口見えず</title>
+      <link>https://news.yahoo.co.jp/articles/2dbb9ab705c793ae883899a82ca0a9e26da55850</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2dbb9ab705c793ae883899a82ca0a9e26da55850</guid>
+      <pubDate>Fri, 31 Jul 2026 04:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>【欧州市況】英国債上昇、利上げ当面ないとの見方－好決算で株反発</title>
       <link>https://news.yahoo.co.jp/articles/e1a97f586ae184573044ab9f00931afc0288d4e0</link>
@@ -14,7 +32,7 @@
       <pubDate>Fri, 31 Jul 2026 03:32:00 +0900</pubDate>
     </item>
     <item>
-      <title>マイクロソフト、時価総額4900億ドル増の勢い－1日当たりで史上最大</title>
+      <title>マイクロソフトの時価総額が4500億ドル拡大、史上最大の増加を記録</title>
       <link>https://news.yahoo.co.jp/articles/e4569f1248245a838a140fcef9cad8488abee96c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4569f1248245a838a140fcef9cad8488abee96c</guid>
       <pubDate>Fri, 31 Jul 2026 03:02:00 +0900</pubDate>
@@ -38,6 +56,12 @@
       <pubDate>Fri, 31 Jul 2026 00:25:00 +0900</pubDate>
     </item>
     <item>
+      <title>ドイツのインフレ率、3カ月ぶり高水準に加速－エネルギー価格が上昇</title>
+      <link>https://news.yahoo.co.jp/articles/a82f1486f875bd538fa8d39b981e7fc204e551f1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a82f1486f875bd538fa8d39b981e7fc204e551f1</guid>
+      <pubDate>Thu, 30 Jul 2026 23:41:00 +0900</pubDate>
+    </item>
+    <item>
       <title>NYSE親会社のICE、マーケットアクセスの買収で合意－債券取引強化</title>
       <link>https://news.yahoo.co.jp/articles/1532abb39a0297690787a6ebfa796a168add4326</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1532abb39a0297690787a6ebfa796a168add4326</guid>
@@ -56,7 +80,7 @@
       <pubDate>Thu, 30 Jul 2026 22:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>米GDP、予想下回る前期比年率1.5%増－個人消費は堅調</title>
+      <title>米GDP、4－6月は成長ペース鈍化－個人消費と投資は堅調</title>
       <link>https://news.yahoo.co.jp/articles/a7df66acb1aa433c66edf9cd4d829ba8617e47b1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7df66acb1aa433c66edf9cd4d829ba8617e47b1</guid>
       <pubDate>Thu, 30 Jul 2026 21:41:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d68cb4394e1a8f42214efab2d248c097c9ecb9fc</guid>
       <pubDate>Thu, 30 Jul 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株下落、ナスダック100調整入り－ドル下げて163円台半ば</title>
-      <link>https://news.yahoo.co.jp/articles/23a26f40a6263b778e1eba88c2244bd6059434aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/23a26f40a6263b778e1eba88c2244bd6059434aa</guid>
-      <pubDate>Thu, 30 Jul 2026 05:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG傘下アーム株急落、スマホ市場減速が業績見通しに重荷</title>
-      <link>https://news.yahoo.co.jp/articles/ece2f95e9963d131521ba61078332025f799b414</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ece2f95e9963d131521ba61078332025f799b414</guid>
-      <pubDate>Thu, 30 Jul 2026 05:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>メタの売上高見通しさえず、AI投資への懸念強まる－株価急落</title>
-      <link>https://news.yahoo.co.jp/articles/f897f2ddb292572316402f3892d3a8ae27550469</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f897f2ddb292572316402f3892d3a8ae27550469</guid>
-      <pubDate>Thu, 30 Jul 2026 05:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフト、クラウド事業好調－時間外で株価8％上昇</title>
-      <link>https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16d8a35368f4c89c56f89658b620b6db89922930</guid>
-      <pubDate>Thu, 30 Jul 2026 05:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
