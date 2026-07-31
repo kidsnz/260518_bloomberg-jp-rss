@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 06:35:43 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:54:45 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>ウォーシュFRB議長、FOMC会合の回数削減を検討－NYT</title>
+      <title>トランプ氏が新たな対イラン攻撃を命令、早ければ週末に実施－WSJ</title>
+      <link>https://news.yahoo.co.jp/articles/0cc61a1c2c6958e3516ea8958b2888af08cc6c15</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0cc61a1c2c6958e3516ea8958b2888af08cc6c15</guid>
+      <pubDate>Sat, 01 Aug 2026 06:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュFRB議長、FOMC会合の開催頻度減らす案を検討－NYT</title>
       <link>https://news.yahoo.co.jp/articles/280c6a839301b2987eeb7806e974c2e586712ff9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/280c6a839301b2987eeb7806e974c2e586712ff9</guid>
       <pubDate>Sat, 01 Aug 2026 06:01:00 +0900</pubDate>
@@ -44,7 +50,7 @@
       <pubDate>Sat, 01 Aug 2026 00:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>円は対ドル、対ユーロで上昇－NY連銀が米銀にユーロ円レートチェック</title>
+      <title>円は対ドル1%超上昇、157円40銭－日本当局が連日の円買い介入と報道</title>
       <link>https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</guid>
       <pubDate>Sat, 01 Aug 2026 23:40:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2bb7b31eaf91422b386121e28a0f3520a696355d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2bb7b31eaf91422b386121e28a0f3520a696355d</guid>
       <pubDate>Fri, 31 Jul 2026 09:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、ハマスの「完全な武装解除」で合意と表明－ガザに新政府</title>
-      <link>https://news.yahoo.co.jp/articles/4d835f38a936b083b673ac375f700c0ad3d869ed</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d835f38a936b083b673ac375f700c0ad3d869ed</guid>
-      <pubDate>Fri, 31 Jul 2026 09:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
