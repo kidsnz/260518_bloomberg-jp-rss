@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 05:16:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:35:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォーシュFRB議長、FOMC会合の回数削減を検討－NYT</title>
+      <link>https://news.yahoo.co.jp/articles/280c6a839301b2987eeb7806e974c2e586712ff9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/280c6a839301b2987eeb7806e974c2e586712ff9</guid>
+      <pubDate>Sat, 01 Aug 2026 06:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランとの交渉に懐疑的－中東情勢の早期収束見えず</title>
+      <link>https://news.yahoo.co.jp/articles/65c12cfe0e9a8c034c8fcb7d7a8326ef3d36b575</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65c12cfe0e9a8c034c8fcb7d7a8326ef3d36b575</guid>
+      <pubDate>Sat, 01 Aug 2026 05:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>ニューヨーク連銀、米大手銀にユーロ・円のレートチェック－関係者</title>
       <link>https://news.yahoo.co.jp/articles/fa670fd6b7380afbdd08a2684f5c8ab8d9779b35</link>
@@ -20,7 +32,7 @@
       <pubDate>Sat, 01 Aug 2026 02:08:00 +0900</pubDate>
     </item>
     <item>
-      <title>米株続伸、半導体指数は買いの勢い失速－米国債利回りは軒並み上昇</title>
+      <title>【米国市況】テック主導で株続伸、金利上昇－円高加速し157円台前半</title>
       <link>https://news.yahoo.co.jp/articles/0b823f2bf9997ca8e9a314f1ebe1780d93734f41</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b823f2bf9997ca8e9a314f1ebe1780d93734f41</guid>
       <pubDate>Sat, 01 Aug 2026 01:54:00 +0900</pubDate>
@@ -36,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</guid>
       <pubDate>Sat, 01 Aug 2026 23:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント長官「日本経済は引き続き良好」、日米の緊密な連携強調</title>
+      <link>https://news.yahoo.co.jp/articles/3526dbf5da84a15ea5c7575adf8a636ccbe5b490</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3526dbf5da84a15ea5c7575adf8a636ccbe5b490</guid>
+      <pubDate>Fri, 31 Jul 2026 23:35:00 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド指数、5カ月ぶり高水準－ガソリン価格下落が支え</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4d835f38a936b083b673ac375f700c0ad3d869ed</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d835f38a936b083b673ac375f700c0ad3d869ed</guid>
       <pubDate>Fri, 31 Jul 2026 09:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日経平均株価が4%超高、日米ハイテク決算を好感－半導体関連株が高い</title>
-      <link>https://news.yahoo.co.jp/articles/4dbe0b321f29f48b58aa9da31ab9a5007e83db00</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4dbe0b321f29f48b58aa9da31ab9a5007e83db00</guid>
-      <pubDate>Fri, 31 Jul 2026 09:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国株が急反発、AI期待再燃－KOSPI一時18%高、ハイニックス30%上昇</title>
-      <link>https://news.yahoo.co.jp/articles/0c186dc01a74dd02dc56147766890797cec80362</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c186dc01a74dd02dc56147766890797cec80362</guid>
-      <pubDate>Fri, 31 Jul 2026 09:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三村財務官、米当局によるレートチェックを示唆－為替で日米協調対応</title>
-      <link>https://news.yahoo.co.jp/articles/38a791a8b1ffd3742a7d68a7a5f1bc6d59a576e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38a791a8b1ffd3742a7d68a7a5f1bc6d59a576e0</guid>
-      <pubDate>Fri, 31 Jul 2026 08:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
