@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 03:51:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:16:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ニューヨーク連銀、米大手銀にユーロ・円のレートチェック－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/fa670fd6b7380afbdd08a2684f5c8ab8d9779b35</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa670fd6b7380afbdd08a2684f5c8ab8d9779b35</guid>
+      <pubDate>Sat, 01 Aug 2026 03:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円買い介入巡る日米協調、新たな段階に－金融政策で暗黙の連携視野か</title>
+      <link>https://news.yahoo.co.jp/articles/e621caa949400d4342d40181f7b9e0fb9737c44d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e621caa949400d4342d40181f7b9e0fb9737c44d</guid>
+      <pubDate>Sat, 01 Aug 2026 02:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米株続伸、半導体指数は買いの勢い失速－米国債利回りは軒並み上昇</title>
+      <link>https://news.yahoo.co.jp/articles/0b823f2bf9997ca8e9a314f1ebe1780d93734f41</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b823f2bf9997ca8e9a314f1ebe1780d93734f41</guid>
+      <pubDate>Sat, 01 Aug 2026 01:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国ムーンショット、エヌビディア製半導体2万基利用－アリババ経由</title>
       <link>https://news.yahoo.co.jp/articles/e684384f4ce3868f468ef00c0b77cb1d106aeb95</link>
@@ -14,7 +32,7 @@
       <pubDate>Sat, 01 Aug 2026 00:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>円は対ドルで上げ拡大、一時158円10銭台－再度の介入を市場は警戒</title>
+      <title>円は対ドル、対ユーロで上昇－NY連銀が米銀にユーロ円レートチェック</title>
       <link>https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</guid>
       <pubDate>Sat, 01 Aug 2026 23:40:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/38a791a8b1ffd3742a7d68a7a5f1bc6d59a576e0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38a791a8b1ffd3742a7d68a7a5f1bc6d59a576e0</guid>
       <pubDate>Fri, 31 Jul 2026 08:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>東京消費者物価は伸び拡大、中東情勢波及－日銀年内利上げ観測の支え</title>
-      <link>https://news.yahoo.co.jp/articles/241b98137741e9269924767b656226b47065e673</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/241b98137741e9269924767b656226b47065e673</guid>
-      <pubDate>Fri, 31 Jul 2026 08:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックのAI、外部組織に侵入－Mythos5などテスト環境を脱出</title>
-      <link>https://news.yahoo.co.jp/articles/27682dc3266997a7a78d7dbc1a8a44f8b4827ec3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27682dc3266997a7a78d7dbc1a8a44f8b4827ec3</guid>
-      <pubDate>Fri, 31 Jul 2026 08:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米ハイテク決算好感し株高へ－急伸した円は日銀にらみに</title>
-      <link>https://news.yahoo.co.jp/articles/3281f576d3733e67f9ed5853396a72eed97248ff</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3281f576d3733e67f9ed5853396a72eed97248ff</guid>
-      <pubDate>Fri, 31 Jul 2026 08:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
