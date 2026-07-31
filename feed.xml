@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 17:41:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:25:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>30日の為替介入規模は約8.45兆円の可能性、日銀当座預金が示唆</title>
+      <link>https://news.yahoo.co.jp/articles/c9f63d09c305dc7ce98599f6d8da9a7d2f64ad20</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9f63d09c305dc7ce98599f6d8da9a7d2f64ad20</guid>
+      <pubDate>Fri, 31 Jul 2026 19:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>三菱電機、通期純利益4950億円に上方修正－AI・半導体需要が追い風</title>
+      <link>https://news.yahoo.co.jp/articles/a47d50d1c27aedeac0a959e1368be750f9d6a3f2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a47d50d1c27aedeac0a959e1368be750f9d6a3f2</guid>
+      <pubDate>Fri, 31 Jul 2026 18:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>三井住友FG､デジタル戦略打開にセブン店舗網－3メガ初のコンビニ出資</title>
+      <link>https://news.yahoo.co.jp/articles/c829929ec1c66f3e844913f90036505367645481</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c829929ec1c66f3e844913f90036505367645481</guid>
+      <pubDate>Fri, 31 Jul 2026 18:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>キオクシアHD株は営業益下振れで下げる可能性、株主還元も効果限定</title>
+      <link>https://news.yahoo.co.jp/articles/670dd15a1f5ac76f6cef1ecce677e8e6c3969566</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/670dd15a1f5ac76f6cef1ecce677e8e6c3969566</guid>
+      <pubDate>Fri, 31 Jul 2026 18:11:00 +0900</pubDate>
+    </item>
     <item>
       <title>クシュタール、ポーランド企業に買収提案－セブンの見送り判明後に</title>
       <link>https://news.yahoo.co.jp/articles/5b58db421425f3e8c411cc5d9865b0b987f33b05</link>
@@ -18,6 +42,18 @@
       <link>https://news.yahoo.co.jp/articles/665770bd2e94704691b6e51ed38007356a9ae503</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/665770bd2e94704691b6e51ed38007356a9ae503</guid>
       <pubDate>Fri, 31 Jul 2026 17:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンク連合がセブンに3000億円出資､ポイント･AI活用で連携</title>
+      <link>https://news.yahoo.co.jp/articles/dfc60d9cf6b1c0ab13a57e98e64cf7cca840c23a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dfc60d9cf6b1c0ab13a57e98e64cf7cca840c23a</guid>
+      <pubDate>Fri, 31 Jul 2026 16:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>りそなHD、4－6月期純利益は14%増の805億円－通期目標を上方修正</title>
+      <link>https://news.yahoo.co.jp/articles/c3278fbaf9bf58101540a59bea8c10e8c43b01b9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c3278fbaf9bf58101540a59bea8c10e8c43b01b9</guid>
+      <pubDate>Fri, 31 Jul 2026 16:22:00 +0900</pubDate>
     </item>
     <item>
       <title>みずほ証、4ー6月純利益は前年比58%増697億円ー投資銀行業務がけん引</title>
@@ -44,7 +80,7 @@
       <pubDate>Fri, 31 Jul 2026 15:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>キオクシアHD、自己株取得枠8000億円－2Q営業益計画は市場予想下回る</title>
+      <title>キオクシアHD、営業益計画は市場予想に届かず－週明け株価一段安も</title>
       <link>https://news.yahoo.co.jp/articles/fa4d711977a92a5dc1c70085f92973513be5ad3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa4d711977a92a5dc1c70085f92973513be5ad3c</guid>
       <pubDate>Fri, 31 Jul 2026 15:37:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2dbb9ab705c793ae883899a82ca0a9e26da55850</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2dbb9ab705c793ae883899a82ca0a9e26da55850</guid>
       <pubDate>Fri, 31 Jul 2026 04:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】英国債上昇、利上げ当面ないとの見方－好決算で株反発</title>
-      <link>https://news.yahoo.co.jp/articles/e1a97f586ae184573044ab9f00931afc0288d4e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1a97f586ae184573044ab9f00931afc0288d4e0</guid>
-      <pubDate>Fri, 31 Jul 2026 03:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフトの時価総額が4500億ドル拡大、史上最大の増加を記録</title>
-      <link>https://news.yahoo.co.jp/articles/e4569f1248245a838a140fcef9cad8488abee96c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4569f1248245a838a140fcef9cad8488abee96c</guid>
-      <pubDate>Fri, 31 Jul 2026 03:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAI出身者のファンドが手放したAI関連株、大半をシタデルが取得</title>
-      <link>https://news.yahoo.co.jp/articles/19e161296efdf60355dbe14e10482b8ded81d6f4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19e161296efdf60355dbe14e10482b8ded81d6f4</guid>
-      <pubDate>Fri, 31 Jul 2026 02:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株上昇、半導体指数6日ぶり反発－30年債利回りなお19年ぶり高水準</title>
-      <link>https://news.yahoo.co.jp/articles/feff9cef316f08ce669af401f34e3f15d68990fb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/feff9cef316f08ce669af401f34e3f15d68990fb</guid>
-      <pubDate>Fri, 31 Jul 2026 01:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米軍がイラン再び攻撃、ヨルダンやクウェートなど中東全域に戦火拡大</title>
-      <link>https://news.yahoo.co.jp/articles/df731714888db7939cb9ac1ec55e215f3e3900e8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df731714888db7939cb9ac1ec55e215f3e3900e8</guid>
-      <pubDate>Fri, 31 Jul 2026 00:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツのインフレ率、3カ月ぶり高水準に加速－エネルギー価格が上昇</title>
-      <link>https://news.yahoo.co.jp/articles/a82f1486f875bd538fa8d39b981e7fc204e551f1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a82f1486f875bd538fa8d39b981e7fc204e551f1</guid>
-      <pubDate>Thu, 30 Jul 2026 23:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
