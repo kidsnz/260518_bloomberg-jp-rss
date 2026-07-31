@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:35:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:23:51 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米消費者マインド指数、5カ月ぶり高水準－ガソリン価格下落が支え</title>
       <link>https://news.yahoo.co.jp/articles/da0680e3f8bc57975bd082de28882a0086e31efa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da0680e3f8bc57975bd082de28882a0086e31efa</guid>
       <pubDate>Fri, 31 Jul 2026 23:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FOMCの据え置き判断に反対の当局者、インフレ対応遅れるリスクを警告</title>
+      <link>https://news.yahoo.co.jp/articles/d61aa9413944584bdc2e7969b2554fd1fedf69d7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d61aa9413944584bdc2e7969b2554fd1fedf69d7</guid>
+      <pubDate>Sat, 01 Aug 2026 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FOMCの据え置き判断に反対の2人、インフレ対応遅れるリスクを警告</title>
+      <link>https://news.yahoo.co.jp/articles/af5e2c40accd41f5a283f0400060a91da97e4a53</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/af5e2c40accd41f5a283f0400060a91da97e4a53</guid>
+      <pubDate>Fri, 31 Jul 2026 22:30:00 +0900</pubDate>
     </item>
     <item>
       <title>ユーロ圏インフレ率加速、7月は2.9%上昇－ECBの9月利上げ観測強まる</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f1946045cbd71ba3cdb9828c1ca0a0cd583182ee</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f1946045cbd71ba3cdb9828c1ca0a0cd583182ee</guid>
       <pubDate>Fri, 31 Jul 2026 07:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>為替介入で円が対ドルで急伸、政府・日銀が海外で－債券相場は下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/9c1c394a76155fa7dd375695ad891663c795a0f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c1c394a76155fa7dd375695ad891663c795a0f8</guid>
-      <pubDate>Fri, 31 Jul 2026 07:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベッセント米財務長官「円は著しく過小評価」－FOXビジネスに発言</title>
-      <link>https://news.yahoo.co.jp/articles/7e82867f0149a0c449b5077601d7522d484610a0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e82867f0149a0c449b5077601d7522d484610a0</guid>
-      <pubDate>Fri, 31 Jul 2026 07:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
