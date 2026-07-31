@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 20:25:20 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:12:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>シチュエーショナル救済でAI株買い戻し－市場は最悪期脱却か見極め</title>
+      <link>https://news.yahoo.co.jp/articles/25ad2b4bfedc9518a0b8ee18ab2a32fc4919360d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/25ad2b4bfedc9518a0b8ee18ab2a32fc4919360d</guid>
+      <pubDate>Fri, 31 Jul 2026 19:13:00 +0900</pubDate>
+    </item>
     <item>
       <title>30日の為替介入規模は約8.45兆円の可能性、日銀当座預金が示唆</title>
       <link>https://news.yahoo.co.jp/articles/c9f63d09c305dc7ce98599f6d8da9a7d2f64ad20</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fdc9d8066ea25c2ad0a44f5222171163a5e425e7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdc9d8066ea25c2ad0a44f5222171163a5e425e7</guid>
       <pubDate>Fri, 31 Jul 2026 05:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、対イラン攻撃再開で深まるジレンマ－戦争の出口見えず</title>
-      <link>https://news.yahoo.co.jp/articles/2dbb9ab705c793ae883899a82ca0a9e26da55850</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2dbb9ab705c793ae883899a82ca0a9e26da55850</guid>
-      <pubDate>Fri, 31 Jul 2026 04:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
