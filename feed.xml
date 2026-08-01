@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 22:06:21 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:43:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討</title>
+      <link>https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</guid>
+      <pubDate>Sat, 01 Aug 2026 22:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>ロシアがキーウに大規模攻撃、9人死亡－迎撃ミサイル不足浮き彫り</title>
       <link>https://news.yahoo.co.jp/articles/d0f77e60c6dc7b07ee7e09d9e3a5a33c7ef13509</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/280a1e34981eba440932bfddfd946637ce6f5150</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/280a1e34981eba440932bfddfd946637ce6f5150</guid>
       <pubDate>Fri, 31 Jul 2026 11:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>外為特会の剰余金5.1兆円、過去2番目の大きさに－内外金利差が主因に</title>
-      <link>https://news.yahoo.co.jp/articles/a680e20b6a9403d06094b870321a3d73943ab651</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a680e20b6a9403d06094b870321a3d73943ab651</guid>
-      <pubDate>Fri, 31 Jul 2026 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
