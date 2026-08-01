@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:42:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 14:50:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピックとOpenAIの安全対策不備、米安全保障のリスク浮き彫り</title>
+      <link>https://news.yahoo.co.jp/articles/6faefeb373aa22778024b6de6e35d860ab68c183</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6faefeb373aa22778024b6de6e35d860ab68c183</guid>
+      <pubDate>Sat, 01 Aug 2026 13:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>韓国の7月輸出62.8%増、力強い伸び維持－AI需要が景気下支え</title>
       <link>https://news.yahoo.co.jp/articles/fb0ea29b60f6f9949bbd01cf00e56adf978c86e6</link>
@@ -62,7 +68,7 @@
       <pubDate>Sat, 01 Aug 2026 00:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>円が対ドルで1%超上昇、日本当局が円買い介入－米国も介入とFT報道</title>
+      <title>円が対ドルで1%超上昇、日本当局が連日で円買い介入－米国も介入報道</title>
       <link>https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</guid>
       <pubDate>Sat, 01 Aug 2026 23:40:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e386629957cd12f9fbdc4bd20fbdd8efbe66db1f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e386629957cd12f9fbdc4bd20fbdd8efbe66db1f</guid>
       <pubDate>Fri, 31 Jul 2026 10:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国通貨当局、日米など主要国と緊密に連携－為替介入にコメントせず</title>
-      <link>https://news.yahoo.co.jp/articles/7d18ce170fdc2c5201846fd39a8741cecd3114e9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d18ce170fdc2c5201846fd39a8741cecd3114e9</guid>
-      <pubDate>Fri, 31 Jul 2026 10:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
