@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 14:50:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:11:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ロシアがキーウに大規模攻撃、9人死亡－迎撃ミサイル不足浮き彫り</title>
+      <link>https://news.yahoo.co.jp/articles/d0f77e60c6dc7b07ee7e09d9e3a5a33c7ef13509</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d0f77e60c6dc7b07ee7e09d9e3a5a33c7ef13509</guid>
+      <pubDate>Sat, 01 Aug 2026 16:46:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピックとOpenAIの安全対策不備、米安全保障のリスク浮き彫り</title>
       <link>https://news.yahoo.co.jp/articles/6faefeb373aa22778024b6de6e35d860ab68c183</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a680e20b6a9403d06094b870321a3d73943ab651</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a680e20b6a9403d06094b870321a3d73943ab651</guid>
       <pubDate>Fri, 31 Jul 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>テスラが中国事業分離検討とWSJ－マスク氏は否定</title>
-      <link>https://news.yahoo.co.jp/articles/e386629957cd12f9fbdc4bd20fbdd8efbe66db1f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e386629957cd12f9fbdc4bd20fbdd8efbe66db1f</guid>
-      <pubDate>Fri, 31 Jul 2026 10:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
