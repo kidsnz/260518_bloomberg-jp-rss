@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:56:47 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:42:33 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>トランプ氏が新たな対イラン攻撃を命令、早ければ週末に実施－WSJ</title>
+      <title>韓国の7月輸出62.8%増、力強い伸び維持－AI需要が景気下支え</title>
+      <link>https://news.yahoo.co.jp/articles/fb0ea29b60f6f9949bbd01cf00e56adf978c86e6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb0ea29b60f6f9949bbd01cf00e56adf978c86e6</guid>
+      <pubDate>Sat, 01 Aug 2026 09:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FIFA、外部資本受け入れ構想を撤回－主要サッカー連盟が反対</title>
+      <link>https://news.yahoo.co.jp/articles/1d787284cb80fc1da9fac9a62a353cfec45fefb2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1d787284cb80fc1da9fac9a62a353cfec45fefb2</guid>
+      <pubDate>Sat, 01 Aug 2026 09:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏が新たな対イラン攻撃を命令、早ければ週末実施－WSJ</title>
       <link>https://news.yahoo.co.jp/articles/0cc61a1c2c6958e3516ea8958b2888af08cc6c15</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0cc61a1c2c6958e3516ea8958b2888af08cc6c15</guid>
       <pubDate>Sat, 01 Aug 2026 06:36:00 +0900</pubDate>
@@ -50,7 +62,7 @@
       <pubDate>Sat, 01 Aug 2026 00:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>円は対ドル1%超上昇、157円40銭－日本当局が連日の円買い介入と報道</title>
+      <title>円が対ドルで1%超上昇、日本当局が円買い介入－米国も介入とFT報道</title>
       <link>https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</guid>
       <pubDate>Sat, 01 Aug 2026 23:40:00 +0900</pubDate>
@@ -66,6 +78,12 @@
       <link>https://news.yahoo.co.jp/articles/da0680e3f8bc57975bd082de28882a0086e31efa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da0680e3f8bc57975bd082de28882a0086e31efa</guid>
       <pubDate>Fri, 31 Jul 2026 23:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円関連取引高が約12年ぶり高水準、30日の円急騰局面で－米CME</title>
+      <link>https://news.yahoo.co.jp/articles/36c03dd4cb9c81afd4cf7843456bcf93405b83de</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36c03dd4cb9c81afd4cf7843456bcf93405b83de</guid>
+      <pubDate>Fri, 31 Jul 2026 22:41:00 +0900</pubDate>
     </item>
     <item>
       <title>FOMCの据え置き判断に反対の当局者、インフレ対応遅れるリスクを警告</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7d18ce170fdc2c5201846fd39a8741cecd3114e9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d18ce170fdc2c5201846fd39a8741cecd3114e9</guid>
       <pubDate>Fri, 31 Jul 2026 10:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アマゾンやマイクロソフト、AI投資継続示す－半導体株に安心感</title>
-      <link>https://news.yahoo.co.jp/articles/b98781b650044b7b387af89f5dc286a3213a0526</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b98781b650044b7b387af89f5dc286a3213a0526</guid>
-      <pubDate>Fri, 31 Jul 2026 10:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ議長、インフレ評価手法見直しの可能性示唆－市場に懸念</title>
-      <link>https://news.yahoo.co.jp/articles/58baccb6971129e3807c1523f9dca4c06b5f92db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58baccb6971129e3807c1523f9dca4c06b5f92db</guid>
-      <pubDate>Fri, 31 Jul 2026 09:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】AI・半導体買われ株大幅高、円は介入効果薄れ160円半ば</title>
-      <link>https://news.yahoo.co.jp/articles/2bb7b31eaf91422b386121e28a0f3520a696355d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2bb7b31eaf91422b386121e28a0f3520a696355d</guid>
-      <pubDate>Fri, 31 Jul 2026 09:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
