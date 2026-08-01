@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 07:48:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:52:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国BYD、7月販売台数22%増－輸出好調も年間目標達成へなお課題</title>
+      <link>https://news.yahoo.co.jp/articles/073049888e84fcaec03b5b50727c9db7fbcc0d4a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/073049888e84fcaec03b5b50727c9db7fbcc0d4a</guid>
+      <pubDate>Sun, 02 Aug 2026 06:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>ウォーシュFRB議長の「沈黙」、新たなリスク－米株市場は乱高下警戒</title>
       <link>https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/715e98f34c221398ef5d31e7f384f23aa2a77e64</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/715e98f34c221398ef5d31e7f384f23aa2a77e64</guid>
       <pubDate>Fri, 31 Jul 2026 11:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG株などストップ高、日米好決算受けAI関連株が急反発</title>
-      <link>https://news.yahoo.co.jp/articles/d3f997577c678b77cf1d1316477c53c1c7bcd913</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3f997577c678b77cf1d1316477c53c1c7bcd913</guid>
-      <pubDate>Fri, 31 Jul 2026 11:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
