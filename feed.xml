@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 04:41:16 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 05:43:20 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォーシュFRB議長の「沈黙」、新たなリスク－米株市場は乱高下警戒</title>
+      <link>https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</guid>
+      <pubDate>Sun, 02 Aug 2026 04:41:00 +0900</pubDate>
+    </item>
     <item>
       <title>クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討</title>
       <link>https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d3f997577c678b77cf1d1316477c53c1c7bcd913</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d3f997577c678b77cf1d1316477c53c1c7bcd913</guid>
       <pubDate>Fri, 31 Jul 2026 11:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アドバンテスト､日経平均ウエート引き下げの公算－9月末に売り発生も</title>
-      <link>https://news.yahoo.co.jp/articles/280a1e34981eba440932bfddfd946637ce6f5150</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/280a1e34981eba440932bfddfd946637ce6f5150</guid>
-      <pubDate>Fri, 31 Jul 2026 11:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
