@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 19:12:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 20:40:10 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>韓国個人投資家、株価急落に激怒－SNSで政府に矛先、カジノに例えも</title>
@@ -48,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</guid>
       <pubDate>Sun, 02 Aug 2026 04:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡でLNGタンカー被弾、カタール積み－輸送混乱拡大の恐れ</title>
+      <link>https://news.yahoo.co.jp/articles/55adbd928ecd42ce3d152d66f8234c7c42b17d61</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55adbd928ecd42ce3d152d66f8234c7c42b17d61</guid>
+      <pubDate>Sun, 02 Aug 2026 00:38:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、新たな対イラン攻撃検討－中東の米大使館が警戒呼びかけ</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fff037cb73d06d6b19c0d0782cb78a6173450aed</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fff037cb73d06d6b19c0d0782cb78a6173450aed</guid>
       <pubDate>Fri, 31 Jul 2026 13:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利は上昇へ、日銀の利上げを巡る思惑が重しに</title>
-      <link>https://news.yahoo.co.jp/articles/c67f692f95efdca579abce00d320e7dc18727f0c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c67f692f95efdca579abce00d320e7dc18727f0c</guid>
-      <pubDate>Fri, 31 Jul 2026 12:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
