@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 14:39:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:12:35 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>片山財務相、日米の円安是正の取り組みを3日に説明へ－ロイター</title>
+      <title>米ローン投資家、借り手への姿勢を硬化－多額投資受け大量の債務流入</title>
+      <link>https://news.yahoo.co.jp/articles/83e2522d3c3ef6b409720e7d5cb770fbd0ce3e8d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83e2522d3c3ef6b409720e7d5cb770fbd0ce3e8d</guid>
+      <pubDate>Sun, 02 Aug 2026 14:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>片山財務相､円安是正に向けた日米の措置についてあすにも説明-関係者</title>
       <link>https://news.yahoo.co.jp/articles/f5af23637fe6a1c87d076ecaa16954809c244e12</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5af23637fe6a1c87d076ecaa16954809c244e12</guid>
       <pubDate>Sun, 02 Aug 2026 12:06:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5e0afd338c7d38c779b4aaaf793b3dd3caead911</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e0afd338c7d38c779b4aaaf793b3dd3caead911</guid>
       <pubDate>Fri, 31 Jul 2026 12:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀が政策金利維持、物価上振れの悪影響｢十分留意｣－成長見通し上げ</title>
-      <link>https://news.yahoo.co.jp/articles/ed8f3208c448ac3656a150cad9b509333a4a9d6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed8f3208c448ac3656a150cad9b509333a4a9d6e</guid>
-      <pubDate>Fri, 31 Jul 2026 12:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
