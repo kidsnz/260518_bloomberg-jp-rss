@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 05:27:08 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:24:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>英アストラゼネカと米ブリストル・マイヤーズ、統合を協議－FT</title>
+      <link>https://news.yahoo.co.jp/articles/c6f5d95432ac4090b6ae9090105f2244ca056360</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6f5d95432ac4090b6ae9090105f2244ca056360</guid>
+      <pubDate>Mon, 03 Aug 2026 04:28:00 +0900</pubDate>
+    </item>
     <item>
       <title>スパイダーマン最新作、オープニング週末興行収入で今年最高を記録</title>
       <link>https://news.yahoo.co.jp/articles/af5a747b32891e637ebcda8fa2316a5ff3f00425</link>
@@ -299,12 +305,6 @@
       <title>加クシュタール、ポーランドのジャプカ買収を計画－1株32ズロチ</title>
       <link>https://news.yahoo.co.jp/articles/b2098220e2ce1f84e967a6f74b4da9804a536550</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2098220e2ce1f84e967a6f74b4da9804a536550</guid>
-      <pubDate>Fri, 31 Jul 2026 13:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>熊本地震で自動車供給網に打撃、稼働停止続く－半導体は続々再開</title>
-      <link>https://news.yahoo.co.jp/articles/5f90182e5232b60fd59fac4f0d184e1be675bbf4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f90182e5232b60fd59fac4f0d184e1be675bbf4</guid>
       <pubDate>Fri, 31 Jul 2026 13:33:00 +0900</pubDate>
     </item>
   </channel>
