@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 06:24:17 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:25:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、イラン攻撃を中止－3日に新たな協議を開始すると表明</title>
+      <link>https://news.yahoo.co.jp/articles/d1829301eea2cd5c1bd7eabe0a5a1e3738242cf9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d1829301eea2cd5c1bd7eabe0a5a1e3738242cf9</guid>
+      <pubDate>Mon, 03 Aug 2026 06:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英アストラゼネカ、米ブリストル・マイヤーズの買収を検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/7b92cea315995dec755ca2c23941be495f09fffc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b92cea315995dec755ca2c23941be495f09fffc</guid>
+      <pubDate>Mon, 03 Aug 2026 05:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>英アストラゼネカと米ブリストル・マイヤーズ、統合を協議－FT</title>
       <link>https://news.yahoo.co.jp/articles/c6f5d95432ac4090b6ae9090105f2244ca056360</link>
@@ -20,10 +32,28 @@
       <pubDate>Mon, 03 Aug 2026 03:25:00 +0900</pubDate>
     </item>
     <item>
+      <title>FRBの情報発信不足で手探りの米国債市場、利回り上昇リスク強まる</title>
+      <link>https://news.yahoo.co.jp/articles/67ce006521ae1682c79fe3735454d587cdc18fd7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67ce006521ae1682c79fe3735454d587cdc18fd7</guid>
+      <pubDate>Mon, 03 Aug 2026 01:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円相場、次の介入に市場が身構え－日米連携で投機筋に一段の圧力</title>
+      <link>https://news.yahoo.co.jp/articles/6ba21b71d47644bf2371edc63806df9cd6858a16</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ba21b71d47644bf2371edc63806df9cd6858a16</guid>
+      <pubDate>Mon, 03 Aug 2026 23:04:00 +0900</pubDate>
+    </item>
+    <item>
       <title>円相場、次の介入に市場が身構え－日米連携で投機筋に一段の圧力</title>
       <link>https://news.yahoo.co.jp/articles/6550a0669ca7d716455aa689187b6cc7e04c8ee1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6550a0669ca7d716455aa689187b6cc7e04c8ee1</guid>
       <pubDate>Sun, 02 Aug 2026 23:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OPECプラス、生産枠を小幅引き上げ－2023年減産の巻き戻し完了へ</title>
+      <link>https://news.yahoo.co.jp/articles/1edd4879116f4e81fa72cc881ab9e36cf0fb5a3c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1edd4879116f4e81fa72cc881ab9e36cf0fb5a3c</guid>
+      <pubDate>Sun, 02 Aug 2026 23:03:00 +0900</pubDate>
     </item>
     <item>
       <title>韓国個人投資家、株価急落に激怒－SNSで政府に矛先、カジノに例えも</title>
@@ -38,7 +68,7 @@
       <pubDate>Sun, 02 Aug 2026 14:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>片山財務相､円安是正に向けた日米の措置についてあすにも説明-関係者</title>
+      <title>片山財務相､円安是正への日米の措置について3日にも説明-関係者</title>
       <link>https://news.yahoo.co.jp/articles/f5af23637fe6a1c87d076ecaa16954809c244e12</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5af23637fe6a1c87d076ecaa16954809c244e12</guid>
       <pubDate>Sun, 02 Aug 2026 12:06:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fa4d711977a92a5dc1c70085f92973513be5ad3c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa4d711977a92a5dc1c70085f92973513be5ad3c</guid>
       <pubDate>Fri, 31 Jul 2026 15:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三井住友FGの4－6月純利益3割増、国内融資など好調で予想上回る</title>
-      <link>https://news.yahoo.co.jp/articles/042858fe43c8974616888d55a79483caff1519f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/042858fe43c8974616888d55a79483caff1519f8</guid>
-      <pubDate>Fri, 31 Jul 2026 15:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】じり安、海外中銀のタカ派姿勢が重し－介入実績注目</title>
-      <link>https://news.yahoo.co.jp/articles/541adb498362686ed00dca5c0bf2ad8dee9c2c06</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/541adb498362686ed00dca5c0bf2ad8dee9c2c06</guid>
-      <pubDate>Fri, 31 Jul 2026 14:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>再度の円売り警戒するストラテジスト、日銀現状維持ー総裁会見焦点に</title>
-      <link>https://news.yahoo.co.jp/articles/e5d1160e1cda55386e866c8d74fc6d615ea079eb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e5d1160e1cda55386e866c8d74fc6d615ea079eb</guid>
-      <pubDate>Fri, 31 Jul 2026 14:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シダックスのTOB価格は｢安すぎた｣－オアシス､東京地裁決定を歓迎</title>
-      <link>https://news.yahoo.co.jp/articles/b7a10064fb1830b3b516a311335508a36294b07a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7a10064fb1830b3b516a311335508a36294b07a</guid>
-      <pubDate>Fri, 31 Jul 2026 13:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>加クシュタール、ポーランドのジャプカ買収を計画－1株32ズロチ</title>
-      <link>https://news.yahoo.co.jp/articles/b2098220e2ce1f84e967a6f74b4da9804a536550</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b2098220e2ce1f84e967a6f74b4da9804a536550</guid>
-      <pubDate>Fri, 31 Jul 2026 13:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
