@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 08:52:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:12:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】7月の米雇用者数は増加見通し－労働者への需要底堅さ維持</title>
+      <link>https://news.yahoo.co.jp/articles/ed18c86b0cf1c0e376035bbbf11a3acf9867df63</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed18c86b0cf1c0e376035bbbf11a3acf9867df63</guid>
+      <pubDate>Sun, 02 Aug 2026 08:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国BYD、7月販売台数22%増－輸出好調も年間目標達成へなお課題</title>
       <link>https://news.yahoo.co.jp/articles/073049888e84fcaec03b5b50727c9db7fbcc0d4a</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/62dfd163bcf5d50d2fb60cbf6fe802303448c935</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62dfd163bcf5d50d2fb60cbf6fe802303448c935</guid>
       <pubDate>Fri, 31 Jul 2026 11:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムスンとSKハイニックス、最高益でも消えぬAIバブル懸念－株乱高下</title>
-      <link>https://news.yahoo.co.jp/articles/715e98f34c221398ef5d31e7f384f23aa2a77e64</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/715e98f34c221398ef5d31e7f384f23aa2a77e64</guid>
-      <pubDate>Fri, 31 Jul 2026 11:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
