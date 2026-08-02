@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:12:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 14:39:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>片山財務相、日米の円安是正の取り組みを3日に説明へ－ロイター</title>
+      <link>https://news.yahoo.co.jp/articles/f5af23637fe6a1c87d076ecaa16954809c244e12</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5af23637fe6a1c87d076ecaa16954809c244e12</guid>
+      <pubDate>Sun, 02 Aug 2026 12:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ米大統領、対イラン攻撃取りやめと表明－迅速な合意を条件に</title>
+      <link>https://news.yahoo.co.jp/articles/1f5d4c4f93e742cb9615a2eb3b7c1447be192005</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f5d4c4f93e742cb9615a2eb3b7c1447be192005</guid>
+      <pubDate>Sun, 02 Aug 2026 11:33:00 +0900</pubDate>
+    </item>
     <item>
       <title>【焦点】7月の米雇用者数は増加見通し－労働者への需要底堅さ維持</title>
       <link>https://news.yahoo.co.jp/articles/ed18c86b0cf1c0e376035bbbf11a3acf9867df63</link>
@@ -26,7 +38,7 @@
       <pubDate>Sun, 02 Aug 2026 04:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討</title>
+      <title>トランプ氏、新たな対イラン攻撃検討－中東の米大使館が警戒呼びかけ</title>
       <link>https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</guid>
       <pubDate>Sat, 01 Aug 2026 22:08:00 +0900</pubDate>
@@ -98,7 +110,7 @@
       <pubDate>Sat, 01 Aug 2026 00:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>円が対ドルで1%超上昇、日本当局が連日で円買い介入－米国も介入報道</title>
+      <title>ベッセント氏とFRBが日本の円防衛に加勢、投機筋けん制し相場逆流も</title>
       <link>https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fd5713554e0add1bebd1d2967c769836239bab9</guid>
       <pubDate>Sat, 01 Aug 2026 23:40:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ed8f3208c448ac3656a150cad9b509333a4a9d6e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed8f3208c448ac3656a150cad9b509333a4a9d6e</guid>
       <pubDate>Fri, 31 Jul 2026 12:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソニーG､ゲーム好調で今期営業益見通し上方修正-関税還付･円安追い風</title>
-      <link>https://news.yahoo.co.jp/articles/cc3ae4d2f66b159ee45d9f30d826e2b50f67e415</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc3ae4d2f66b159ee45d9f30d826e2b50f67e415</guid>
-      <pubDate>Fri, 31 Jul 2026 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三村財務官が続投3年目、円安対応の事務方トップ－前日に為替介入</title>
-      <link>https://news.yahoo.co.jp/articles/62dfd163bcf5d50d2fb60cbf6fe802303448c935</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62dfd163bcf5d50d2fb60cbf6fe802303448c935</guid>
-      <pubDate>Fri, 31 Jul 2026 11:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
