@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 17:12:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:12:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国個人投資家、株価急落に激怒－SNSで政府に矛先、カジノに例えも</title>
+      <link>https://news.yahoo.co.jp/articles/145a0b340041a8b8d63dbf8f696bdda2febf636e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/145a0b340041a8b8d63dbf8f696bdda2febf636e</guid>
+      <pubDate>Sun, 02 Aug 2026 17:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>米ローン投資家、借り手への姿勢を硬化－多額投資受け大量の債務流入</title>
       <link>https://news.yahoo.co.jp/articles/83e2522d3c3ef6b409720e7d5cb770fbd0ce3e8d</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c67f692f95efdca579abce00d320e7dc18727f0c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c67f692f95efdca579abce00d320e7dc18727f0c</guid>
       <pubDate>Fri, 31 Jul 2026 12:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>レオポルド・アッシェンブレナー氏とは－ウォール街が注目する理由</title>
-      <link>https://news.yahoo.co.jp/articles/5e0afd338c7d38c779b4aaaf793b3dd3caead911</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e0afd338c7d38c779b4aaaf793b3dd3caead911</guid>
-      <pubDate>Fri, 31 Jul 2026 12:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
