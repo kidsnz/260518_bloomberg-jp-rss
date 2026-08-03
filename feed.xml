@@ -5,13 +5,49 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:23:30 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 02:23:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円が156円台半ば、米国株は続伸－中東情勢の緊張緩和で原油急落</title>
+      <link>https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アマゾン株上昇、時価総額3兆ドル突破－アップルなどに続き5社目</title>
+      <link>https://news.yahoo.co.jp/articles/cd21bf7a82ca42e00aef43ba8a1006419209e6f9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd21bf7a82ca42e00aef43ba8a1006419209e6f9</guid>
+      <pubDate>Tue, 04 Aug 2026 23:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アマゾン株上昇、時価総額3兆ドル突破－アップルなどに続き5社目</title>
+      <link>https://news.yahoo.co.jp/articles/05ebd5d6e2f94f936ab74416702a81203dec4326</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05ebd5d6e2f94f936ab74416702a81203dec4326</guid>
+      <pubDate>Mon, 03 Aug 2026 23:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ISM製造業指数、7月は2022年以来の高水準－生産や受注が拡大</title>
+      <link>https://news.yahoo.co.jp/articles/36f102aee66c7d36720c31e1540825e98aefa12f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36f102aee66c7d36720c31e1540825e98aefa12f</guid>
+      <pubDate>Tue, 04 Aug 2026 23:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ISM製造業指数、7月は2022年以来の高水準－生産や受注が拡大</title>
+      <link>https://news.yahoo.co.jp/articles/76b23da068a674cbe3ef2f8bc5922af30c37a31d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76b23da068a674cbe3ef2f8bc5922af30c37a31d</guid>
+      <pubDate>Mon, 03 Aug 2026 23:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>ディーゼル燃料特にひっ迫、ロシアの状況｢非常に懸念｣－ゴールドマン</title>
       <link>https://news.yahoo.co.jp/articles/fa6c9ec271641f0e210e2b67dc44e8adadd2c6f8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa6c9ec271641f0e210e2b67dc44e8adadd2c6f8</guid>
       <pubDate>Mon, 03 Aug 2026 21:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>KKRのインフラファンド192億ドル調達－過去最大、データセンター投資</title>
+      <link>https://news.yahoo.co.jp/articles/fa39f417769c6518fe674e48d9c07f4a170049c8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa39f417769c6518fe674e48d9c07f4a170049c8</guid>
+      <pubDate>Mon, 03 Aug 2026 21:07:00 +0900</pubDate>
     </item>
     <item>
       <title>米国とイランの協議、見通しなお不明－ホルムズ海峡開放で認識にずれ</title>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</guid>
       <pubDate>Sun, 02 Aug 2026 04:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡でLNGタンカー被弾、カタール積み－輸送混乱拡大の恐れ</title>
-      <link>https://news.yahoo.co.jp/articles/55adbd928ecd42ce3d152d66f8234c7c42b17d61</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/55adbd928ecd42ce3d152d66f8234c7c42b17d61</guid>
-      <pubDate>Sun, 02 Aug 2026 00:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、新たな対イラン攻撃検討－中東の米大使館が警戒呼びかけ</title>
-      <link>https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b54478c018bae094b98399f24a6b3788c8210078</guid>
-      <pubDate>Sat, 01 Aug 2026 22:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ロシアがキーウに大規模攻撃、9人死亡－迎撃ミサイル不足浮き彫り</title>
-      <link>https://news.yahoo.co.jp/articles/d0f77e60c6dc7b07ee7e09d9e3a5a33c7ef13509</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d0f77e60c6dc7b07ee7e09d9e3a5a33c7ef13509</guid>
-      <pubDate>Sat, 01 Aug 2026 16:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックとOpenAIの安全対策不備、米安全保障のリスク浮き彫り</title>
-      <link>https://news.yahoo.co.jp/articles/6faefeb373aa22778024b6de6e35d860ab68c183</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6faefeb373aa22778024b6de6e35d860ab68c183</guid>
-      <pubDate>Sat, 01 Aug 2026 13:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国の7月輸出62.8%増、力強い伸び維持－AI需要が景気下支え</title>
-      <link>https://news.yahoo.co.jp/articles/fb0ea29b60f6f9949bbd01cf00e56adf978c86e6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb0ea29b60f6f9949bbd01cf00e56adf978c86e6</guid>
-      <pubDate>Sat, 01 Aug 2026 09:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FIFA、外部資本受け入れ構想を撤回－主要サッカー連盟が反対</title>
-      <link>https://news.yahoo.co.jp/articles/1d787284cb80fc1da9fac9a62a353cfec45fefb2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1d787284cb80fc1da9fac9a62a353cfec45fefb2</guid>
-      <pubDate>Sat, 01 Aug 2026 09:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
