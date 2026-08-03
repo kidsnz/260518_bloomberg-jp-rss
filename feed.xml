@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 07:02:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:33:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円は対ドルで157円台前半、介入警戒の中でドル買い戻し－債券上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/0b0696f87a88fc4e2c2db2acf74160ad1f094ea8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b0696f87a88fc4e2c2db2acf74160ad1f094ea8</guid>
+      <pubDate>Tue, 04 Aug 2026 07:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は続落へ、為替介入や日銀利上げ加速を警戒－トヨタ決算に注目</title>
+      <link>https://news.yahoo.co.jp/articles/0b7257ac020675f92e81db748f1e5efce86438c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0b7257ac020675f92e81db748f1e5efce86438c7</guid>
+      <pubDate>Tue, 04 Aug 2026 07:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>JPモルガン､米長期国債利回り見通し上方修正－FRB12月利上げ見込む</title>
+      <link>https://news.yahoo.co.jp/articles/cecc04237545ed8d12b2467bff9b42e288a85485</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cecc04237545ed8d12b2467bff9b42e288a85485</guid>
+      <pubDate>Tue, 04 Aug 2026 07:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>NTTデータG､国内データセンターに1.5兆円超の投資見込む－33年までに</title>
       <link>https://news.yahoo.co.jp/articles/07c3022c2f7b9d3f5bc8d66ff28536e0f1500a95</link>
@@ -20,7 +38,7 @@
       <pubDate>Tue, 04 Aug 2026 05:46:00 +0900</pubDate>
     </item>
     <item>
-      <title>パランティア、売上高・利益見通し上方修正－株価急伸</title>
+      <title>パランティア、見通し上方修正－民間需要「常識を超える水準」</title>
       <link>https://news.yahoo.co.jp/articles/5c972fa0045b64a029606d1653cbed3125596590</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c972fa0045b64a029606d1653cbed3125596590</guid>
       <pubDate>Tue, 04 Aug 2026 05:27:00 +0900</pubDate>
@@ -42,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRBは具体策の説明を､米国債の下落再開は不可避－BofAストラテジスト</title>
+      <link>https://news.yahoo.co.jp/articles/85489c092f5b234e53965b3f2e7765b772c40b8d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85489c092f5b234e53965b3f2e7765b772c40b8d</guid>
+      <pubDate>Mon, 03 Aug 2026 23:35:00 +0900</pubDate>
     </item>
     <item>
       <title>アマゾン株上昇、時価総額3兆ドル突破－アップルなどに続き5社目</title>
@@ -72,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/05a8bf076182c478a6c89d732d0bf38b980f7e6e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05a8bf076182c478a6c89d732d0bf38b980f7e6e</guid>
       <pubDate>Mon, 03 Aug 2026 23:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NY連銀総裁、金融政策は適切・インフレ率は低下へ－ロイター</title>
+      <link>https://news.yahoo.co.jp/articles/5aa1ef1254e9b217e90d9a1564be941678ef23be</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5aa1ef1254e9b217e90d9a1564be941678ef23be</guid>
+      <pubDate>Mon, 03 Aug 2026 21:45:00 +0900</pubDate>
     </item>
     <item>
       <title>ディーゼル燃料特にひっ迫、ロシアの状況｢非常に懸念｣－ゴールドマン</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c6f5d95432ac4090b6ae9090105f2244ca056360</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6f5d95432ac4090b6ae9090105f2244ca056360</guid>
       <pubDate>Mon, 03 Aug 2026 04:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スパイダーマン最新作、オープニング週末興行収入で今年最高を記録</title>
-      <link>https://news.yahoo.co.jp/articles/af5a747b32891e637ebcda8fa2316a5ff3f00425</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/af5a747b32891e637ebcda8fa2316a5ff3f00425</guid>
-      <pubDate>Mon, 03 Aug 2026 03:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRBの情報発信不足で手探りの米国債市場、利回り上昇リスク強まる</title>
-      <link>https://news.yahoo.co.jp/articles/67ce006521ae1682c79fe3735454d587cdc18fd7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67ce006521ae1682c79fe3735454d587cdc18fd7</guid>
-      <pubDate>Mon, 03 Aug 2026 01:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円相場、次の介入に市場身構え－日米協調表明も効果持続が焦点</title>
-      <link>https://news.yahoo.co.jp/articles/6ba21b71d47644bf2371edc63806df9cd6858a16</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ba21b71d47644bf2371edc63806df9cd6858a16</guid>
-      <pubDate>Mon, 03 Aug 2026 23:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円相場、次の介入に市場が身構え－日米連携で投機筋に一段の圧力</title>
-      <link>https://news.yahoo.co.jp/articles/6550a0669ca7d716455aa689187b6cc7e04c8ee1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6550a0669ca7d716455aa689187b6cc7e04c8ee1</guid>
-      <pubDate>Sun, 02 Aug 2026 23:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OPECプラス、生産枠を小幅引き上げ－2023年減産の巻き戻し完了へ</title>
-      <link>https://news.yahoo.co.jp/articles/1edd4879116f4e81fa72cc881ab9e36cf0fb5a3c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1edd4879116f4e81fa72cc881ab9e36cf0fb5a3c</guid>
-      <pubDate>Sun, 02 Aug 2026 23:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
