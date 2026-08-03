@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 04:03:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 05:42:16 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日銀は9月利上げ見送りへ、円相場支援は為替介入に依存－ソシエテG</title>
+      <link>https://news.yahoo.co.jp/articles/438ed804a2fbb01fd5575234dc1cd24222ffdb77</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/438ed804a2fbb01fd5575234dc1cd24222ffdb77</guid>
+      <pubDate>Tue, 04 Aug 2026 01:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>円が156円台半ば、米国株は続伸－中東情勢の緊張緩和で原油急落</title>
       <link>https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</link>
@@ -38,6 +44,12 @@
       <pubDate>Mon, 03 Aug 2026 23:12:00 +0900</pubDate>
     </item>
     <item>
+      <title>モメンタム投資に反発の機運、好決算受けけん引役変わる－モルガンS</title>
+      <link>https://news.yahoo.co.jp/articles/05a8bf076182c478a6c89d732d0bf38b980f7e6e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05a8bf076182c478a6c89d732d0bf38b980f7e6e</guid>
+      <pubDate>Mon, 03 Aug 2026 23:01:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ディーゼル燃料特にひっ迫、ロシアの状況｢非常に懸念｣－ゴールドマン</title>
       <link>https://news.yahoo.co.jp/articles/fa6c9ec271641f0e210e2b67dc44e8adadd2c6f8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa6c9ec271641f0e210e2b67dc44e8adadd2c6f8</guid>
@@ -48,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/fa39f417769c6518fe674e48d9c07f4a170049c8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa39f417769c6518fe674e48d9c07f4a170049c8</guid>
       <pubDate>Mon, 03 Aug 2026 21:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国とイランの協議、見通しなお不明－現時点で予定なしとの報道も</title>
+      <link>https://news.yahoo.co.jp/articles/6bee2890c8acc7f8990203780dafee447ee2b735</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6bee2890c8acc7f8990203780dafee447ee2b735</guid>
+      <pubDate>Tue, 04 Aug 2026 18:42:00 +0900</pubDate>
     </item>
     <item>
       <title>米国とイランの協議、見通しなお不明－ホルムズ海峡開放で認識にずれ</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1f5d4c4f93e742cb9615a2eb3b7c1447be192005</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f5d4c4f93e742cb9615a2eb3b7c1447be192005</guid>
       <pubDate>Sun, 02 Aug 2026 11:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【焦点】7月の米雇用者数は増加見通し－労働者への需要底堅さ維持</title>
-      <link>https://news.yahoo.co.jp/articles/ed18c86b0cf1c0e376035bbbf11a3acf9867df63</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed18c86b0cf1c0e376035bbbf11a3acf9867df63</guid>
-      <pubDate>Sun, 02 Aug 2026 08:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国BYD、7月販売台数22%増－輸出好調も年間目標達成へなお課題</title>
-      <link>https://news.yahoo.co.jp/articles/073049888e84fcaec03b5b50727c9db7fbcc0d4a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/073049888e84fcaec03b5b50727c9db7fbcc0d4a</guid>
-      <pubDate>Sun, 02 Aug 2026 06:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長の「沈黙」、新たなリスク－米株市場は乱高下警戒</title>
-      <link>https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ffab096c1bb03675563ddbd88687aa14ae1570c</guid>
-      <pubDate>Sun, 02 Aug 2026 04:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
