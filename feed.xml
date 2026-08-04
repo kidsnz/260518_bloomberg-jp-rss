@@ -5,16 +5,34 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:22:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 02:10:56 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米イラン協議再開へ進展の兆し、ベッセント氏近く合意あり得ると発言</title>
+      <title>ブラックストーン、アンソロピック向け5.7兆円融資巡り投資家と協議</title>
+      <link>https://news.yahoo.co.jp/articles/03fd9fd163458bde35e8c67c01af5ea3ee61e3cd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03fd9fd163458bde35e8c67c01af5ea3ee61e3cd</guid>
+      <pubDate>Wed, 05 Aug 2026 00:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円が157円台前半に下げ渋り、ベッセント氏発言で－S&amp;P500は最高値圏</title>
+      <link>https://news.yahoo.co.jp/articles/3064c553471e525230159da65a859e48fa219ce6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3064c553471e525230159da65a859e48fa219ce6</guid>
+      <pubDate>Tue, 04 Aug 2026 23:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピック、100億ドルでデータセンター利用契約結ぶ－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/30bc83add2a5ebd1ce5461bcd8e114f51cce0878</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/30bc83add2a5ebd1ce5461bcd8e114f51cce0878</guid>
+      <pubDate>Tue, 04 Aug 2026 23:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米イラン協議で進展の兆し、ベッセント氏は近く合意あり得ると発言</title>
       <link>https://news.yahoo.co.jp/articles/6d6ffcb80d694259a8e2393908687b173f1835cc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d6ffcb80d694259a8e2393908687b173f1835cc</guid>
       <pubDate>Tue, 04 Aug 2026 22:14:00 +0900</pubDate>
     </item>
     <item>
-      <title>原油が下げに転じる、米イランが合意に近づきつつあるとの期待で</title>
+      <title>原油が大幅下落、ブレント80ドル割れ－米・イラン合意への期待高まる</title>
       <link>https://news.yahoo.co.jp/articles/41766387c0b8268c3fa428cdb3e28cb138a02ff6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41766387c0b8268c3fa428cdb3e28cb138a02ff6</guid>
       <pubDate>Tue, 04 Aug 2026 21:50:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5c972fa0045b64a029606d1653cbed3125596590</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c972fa0045b64a029606d1653cbed3125596590</guid>
       <pubDate>Tue, 04 Aug 2026 05:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀は9月利上げ見送りへ、円相場支援は為替介入に依存－ソシエテG</title>
-      <link>https://news.yahoo.co.jp/articles/438ed804a2fbb01fd5575234dc1cd24222ffdb77</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/438ed804a2fbb01fd5575234dc1cd24222ffdb77</guid>
-      <pubDate>Tue, 04 Aug 2026 01:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ストラテジー、ビットコイン約1億500万ドル相当を追加売却</title>
-      <link>https://news.yahoo.co.jp/articles/f020dd35fb6dde5e87124e50cb3f7995fc5fab32</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f020dd35fb6dde5e87124e50cb3f7995fc5fab32</guid>
-      <pubDate>Tue, 04 Aug 2026 01:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】円買い失速で157円台前半－S&amp;P500が最高値接近､原油急落</title>
-      <link>https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fc01bca694870b53b1668f5eb7f959cc3558c61</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
