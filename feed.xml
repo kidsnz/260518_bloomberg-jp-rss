@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 02:10:56 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 04:05:36 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ブラックストーン、アンソロピック向け5.7兆円融資巡り投資家と協議</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/30bc83add2a5ebd1ce5461bcd8e114f51cce0878</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/30bc83add2a5ebd1ce5461bcd8e114f51cce0878</guid>
       <pubDate>Tue, 04 Aug 2026 23:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX、上場後初の決算発表へ－下げ続く株価の反転機会になるか</title>
+      <link>https://news.yahoo.co.jp/articles/7f18826c0f9fb88f48f37887fe111f5adbabdefb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f18826c0f9fb88f48f37887fe111f5adbabdefb</guid>
+      <pubDate>Tue, 04 Aug 2026 22:41:00 +0900</pubDate>
     </item>
     <item>
       <title>米イラン協議で進展の兆し、ベッセント氏は近く合意あり得ると発言</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c720807078c0b184f64b264792c729c0ff6c3195</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c720807078c0b184f64b264792c729c0ff6c3195</guid>
       <pubDate>Tue, 04 Aug 2026 05:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パランティア、見通し上方修正－民間需要「常識を超える水準」</title>
-      <link>https://news.yahoo.co.jp/articles/5c972fa0045b64a029606d1653cbed3125596590</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c972fa0045b64a029606d1653cbed3125596590</guid>
-      <pubDate>Tue, 04 Aug 2026 05:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
