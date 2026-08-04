@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 04:05:36 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 05:49:06 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ブラックストーン、アンソロピック向け5.7兆円融資巡り投資家と協議</title>
@@ -30,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/7f18826c0f9fb88f48f37887fe111f5adbabdefb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f18826c0f9fb88f48f37887fe111f5adbabdefb</guid>
       <pubDate>Tue, 04 Aug 2026 22:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ合意「きょう明日にも」とベッセント氏、イランも譲歩の兆し</title>
+      <link>https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</guid>
+      <pubDate>Tue, 04 Aug 2026 22:14:00 +0900</pubDate>
     </item>
     <item>
       <title>米イラン協議で進展の兆し、ベッセント氏は近く合意あり得ると発言</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/07c3022c2f7b9d3f5bc8d66ff28536e0f1500a95</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07c3022c2f7b9d3f5bc8d66ff28536e0f1500a95</guid>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>為替介入の勢いでドル153円まで円高進行も、一時的な動きに－TD</title>
-      <link>https://news.yahoo.co.jp/articles/c720807078c0b184f64b264792c729c0ff6c3195</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c720807078c0b184f64b264792c729c0ff6c3195</guid>
-      <pubDate>Tue, 04 Aug 2026 05:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
