@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:58:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:55:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ハイテク株急騰、ナスダック100の時価総額は4営業日で3.5兆ドル拡大</title>
+      <link>https://news.yahoo.co.jp/articles/f7d21b5f0ee7726ef57fad80ae6585160b18d15b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7d21b5f0ee7726ef57fad80ae6585160b18d15b</guid>
+      <pubDate>Wed, 05 Aug 2026 20:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRBのインフレ対応に懸念、物価連動債選好強まる－バークレイズなど</title>
+      <link>https://news.yahoo.co.jp/articles/37ba5b2938926d6b8da3312ea7bc68fbe89a5715</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37ba5b2938926d6b8da3312ea7bc68fbe89a5715</guid>
+      <pubDate>Wed, 05 Aug 2026 20:01:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国が米国に報復、ドローン輸出規制を強化－米企業への制裁も発表</title>
       <link>https://news.yahoo.co.jp/articles/a0d515ccadb82ce7b339bd65ae7a44e577f07941</link>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/f8703466a900e2d08957e9d5e567aaa35e1fae74</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8703466a900e2d08957e9d5e567aaa35e1fae74</guid>
       <pubDate>Wed, 05 Aug 2026 18:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インドネシアSWFのダナンタラ、ヘッジファンド数社に資金配分へ</title>
+      <link>https://news.yahoo.co.jp/articles/fc7cb9d72de199fe6d5b4dd3a9630935432d3b56</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc7cb9d72de199fe6d5b4dd3a9630935432d3b56</guid>
+      <pubDate>Wed, 05 Aug 2026 18:26:00 +0900</pubDate>
     </item>
     <item>
       <title>日米を懸念する国債トレーダー、安全な投資先として欧州に着目</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0e23291a6f1d21e65f0d9de3a4354857c27b9b22</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e23291a6f1d21e65f0d9de3a4354857c27b9b22</guid>
       <pubDate>Tue, 04 Aug 2026 22:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX、上場後初の決算発表へ－下げ続く株価の反転機会になるか</title>
-      <link>https://news.yahoo.co.jp/articles/7f18826c0f9fb88f48f37887fe111f5adbabdefb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f18826c0f9fb88f48f37887fe111f5adbabdefb</guid>
-      <pubDate>Tue, 04 Aug 2026 22:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イラン協議は「非常に順調」－ホルムズ合意に期待高まる</title>
-      <link>https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</guid>
-      <pubDate>Tue, 04 Aug 2026 22:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米イラン協議で進展の兆し、ベッセント氏は近く合意あり得ると発言</title>
-      <link>https://news.yahoo.co.jp/articles/6d6ffcb80d694259a8e2393908687b173f1835cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d6ffcb80d694259a8e2393908687b173f1835cc</guid>
-      <pubDate>Tue, 04 Aug 2026 22:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
