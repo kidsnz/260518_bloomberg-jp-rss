@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:10:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:59:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ミネアポリス連銀総裁、FRBは直ちに利上げ開始を－高インフレ抑制へ</title>
+      <link>https://news.yahoo.co.jp/articles/f004ac2faaa186482eb52fc13a64cc501008e41b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f004ac2faaa186482eb52fc13a64cc501008e41b</guid>
+      <pubDate>Thu, 06 Aug 2026 00:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン、ホルムズ海峡の航行ルート巡りオマーンと合意</title>
+      <link>https://news.yahoo.co.jp/articles/c49dbc89e583cbe4fadb42c9e9fac77c5a645399</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c49dbc89e583cbe4fadb42c9e9fac77c5a645399</guid>
+      <pubDate>Thu, 06 Aug 2026 00:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>米ISM非製造業景況指数、小幅に上昇－活動拡大の継続示す</title>
       <link>https://news.yahoo.co.jp/articles/b7bbe36c92f78100c22c6d72d68ab929c7573151</link>
@@ -14,7 +26,7 @@
       <pubDate>Wed, 05 Aug 2026 23:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>米財務省、国債発行ガイダンス維持－資金調達でTビル依存強まる</title>
+      <title>米財務省、2027年まで中長期債据え置き示唆－ガイダンスに｢小幅変更｣</title>
       <link>https://news.yahoo.co.jp/articles/e153fae5a2bfcd8261e9a5ab2e8ccb1f3535a22b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e153fae5a2bfcd8261e9a5ab2e8ccb1f3535a22b</guid>
       <pubDate>Wed, 05 Aug 2026 21:45:00 +0900</pubDate>
@@ -26,7 +38,7 @@
       <pubDate>Wed, 05 Aug 2026 21:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>米ADP民間雇用者数、7月は4万4000人増－予想下回る</title>
+      <title>米ADP民間雇用者数、7月は予想下回る伸び－雇用拡大の勢いが鈍化</title>
       <link>https://news.yahoo.co.jp/articles/638c4c2fc3c490d3b37ca1ac43ebc90d60b25446</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/638c4c2fc3c490d3b37ca1ac43ebc90d60b25446</guid>
       <pubDate>Wed, 05 Aug 2026 21:25:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/03fd9fd163458bde35e8c67c01af5ea3ee61e3cd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03fd9fd163458bde35e8c67c01af5ea3ee61e3cd</guid>
       <pubDate>Wed, 05 Aug 2026 00:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サウジ、フーシ派との紛争再燃回避へ水面下外交－石油輸出保護図る</title>
-      <link>https://news.yahoo.co.jp/articles/dcba9e0c00517b2c6b628f0a69543d4fdc036c5a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dcba9e0c00517b2c6b628f0a69543d4fdc036c5a</guid>
-      <pubDate>Wed, 05 Aug 2026 00:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500種が最高値更新、ホルムズ海峡再開期待で－円反落</title>
-      <link>https://news.yahoo.co.jp/articles/7b1721db9d865683bb2be57bfb5dc2c7ee4c5f7d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b1721db9d865683bb2be57bfb5dc2c7ee4c5f7d</guid>
-      <pubDate>Wed, 05 Aug 2026 23:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
