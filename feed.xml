@@ -5,8 +5,50 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 10:59:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:19:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、イランとの交渉は順調－48時間後に詳細判明する見込み</title>
+      <link>https://news.yahoo.co.jp/articles/b81a059705193c191d8839a9baa84d3dc96dd577</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b81a059705193c191d8839a9baa84d3dc96dd577</guid>
+      <pubDate>Wed, 05 Aug 2026 13:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スペースX、米携帯大手に直接対抗へ－地上設備整備でAT&amp;Tなどに照準</title>
+      <link>https://news.yahoo.co.jp/articles/ddcea48f540ec31ffb854b8192fcbf835e014394</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ddcea48f540ec31ffb854b8192fcbf835e014394</guid>
+      <pubDate>Wed, 05 Aug 2026 13:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>UBE三菱セメントが12月上場目指す、モルガンSや野村など起用－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/2d79c242e71802614f7bb045f11503da1ddf5dd3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d79c242e71802614f7bb045f11503da1ddf5dd3</guid>
+      <pubDate>Wed, 05 Aug 2026 12:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油先物、3日続落－米政府が5日中のホルムズ合意発表目指すとの報道</title>
+      <link>https://news.yahoo.co.jp/articles/fabfd8bb5c27400067ec7caced7253196eb26e7b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fabfd8bb5c27400067ec7caced7253196eb26e7b</guid>
+      <pubDate>Wed, 05 Aug 2026 12:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>木原長官､植田総裁の発言以上コメントできない-国債買い入れ要請報道</title>
+      <link>https://news.yahoo.co.jp/articles/d22f0da33691d155c5051c35ea95f65c96bbc35e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d22f0da33691d155c5051c35ea95f65c96bbc35e</guid>
+      <pubDate>Wed, 05 Aug 2026 11:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ政権、中国製オープンウエートAIを安全性審査の対象外に</title>
+      <link>https://news.yahoo.co.jp/articles/3c1a79302c1a6b7c2cff0a2670baf66cac7fee7b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c1a79302c1a6b7c2cff0a2670baf66cac7fee7b</guid>
+      <pubDate>Wed, 05 Aug 2026 11:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本通のベッセント氏、ヘッジファンド流の発想で円支援－異例の手法を次々と</title>
+      <link>https://news.yahoo.co.jp/articles/225e7d91504bbb7aa9adf67972dace875a43437b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/225e7d91504bbb7aa9adf67972dace875a43437b</guid>
+      <pubDate>Wed, 05 Aug 2026 10:26:00 +0900</pubDate>
+    </item>
     <item>
       <title>米長期債下落に備えオプション買い急増－一段の市場混乱を招くリスク</title>
       <link>https://news.yahoo.co.jp/articles/cdb7e692166ff51dfea075ffc2e0e9255dca5c25</link>
@@ -74,7 +116,7 @@
       <pubDate>Wed, 05 Aug 2026 07:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>OpenAIのAIモデル、第三者のサイバー試験で境界を突破</title>
+      <title>OpenAIとアンソロピックのAI、再び不正動作－有害コード追加を試みる</title>
       <link>https://news.yahoo.co.jp/articles/28f7f3a900def8987fcd4c11abad2059f6aabad2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/28f7f3a900def8987fcd4c11abad2059f6aabad2</guid>
       <pubDate>Wed, 05 Aug 2026 06:23:00 +0900</pubDate>
@@ -158,7 +200,7 @@
       <pubDate>Tue, 04 Aug 2026 22:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>ホルムズ合意「きょう明日にも」とベッセント氏、イランも譲歩の兆し</title>
+      <title>トランプ氏が仲介国と協議、ホルムズ合意へ期待－イランも譲歩の兆し</title>
       <link>https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</guid>
       <pubDate>Tue, 04 Aug 2026 22:14:00 +0900</pubDate>
@@ -218,6 +260,12 @@
       <pubDate>Tue, 04 Aug 2026 19:10:00 +0900</pubDate>
     </item>
     <item>
+      <title>トヨタの想定為替は160円､介入で円高リスク浮上-大手20社平均は153円</title>
+      <link>https://news.yahoo.co.jp/articles/17a34bb78690078eb7e624db029adb78b45dc766</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17a34bb78690078eb7e624db029adb78b45dc766</guid>
+      <pubDate>Wed, 05 Aug 2026 19:04:00 +0900</pubDate>
+    </item>
+    <item>
       <title>トヨタの想定為替レートは160円､実勢より円安に-大手20社平均は153円</title>
       <link>https://news.yahoo.co.jp/articles/9f54e326202da227ebd0839001f77c19fdcb821f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f54e326202da227ebd0839001f77c19fdcb821f</guid>
@@ -258,54 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99</guid>
       <pubDate>Tue, 04 Aug 2026 16:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オンワドH、爆発で死亡の従業員は貴重品取りに戻る－指導不徹底</title>
-      <link>https://news.yahoo.co.jp/articles/09387caab0c2f9a3eb0acea7f24bb3091d295c9d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/09387caab0c2f9a3eb0acea7f24bb3091d295c9d</guid>
-      <pubDate>Tue, 04 Aug 2026 16:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>古河電工、光ファイバーなどの増産に向けて約1000億円投資へ</title>
-      <link>https://news.yahoo.co.jp/articles/4903cd22db76844aad10b46800b5a3fb48e7f9a1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4903cd22db76844aad10b46800b5a3fb48e7f9a1</guid>
-      <pubDate>Tue, 04 Aug 2026 16:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル、テレグラムを一時削除－児童性的虐待コンテンツ確認</title>
-      <link>https://news.yahoo.co.jp/articles/a54c7e43494d03447442ec6b64ebc135872bdf0f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a54c7e43494d03447442ec6b64ebc135872bdf0f</guid>
-      <pubDate>Tue, 04 Aug 2026 15:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ルネサス、熊本市の川尻工場で4日から順次生産を再開－計画を前倒し</title>
-      <link>https://news.yahoo.co.jp/articles/a8499a5eae0b684fc63519529eba83376dcddb24</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a8499a5eae0b684fc63519529eba83376dcddb24</guid>
-      <pubDate>Tue, 04 Aug 2026 14:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏の攻撃見送り、米は「弱腰」とイラン受け止め－米CSIS</title>
-      <link>https://news.yahoo.co.jp/articles/cc9563b3232ba26863bd8401d4b299e9c7315794</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc9563b3232ba26863bd8401d4b299e9c7315794</guid>
-      <pubDate>Tue, 04 Aug 2026 14:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本は米国債売却せず円防衛可能､海外中銀預金やFIMA活用－シティ</title>
-      <link>https://news.yahoo.co.jp/articles/86825e12f306b58201e53dbe504ddb34fef0d168</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86825e12f306b58201e53dbe504ddb34fef0d168</guid>
-      <pubDate>Tue, 04 Aug 2026 14:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>MUFGも競う国外在住インド人のマネー獲得、現地の債券・融資市場活況</title>
-      <link>https://news.yahoo.co.jp/articles/9b0b4836a37791bd285e66c07dca28939db13f42</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b0b4836a37791bd285e66c07dca28939db13f42</guid>
-      <pubDate>Tue, 04 Aug 2026 14:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トヨタ、1兆円上限に自己株取得へ</title>
-      <link>https://news.yahoo.co.jp/articles/16e2cb7d593263a5bcd2c12f3885a8ea7294413e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16e2cb7d593263a5bcd2c12f3885a8ea7294413e</guid>
-      <pubDate>Tue, 04 Aug 2026 14:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
