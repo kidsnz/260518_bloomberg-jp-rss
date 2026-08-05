@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 01:59:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 03:25:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】株、債券とも横ばい－ホルムズ海峡巡る協議の進展待ち</title>
+      <link>https://news.yahoo.co.jp/articles/a309a3a85bff2440d7fd20f9ebc5c57654d24661</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a309a3a85bff2440d7fd20f9ebc5c57654d24661</guid>
+      <pubDate>Thu, 06 Aug 2026 02:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>ミネアポリス連銀総裁、FRBは直ちに利上げ開始を－高インフレ抑制へ</title>
       <link>https://news.yahoo.co.jp/articles/f004ac2faaa186482eb52fc13a64cc501008e41b</link>
@@ -18,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/c49dbc89e583cbe4fadb42c9e9fac77c5a645399</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c49dbc89e583cbe4fadb42c9e9fac77c5a645399</guid>
       <pubDate>Thu, 06 Aug 2026 00:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ISM非製造業景況指数、活動拡大の継続示す－サービス需要健在</title>
+      <link>https://news.yahoo.co.jp/articles/7b336d84ac247c8507da2c6e4cb97989d3336c95</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b336d84ac247c8507da2c6e4cb97989d3336c95</guid>
+      <pubDate>Thu, 06 Aug 2026 23:07:00 +0900</pubDate>
     </item>
     <item>
       <title>米ISM非製造業景況指数、小幅に上昇－活動拡大の継続示す</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/40f0b8559fc0706cbed0bd66279b13eeb6260ce5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40f0b8559fc0706cbed0bd66279b13eeb6260ce5</guid>
       <pubDate>Wed, 05 Aug 2026 03:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】国債上昇、米イラン合意期待で買い－株は最高値更新</title>
-      <link>https://news.yahoo.co.jp/articles/00c052674abeac9273dc97d0517c91ce3287473a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/00c052674abeac9273dc97d0517c91ce3287473a</guid>
-      <pubDate>Wed, 05 Aug 2026 02:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブラックストーン、アンソロピック向け5.7兆円融資巡り投資家と協議</title>
-      <link>https://news.yahoo.co.jp/articles/03fd9fd163458bde35e8c67c01af5ea3ee61e3cd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03fd9fd163458bde35e8c67c01af5ea3ee61e3cd</guid>
-      <pubDate>Wed, 05 Aug 2026 00:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
