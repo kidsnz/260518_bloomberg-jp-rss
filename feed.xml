@@ -5,8 +5,38 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:19:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:00:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>フーシ派、紅海北部へ向かうサウジ船舶を攻撃対象－航路変更でも標的</title>
+      <link>https://news.yahoo.co.jp/articles/1ab6fb0588e1d24ae2720cb9e8a8eddbcb7b2410</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1ab6fb0588e1d24ae2720cb9e8a8eddbcb7b2410</guid>
+      <pubDate>Wed, 05 Aug 2026 16:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>高市政権が消費減税を閣議決定、来年4月から2年間1%に－財源が課題</title>
+      <link>https://news.yahoo.co.jp/articles/5854614f6df28345436e80bee0382573e72d1e08</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5854614f6df28345436e80bee0382573e72d1e08</guid>
+      <pubDate>Wed, 05 Aug 2026 16:17:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホンダ今期営業利益予想引き上げ、円安が追い風に－市場予想は下回る</title>
+      <link>https://news.yahoo.co.jp/articles/774f77b6bba5009caea8b40548949ca9b4f46628</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/774f77b6bba5009caea8b40548949ca9b4f46628</guid>
+      <pubDate>Wed, 05 Aug 2026 15:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス株上昇、自社株買いなど株主還元策への期待高まる</title>
+      <link>https://news.yahoo.co.jp/articles/fb8aaf5b516d11635f9f262faf6ebf2e16384355</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb8aaf5b516d11635f9f262faf6ebf2e16384355</guid>
+      <pubDate>Wed, 05 Aug 2026 14:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>オーストラリア当局、インペックスのLNGプラントを提訴へ</title>
+      <link>https://news.yahoo.co.jp/articles/286f515041ac060f5a5e3afe35c6f59a6bc71217</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/286f515041ac060f5a5e3afe35c6f59a6bc71217</guid>
+      <pubDate>Wed, 05 Aug 2026 14:34:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、イランとの交渉は順調－48時間後に詳細判明する見込み</title>
       <link>https://news.yahoo.co.jp/articles/b81a059705193c191d8839a9baa84d3dc96dd577</link>
@@ -62,7 +92,13 @@
       <pubDate>Wed, 05 Aug 2026 09:36:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株式が大幅高、中東緊張緩和を期待－円は157円台後半</title>
+      <title>米金融引き締め必要、物価目標達成で－カンザスシティー連銀総裁</title>
+      <link>https://news.yahoo.co.jp/articles/6d9383781e1bb0e6c14ece6422ea3049ae33a416</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d9383781e1bb0e6c14ece6422ea3049ae33a416</guid>
+      <pubDate>Wed, 05 Aug 2026 09:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】日経平均2300円超上昇、中東懸念後退－債券も高い</title>
       <link>https://news.yahoo.co.jp/articles/01c463a640672b474bdec11e313c963c1c417b64</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/01c463a640672b474bdec11e313c963c1c417b64</guid>
       <pubDate>Wed, 05 Aug 2026 09:33:00 +0900</pubDate>
@@ -114,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/729814d308a89714294113ceffe6ce1f8b99f4fc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/729814d308a89714294113ceffe6ce1f8b99f4fc</guid>
       <pubDate>Wed, 05 Aug 2026 07:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIとアンソロピックのAI、再び不正動作－有害コード追加を試みる</title>
+      <link>https://news.yahoo.co.jp/articles/28f7f3a900def8987fcd4c11abad2059f6aabad2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/28f7f3a900def8987fcd4c11abad2059f6aabad2</guid>
+      <pubDate>Wed, 05 Aug 2026 06:23:00 +0900</pubDate>
     </item>
     <item>
       <title>OpenAIとアンソロピックのAI、再び不正動作－有害コード追加を試みる</title>
@@ -200,7 +242,7 @@
       <pubDate>Tue, 04 Aug 2026 22:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏が仲介国と協議、ホルムズ合意へ期待－イランも譲歩の兆し</title>
+      <title>トランプ氏、イラン協議は「非常に順調」－ホルムズ合意に期待高まる</title>
       <link>https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/efd42be13fec654ec6096d9c045271b34a2ce49c</guid>
       <pubDate>Tue, 04 Aug 2026 22:14:00 +0900</pubDate>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/17a34bb78690078eb7e624db029adb78b45dc766</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17a34bb78690078eb7e624db029adb78b45dc766</guid>
       <pubDate>Wed, 05 Aug 2026 19:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トヨタの想定為替レートは160円､実勢より円安に-大手20社平均は153円</title>
-      <link>https://news.yahoo.co.jp/articles/9f54e326202da227ebd0839001f77c19fdcb821f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f54e326202da227ebd0839001f77c19fdcb821f</guid>
-      <pubDate>Tue, 04 Aug 2026 19:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本が円買い介入に動く理由とは－米国も協調し円安阻止へ</title>
-      <link>https://news.yahoo.co.jp/articles/b5fba1e103f15291f6234db674cf58819270db20</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b5fba1e103f15291f6234db674cf58819270db20</guid>
-      <pubDate>Tue, 04 Aug 2026 18:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀の国債購入減額、長期金利上昇への影響は大きくない－分析公表</title>
-      <link>https://news.yahoo.co.jp/articles/c1864e2e705a7771fede1b9aebfd3be4c57ae7ea</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1864e2e705a7771fede1b9aebfd3be4c57ae7ea</guid>
-      <pubDate>Tue, 04 Aug 2026 18:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本が3日に大規模円買い介入した形跡見られず－日銀データ示唆</title>
-      <link>https://news.yahoo.co.jp/articles/da793d5513f5bd2521e65199ea9dba8fda5791e4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da793d5513f5bd2521e65199ea9dba8fda5791e4</guid>
-      <pubDate>Tue, 04 Aug 2026 18:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンク､クラウド・AI事業は27年度まで年30%成長へ－収穫期入り</title>
-      <link>https://news.yahoo.co.jp/articles/bde15cd2e2353a5ec2d0a7e5a2ffb5810c7c8c7d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bde15cd2e2353a5ec2d0a7e5a2ffb5810c7c8c7d</guid>
-      <pubDate>Tue, 04 Aug 2026 18:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル、インドでの年間売上高が初めて100億ドルを突破</title>
-      <link>https://news.yahoo.co.jp/articles/eb001d15560df2d4652a90073c5453a574b4de5d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb001d15560df2d4652a90073c5453a574b4de5d</guid>
-      <pubDate>Tue, 04 Aug 2026 17:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>暗号資産ブローカーのファルコンX、人員1割削減－長期低迷に備え</title>
-      <link>https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fcb6708af11dba3e70eda20306b3bcebad142f99</guid>
-      <pubDate>Tue, 04 Aug 2026 16:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
