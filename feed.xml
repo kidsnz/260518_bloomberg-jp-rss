@@ -5,8 +5,38 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 07:53:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:55:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、株式は反落へ、中東情勢や介入スタンス見極めで円もみ合い</title>
+      <link>https://news.yahoo.co.jp/articles/8d20ded8552a51a3bd28d6b7e2aa0f34e0c761e3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8d20ded8552a51a3bd28d6b7e2aa0f34e0c761e3</guid>
+      <pubDate>Thu, 06 Aug 2026 08:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>岸田元首相､円安転換へ財政・金融の対応強化を-為替介入は一時しのぎ</title>
+      <link>https://news.yahoo.co.jp/articles/e128617796b985b60c853bfa2d113c2e93b58228</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e128617796b985b60c853bfa2d113c2e93b58228</guid>
+      <pubDate>Thu, 06 Aug 2026 08:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は反落へ、急騰後の反動や米ハイテク株安－個別選別中心に</title>
+      <link>https://news.yahoo.co.jp/articles/992ecadf23d98d01e43e1f1bd8d6f3e336f0d3f9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/992ecadf23d98d01e43e1f1bd8d6f3e336f0d3f9</guid>
+      <pubDate>Thu, 06 Aug 2026 07:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで157円台後半、米雇用統計を控え様子見－債券もみ合いへ</title>
+      <link>https://news.yahoo.co.jp/articles/d1d63b23378bb581859b6de94f384f4a1a05186e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d1d63b23378bb581859b6de94f384f4a1a05186e</guid>
+      <pubDate>Thu, 06 Aug 2026 07:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>メタのAIモデルがネットにアクセスし、他社システムに侵入－報道</title>
+      <link>https://news.yahoo.co.jp/articles/c517d75138e48da2305d6aa714d6acb94dd3bfe9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c517d75138e48da2305d6aa714d6acb94dd3bfe9</guid>
+      <pubDate>Thu, 06 Aug 2026 07:34:00 +0900</pubDate>
+    </item>
     <item>
       <title>ベゾス氏、アマゾン株約3.5億ドル売却－株価最高値更新のなか今年初</title>
       <link>https://news.yahoo.co.jp/articles/0e58d1204891ae6284ba522d346f53938f29326a</link>
@@ -26,6 +56,12 @@
       <pubDate>Thu, 06 Aug 2026 06:58:00 +0900</pubDate>
     </item>
     <item>
+      <title>ブラジル中銀0.25ポイント利下げ、政策金利14%－4会合連続の金融緩和</title>
+      <link>https://news.yahoo.co.jp/articles/44787bbf45a45e641a85cdc10dea4712ac0eb4f1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44787bbf45a45e641a85cdc10dea4712ac0eb4f1</guid>
+      <pubDate>Thu, 06 Aug 2026 06:38:00 +0900</pubDate>
+    </item>
+    <item>
       <title>人間用冷蔵庫｢ど冷えもんBOX｣、酷暑の夏に商機－海外からも引き合い</title>
       <link>https://news.yahoo.co.jp/articles/884d8521606ea881be6b63a7b7ceb1556b64960e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/884d8521606ea881be6b63a7b7ceb1556b64960e</guid>
@@ -36,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/a309a3a85bff2440d7fd20f9ebc5c57654d24661</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a309a3a85bff2440d7fd20f9ebc5c57654d24661</guid>
       <pubDate>Thu, 06 Aug 2026 02:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NY銅が上昇、最高値に迫る－米関税懸念やホルムズ海峡の再開期待で</title>
+      <link>https://news.yahoo.co.jp/articles/5149d4c865a37031487d897698e0f4af3a530263</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5149d4c865a37031487d897698e0f4af3a530263</guid>
+      <pubDate>Thu, 06 Aug 2026 01:51:00 +0900</pubDate>
     </item>
     <item>
       <title>【米国市況】S&amp;P500種は小反落、午後に失速－円は157円台で横ばい</title>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6d9383781e1bb0e6c14ece6422ea3049ae33a416</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d9383781e1bb0e6c14ece6422ea3049ae33a416</guid>
       <pubDate>Wed, 05 Aug 2026 09:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】日経平均2300円超上昇、中東懸念後退－債券も高い</title>
-      <link>https://news.yahoo.co.jp/articles/01c463a640672b474bdec11e313c963c1c417b64</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/01c463a640672b474bdec11e313c963c1c417b64</guid>
-      <pubDate>Wed, 05 Aug 2026 09:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>北朝鮮、日本に対する「軍事的選択肢」警告－軍備拡張容認せず</title>
-      <link>https://news.yahoo.co.jp/articles/1918f69de5a7327e6e3696fd53ed900c2d2ae628</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1918f69de5a7327e6e3696fd53ed900c2d2ae628</guid>
-      <pubDate>Wed, 05 Aug 2026 09:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀6月会合、国債購入が長期金利下げ狙いとみられれば信認に悪影響</title>
-      <link>https://news.yahoo.co.jp/articles/a75a5dda8613ac4115e15b0b2c63ecca82e7cde2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a75a5dda8613ac4115e15b0b2c63ecca82e7cde2</guid>
-      <pubDate>Wed, 05 Aug 2026 08:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>名目賃金は5カ月連続3%超え、高水準の春闘反映－日銀利上げ路線支え</title>
-      <link>https://news.yahoo.co.jp/articles/6d2767f52189fdbd20638fc8b8bc9e92f01c39e1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d2767f52189fdbd20638fc8b8bc9e92f01c39e1</guid>
-      <pubDate>Wed, 05 Aug 2026 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで157円台後半、ドル弱含みも円安圧力強い－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/0f9f0ffcd6233a4c6b49cf307b54b13d26ffe86e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f9f0ffcd6233a4c6b49cf307b54b13d26ffe86e</guid>
-      <pubDate>Wed, 05 Aug 2026 08:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>塩野義社長､3件の買収を現在検討中－日米欧の感染症や希少疾患分野で</title>
-      <link>https://news.yahoo.co.jp/articles/d6470828ed929b4673a2952b0bb8f785076ab354</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d6470828ed929b4673a2952b0bb8f785076ab354</guid>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>正念場のソフトバンクG株、決算焦点はAI戦略進度－OpenAI傾斜に懸念</title>
-      <link>https://news.yahoo.co.jp/articles/9ff974c65da933f8bd195cf841a0a36ddb7fa93d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9ff974c65da933f8bd195cf841a0a36ddb7fa93d</guid>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
