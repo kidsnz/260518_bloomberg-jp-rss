@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:05:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:43:14 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>【欧州市況】株、債券とも横ばい－ホルムズ海峡巡る協議の進展待ち</title>
@@ -14,7 +14,7 @@
       <pubDate>Thu, 06 Aug 2026 02:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>S&amp;P500種は5日続伸、好決算を追い風に最高値－円は157円台半ば</title>
+      <title>【米国市況】S&amp;P500種は小反落、午後に失速－円は157円台で横ばい</title>
       <link>https://news.yahoo.co.jp/articles/ef57138ed25625c8b4d1e67f13731767316c63d2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef57138ed25625c8b4d1e67f13731767316c63d2</guid>
       <pubDate>Thu, 06 Aug 2026 00:39:00 +0900</pubDate>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 06 Aug 2026 00:31:00 +0900</pubDate>
     </item>
     <item>
-      <title>イラン、ホルムズ海峡の航行ルート巡りオマーンと合意</title>
+      <title>イラン、ホルムズ海峡の航行巡りオマーンと合意－開放に向け前進</title>
       <link>https://news.yahoo.co.jp/articles/c49dbc89e583cbe4fadb42c9e9fac77c5a645399</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c49dbc89e583cbe4fadb42c9e9fac77c5a645399</guid>
       <pubDate>Thu, 06 Aug 2026 00:22:00 +0900</pubDate>
@@ -188,6 +188,12 @@
       <pubDate>Wed, 05 Aug 2026 12:51:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油は荒い動き、米・イラン合意近いとの観測－ホルムズ海峡再開巡り</title>
+      <link>https://news.yahoo.co.jp/articles/a382f9399310e518d03db9ebac66265c4112ae62</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a382f9399310e518d03db9ebac66265c4112ae62</guid>
+      <pubDate>Thu, 06 Aug 2026 12:26:00 +0900</pubDate>
+    </item>
+    <item>
       <title>原油が上昇に転じる、フーシ派の脅威と米イランの合意見通し見極め</title>
       <link>https://news.yahoo.co.jp/articles/fabfd8bb5c27400067ec7caced7253196eb26e7b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fabfd8bb5c27400067ec7caced7253196eb26e7b</guid>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a9aee96ee0cd33d2023b5eff19ba5ca246c3bf5f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9aee96ee0cd33d2023b5eff19ba5ca246c3bf5f</guid>
       <pubDate>Wed, 05 Aug 2026 05:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株急落、IPO後初の決算でAI投資膨らむ－設備投資急増</title>
-      <link>https://news.yahoo.co.jp/articles/c312bc3a9d7c2b869a90d2fe86f9343c6a7e9786</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c312bc3a9d7c2b869a90d2fe86f9343c6a7e9786</guid>
-      <pubDate>Wed, 05 Aug 2026 05:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
