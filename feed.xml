@@ -5,8 +5,44 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:30:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:25:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>OpenAI、アップルによる営業秘密侵害の訴え退けるよう申し立て</title>
+      <link>https://news.yahoo.co.jp/articles/c4d635b2e8ba57358f21b375de6be5eba7ca020f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4d635b2e8ba57358f21b375de6be5eba7ca020f</guid>
+      <pubDate>Thu, 06 Aug 2026 15:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG､第1四半期の純利益は18%減－AI投資回収への道筋が焦点</title>
+      <link>https://news.yahoo.co.jp/articles/6688ff58f16f7bab570dcd06a498dc49d5765eec</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6688ff58f16f7bab570dcd06a498dc49d5765eec</guid>
+      <pubDate>Thu, 06 Aug 2026 15:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>任天堂の1Q営業利益は前年同期比2.5倍の1426億円－通期見通し据置き</title>
+      <link>https://news.yahoo.co.jp/articles/5e218624ddeca81737ebdebfd8bdd668e5fb119b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e218624ddeca81737ebdebfd8bdd668e5fb119b</guid>
+      <pubDate>Thu, 06 Aug 2026 15:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス株、プレマーケットで再び30%急落-代替取引所巡り懸念</title>
+      <link>https://news.yahoo.co.jp/articles/94e467620f0802c86ae5ba3c2d518234bb2a3a60</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/94e467620f0802c86ae5ba3c2d518234bb2a3a60</guid>
+      <pubDate>Thu, 06 Aug 2026 14:42:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ヘッジファンドのアルティメーター、2桁損失－TSMCなど13銘柄に投資</title>
+      <link>https://news.yahoo.co.jp/articles/47445d86dabb34f6b3d68104fa05e725eb040725</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/47445d86dabb34f6b3d68104fa05e725eb040725</guid>
+      <pubDate>Thu, 06 Aug 2026 14:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国の経常黒字、2カ月連続で過去最高－AI半導体ブームが押し上げ</title>
+      <link>https://news.yahoo.co.jp/articles/a1c97acaa2fa24bd03c44508836861e0eaa711e8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a1c97acaa2fa24bd03c44508836861e0eaa711e8</guid>
+      <pubDate>Thu, 06 Aug 2026 14:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>7月の米金利据え置きを支持、物価抑制で積極対応必要も－SF連銀総裁</title>
       <link>https://news.yahoo.co.jp/articles/d894f5ddd050ac1346a17656fad895ab7cd70947</link>
@@ -32,13 +68,19 @@
       <pubDate>Thu, 06 Aug 2026 11:53:00 +0900</pubDate>
     </item>
     <item>
+      <title>｢ネットに答えがあるのでは？｣－OpenAIモデル、ハッキングで助け合い</title>
+      <link>https://news.yahoo.co.jp/articles/768cde67a765d375b4635396d40a07d18f41d2b7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/768cde67a765d375b4635396d40a07d18f41d2b7</guid>
+      <pubDate>Thu, 06 Aug 2026 11:13:00 +0900</pubDate>
+    </item>
+    <item>
       <title>「米国売り」論が再燃、協調介入で政策に不透明感－ドル・国債に懸念</title>
       <link>https://news.yahoo.co.jp/articles/1e6904fa4948a2918f135b0eef71d091d3331bd7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e6904fa4948a2918f135b0eef71d091d3331bd7</guid>
       <pubDate>Thu, 06 Aug 2026 11:12:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】AI関連下げ日経平均1300円超安、個別物色は支え－債券高</title>
+      <title>【日本市況】AI関連下げ日経平均反落、個別物色は支え－債券は上昇</title>
       <link>https://news.yahoo.co.jp/articles/8096f7d22046ca1f759b12cc1246dd4a9f98b5a5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8096f7d22046ca1f759b12cc1246dd4a9f98b5a5</guid>
       <pubDate>Thu, 06 Aug 2026 09:27:00 +0900</pubDate>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5854614f6df28345436e80bee0382573e72d1e08</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5854614f6df28345436e80bee0382573e72d1e08</guid>
       <pubDate>Wed, 05 Aug 2026 16:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホンダ今期営業益予想引き上げ、円安が追い風－市場予想は下回る</title>
-      <link>https://news.yahoo.co.jp/articles/774f77b6bba5009caea8b40548949ca9b4f46628</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/774f77b6bba5009caea8b40548949ca9b4f46628</guid>
-      <pubDate>Wed, 05 Aug 2026 15:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>資生堂、4－6月営業益は市場予想上回る－欧米市場に売上未達リスク</title>
-      <link>https://news.yahoo.co.jp/articles/970715dd194be2d27c119ef0725e3d833efedda9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/970715dd194be2d27c119ef0725e3d833efedda9</guid>
-      <pubDate>Wed, 05 Aug 2026 15:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インフィニオン、売上高見通しが市場予想超え－AI向け半導体需要拡大</title>
-      <link>https://news.yahoo.co.jp/articles/2301af02134e6da35b6cf997cd08f85d94862563</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2301af02134e6da35b6cf997cd08f85d94862563</guid>
-      <pubDate>Wed, 05 Aug 2026 15:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米GM、中国・上海汽車との合弁を20年延長－業績改善の兆し顕在化</title>
-      <link>https://news.yahoo.co.jp/articles/262e5f5eaec7a1e5e27ce2f3d690a44179e8df75</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/262e5f5eaec7a1e5e27ce2f3d690a44179e8df75</guid>
-      <pubDate>Wed, 05 Aug 2026 15:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス株上昇、自社株買いなど株主還元策への期待高まる</title>
-      <link>https://news.yahoo.co.jp/articles/fb8aaf5b516d11635f9f262faf6ebf2e16384355</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb8aaf5b516d11635f9f262faf6ebf2e16384355</guid>
-      <pubDate>Wed, 05 Aug 2026 14:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オーストラリア当局、インペックスのLNGプラントを提訴へ</title>
-      <link>https://news.yahoo.co.jp/articles/286f515041ac060f5a5e3afe35c6f59a6bc71217</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/286f515041ac060f5a5e3afe35c6f59a6bc71217</guid>
-      <pubDate>Wed, 05 Aug 2026 14:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イランとの交渉は順調－48時間後に詳細判明する見込み</title>
-      <link>https://news.yahoo.co.jp/articles/b81a059705193c191d8839a9baa84d3dc96dd577</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b81a059705193c191d8839a9baa84d3dc96dd577</guid>
-      <pubDate>Wed, 05 Aug 2026 13:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
