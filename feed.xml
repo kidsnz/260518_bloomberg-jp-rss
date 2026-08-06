@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 19:59:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:59:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AIに生産性向上と雇用減少、両面の効果－英中銀がブログで検証</title>
+      <link>https://news.yahoo.co.jp/articles/2599a79d67d5a081c0512e04f409f17a040383c8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2599a79d67d5a081c0512e04f409f17a040383c8</guid>
+      <pubDate>Thu, 06 Aug 2026 21:17:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本最大級のAIデータセンター建設､UAEが最大1兆円投資を検討-関係者</title>
+      <link>https://news.yahoo.co.jp/articles/a6347f11ed2d5047d5a5de4ab306c296f4653c1c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a6347f11ed2d5047d5a5de4ab306c296f4653c1c</guid>
+      <pubDate>Thu, 06 Aug 2026 20:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>金が上げ幅拡大、一時4300ドル超－ホルムズ海峡巡る合意に期待</title>
+      <link>https://news.yahoo.co.jp/articles/dd59bb1aae60828117a6e275c286aa32f0943d56</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd59bb1aae60828117a6e275c286aa32f0943d56</guid>
+      <pubDate>Thu, 06 Aug 2026 19:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国DeepSeek、AIサービス利用料を大幅引き上げへ－超格安路線を転換</title>
       <link>https://news.yahoo.co.jp/articles/19711fa8c72f660bd2cae87fb4ef19e5594a60fa</link>
@@ -44,7 +62,7 @@
       <pubDate>Thu, 06 Aug 2026 15:49:00 +0900</pubDate>
     </item>
     <item>
-      <title>ソフトバンクG､第1四半期の純利益は18%減－AI投資回収への道筋が焦点</title>
+      <title>ソフトバンクG､インテル株上昇恩恵も1Q減益－AIバブル懸念払拭道半ば</title>
       <link>https://news.yahoo.co.jp/articles/6688ff58f16f7bab570dcd06a498dc49d5765eec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6688ff58f16f7bab570dcd06a498dc49d5765eec</guid>
       <pubDate>Thu, 06 Aug 2026 15:32:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/38a0bafee5555f169ca9706eff876b3d7b15d229</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/38a0bafee5555f169ca9706eff876b3d7b15d229</guid>
       <pubDate>Wed, 05 Aug 2026 18:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グレンコア､ラディアントとの新規取引停止-エクスポージャーで引当金</title>
-      <link>https://news.yahoo.co.jp/articles/f8703466a900e2d08957e9d5e567aaa35e1fae74</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8703466a900e2d08957e9d5e567aaa35e1fae74</guid>
-      <pubDate>Wed, 05 Aug 2026 18:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インドネシアSWFのダナンタラ、ヘッジファンド数社に資金配分へ</title>
-      <link>https://news.yahoo.co.jp/articles/fc7cb9d72de199fe6d5b4dd3a9630935432d3b56</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc7cb9d72de199fe6d5b4dd3a9630935432d3b56</guid>
-      <pubDate>Wed, 05 Aug 2026 18:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日米を懸念する国債トレーダー、安全な投資先として欧州に着目</title>
-      <link>https://news.yahoo.co.jp/articles/396709731c57fd6757e5b251a84786510532a85c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/396709731c57fd6757e5b251a84786510532a85c</guid>
-      <pubDate>Wed, 05 Aug 2026 17:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
