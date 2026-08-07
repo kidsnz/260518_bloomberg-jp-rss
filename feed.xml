@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 19:47:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:40:57 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ラディアント・ワールド、中国の商社や鉄鋼メーカーが取引停止</title>
+      <link>https://news.yahoo.co.jp/articles/98a6c70bf26283290266a211282a8b4dfc69d435</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98a6c70bf26283290266a211282a8b4dfc69d435</guid>
+      <pubDate>Fri, 07 Aug 2026 19:41:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、利上げはウォーシュ氏だけの判断ではない－パンチボウル</title>
       <link>https://news.yahoo.co.jp/articles/962d2d319ff6694fb168593085fc650d9c724671</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/873400ed2c7c6f93f3d2f04fb1a3e5acc9498807</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/873400ed2c7c6f93f3d2f04fb1a3e5acc9498807</guid>
       <pubDate>Thu, 06 Aug 2026 23:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アルファベットが大型起債で約4兆円調達、AI関連で今年最大級の需要</title>
-      <link>https://news.yahoo.co.jp/articles/24fc3c1b70974e0faefc323d871b94e69561eb9c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/24fc3c1b70974e0faefc323d871b94e69561eb9c</guid>
-      <pubDate>Fri, 07 Aug 2026 22:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
