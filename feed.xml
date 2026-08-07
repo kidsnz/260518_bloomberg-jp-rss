@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:07:53 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:04:10 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ヘッジファンドの円売り越し幅が約半減、日米当局の協調介入後に</title>
+      <link>https://news.yahoo.co.jp/articles/4c21db64f87fca00087b06781b6c746beca0a3a8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c21db64f87fca00087b06781b6c746beca0a3a8</guid>
+      <pubDate>Sat, 08 Aug 2026 05:38:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国、対イラン海上封鎖をオマーン合意発表され次第解除へ－ロイター</title>
       <link>https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</link>
@@ -44,6 +50,12 @@
       <pubDate>Sat, 08 Aug 2026 00:09:00 +0900</pubDate>
     </item>
     <item>
+      <title>【米国市況】S&amp;P500高値更新、雇用者数減少－ドル一時157円割れ</title>
+      <link>https://news.yahoo.co.jp/articles/c79903a3eb6371f6093cd8fe766c2b4b558966a9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c79903a3eb6371f6093cd8fe766c2b4b558966a9</guid>
+      <pubDate>Sat, 08 Aug 2026 23:45:00 +0900</pubDate>
+    </item>
+    <item>
       <title>S&amp;P500は反発、雇用市場の急減速で利上げ観測後退－円は一時156円台</title>
       <link>https://news.yahoo.co.jp/articles/96f552c9534d1c118ac7474e1cb4f0f215f175d9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96f552c9534d1c118ac7474e1cb4f0f215f175d9</guid>
@@ -60,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</guid>
       <pubDate>Fri, 07 Aug 2026 23:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米雇用者数が予想外の減少、失業率4.1%に低下－労働市場に減速感</title>
+      <link>https://news.yahoo.co.jp/articles/59ebb5a46de58c359a669bfba8830aae3bb326af</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/59ebb5a46de58c359a669bfba8830aae3bb326af</guid>
+      <pubDate>Sat, 08 Aug 2026 21:41:00 +0900</pubDate>
     </item>
     <item>
       <title>米雇用者数が予想外の減少、失業率4.1%に低下－労働市場に減速感</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/332095d0f3c7073cc088e8163b1702252070f6c1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/332095d0f3c7073cc088e8163b1702252070f6c1</guid>
       <pubDate>Fri, 07 Aug 2026 07:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>TOPIX史上最大の見直しで小型株が大量除外へ、生き残り懸け夏の陣</title>
-      <link>https://news.yahoo.co.jp/articles/c9a5929909bf2463d125660c073a52c714147d94</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9a5929909bf2463d125660c073a52c714147d94</guid>
-      <pubDate>Fri, 07 Aug 2026 07:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キリンHD、カナダのサプリ企業を2200億円で買収－北米市場に参入</title>
-      <link>https://news.yahoo.co.jp/articles/f7f8befa1d89d012cdb882c3e50c27bfa2b7d95c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7f8befa1d89d012cdb882c3e50c27bfa2b7d95c</guid>
-      <pubDate>Fri, 07 Aug 2026 07:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>NY原油先物、一時1.2%上昇－イランがホルムズで目標攻撃との報を受け</title>
-      <link>https://news.yahoo.co.jp/articles/121914d81b28c3b387321e818967fc360141e2aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/121914d81b28c3b387321e818967fc360141e2aa</guid>
-      <pubDate>Fri, 07 Aug 2026 07:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
