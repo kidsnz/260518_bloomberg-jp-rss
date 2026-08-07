@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 23:08:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:22:27 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米雇用統計、雇用者数が予想外の減少－失業率は4.1%に低下</title>
+      <title>米雇用統計は完全に予想外、9月利上げないだろう－市場関係者の見方</title>
+      <link>https://news.yahoo.co.jp/articles/9e1b7f49f67ed0a5c5d2976093dcc23ac0d75433</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e1b7f49f67ed0a5c5d2976093dcc23ac0d75433</guid>
+      <pubDate>Fri, 07 Aug 2026 23:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米雇用者数が予想外の減少、失業率4.1%に低下－労働市場に減速感</title>
       <link>https://news.yahoo.co.jp/articles/d2576f5aac7f1baafcb308be03a603859a115d27</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d2576f5aac7f1baafcb308be03a603859a115d27</guid>
       <pubDate>Fri, 07 Aug 2026 21:41:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/faf8ecc1a033077e15fba336cead7997ad08c957</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/faf8ecc1a033077e15fba336cead7997ad08c957</guid>
       <pubDate>Fri, 07 Aug 2026 00:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで下げ拡大、158円台半ば－原油高やFT報道で</title>
-      <link>https://news.yahoo.co.jp/articles/35e69330273c5fecb13bd9158b574f0775c742a6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/35e69330273c5fecb13bd9158b574f0775c742a6</guid>
-      <pubDate>Fri, 07 Aug 2026 00:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
