@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 21:50:48 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:08:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米雇用統計、雇用者数が予想外の減少－失業率は4.1%に低下</title>
+      <link>https://news.yahoo.co.jp/articles/d2576f5aac7f1baafcb308be03a603859a115d27</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d2576f5aac7f1baafcb308be03a603859a115d27</guid>
+      <pubDate>Fri, 07 Aug 2026 21:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円が対ドルで1%上昇、156円68銭付ける－7月の米雇用統計に反応</title>
+      <link>https://news.yahoo.co.jp/articles/07a5fb9301a767eb59f16bbc294b4e7e46431d19</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07a5fb9301a767eb59f16bbc294b4e7e46431d19</guid>
+      <pubDate>Fri, 07 Aug 2026 21:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トルコ、サウジ、パキスタンが防衛協定－中東安定目指す新たな枠組み</title>
+      <link>https://news.yahoo.co.jp/articles/460a10596f35a56af1d4529289ce945d2bff5cc8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/460a10596f35a56af1d4529289ce945d2bff5cc8</guid>
+      <pubDate>Fri, 07 Aug 2026 21:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>ラディアント・ワールド、中国の商社や鉄鋼メーカーが取引停止</title>
       <link>https://news.yahoo.co.jp/articles/98a6c70bf26283290266a211282a8b4dfc69d435</link>
@@ -68,7 +86,7 @@
       <pubDate>Fri, 07 Aug 2026 16:51:00 +0900</pubDate>
     </item>
     <item>
-      <title>韓国SKハイニックス、約6兆円投じ国内の半導体生産強化－需要拡大で</title>
+      <title>韓国SKハイニックス､約6兆円投じ国内の半導体生産強化－需要拡大</title>
       <link>https://news.yahoo.co.jp/articles/aa3594e540ce69fc373e6bce8229cf31dd7aac0a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa3594e540ce69fc373e6bce8229cf31dd7aac0a</guid>
       <pubDate>Fri, 07 Aug 2026 16:46:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/35e69330273c5fecb13bd9158b574f0775c742a6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/35e69330273c5fecb13bd9158b574f0775c742a6</guid>
       <pubDate>Fri, 07 Aug 2026 00:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500は小幅続落､原油高で利上げ観測－円は158円台半ば</title>
-      <link>https://news.yahoo.co.jp/articles/de5a75051de81fd1ead4220650228532f2772fdf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de5a75051de81fd1ead4220650228532f2772fdf</guid>
-      <pubDate>Fri, 07 Aug 2026 00:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、ウォーシュFRB議長と断続的に電話－影響力強める狙いか</title>
-      <link>https://news.yahoo.co.jp/articles/d347c8fc44911e0c5b63b87f65e8188fd4fe2075</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d347c8fc44911e0c5b63b87f65e8188fd4fe2075</guid>
-      <pubDate>Thu, 06 Aug 2026 23:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長、インフレ高進なら利上げの用意－FT</title>
-      <link>https://news.yahoo.co.jp/articles/873400ed2c7c6f93f3d2f04fb1a3e5acc9498807</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/873400ed2c7c6f93f3d2f04fb1a3e5acc9498807</guid>
-      <pubDate>Thu, 06 Aug 2026 23:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
