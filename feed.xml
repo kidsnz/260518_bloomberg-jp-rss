@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:22:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 01:21:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる</title>
+      <link>https://news.yahoo.co.jp/articles/89b55d1d7118bf1cad8b5cb39e698812a272f384</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89b55d1d7118bf1cad8b5cb39e698812a272f384</guid>
+      <pubDate>Sat, 08 Aug 2026 00:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国のユーロ売り・円買い、地政学リスク高める－ブラックロック</title>
+      <link>https://news.yahoo.co.jp/articles/5855c3113eeaf165abfaee53510062f5b2df1cc5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5855c3113eeaf165abfaee53510062f5b2df1cc5</guid>
+      <pubDate>Sat, 08 Aug 2026 00:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者の1年先インフレ期待は3.63%に低下、前月3.67%－NY連銀</title>
+      <link>https://news.yahoo.co.jp/articles/386df5e7aa118b7c1f8e0aa9a16dc56e71e57a4e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/386df5e7aa118b7c1f8e0aa9a16dc56e71e57a4e</guid>
+      <pubDate>Sat, 08 Aug 2026 00:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500は反発、雇用市場の急減速で利上げ観測後退－円は一時156円台</title>
+      <link>https://news.yahoo.co.jp/articles/96f552c9534d1c118ac7474e1cb4f0f215f175d9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96f552c9534d1c118ac7474e1cb4f0f215f175d9</guid>
+      <pubDate>Fri, 07 Aug 2026 23:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>米雇用統計は完全に予想外、9月利上げないだろう－市場関係者の見方</title>
       <link>https://news.yahoo.co.jp/articles/9e1b7f49f67ed0a5c5d2976093dcc23ac0d75433</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e1b7f49f67ed0a5c5d2976093dcc23ac0d75433</guid>
       <pubDate>Fri, 07 Aug 2026 23:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>年内の米利上げ織り込み後退、9月は40%に低下－米雇用が想定外の減少</title>
+      <link>https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</guid>
+      <pubDate>Fri, 07 Aug 2026 23:13:00 +0900</pubDate>
     </item>
     <item>
       <title>米雇用者数が予想外の減少、失業率4.1%に低下－労働市場に減速感</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1f8abb316b685632b1cd8ec9ea4010e175773b62</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f8abb316b685632b1cd8ec9ea4010e175773b62</guid>
       <pubDate>Fri, 07 Aug 2026 06:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、米・イスラエル船のホルムズ通航禁止を要求－再開交渉に暗雲</title>
-      <link>https://news.yahoo.co.jp/articles/50bc4b806f27d256983d98668e724939c37e0e21</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/50bc4b806f27d256983d98668e724939c37e0e21</guid>
-      <pubDate>Fri, 07 Aug 2026 04:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブラックロックのクレジット・ファンド、ローン資産の約半分を売却</title>
-      <link>https://news.yahoo.co.jp/articles/2c79f6e0215ad80eef90586a09c6953b03f8e4b8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c79f6e0215ad80eef90586a09c6953b03f8e4b8</guid>
-      <pubDate>Fri, 07 Aug 2026 03:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油上げ拡大、一時83ドル台－ホルムズ海峡合意に不透明感</title>
-      <link>https://news.yahoo.co.jp/articles/5380bbf3b34a5039861d263fa5b7c5fd2ac14cb5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5380bbf3b34a5039861d263fa5b7c5fd2ac14cb5</guid>
-      <pubDate>Fri, 07 Aug 2026 01:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀には金融正常化進める余地ある、経済回復が後押し－IMFナンバー2</title>
-      <link>https://news.yahoo.co.jp/articles/66265727cab61989e3a57c3e2bd0d52c21a2b1cb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66265727cab61989e3a57c3e2bd0d52c21a2b1cb</guid>
-      <pubDate>Fri, 07 Aug 2026 01:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フーシ派、イエメンに展開のサウジ軍に「大規模」作戦を実施</title>
-      <link>https://news.yahoo.co.jp/articles/faf8ecc1a033077e15fba336cead7997ad08c957</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/faf8ecc1a033077e15fba336cead7997ad08c957</guid>
-      <pubDate>Fri, 07 Aug 2026 00:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
