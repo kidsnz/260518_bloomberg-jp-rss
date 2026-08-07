@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 05:04:40 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:07:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国、対イラン海上封鎖をオマーン合意発表され次第解除へ－ロイター</title>
+      <link>https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</guid>
+      <pubDate>Sat, 08 Aug 2026 04:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ海峡通過中の3隻が今週攻撃された、アブダビ国営石油が発表</title>
       <link>https://news.yahoo.co.jp/articles/41e3b08c284415e776d275a386fb136bf4be2b68</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/121914d81b28c3b387321e818967fc360141e2aa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/121914d81b28c3b387321e818967fc360141e2aa</guid>
       <pubDate>Fri, 07 Aug 2026 07:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米FIMAレポ、直近週は利用ゼロ－日米協調介入での活用なしを示唆</title>
-      <link>https://news.yahoo.co.jp/articles/eab1b2c74475b25b88a3b2f7ea09f3cb435ac190</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eab1b2c74475b25b88a3b2f7ea09f3cb435ac190</guid>
-      <pubDate>Fri, 07 Aug 2026 07:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
