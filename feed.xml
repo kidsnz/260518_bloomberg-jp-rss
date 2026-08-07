@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 01:21:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:20:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米労働市場｢低調なまま均衡｣、物価圧力強めず－リッチモンド連銀総裁</title>
+      <link>https://news.yahoo.co.jp/articles/2b59d08bd5828d1b669a1755e54d2eb1bf92b523</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2b59d08bd5828d1b669a1755e54d2eb1bf92b523</guid>
+      <pubDate>Sat, 08 Aug 2026 01:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>円相場が一時156円台に急上昇、米雇用下振れで－再介入警戒くすぶる</title>
       <link>https://news.yahoo.co.jp/articles/89b55d1d7118bf1cad8b5cb39e698812a272f384</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f4229d089e7d4432d51a861898b4e79371ddb1f8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4229d089e7d4432d51a861898b4e79371ddb1f8</guid>
       <pubDate>Fri, 07 Aug 2026 06:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAIの新端末はドーナツ型、300ドル超で2027年投入へ</title>
-      <link>https://news.yahoo.co.jp/articles/1f8abb316b685632b1cd8ec9ea4010e175773b62</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f8abb316b685632b1cd8ec9ea4010e175773b62</guid>
-      <pubDate>Fri, 07 Aug 2026 06:36:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
