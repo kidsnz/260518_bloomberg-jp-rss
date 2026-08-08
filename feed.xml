@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 08:56:38 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:25:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、重要鉱物に30億ドルの投資アピール－中国依存脱却目指す</title>
+      <link>https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</guid>
+      <pubDate>Sat, 08 Aug 2026 09:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>ヘッジファンドの円売り越し幅が約半減、日米当局の協調介入後に</title>
       <link>https://news.yahoo.co.jp/articles/4c21db64f87fca00087b06781b6c746beca0a3a8</link>
@@ -18,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</guid>
       <pubDate>Sat, 08 Aug 2026 04:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領とウォーシュFRB議長「常に話している」－ハセット氏</title>
+      <link>https://news.yahoo.co.jp/articles/237fbb06577a05dc19b9e1197acb96555f662497</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/237fbb06577a05dc19b9e1197acb96555f662497</guid>
+      <pubDate>Sat, 08 Aug 2026 03:57:00 +0900</pubDate>
     </item>
     <item>
       <title>ホルムズ海峡通過中の3隻が今週攻撃された、アブダビ国営石油が発表</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d7bbe42c254f411ff42d332b88f5b379a165ce24</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7bbe42c254f411ff42d332b88f5b379a165ce24</guid>
       <pubDate>Fri, 07 Aug 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は小幅安へ、地政学リスクの高まり警戒－好決算銘柄の物色支え</title>
-      <link>https://news.yahoo.co.jp/articles/dd3a20f8e1f4bf936c27bad41f49341ba6b66e2a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd3a20f8e1f4bf936c27bad41f49341ba6b66e2a</guid>
-      <pubDate>Fri, 07 Aug 2026 07:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで158円台半ばに下落、原油高でドル買い優勢－債券下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/332095d0f3c7073cc088e8163b1702252070f6c1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/332095d0f3c7073cc088e8163b1702252070f6c1</guid>
-      <pubDate>Fri, 07 Aug 2026 07:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
