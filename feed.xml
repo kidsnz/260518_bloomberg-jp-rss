@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 04:08:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:51:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン外相、ホルムズ海峡巡る合意は近いと表明－条件履行が前提</title>
+      <link>https://news.yahoo.co.jp/articles/2e6f7350dea0421d4e503b81a7d6c62781641429</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e6f7350dea0421d4e503b81a7d6c62781641429</guid>
+      <pubDate>Sat, 08 Aug 2026 23:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>米データセンター運営スイッチ、IPOを非公開申請－11月にも上場</title>
       <link>https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/21866985c6e7d4a032fe6f96514f73369d6b5e62</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21866985c6e7d4a032fe6f96514f73369d6b5e62</guid>
       <pubDate>Fri, 07 Aug 2026 08:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>｢GW為替介入｣は3日にわたり実施、6兆円超と1日当たり円買い過去最大</title>
-      <link>https://news.yahoo.co.jp/articles/fd1b8c48ffab32cd0783a5bc284b384522f90a6d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd1b8c48ffab32cd0783a5bc284b384522f90a6d</guid>
-      <pubDate>Fri, 07 Aug 2026 08:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
