@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 14:38:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:41:27 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米データセンター運営スイッチ、IPOを非公開申請－11月にも上場</title>
+      <link>https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</guid>
+      <pubDate>Sat, 08 Aug 2026 14:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>FRB、利上げ巡り意見割れる－高インフレ長期化で当局者の忍耐試す</title>
       <link>https://news.yahoo.co.jp/articles/c4d050ad1016fda3b84856a544aacc05cbae26dc</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fd1b8c48ffab32cd0783a5bc284b384522f90a6d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd1b8c48ffab32cd0783a5bc284b384522f90a6d</guid>
       <pubDate>Fri, 07 Aug 2026 08:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>実質消費支出は7カ月連続のマイナス、前年同月比3.3%減－6月</title>
-      <link>https://news.yahoo.co.jp/articles/6ebd80244d78bce38ef5ed88f68f75e624450e9a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ebd80244d78bce38ef5ed88f68f75e624450e9a</guid>
-      <pubDate>Fri, 07 Aug 2026 08:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
