@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 12:06:51 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:33:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>FRB、利上げ巡り意見割れる－高インフレ長期化で当局者の忍耐試す</title>
+      <link>https://news.yahoo.co.jp/articles/c4d050ad1016fda3b84856a544aacc05cbae26dc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4d050ad1016fda3b84856a544aacc05cbae26dc</guid>
+      <pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、重要鉱物に30億ドルの投資アピール－中国依存脱却目指す</title>
       <link>https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a31c632f7aec5831a612ba9989e58c5ff1e07b6</guid>
       <pubDate>Sat, 08 Aug 2026 04:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、またクックFRB理事解任を検討－最高裁判断受けて出直し</title>
+      <link>https://news.yahoo.co.jp/articles/c89764e32fd2070d785bc34316d4229679c08d31</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c89764e32fd2070d785bc34316d4229679c08d31</guid>
+      <pubDate>Sat, 08 Aug 2026 04:02:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ大統領とウォーシュFRB議長「常に話している」－ハセット氏</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6ebd80244d78bce38ef5ed88f68f75e624450e9a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ebd80244d78bce38ef5ed88f68f75e624450e9a</guid>
       <pubDate>Fri, 07 Aug 2026 08:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、中東緊迫で金利上昇へ、介入効果減衰し円安－株は上値重い</title>
-      <link>https://news.yahoo.co.jp/articles/7b41f89b1913b61c897d9e9fafc023b3ecf46765</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b41f89b1913b61c897d9e9fafc023b3ecf46765</guid>
-      <pubDate>Fri, 07 Aug 2026 08:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>コベナンツ付き社債発行額が前年超え、BBB格企業で調達多様化</title>
-      <link>https://news.yahoo.co.jp/articles/d7bbe42c254f411ff42d332b88f5b379a165ce24</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7bbe42c254f411ff42d332b88f5b379a165ce24</guid>
-      <pubDate>Fri, 07 Aug 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
