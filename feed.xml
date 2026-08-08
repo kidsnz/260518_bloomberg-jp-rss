@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 08:25:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:53:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米上院、ブランチ氏の司法長官就任を承認－トランプ氏の元個人弁護士</title>
+      <link>https://news.yahoo.co.jp/articles/a1e3a7d07fd8c596eb2a60bbd687e50b0e5960c8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a1e3a7d07fd8c596eb2a60bbd687e50b0e5960c8</guid>
+      <pubDate>Sun, 09 Aug 2026 02:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン外相、ホルムズ海峡巡る合意近いと表明－交渉は進展とオマーン</title>
+      <link>https://news.yahoo.co.jp/articles/178bd3bd1c706bf5deafeead8a4be25b42bdf2ba</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/178bd3bd1c706bf5deafeead8a4be25b42bdf2ba</guid>
+      <pubDate>Sat, 08 Aug 2026 23:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン外相、ホルムズ海峡巡る合意は近いと表明－条件履行が前提</title>
       <link>https://news.yahoo.co.jp/articles/2e6f7350dea0421d4e503b81a7d6c62781641429</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/56974b7a4602a457ce0c357f2217826fcb6a29c6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56974b7a4602a457ce0c357f2217826fcb6a29c6</guid>
       <pubDate>Fri, 07 Aug 2026 09:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】158円前半で円もみ合い、ドル高一服や介入警戒－債券安</title>
-      <link>https://news.yahoo.co.jp/articles/c10218dd4efa1b7b81b0187bc3c386fec087e996</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c10218dd4efa1b7b81b0187bc3c386fec087e996</guid>
-      <pubDate>Fri, 07 Aug 2026 09:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>7月末外貨準備高は前月比横ばい､協調介入の影響は反映されず－財務省</title>
-      <link>https://news.yahoo.co.jp/articles/21866985c6e7d4a032fe6f96514f73369d6b5e62</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/21866985c6e7d4a032fe6f96514f73369d6b5e62</guid>
-      <pubDate>Fri, 07 Aug 2026 08:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
