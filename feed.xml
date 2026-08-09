@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 06:25:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:56:36 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>円は対ドル157円台後半、先週末比ほぼ横ばい－シドニー早朝</title>
       <link>https://news.yahoo.co.jp/articles/f64051cbd78c83f63568c26ef8808e3a1e961f75</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f64051cbd78c83f63568c26ef8808e3a1e961f75</guid>
       <pubDate>Mon, 10 Aug 2026 04:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イスラエル首相、トランプ氏自賛のハマス武装解除案を拒否</title>
+      <link>https://news.yahoo.co.jp/articles/6e9c047390bc87229d5ad7ed67c8935b387791aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e9c047390bc87229d5ad7ed67c8935b387791aa</guid>
+      <pubDate>Mon, 10 Aug 2026 04:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国防総省、防衛大手に主要兵器の増産要請－イラン戦争で不足懸念</title>
+      <link>https://news.yahoo.co.jp/articles/f56475f72508ded63214ddace55194896e169621</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f56475f72508ded63214ddace55194896e169621</guid>
+      <pubDate>Mon, 10 Aug 2026 01:25:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン、米国との協議は不可能－トランプ氏はホルムズ巡る合意急がず</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/75dca47695cd2e4a932148d85f70514f64693dda</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75dca47695cd2e4a932148d85f70514f64693dda</guid>
       <pubDate>Fri, 07 Aug 2026 16:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国SKハイニックス､約6兆円投じ国内の半導体生産強化－需要拡大</title>
-      <link>https://news.yahoo.co.jp/articles/aa3594e540ce69fc373e6bce8229cf31dd7aac0a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa3594e540ce69fc373e6bce8229cf31dd7aac0a</guid>
-      <pubDate>Fri, 07 Aug 2026 16:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>消費者物価は基準改定も大きな変化なし、日銀利上げ観測への影響限定</title>
-      <link>https://news.yahoo.co.jp/articles/b986c8b662595c34ad4f770e98acb2bfc08d34a1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b986c8b662595c34ad4f770e98acb2bfc08d34a1</guid>
-      <pubDate>Fri, 07 Aug 2026 16:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
