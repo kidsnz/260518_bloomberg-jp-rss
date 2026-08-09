@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 08:05:38 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:57:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円は対ドルで157円後半、中東情勢懸念と介入警戒後退－債券は上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/fc9d0c412aa8e2c5a6954a3ac1c12658ecf8aa43</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc9d0c412aa8e2c5a6954a3ac1c12658ecf8aa43</guid>
+      <pubDate>Mon, 10 Aug 2026 08:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場は株・債券上昇へ、雇用軟調で米利上げ観測後退－円安も一服</title>
+      <link>https://news.yahoo.co.jp/articles/48a1cce3432c1728ac3641ea359045292c924c18</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48a1cce3432c1728ac3641ea359045292c924c18</guid>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は上昇へ、予想外の雇用減少で米利上げ観測後退－半導体に買い</title>
+      <link>https://news.yahoo.co.jp/articles/85798d9e889c406e52e9406a2573eb04630eb5a2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85798d9e889c406e52e9406a2573eb04630eb5a2</guid>
+      <pubDate>Mon, 10 Aug 2026 07:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油上昇、ホルムズ海峡巡るオマーン・イラン間の合意なお見通せず</title>
       <link>https://news.yahoo.co.jp/articles/c2f56bbb178e6fb10687122e44a49385fe521db7</link>
@@ -18,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/3f39c34934964fdc2de1f44c7c033882dbf5a2e8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f39c34934964fdc2de1f44c7c033882dbf5a2e8</guid>
       <pubDate>Mon, 10 Aug 2026 07:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>レバレッジETFがテック株の値動き増幅、日中モメンタム戦略に追い風</title>
+      <link>https://news.yahoo.co.jp/articles/fbffa8a1bbf772955b54bd7eed3cbb3584f9cc15</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbffa8a1bbf772955b54bd7eed3cbb3584f9cc15</guid>
+      <pubDate>Mon, 10 Aug 2026 07:01:00 +0900</pubDate>
     </item>
     <item>
       <title>円は対ドル157円台後半、先週末比ほぼ横ばい－シドニー早朝</title>
@@ -182,6 +206,12 @@
       <pubDate>Sat, 08 Aug 2026 03:57:00 +0900</pubDate>
     </item>
     <item>
+      <title>【欧州市況】債券上昇、米雇用統計で利上げ期待後退－株4週連続上昇</title>
+      <link>https://news.yahoo.co.jp/articles/4b1d27c7155c4538c49f212410e148e90dd3fd2a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b1d27c7155c4538c49f212410e148e90dd3fd2a</guid>
+      <pubDate>Sat, 08 Aug 2026 02:21:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ホルムズ海峡通過中の3隻が今週攻撃された、アブダビ国営石油が発表</title>
       <link>https://news.yahoo.co.jp/articles/41e3b08c284415e776d275a386fb136bf4be2b68</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41e3b08c284415e776d275a386fb136bf4be2b68</guid>
@@ -254,6 +284,12 @@
       <pubDate>Fri, 07 Aug 2026 21:41:00 +0900</pubDate>
     </item>
     <item>
+      <title>米雇用統計、７月の非農業部門雇用者数は2.3万人減－失業率4.1％</title>
+      <link>https://news.yahoo.co.jp/articles/0f9888817c11e47ad9d9d8c16888244ce8f60391</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f9888817c11e47ad9d9d8c16888244ce8f60391</guid>
+      <pubDate>Fri, 07 Aug 2026 21:37:00 +0900</pubDate>
+    </item>
+    <item>
       <title>円が対ドルで1%上昇、156円68銭付ける－7月の米雇用統計に反応</title>
       <link>https://news.yahoo.co.jp/articles/07a5fb9301a767eb59f16bbc294b4e7e46431d19</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07a5fb9301a767eb59f16bbc294b4e7e46431d19</guid>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/98a6c70bf26283290266a211282a8b4dfc69d435</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98a6c70bf26283290266a211282a8b4dfc69d435</guid>
       <pubDate>Fri, 07 Aug 2026 19:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、利上げはウォーシュ氏だけの判断ではない－パンチボウル</title>
-      <link>https://news.yahoo.co.jp/articles/962d2d319ff6694fb168593085fc650d9c724671</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/962d2d319ff6694fb168593085fc650d9c724671</guid>
-      <pubDate>Fri, 07 Aug 2026 19:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>リスク資産投資の縮小を推奨、投資家の強気姿勢に過熱感－BofA</title>
-      <link>https://news.yahoo.co.jp/articles/ea688b8dcb2cf0f77e87f22a3f100507bd9fe9f8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ea688b8dcb2cf0f77e87f22a3f100507bd9fe9f8</guid>
-      <pubDate>Fri, 07 Aug 2026 18:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>独仏スペイン、点心債発行で銀行団と協議－発行計画は示さず</title>
-      <link>https://news.yahoo.co.jp/articles/348f0a0b2b935238a2f7a4252a7c7e5a80a2d36f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/348f0a0b2b935238a2f7a4252a7c7e5a80a2d36f</guid>
-      <pubDate>Fri, 07 Aug 2026 18:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>石油元売り3社の純利益、過去10年で最高水準に－中東紛争で利幅拡大</title>
-      <link>https://news.yahoo.co.jp/articles/d80d714709bfbd4037d69a069b9292f0de229c50</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d80d714709bfbd4037d69a069b9292f0de229c50</guid>
-      <pubDate>Fri, 07 Aug 2026 18:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国のトップAI「Kimi K3」、サイバー試験環境から脱出－米研究所</title>
-      <link>https://news.yahoo.co.jp/articles/d6f741db6a3a74907f1f7395ac4f61421b2a75a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d6f741db6a3a74907f1f7395ac4f61421b2a75a8</guid>
-      <pubDate>Fri, 07 Aug 2026 18:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX株が上昇、9億株ロックアップ解除を市場は消化－出来高急増</title>
-      <link>https://news.yahoo.co.jp/articles/671edd3dae28ce056860191bfd5abea6cb224076</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/671edd3dae28ce056860191bfd5abea6cb224076</guid>
-      <pubDate>Fri, 07 Aug 2026 17:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
