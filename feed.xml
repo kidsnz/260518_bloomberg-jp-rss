@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:34:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:25:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円は対ドル157円台後半、先週末比ほぼ横ばい－シドニー早朝</title>
+      <link>https://news.yahoo.co.jp/articles/f64051cbd78c83f63568c26ef8808e3a1e961f75</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f64051cbd78c83f63568c26ef8808e3a1e961f75</guid>
+      <pubDate>Mon, 10 Aug 2026 04:47:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン、米国との協議は不可能－トランプ氏はホルムズ巡る合意急がず</title>
       <link>https://news.yahoo.co.jp/articles/41c7e4aae22dcdeca9f673d1b545a3d22384e1ec</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b986c8b662595c34ad4f770e98acb2bfc08d34a1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b986c8b662595c34ad4f770e98acb2bfc08d34a1</guid>
       <pubDate>Fri, 07 Aug 2026 16:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>住友林業、ハイブリッド債2500億円程度－米住宅会社買収の借入金返済</title>
-      <link>https://news.yahoo.co.jp/articles/475dd2d1366b7c5488ef8ffe826263061dc7c45d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/475dd2d1366b7c5488ef8ffe826263061dc7c45d</guid>
-      <pubDate>Fri, 07 Aug 2026 16:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
