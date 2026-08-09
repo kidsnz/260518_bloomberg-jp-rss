@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 10:15:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:13:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>サウジアラムコのジザン製油所で火災－すでに鎮火と政府発表</title>
+      <link>https://news.yahoo.co.jp/articles/49037bd4ffa9c3b6f5b7bcfd986f9cc4092ae577</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49037bd4ffa9c3b6f5b7bcfd986f9cc4092ae577</guid>
+      <pubDate>Sun, 09 Aug 2026 11:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国のインフレ鈍化－7月PPI上昇率、イラン戦争勃発後初の低下</title>
+      <link>https://news.yahoo.co.jp/articles/83ae961f43e3c63489c848eb17fea119769e25d8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83ae961f43e3c63489c848eb17fea119769e25d8</guid>
+      <pubDate>Sun, 09 Aug 2026 11:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>ソフトバンクG出資の米フォームラブズ、IPOに向け初期協議－関係者</title>
       <link>https://news.yahoo.co.jp/articles/c5b42358340816ea05437b681f73a570f65cd68a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5b42358340816ea05437b681f73a570f65cd68a</guid>
       <pubDate>Sun, 09 Aug 2026 09:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>関西電力の大飯発電所3号機、原子炉自動停止－警報発信で8日夜</title>
+      <link>https://news.yahoo.co.jp/articles/ac9c2add6b913442f6b8adc2791697f5a88bd6db</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac9c2add6b913442f6b8adc2791697f5a88bd6db</guid>
+      <pubDate>Sun, 09 Aug 2026 08:16:00 +0900</pubDate>
     </item>
     <item>
       <title>米上院、ブランチ氏の司法長官就任を承認－トランプ氏の元個人弁護士</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/028854cf05a50842fbb13be809e5590181052c5b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/028854cf05a50842fbb13be809e5590181052c5b</guid>
       <pubDate>Fri, 07 Aug 2026 11:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国人民銀、金準備の一部をロンドンから香港へ移す－取引拠点育成へ</title>
-      <link>https://news.yahoo.co.jp/articles/0ac1972963bddb4781dd0a708ec4ccfad1deb8df</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0ac1972963bddb4781dd0a708ec4ccfad1deb8df</guid>
-      <pubDate>Fri, 07 Aug 2026 11:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円安でも喜べない日本車メーカー、相場急変に備えー生産体制再考も</title>
-      <link>https://news.yahoo.co.jp/articles/b1fa61ae0e8a24119a28025af90d4381877ea41c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1fa61ae0e8a24119a28025af90d4381877ea41c</guid>
-      <pubDate>Fri, 07 Aug 2026 10:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円相場、日米協調介入が押し上げた半分近くを消失－再介入リスク警戒</title>
-      <link>https://news.yahoo.co.jp/articles/ebbcc39de7a08567cae8f54512df7b6c868c340a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ebbcc39de7a08567cae8f54512df7b6c868c340a</guid>
-      <pubDate>Fri, 07 Aug 2026 10:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
