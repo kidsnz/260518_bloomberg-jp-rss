@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:05:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:57:00 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン、米国との協議は当面不可能－ホルムズ海峡合意なお実現せず</title>
@@ -96,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</guid>
       <pubDate>Sun, 09 Aug 2026 17:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、「Astra」の一部作業停止－高いサイバー能力で安全対策強化</title>
+      <link>https://news.yahoo.co.jp/articles/fa5ea4f5aa475e8b6227753720007597b08367eb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa5ea4f5aa475e8b6227753720007597b08367eb</guid>
+      <pubDate>Sat, 08 Aug 2026 17:19:00 +0900</pubDate>
     </item>
     <item>
       <title>米データセンター運営スイッチ、IPOを非公開申請－11月にも上場</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6d892aaa838e8bb0ccb8bf76b94d7b464f91fe09</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d892aaa838e8bb0ccb8bf76b94d7b464f91fe09</guid>
       <pubDate>Fri, 07 Aug 2026 16:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本株週間展望】好業績支えに堅調、中東情勢やインフレには警戒</title>
-      <link>https://news.yahoo.co.jp/articles/0c260df4554fc2a0d1612f37eff8ecbf739f8661</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c260df4554fc2a0d1612f37eff8ecbf739f8661</guid>
-      <pubDate>Fri, 07 Aug 2026 15:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
