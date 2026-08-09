@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:34:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 18:33:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国株ボラティリティー指数、2カ月ぶり低水準－外国勢は依然慎重</title>
+      <link>https://news.yahoo.co.jp/articles/992d92b04bae6b1ff38e77904853f2a34f44fcd5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/992d92b04bae6b1ff38e77904853f2a34f44fcd5</guid>
+      <pubDate>Sun, 09 Aug 2026 16:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>ゴールドマンのプライベートクレジット事業、不良債権比率上昇</title>
       <link>https://news.yahoo.co.jp/articles/bb7fe3c34c612749695b5f33759a73ee7cbedb78</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/97ce9fde832a2344da9b3c1dc28c6896e79a842f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97ce9fde832a2344da9b3c1dc28c6896e79a842f</guid>
       <pubDate>Fri, 07 Aug 2026 15:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円買い介入支援でもドルは基軸通貨の地位揺るがず－ゴールドマン</title>
-      <link>https://news.yahoo.co.jp/articles/ed08faf9fd5a18578fffca4e442c44b2b5290732</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed08faf9fd5a18578fffca4e442c44b2b5290732</guid>
-      <pubDate>Fri, 07 Aug 2026 14:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
