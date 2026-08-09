@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 12:13:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:44:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>パラマウント、ワーナー買収なら年30本の劇場公開保証－3年契約提示</title>
+      <link>https://news.yahoo.co.jp/articles/5f9c8959e65bec20e8613f858119c53b991ae7a9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f9c8959e65bec20e8613f858119c53b991ae7a9</guid>
+      <pubDate>Sun, 09 Aug 2026 12:17:00 +0900</pubDate>
+    </item>
     <item>
       <title>サウジアラムコのジザン製油所で火災－すでに鎮火と政府発表</title>
       <link>https://news.yahoo.co.jp/articles/49037bd4ffa9c3b6f5b7bcfd986f9cc4092ae577</link>
@@ -32,6 +38,12 @@
       <pubDate>Sun, 09 Aug 2026 08:16:00 +0900</pubDate>
     </item>
     <item>
+      <title>【焦点】米CPI、小幅上昇へ－インフレ鈍化でFRBの懸念和らぐ可能性</title>
+      <link>https://news.yahoo.co.jp/articles/d42cc45155ef7c801a761015f086cf54cfa918bb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d42cc45155ef7c801a761015f086cf54cfa918bb</guid>
+      <pubDate>Sun, 09 Aug 2026 07:56:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米上院、ブランチ氏の司法長官就任を承認－トランプ氏の元個人弁護士</title>
       <link>https://news.yahoo.co.jp/articles/a1e3a7d07fd8c596eb2a60bbd687e50b0e5960c8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a1e3a7d07fd8c596eb2a60bbd687e50b0e5960c8</guid>
@@ -48,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/2e6f7350dea0421d4e503b81a7d6c62781641429</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e6f7350dea0421d4e503b81a7d6c62781641429</guid>
       <pubDate>Sat, 08 Aug 2026 23:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米上院、つなぎ予算案を可決－中間選挙控え政府閉鎖の回避目指す</title>
+      <link>https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</guid>
+      <pubDate>Sun, 09 Aug 2026 17:52:00 +0900</pubDate>
     </item>
     <item>
       <title>米データセンター運営スイッチ、IPOを非公開申請－11月にも上場</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/df8fed9dfb85ade0de62c79757bdba0a7ccd7012</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df8fed9dfb85ade0de62c79757bdba0a7ccd7012</guid>
       <pubDate>Fri, 07 Aug 2026 13:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス、AI特需で膨らむ手元資金を韓国社債市場で運用</title>
-      <link>https://news.yahoo.co.jp/articles/7348eb1e765d0ee513c605fab78d45fcfe472547</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7348eb1e765d0ee513c605fab78d45fcfe472547</guid>
-      <pubDate>Fri, 07 Aug 2026 13:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】乱高下の可能性、為替次第で日銀早期利上げ圧力</title>
-      <link>https://news.yahoo.co.jp/articles/f881cbfd0ef79b0d7e3eb802c06d9da78b965253</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f881cbfd0ef79b0d7e3eb802c06d9da78b965253</guid>
-      <pubDate>Fri, 07 Aug 2026 12:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サッポロが株主還元を強化、自社株買いと累進配当を計画－株価上昇</title>
-      <link>https://news.yahoo.co.jp/articles/028854cf05a50842fbb13be809e5590181052c5b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/028854cf05a50842fbb13be809e5590181052c5b</guid>
-      <pubDate>Fri, 07 Aug 2026 11:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
