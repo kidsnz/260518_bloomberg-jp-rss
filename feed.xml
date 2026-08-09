@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 08:53:28 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 10:15:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ソフトバンクG出資の米フォームラブズ、IPOに向け初期協議－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/c5b42358340816ea05437b681f73a570f65cd68a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5b42358340816ea05437b681f73a570f65cd68a</guid>
+      <pubDate>Sun, 09 Aug 2026 09:05:00 +0900</pubDate>
+    </item>
     <item>
       <title>米上院、ブランチ氏の司法長官就任を承認－トランプ氏の元個人弁護士</title>
       <link>https://news.yahoo.co.jp/articles/a1e3a7d07fd8c596eb2a60bbd687e50b0e5960c8</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ebbcc39de7a08567cae8f54512df7b6c868c340a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ebbcc39de7a08567cae8f54512df7b6c868c340a</guid>
       <pubDate>Fri, 07 Aug 2026 10:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、米のユーロ売り・円買い介入を事前に知らされず－報道</title>
-      <link>https://news.yahoo.co.jp/articles/56974b7a4602a457ce0c357f2217826fcb6a29c6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56974b7a4602a457ce0c357f2217826fcb6a29c6</guid>
-      <pubDate>Fri, 07 Aug 2026 09:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
