@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 06:56:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:29:02 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>円は対ドル157円台後半、先週末比ほぼ横ばい－シドニー早朝</title>
@@ -176,6 +176,12 @@
       <pubDate>Sat, 08 Aug 2026 02:07:00 +0900</pubDate>
     </item>
     <item>
+      <title>アクセンチュア､未消化分の有給持ち越し可能に－期末の受注拡大狙い</title>
+      <link>https://news.yahoo.co.jp/articles/1bd63af9d06ec865aa6bb792c026890b2d037023</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1bd63af9d06ec865aa6bb792c026890b2d037023</guid>
+      <pubDate>Sat, 08 Aug 2026 01:46:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米労働市場｢低調なまま均衡｣、物価圧力強めず－リッチモンド連銀総裁</title>
       <link>https://news.yahoo.co.jp/articles/2b59d08bd5828d1b669a1755e54d2eb1bf92b523</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2b59d08bd5828d1b669a1755e54d2eb1bf92b523</guid>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0e36ad93106e9b2245597ea084c7bd601fb5f949</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e36ad93106e9b2245597ea084c7bd601fb5f949</guid>
       <pubDate>Fri, 07 Aug 2026 16:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、ヘグセス国防長官を擁護－兵器備蓄巡る対立報道受け</title>
-      <link>https://news.yahoo.co.jp/articles/75dca47695cd2e4a932148d85f70514f64693dda</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/75dca47695cd2e4a932148d85f70514f64693dda</guid>
-      <pubDate>Fri, 07 Aug 2026 16:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
