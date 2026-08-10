@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:52:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:52:50 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>インテル、150億ドル相当の普通株式売り出し－AIブームの好機生かす</title>
@@ -30,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/d74864dacccb9d32d2eb1aada973f9ae8ed52c42</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d74864dacccb9d32d2eb1aada973f9ae8ed52c42</guid>
       <pubDate>Mon, 10 Aug 2026 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500年末目標引き上げ、AI収益化加速が追い風－JPモルガン</title>
+      <link>https://news.yahoo.co.jp/articles/b4c2154cd9fee5f3f816986addfd5b70c2918dc5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b4c2154cd9fee5f3f816986addfd5b70c2918dc5</guid>
+      <pubDate>Mon, 10 Aug 2026 18:43:00 +0900</pubDate>
     </item>
     <item>
       <title>人型ロボット、中国メーカーが世界出荷の97%占める－米調査会社</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/90a907108e71ca3b82b9ecc3024ca2a63847fdb6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90a907108e71ca3b82b9ecc3024ca2a63847fdb6</guid>
       <pubDate>Sat, 08 Aug 2026 22:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米上院、つなぎ予算案を可決－中間選挙控え政府閉鎖の回避目指す</title>
-      <link>https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</guid>
-      <pubDate>Sun, 09 Aug 2026 17:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
