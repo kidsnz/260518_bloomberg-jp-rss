@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:51:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 05:35:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>FRBは複数回の利上げが必要になる可能性－クリーブランド連銀総裁</title>
+      <link>https://news.yahoo.co.jp/articles/8cc390b920852b56dd5311982a2599a7d7901e89</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8cc390b920852b56dd5311982a2599a7d7901e89</guid>
+      <pubDate>Tue, 11 Aug 2026 04:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディアとウォール街大手、AI事業向け5000億ドル供給を協議－FT</title>
       <link>https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5f9c8959e65bec20e8613f858119c53b991ae7a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f9c8959e65bec20e8613f858119c53b991ae7a9</guid>
       <pubDate>Sun, 09 Aug 2026 12:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サウジアラムコのジザン製油所で火災－すでに鎮火と政府発表</title>
-      <link>https://news.yahoo.co.jp/articles/49037bd4ffa9c3b6f5b7bcfd986f9cc4092ae577</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49037bd4ffa9c3b6f5b7bcfd986f9cc4092ae577</guid>
-      <pubDate>Sun, 09 Aug 2026 11:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
