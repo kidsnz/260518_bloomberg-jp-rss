@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 20:03:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:06:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円下落、対ドルで節目の159円に接近－日米協調介入の効果薄れる</title>
+      <link>https://news.yahoo.co.jp/articles/aacf4ac3f6693c832ddba5bf3e5f06132455105d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aacf4ac3f6693c832ddba5bf3e5f06132455105d</guid>
+      <pubDate>Mon, 10 Aug 2026 20:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>城内経財相、高市政権の責任ある積極財政は円高圧力－財政懸念に反論</title>
+      <link>https://news.yahoo.co.jp/articles/d74864dacccb9d32d2eb1aada973f9ae8ed52c42</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d74864dacccb9d32d2eb1aada973f9ae8ed52c42</guid>
+      <pubDate>Mon, 10 Aug 2026 20:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>人型ロボット、中国メーカーが世界出荷の97%占める－米調査会社</title>
       <link>https://news.yahoo.co.jp/articles/584ae8d1e515b7394e74dd5f5f80f50c0fd8a9d6</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</guid>
       <pubDate>Sat, 08 Aug 2026 14:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB、利上げ巡り意見割れる－高インフレ長期化で当局者の忍耐試す</title>
-      <link>https://news.yahoo.co.jp/articles/c4d050ad1016fda3b84856a544aacc05cbae26dc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4d050ad1016fda3b84856a544aacc05cbae26dc</guid>
-      <pubDate>Sat, 08 Aug 2026 12:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、重要鉱物に30億ドルの投資アピール－中国依存脱却目指す</title>
-      <link>https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</guid>
-      <pubDate>Sat, 08 Aug 2026 09:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
