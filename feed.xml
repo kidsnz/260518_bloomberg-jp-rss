@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 00:54:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 01:48:08 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アンソロピック、マッコーリーとGICがAIデータセンター建設で提携</title>
@@ -30,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/fdf0de0067ef4c762af77a5b68fa58e3153f6de1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdf0de0067ef4c762af77a5b68fa58e3153f6de1</guid>
       <pubDate>Mon, 10 Aug 2026 22:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油上昇、ブレントは85ドル近辺－イラン・オマーン合意なお見通せず</title>
+      <link>https://news.yahoo.co.jp/articles/a14a276cc57349913898e61fa396a0d24b8b623c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a14a276cc57349913898e61fa396a0d24b8b623c</guid>
+      <pubDate>Mon, 10 Aug 2026 22:30:00 +0900</pubDate>
     </item>
     <item>
       <title>インテル、150億ドル相当の普通株式売り出し－AIブームの好機生かす</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c5b42358340816ea05437b681f73a570f65cd68a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5b42358340816ea05437b681f73a570f65cd68a</guid>
       <pubDate>Sun, 09 Aug 2026 09:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>関西電力の大飯発電所3号機、原子炉自動停止－警報発信で8日夜</title>
-      <link>https://news.yahoo.co.jp/articles/ac9c2add6b913442f6b8adc2791697f5a88bd6db</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac9c2add6b913442f6b8adc2791697f5a88bd6db</guid>
-      <pubDate>Sun, 09 Aug 2026 08:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
