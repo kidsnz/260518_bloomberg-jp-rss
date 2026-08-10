@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:31:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:29:14 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>FRBは複数回の利上げ必要になる可能性－クリーブランド連銀総裁</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/533f99006a89a26112a28271396a4e983f2dc114</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/533f99006a89a26112a28271396a4e983f2dc114</guid>
       <pubDate>Tue, 11 Aug 2026 02:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォーシュFRB議長、売却を約束した資産を全て処分－政府提出書類</title>
+      <link>https://news.yahoo.co.jp/articles/15c1f853cf114e12a3f16abc36dfa5366815d2b9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/15c1f853cf114e12a3f16abc36dfa5366815d2b9</guid>
+      <pubDate>Tue, 11 Aug 2026 01:38:00 +0900</pubDate>
     </item>
     <item>
       <title>欧州で今年5度目の熱波、山火事や河川水位低下のリスク高まる</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ab13072e7b6cd93f72b48fc8734280c2d0cdb6a7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ab13072e7b6cd93f72b48fc8734280c2d0cdb6a7</guid>
       <pubDate>Sun, 09 Aug 2026 23:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国株ボラティリティー指数、2カ月ぶり低水準－外国勢は依然慎重</title>
-      <link>https://news.yahoo.co.jp/articles/992d92b04bae6b1ff38e77904853f2a34f44fcd5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/992d92b04bae6b1ff38e77904853f2a34f44fcd5</guid>
-      <pubDate>Sun, 09 Aug 2026 16:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
