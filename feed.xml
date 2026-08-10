@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:23:04 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:55:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>人型ロボット、中国メーカーが世界出荷の97%占める－米調査会社</title>
+      <link>https://news.yahoo.co.jp/articles/584ae8d1e515b7394e74dd5f5f80f50c0fd8a9d6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/584ae8d1e515b7394e74dd5f5f80f50c0fd8a9d6</guid>
+      <pubDate>Mon, 10 Aug 2026 17:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>破綻のユニゾ元社長に30億円賠償命令、無計画な買収ファイナンスで巨額債務−東京地裁</title>
       <link>https://news.yahoo.co.jp/articles/c431bc67bb27e301f91498175f5ce3d84840bdc4</link>
@@ -80,7 +86,7 @@
       <pubDate>Mon, 10 Aug 2026 12:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>ソニーFG、今期純損益を黒字予想へと修正－傘下生保の債券売却損減少</title>
+      <title>ソニーFG、一部保険商品で解約率高止まり－円安で外貨建てが増加</title>
       <link>https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</guid>
       <pubDate>Mon, 10 Aug 2026 12:15:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4e6c57a471735a498763119002c5d5aed111fce</guid>
       <pubDate>Sat, 08 Aug 2026 09:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヘッジファンドの円売り越し幅が約半減、日米当局の協調介入後に</title>
-      <link>https://news.yahoo.co.jp/articles/4c21db64f87fca00087b06781b6c746beca0a3a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c21db64f87fca00087b06781b6c746beca0a3a8</guid>
-      <pubDate>Sat, 08 Aug 2026 05:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
