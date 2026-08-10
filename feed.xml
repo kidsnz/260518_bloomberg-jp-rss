@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:43:54 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:47:49 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>【日本市況】株式上昇、雇用統計後の米金利低下好感－円は157円後半</title>
+      <title>ソニーFG、今期純損益を黒字予想へと修正－傘下生保の債券売却損減少</title>
+      <link>https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</guid>
+      <pubDate>Mon, 10 Aug 2026 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フォロワー数万人で会社員並みの収入も、米で注目集める「マイクロインフルエンサー」</title>
+      <link>https://news.yahoo.co.jp/articles/748dd3449eb0727cb31c30dcb75887e12b195c77</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/748dd3449eb0727cb31c30dcb75887e12b195c77</guid>
+      <pubDate>Mon, 10 Aug 2026 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】株式上昇、米利上げ観測後退しAI・半導体高い－債券下落</title>
       <link>https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</guid>
       <pubDate>Mon, 10 Aug 2026 09:46:00 +0900</pubDate>
@@ -26,7 +38,7 @@
       <pubDate>Mon, 10 Aug 2026 09:14:00 +0900</pubDate>
     </item>
     <item>
-      <title>日銀7月会合、利上げペース市場想定より早まる可能性も－主な意見</title>
+      <title>日銀7月会合、利上げペース加速が必要と複数委員－早期実施を裏付け</title>
       <link>https://news.yahoo.co.jp/articles/32594600a6d3c905718d443febb6fa4643aa600c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32594600a6d3c905718d443febb6fa4643aa600c</guid>
       <pubDate>Mon, 10 Aug 2026 08:55:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</guid>
       <pubDate>Fri, 07 Aug 2026 23:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用者数が予想外の減少、失業率4.1%に低下－労働市場に減速感</title>
-      <link>https://news.yahoo.co.jp/articles/59ebb5a46de58c359a669bfba8830aae3bb326af</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/59ebb5a46de58c359a669bfba8830aae3bb326af</guid>
-      <pubDate>Sat, 08 Aug 2026 21:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用者数が予想外の減少、失業率4.1%に低下－労働市場に減速感</title>
-      <link>https://news.yahoo.co.jp/articles/d2576f5aac7f1baafcb308be03a603859a115d27</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d2576f5aac7f1baafcb308be03a603859a115d27</guid>
-      <pubDate>Fri, 07 Aug 2026 21:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
