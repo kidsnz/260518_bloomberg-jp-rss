@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 21:06:59 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:52:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>インテル、150億ドル相当の普通株式売り出し－AIブームの好機生かす</title>
+      <link>https://news.yahoo.co.jp/articles/7d4fa77c20235d40dbaefc95c4706317d6d75901</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d4fa77c20235d40dbaefc95c4706317d6d75901</guid>
+      <pubDate>Mon, 10 Aug 2026 22:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランへの経済圧力を優先－空爆拡大路線から転換示唆</title>
+      <link>https://news.yahoo.co.jp/articles/f326f773a70e5688d11af4de6f31f0774064b9b6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f326f773a70e5688d11af4de6f31f0774064b9b6</guid>
+      <pubDate>Mon, 10 Aug 2026 21:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>円下落、対ドルで節目の159円に接近－日米協調介入の効果薄れる</title>
       <link>https://news.yahoo.co.jp/articles/aacf4ac3f6693c832ddba5bf3e5f06132455105d</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f90bf0f2a8147fa4166c4da2809607eba3de7ff0</guid>
       <pubDate>Sun, 09 Aug 2026 17:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、「Astra」の一部作業停止－高いサイバー能力で安全対策強化</title>
-      <link>https://news.yahoo.co.jp/articles/fa5ea4f5aa475e8b6227753720007597b08367eb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa5ea4f5aa475e8b6227753720007597b08367eb</guid>
-      <pubDate>Sat, 08 Aug 2026 17:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米データセンター運営スイッチ、IPOを非公開申請－11月にも上場</title>
-      <link>https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/73ea8c1adc55f8ac76b21800bf0a9ea5e2369b93</guid>
-      <pubDate>Sat, 08 Aug 2026 14:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
