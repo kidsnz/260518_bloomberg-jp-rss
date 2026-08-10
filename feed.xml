@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 05:35:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:35:30 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>FRBは複数回の利上げが必要になる可能性－クリーブランド連銀総裁</title>
@@ -14,7 +14,7 @@
       <pubDate>Tue, 11 Aug 2026 04:51:00 +0900</pubDate>
     </item>
     <item>
-      <title>エヌビディアとウォール街大手、AI事業向け5000億ドル供給を協議－FT</title>
+      <title>エヌビディアとウォール街大手、AIインフラ向け5000億ドル供給を協議</title>
       <link>https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</guid>
       <pubDate>Tue, 11 Aug 2026 02:35:00 +0900</pubDate>
@@ -26,10 +26,22 @@
       <pubDate>Tue, 11 Aug 2026 02:03:00 +0900</pubDate>
     </item>
     <item>
+      <title>欧州で今年5度目の熱波、山火事や河川水位低下のリスク高まる</title>
+      <link>https://news.yahoo.co.jp/articles/c694854d8b68840394ca536ddc80ab9d91d42e5b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c694854d8b68840394ca536ddc80ab9d91d42e5b</guid>
+      <pubDate>Tue, 11 Aug 2026 00:06:00 +0900</pubDate>
+    </item>
+    <item>
       <title>アンソロピック、マッコーリーとGICがAIデータセンター建設で提携</title>
       <link>https://news.yahoo.co.jp/articles/58b8d2d7843d0456917c313b817abce00bd88b8e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58b8d2d7843d0456917c313b817abce00bd88b8e</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】円一段安、対ドル159円台－原油高とCPI控え神経質な展開</title>
+      <link>https://news.yahoo.co.jp/articles/ba22673e1c24d6dbd084cc703e41b35e5d0f6867</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba22673e1c24d6dbd084cc703e41b35e5d0f6867</guid>
+      <pubDate>Tue, 11 Aug 2026 23:36:00 +0900</pubDate>
     </item>
     <item>
       <title>S&amp;P500種は小動き、円は対ドル159円台に下げ介入警戒続く</title>
@@ -60,6 +72,12 @@
       <link>https://news.yahoo.co.jp/articles/7d4fa77c20235d40dbaefc95c4706317d6d75901</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d4fa77c20235d40dbaefc95c4706317d6d75901</guid>
       <pubDate>Mon, 10 Aug 2026 22:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イランの賠償要求を強く非難－ホルムズ巡る合意期待後退</title>
+      <link>https://news.yahoo.co.jp/articles/8c1e099bfd93ebf51303c393a1ad51bddb028bf9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c1e099bfd93ebf51303c393a1ad51bddb028bf9</guid>
+      <pubDate>Mon, 10 Aug 2026 21:19:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、イランへの経済圧力を優先－空爆拡大路線から転換示唆</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/992d92b04bae6b1ff38e77904853f2a34f44fcd5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/992d92b04bae6b1ff38e77904853f2a34f44fcd5</guid>
       <pubDate>Sun, 09 Aug 2026 16:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマンのプライベートクレジット事業、不良債権比率上昇</title>
-      <link>https://news.yahoo.co.jp/articles/bb7fe3c34c612749695b5f33759a73ee7cbedb78</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb7fe3c34c612749695b5f33759a73ee7cbedb78</guid>
-      <pubDate>Sun, 09 Aug 2026 14:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相、内閣改造や自民党役員人事に現時点で言及せず</title>
-      <link>https://news.yahoo.co.jp/articles/9bd5717c63fc8dea28b777558fa6d66db5fb443d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bd5717c63fc8dea28b777558fa6d66db5fb443d</guid>
-      <pubDate>Sun, 09 Aug 2026 14:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パラマウント、ワーナー買収なら年30本の劇場公開保証－3年契約提示</title>
-      <link>https://news.yahoo.co.jp/articles/5f9c8959e65bec20e8613f858119c53b991ae7a9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f9c8959e65bec20e8613f858119c53b991ae7a9</guid>
-      <pubDate>Sun, 09 Aug 2026 12:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
