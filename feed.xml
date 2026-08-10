@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 14:20:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:50:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>「頼れる父親」が出生率上昇の鍵－高学歴女性が子を持つ判断をノーベル賞学者が分析</title>
+      <link>https://news.yahoo.co.jp/articles/dbdbd27d9a51af307a4f8284f5d20945661ff2b8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbdbd27d9a51af307a4f8284f5d20945661ff2b8</guid>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>PGAツアーCEO、LIVゴルフとの「統合はない」－協議もしていない</title>
+      <link>https://news.yahoo.co.jp/articles/d31ed045901229b6b92c7e7d01f6410aa292666d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d31ed045901229b6b92c7e7d01f6410aa292666d</guid>
+      <pubDate>Mon, 10 Aug 2026 14:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国発のSHEIN、企業価値3.48兆－3.95兆円が妥当－BIアナリスト分析</title>
+      <link>https://news.yahoo.co.jp/articles/2b3d469784c1b2a02e08a793266e241bf09cb3cc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2b3d469784c1b2a02e08a793266e241bf09cb3cc</guid>
+      <pubDate>Mon, 10 Aug 2026 13:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>ソニーFG、今期純損益を黒字予想へと修正－傘下生保の債券売却損減少</title>
       <link>https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</guid>
       <pubDate>Mon, 10 Aug 2026 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国本土初のヒト型ロボットメーカー上場へ、ユニツリーのIPO開始</title>
+      <link>https://news.yahoo.co.jp/articles/c85cc810d09de05c4c62505bdd8eff9f7d276485</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c85cc810d09de05c4c62505bdd8eff9f7d276485</guid>
+      <pubDate>Mon, 10 Aug 2026 11:45:00 +0900</pubDate>
     </item>
     <item>
       <title>フォロワー数万人で会社員並みの収入も、米で注目集める「マイクロインフルエンサー」</title>
@@ -20,7 +44,7 @@
       <pubDate>Mon, 10 Aug 2026 11:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株式上昇、米利上げ観測後退しAI・半導体高い－債券下落</title>
+      <title>【日本市況】株式上昇、米利上げ観測後退しAI・半導体高い－円弱含み</title>
       <link>https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</guid>
       <pubDate>Mon, 10 Aug 2026 09:46:00 +0900</pubDate>
@@ -42,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/32594600a6d3c905718d443febb6fa4643aa600c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32594600a6d3c905718d443febb6fa4643aa600c</guid>
       <pubDate>Mon, 10 Aug 2026 08:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円の対豪ドル相場、35年ぶり安値目指す－豪中銀のタカ派的姿勢も影響</title>
+      <link>https://news.yahoo.co.jp/articles/bbc7b3dc8785362136876c6678c24c9a7bea143b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bbc7b3dc8785362136876c6678c24c9a7bea143b</guid>
+      <pubDate>Mon, 10 Aug 2026 08:46:00 +0900</pubDate>
     </item>
     <item>
       <title>円は対ドルで157円後半、中東情勢懸念と介入警戒後退－債券は上昇へ</title>
@@ -98,7 +128,7 @@
       <pubDate>Mon, 10 Aug 2026 01:25:00 +0900</pubDate>
     </item>
     <item>
-      <title>イラン、米国との協議は不可能－トランプ氏はホルムズ巡る合意急がず</title>
+      <title>イラン、安全保障トップに強硬派元司令官－オマーン合意近いと表明後</title>
       <link>https://news.yahoo.co.jp/articles/41c7e4aae22dcdeca9f673d1b545a3d22384e1ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41c7e4aae22dcdeca9f673d1b545a3d22384e1ec</guid>
       <pubDate>Sun, 09 Aug 2026 23:17:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5855c3113eeaf165abfaee53510062f5b2df1cc5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5855c3113eeaf165abfaee53510062f5b2df1cc5</guid>
       <pubDate>Sat, 08 Aug 2026 00:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者の1年先インフレ期待は3.63%に低下、前月3.67%－NY連銀</title>
-      <link>https://news.yahoo.co.jp/articles/386df5e7aa118b7c1f8e0aa9a16dc56e71e57a4e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/386df5e7aa118b7c1f8e0aa9a16dc56e71e57a4e</guid>
-      <pubDate>Sat, 08 Aug 2026 00:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500高値更新、雇用者数減少－ドル一時157円割れ</title>
-      <link>https://news.yahoo.co.jp/articles/c79903a3eb6371f6093cd8fe766c2b4b558966a9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c79903a3eb6371f6093cd8fe766c2b4b558966a9</guid>
-      <pubDate>Sat, 08 Aug 2026 23:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500は反発、雇用市場の急減速で利上げ観測後退－円は一時156円台</title>
-      <link>https://news.yahoo.co.jp/articles/96f552c9534d1c118ac7474e1cb4f0f215f175d9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96f552c9534d1c118ac7474e1cb4f0f215f175d9</guid>
-      <pubDate>Fri, 07 Aug 2026 23:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米雇用統計は完全に予想外、9月利上げないだろう－市場関係者の見方</title>
-      <link>https://news.yahoo.co.jp/articles/9e1b7f49f67ed0a5c5d2976093dcc23ac0d75433</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e1b7f49f67ed0a5c5d2976093dcc23ac0d75433</guid>
-      <pubDate>Fri, 07 Aug 2026 23:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>年内の米利上げ織り込み後退、9月は40%に低下－米雇用が想定外の減少</title>
-      <link>https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9c368a5195ca053682deb443d807fa20986760d</guid>
-      <pubDate>Fri, 07 Aug 2026 23:13:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
