@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:57:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:45:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国株と国債が上昇、ホルムズ巡る楽観でリスク志向－円は小動き</title>
       <link>https://news.yahoo.co.jp/articles/2ea42d1e772aa1ff33c69206acd6194557672e39</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ea42d1e772aa1ff33c69206acd6194557672e39</guid>
       <pubDate>Tue, 11 Aug 2026 23:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>パキスタン国防相、米・イランは合意に近づく－米国は強硬姿勢</title>
+      <link>https://news.yahoo.co.jp/articles/77ec4b7d04e4a7595e4baaa2d97ff32bbb706b3b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/77ec4b7d04e4a7595e4baaa2d97ff32bbb706b3b</guid>
+      <pubDate>Tue, 11 Aug 2026 22:21:00 +0900</pubDate>
     </item>
     <item>
       <title>パキスタン国防相、米・イランは合意に近づく－トランプ氏は強硬発言</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d31ed045901229b6b92c7e7d01f6410aa292666d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d31ed045901229b6b92c7e7d01f6410aa292666d</guid>
       <pubDate>Mon, 10 Aug 2026 14:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国発のSHEIN、企業価値3.48兆－3.95兆円が妥当－BIアナリスト分析</title>
-      <link>https://news.yahoo.co.jp/articles/2b3d469784c1b2a02e08a793266e241bf09cb3cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2b3d469784c1b2a02e08a793266e241bf09cb3cc</guid>
-      <pubDate>Mon, 10 Aug 2026 13:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
