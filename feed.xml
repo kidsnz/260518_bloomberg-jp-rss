@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 13:14:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:33:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イオン、一時再入館認めた事実を確認－爆発事故に関する調査で</title>
+      <link>https://news.yahoo.co.jp/articles/342824d40956059496832dfe79f43ad01133895b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/342824d40956059496832dfe79f43ad01133895b</guid>
+      <pubDate>Tue, 11 Aug 2026 13:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>台風15号、11日夜に関東上陸の恐れ－JAL・ANAで欠航相次ぐ</title>
+      <link>https://news.yahoo.co.jp/articles/78ceebf85a48dd9a4bb3554e629b0c15fa4c8322</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78ceebf85a48dd9a4bb3554e629b0c15fa4c8322</guid>
+      <pubDate>Tue, 11 Aug 2026 12:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、計算能力確保でライオットと91億ドル契約－関係者</title>
       <link>https://news.yahoo.co.jp/articles/fdc94301950c009ec10c613c73e3d27465bf03ed</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/48a1cce3432c1728ac3641ea359045292c924c18</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48a1cce3432c1728ac3641ea359045292c924c18</guid>
       <pubDate>Mon, 10 Aug 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は上昇へ、予想外の雇用減少で米利上げ観測後退－半導体に買い</title>
-      <link>https://news.yahoo.co.jp/articles/85798d9e889c406e52e9406a2573eb04630eb5a2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85798d9e889c406e52e9406a2573eb04630eb5a2</guid>
-      <pubDate>Mon, 10 Aug 2026 07:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油上昇、ホルムズ巡るオマーン・イラン間の合意なお見通せず</title>
-      <link>https://news.yahoo.co.jp/articles/c2f56bbb178e6fb10687122e44a49385fe521db7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2f56bbb178e6fb10687122e44a49385fe521db7</guid>
-      <pubDate>Mon, 10 Aug 2026 07:34:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
