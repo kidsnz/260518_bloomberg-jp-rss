@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 03:54:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:57:43 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国株と国債が上昇、ホルムズ巡る楽観でリスク志向－円は小動き</title>
       <link>https://news.yahoo.co.jp/articles/2ea42d1e772aa1ff33c69206acd6194557672e39</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ea42d1e772aa1ff33c69206acd6194557672e39</guid>
       <pubDate>Tue, 11 Aug 2026 23:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>パキスタン国防相、米・イランは合意に近づく－トランプ氏は強硬発言</title>
+      <link>https://news.yahoo.co.jp/articles/705cb330375d1f20f4025a115e5a8febdee81284</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/705cb330375d1f20f4025a115e5a8febdee81284</guid>
+      <pubDate>Tue, 11 Aug 2026 22:21:00 +0900</pubDate>
     </item>
     <item>
       <title>欧州株・債券に資金流入、景気は強過ぎず弱過ぎず「絶好の状況」</title>
@@ -164,10 +170,10 @@
       <pubDate>Mon, 10 Aug 2026 22:51:00 +0900</pubDate>
     </item>
     <item>
-      <title>コロンビアでM7.4の地震、70人以上が死亡－多数の建物が倒壊</title>
+      <title>南米コロンビア地震の死者100人超える、生存者の捜索活動続く</title>
       <link>https://news.yahoo.co.jp/articles/dd80ff320f157ee7749998313f50606db46ba14b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd80ff320f157ee7749998313f50606db46ba14b</guid>
-      <pubDate>Mon, 10 Aug 2026 22:40:00 +0900</pubDate>
+      <pubDate>Tue, 11 Aug 2026 22:40:00 +0900</pubDate>
     </item>
     <item>
       <title>コロンビア西部で強い地震、M7.4と米地質調査所－首都ボゴタでも揺れ</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2b3d469784c1b2a02e08a793266e241bf09cb3cc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2b3d469784c1b2a02e08a793266e241bf09cb3cc</guid>
       <pubDate>Mon, 10 Aug 2026 13:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>台風15号、関東甲信にかなり接近・上陸の恐れ－東京では大雨警戒</title>
-      <link>https://news.yahoo.co.jp/articles/97263cf61b803c1b1d5e4be1787d690de739a67b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97263cf61b803c1b1d5e4be1787d690de739a67b</guid>
-      <pubDate>Mon, 10 Aug 2026 13:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
