@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 01:53:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 02:53:26 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国株と国債が上昇、ホルムズ巡る楽観でリスク志向－円は小動き</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</guid>
       <pubDate>Tue, 11 Aug 2026 21:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NY外為市場は1ドル＝160円を警戒、「介入効果失われた」との声も</title>
+      <link>https://news.yahoo.co.jp/articles/9915df5db5168264182a7e2ea669c67e5e847e26</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9915df5db5168264182a7e2ea669c67e5e847e26</guid>
+      <pubDate>Tue, 11 Aug 2026 21:22:00 +0900</pubDate>
     </item>
     <item>
       <title>円下落、心理的節目の160円に迫る－市場は介入への警戒感増す</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/97263cf61b803c1b1d5e4be1787d690de739a67b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97263cf61b803c1b1d5e4be1787d690de739a67b</guid>
       <pubDate>Mon, 10 Aug 2026 13:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>豪政府、中国関連2社にノーザン・ミネラルズ株売却の事前承認義務</title>
-      <link>https://news.yahoo.co.jp/articles/c4b5f4de73312af39125e10aad28d21682672d87</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4b5f4de73312af39125e10aad28d21682672d87</guid>
-      <pubDate>Mon, 10 Aug 2026 12:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
