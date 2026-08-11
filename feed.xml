@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:01:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:33:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピック、計算能力確保でライオットと91億ドル契約－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/fdc94301950c009ec10c613c73e3d27465bf03ed</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdc94301950c009ec10c613c73e3d27465bf03ed</guid>
+      <pubDate>Tue, 11 Aug 2026 11:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント米財務長官の円支援、余力限界を市場に見透かされる恐れ</title>
+      <link>https://news.yahoo.co.jp/articles/39a6db79023543dd3970d3448f9a93eb46ab7ce6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/39a6db79023543dd3970d3448f9a93eb46ab7ce6</guid>
+      <pubDate>Tue, 11 Aug 2026 10:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>キオクシアHDの筆頭株主､米ベインに異動－東芝の持ち分減少（10日）</title>
+      <link>https://news.yahoo.co.jp/articles/49848f20f09c97b5af57bcf923538824bf70ed8b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49848f20f09c97b5af57bcf923538824bf70ed8b</guid>
+      <pubDate>Tue, 11 Aug 2026 08:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>インテルが増資規模200億ドルに拡大検討、募集の数倍の需要－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/8e07ab8dd3b79bd5314dcef5a92da6a29cdb5153</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e07ab8dd3b79bd5314dcef5a92da6a29cdb5153</guid>
+      <pubDate>Tue, 11 Aug 2026 08:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油続伸、ブレントは87ドル台－イラン・オマーン合意なお見通せず</title>
       <link>https://news.yahoo.co.jp/articles/b319e7f35485b137f2a3180cb8f82e2c0fe6be12</link>
@@ -20,7 +44,7 @@
       <pubDate>Tue, 11 Aug 2026 04:51:00 +0900</pubDate>
     </item>
     <item>
-      <title>エヌビディアとウォール街大手、AIインフラ向け5000億ドル供給を協議</title>
+      <title>エヌビディア、5000億ドルのAIインフラ投資でウォール街大手と提携へ</title>
       <link>https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</guid>
       <pubDate>Tue, 11 Aug 2026 02:35:00 +0900</pubDate>
@@ -62,6 +86,12 @@
       <pubDate>Mon, 10 Aug 2026 23:36:00 +0900</pubDate>
     </item>
     <item>
+      <title>歴史的介入後の円上昇、半分が消える－NY市場で対ドル159円台に下落</title>
+      <link>https://news.yahoo.co.jp/articles/39c4e86d84d2b153e38190604e89673989a9e8d9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/39c4e86d84d2b153e38190604e89673989a9e8d9</guid>
+      <pubDate>Tue, 11 Aug 2026 22:51:00 +0900</pubDate>
+    </item>
+    <item>
       <title>円が対ドル159円台に下落、日米協調介入による上昇の半分消える</title>
       <link>https://news.yahoo.co.jp/articles/ff5d48d8df983704b04f35a06567b411ead60b0a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ff5d48d8df983704b04f35a06567b411ead60b0a</guid>
@@ -86,7 +116,7 @@
       <pubDate>Mon, 10 Aug 2026 22:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏、イランの賠償要求を強く非難－ホルムズ巡る合意期待後退</title>
+      <title>トランプ氏、イランに新たな要求突き付け－ホルムズ巡る合意期待後退</title>
       <link>https://news.yahoo.co.jp/articles/8c1e099bfd93ebf51303c393a1ad51bddb028bf9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c1e099bfd93ebf51303c393a1ad51bddb028bf9</guid>
       <pubDate>Mon, 10 Aug 2026 21:19:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c2f56bbb178e6fb10687122e44a49385fe521db7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2f56bbb178e6fb10687122e44a49385fe521db7</guid>
       <pubDate>Mon, 10 Aug 2026 07:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジットから銀行融資へ、高金利で米企業が借り換え</title>
-      <link>https://news.yahoo.co.jp/articles/3f39c34934964fdc2de1f44c7c033882dbf5a2e8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f39c34934964fdc2de1f44c7c033882dbf5a2e8</guid>
-      <pubDate>Mon, 10 Aug 2026 07:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>レバレッジETFがテック株の値動き増幅、日中モメンタム戦略に追い風</title>
-      <link>https://news.yahoo.co.jp/articles/fbffa8a1bbf772955b54bd7eed3cbb3584f9cc15</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbffa8a1bbf772955b54bd7eed3cbb3584f9cc15</guid>
-      <pubDate>Mon, 10 Aug 2026 07:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドル157円台後半、先週末比ほぼ横ばい－シドニー早朝</title>
-      <link>https://news.yahoo.co.jp/articles/f64051cbd78c83f63568c26ef8808e3a1e961f75</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f64051cbd78c83f63568c26ef8808e3a1e961f75</guid>
-      <pubDate>Mon, 10 Aug 2026 04:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イスラエル首相、トランプ氏自賛のハマス武装解除案を拒否</title>
-      <link>https://news.yahoo.co.jp/articles/6e9c047390bc87229d5ad7ed67c8935b387791aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e9c047390bc87229d5ad7ed67c8935b387791aa</guid>
-      <pubDate>Mon, 10 Aug 2026 04:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国防総省、防衛大手に主要兵器の増産要請－イラン戦争で不足懸念</title>
-      <link>https://news.yahoo.co.jp/articles/f56475f72508ded63214ddace55194896e169621</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f56475f72508ded63214ddace55194896e169621</guid>
-      <pubDate>Mon, 10 Aug 2026 01:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
