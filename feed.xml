@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:25:23 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:12:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル、ガラス仕様のiPhone計画を維持－来年の発売20周年に向け</title>
+      <link>https://news.yahoo.co.jp/articles/5aa34280b7c1d00d810a2a7d740672cc12ef7786</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5aa34280b7c1d00d810a2a7d740672cc12ef7786</guid>
+      <pubDate>Tue, 11 Aug 2026 18:38:00 +0900</pubDate>
+    </item>
     <item>
       <title>豪中銀、政策金利を2会合連続で据え置き－根強いインフレ圧力に対応</title>
       <link>https://news.yahoo.co.jp/articles/6ff1cd4fda3340ca6198635c1eba9e6c68e4d313</link>
@@ -26,7 +32,7 @@
       <pubDate>Tue, 11 Aug 2026 13:21:00 +0900</pubDate>
     </item>
     <item>
-      <title>台風15号、11日夜に関東上陸の恐れ－JAL・ANAで欠航相次ぐ</title>
+      <title>台風15号、11日夜に関東上陸の見込み－JAL・ANAで欠航相次ぐ</title>
       <link>https://news.yahoo.co.jp/articles/78ceebf85a48dd9a4bb3554e629b0c15fa4c8322</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78ceebf85a48dd9a4bb3554e629b0c15fa4c8322</guid>
       <pubDate>Tue, 11 Aug 2026 12:14:00 +0900</pubDate>
@@ -50,7 +56,7 @@
       <pubDate>Tue, 11 Aug 2026 08:49:00 +0900</pubDate>
     </item>
     <item>
-      <title>インテルが増資規模200億ドルに拡大検討、募集の数倍の需要－関係者</title>
+      <title>インテル、公募増資で200億ドル調達－AI関連企業への市場の関心高く</title>
       <link>https://news.yahoo.co.jp/articles/8e07ab8dd3b79bd5314dcef5a92da6a29cdb5153</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e07ab8dd3b79bd5314dcef5a92da6a29cdb5153</guid>
       <pubDate>Tue, 11 Aug 2026 08:45:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</guid>
       <pubDate>Mon, 10 Aug 2026 09:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ迂回？ 容易でない理由－原油・LNG輸送代替ルートはあるのか</title>
-      <link>https://news.yahoo.co.jp/articles/b8d66f32c4de4318ab5665d23f7980d275f44d61</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8d66f32c4de4318ab5665d23f7980d275f44d61</guid>
-      <pubDate>Mon, 10 Aug 2026 09:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
