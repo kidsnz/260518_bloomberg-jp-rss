@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 14:33:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:56:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>豪中銀、政策金利を2会合連続で据え置き－根強いインフレ圧力に対応</title>
+      <link>https://news.yahoo.co.jp/articles/6ff1cd4fda3340ca6198635c1eba9e6c68e4d313</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ff1cd4fda3340ca6198635c1eba9e6c68e4d313</guid>
+      <pubDate>Tue, 11 Aug 2026 13:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>GM、バッテリー合弁事業の持ち分をサムスンSDIに売却へ－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/18d3a8b04243ef004671ba0efe524993c8120c35</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18d3a8b04243ef004671ba0efe524993c8120c35</guid>
+      <pubDate>Tue, 11 Aug 2026 13:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>イオン、一時再入館認めた事実を確認－爆発事故に関する調査で</title>
       <link>https://news.yahoo.co.jp/articles/342824d40956059496832dfe79f43ad01133895b</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bbc7b3dc8785362136876c6678c24c9a7bea143b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bbc7b3dc8785362136876c6678c24c9a7bea143b</guid>
       <pubDate>Mon, 10 Aug 2026 08:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで157円後半、中東情勢懸念と介入警戒後退－債券は上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/fc9d0c412aa8e2c5a6954a3ac1c12658ecf8aa43</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc9d0c412aa8e2c5a6954a3ac1c12658ecf8aa43</guid>
-      <pubDate>Mon, 10 Aug 2026 08:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場は株・債券上昇へ、雇用軟調で米利上げ観測後退－円安も一服</title>
-      <link>https://news.yahoo.co.jp/articles/48a1cce3432c1728ac3641ea359045292c924c18</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48a1cce3432c1728ac3641ea359045292c924c18</guid>
-      <pubDate>Mon, 10 Aug 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
