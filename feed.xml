@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 20:12:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:06:56 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブレント原油、90ドル迫る－トランプ氏の新要求でホルムズ再開不透明</title>
+      <link>https://news.yahoo.co.jp/articles/37629f7df14ded448b4b77a06195659639a71cda</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37629f7df14ded448b4b77a06195659639a71cda</guid>
+      <pubDate>Tue, 11 Aug 2026 19:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>アップル、ガラス仕様のiPhone計画を維持－来年の発売20周年に向け</title>
       <link>https://news.yahoo.co.jp/articles/5aa34280b7c1d00d810a2a7d740672cc12ef7786</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/748dd3449eb0727cb31c30dcb75887e12b195c77</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/748dd3449eb0727cb31c30dcb75887e12b195c77</guid>
       <pubDate>Mon, 10 Aug 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株式が上昇、米利上げ観測後退で半導体に買い－円は下落</title>
-      <link>https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6251f9498392d38dcea98152af6e93bef5a655f4</guid>
-      <pubDate>Mon, 10 Aug 2026 09:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
