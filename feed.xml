@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 22:51:05 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:52:37 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>欧州株・債券に資金流入、景気は強過ぎず弱過ぎず「絶好の状況」</title>
       <link>https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</guid>
       <pubDate>Tue, 11 Aug 2026 21:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円下落、心理的節目の160円に迫る－市場は介入への警戒感増す</title>
+      <link>https://news.yahoo.co.jp/articles/89641935d748b95cf718ceeb822678484675c7fa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89641935d748b95cf718ceeb822678484675c7fa</guid>
+      <pubDate>Tue, 11 Aug 2026 21:22:00 +0900</pubDate>
     </item>
     <item>
       <title>ブレント原油、一時90ドル迫るも上げ消す－米イランの緊張緩和に期待</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2061584537b2e154e06fbb0212ad0298d40276e</guid>
       <pubDate>Mon, 10 Aug 2026 12:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国本土初のヒト型ロボットメーカー上場へ、ユニツリーのIPO開始</title>
-      <link>https://news.yahoo.co.jp/articles/c85cc810d09de05c4c62505bdd8eff9f7d276485</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c85cc810d09de05c4c62505bdd8eff9f7d276485</guid>
-      <pubDate>Mon, 10 Aug 2026 11:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
