@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 02:27:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 03:25:47 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>ジョシュ・クシュナー氏らがレイカーズ買収へ－過去最高120億ドル</title>
+      <title>日銀「後手」との見方が一変、市場は利上げ加速織り込む－ソシエテG</title>
+      <link>https://news.yahoo.co.jp/articles/fbbfa55413b245510d84a4e51b1ad47e9c8734e7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fbbfa55413b245510d84a4e51b1ad47e9c8734e7</guid>
+      <pubDate>Thu, 13 Aug 2026 01:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ジョシュ・クシュナー氏らがレイカーズ買収－過去最高125億ドル</title>
       <link>https://news.yahoo.co.jp/articles/df88b9190b1c2eb781b5ed652f6cfe64d9c9a057</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df88b9190b1c2eb781b5ed652f6cfe64d9c9a057</guid>
       <pubDate>Thu, 13 Aug 2026 01:05:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/89641935d748b95cf718ceeb822678484675c7fa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89641935d748b95cf718ceeb822678484675c7fa</guid>
       <pubDate>Tue, 11 Aug 2026 21:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油続伸、米・イラン交渉巡り荒い値動き－WTIは83ドル台で終了</title>
-      <link>https://news.yahoo.co.jp/articles/90435e93b47d80ccdfa23f3dc342dd1e21b166a2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90435e93b47d80ccdfa23f3dc342dd1e21b166a2</guid>
-      <pubDate>Tue, 11 Aug 2026 19:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
