@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:39:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:34:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油はほぼ変わらず、イランと米国の協議は打開の兆し見られず</title>
+      <link>https://news.yahoo.co.jp/articles/8c268eaafb142faf47a91dbe5c4e7e1ffa308add</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c268eaafb142faf47a91dbe5c4e7e1ffa308add</guid>
+      <pubDate>Thu, 13 Aug 2026 05:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>シスコ、8－10月売上高見通しが市場予想上回る－AI需要が追い風</title>
       <link>https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</link>
@@ -20,7 +26,7 @@
       <pubDate>Thu, 13 Aug 2026 05:23:00 +0900</pubDate>
     </item>
     <item>
-      <title>ホワイトハウスのレビット報道官、今月中に退任－トランプ氏が発表</title>
+      <title>ホワイトハウスのレビット報道官、今月末で退任－トランプ氏が発表</title>
       <link>https://news.yahoo.co.jp/articles/eb41c9f0bbbd90bae59e997cb24a29d93b297f85</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb41c9f0bbbd90bae59e997cb24a29d93b297f85</guid>
       <pubDate>Thu, 13 Aug 2026 04:48:00 +0900</pubDate>
@@ -54,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/ba237502ed823edfbfe56478611048db7aade4ab</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba237502ed823edfbfe56478611048db7aade4ab</guid>
       <pubDate>Thu, 13 Aug 2026 00:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の朱鎔基元首相が死去、97歳－国有企業の改革やWTO加盟後押し</title>
+      <link>https://news.yahoo.co.jp/articles/f3aa25d22e62e526824b4efbce5b949a6c8a99a7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f3aa25d22e62e526824b4efbce5b949a6c8a99a7</guid>
+      <pubDate>Wed, 12 Aug 2026 23:57:00 +0900</pubDate>
     </item>
     <item>
       <title>米CPI、FRBが直ちに行動する必要性示さず－市場関係者の見方</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9d81ba4f3352bf8384bba3d5e96f02e622f12789</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d81ba4f3352bf8384bba3d5e96f02e622f12789</guid>
       <pubDate>Wed, 12 Aug 2026 02:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油タンカー、ホルムズ海峡外でのシャトル輸送続ける－供給減歯止め</title>
-      <link>https://news.yahoo.co.jp/articles/b25b3df9ce86500f624beefece4e636d30827ab5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b25b3df9ce86500f624beefece4e636d30827ab5</guid>
-      <pubDate>Wed, 12 Aug 2026 00:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株安・国債高、CPI控えてリスクオフ－円はほぼ変わらず</title>
-      <link>https://news.yahoo.co.jp/articles/f4e67d3bea9f5cb62060fa54b9bcd8ddc93955a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4e67d3bea9f5cb62060fa54b9bcd8ddc93955a8</guid>
-      <pubDate>Wed, 12 Aug 2026 23:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
