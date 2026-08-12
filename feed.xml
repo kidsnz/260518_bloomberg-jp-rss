@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:35:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:36:57 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホワイトハウスのレビット報道官、今月中に退任－トランプ氏が発表</title>
+      <link>https://news.yahoo.co.jp/articles/eb41c9f0bbbd90bae59e997cb24a29d93b297f85</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb41c9f0bbbd90bae59e997cb24a29d93b297f85</guid>
+      <pubDate>Thu, 13 Aug 2026 04:48:00 +0900</pubDate>
+    </item>
     <item>
       <title>日銀「後手」との見方が一変、市場は利上げ加速織り込む－ソシエテG</title>
       <link>https://news.yahoo.co.jp/articles/fbbfa55413b245510d84a4e51b1ad47e9c8734e7</link>
@@ -20,10 +26,16 @@
       <pubDate>Thu, 13 Aug 2026 01:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>米予備選、民主社会主義の旋風続かず－ウィスコンシン州で急伸派敗北</title>
+      <title>米予備選、民主社会主義の勢い失速－ウィスコンシンで急進派敗北</title>
       <link>https://news.yahoo.co.jp/articles/49be3b2821f7464613f10a1caabbc0b16c569812</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49be3b2821f7464613f10a1caabbc0b16c569812</guid>
       <pubDate>Thu, 13 Aug 2026 00:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランが軍を再編、一段と対外強硬へ－敵領内でも作戦実行とIRGC幹部</title>
+      <link>https://news.yahoo.co.jp/articles/ba237502ed823edfbfe56478611048db7aade4ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba237502ed823edfbfe56478611048db7aade4ab</guid>
+      <pubDate>Thu, 13 Aug 2026 00:49:00 +0900</pubDate>
     </item>
     <item>
       <title>米CPI、FRBが直ちに行動する必要性示さず－市場関係者の見方</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</guid>
       <pubDate>Tue, 11 Aug 2026 21:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>NY外為市場は1ドル＝160円を警戒、「介入効果失われた」との声も</title>
-      <link>https://news.yahoo.co.jp/articles/9915df5db5168264182a7e2ea669c67e5e847e26</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9915df5db5168264182a7e2ea669c67e5e847e26</guid>
-      <pubDate>Tue, 11 Aug 2026 21:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円下落、心理的節目の160円に迫る－市場は介入への警戒感増す</title>
-      <link>https://news.yahoo.co.jp/articles/89641935d748b95cf718ceeb822678484675c7fa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/89641935d748b95cf718ceeb822678484675c7fa</guid>
-      <pubDate>Tue, 11 Aug 2026 21:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
