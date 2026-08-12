@@ -5,10 +5,28 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:23:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:35:18 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>【日本市況】5年金利が過去最高更新、日銀利上げ観測－円は159円前半</title>
+      <title>ココイチで測る円の実力、ビッグマックより「カツカレー指数」で円安分析－BNYメロン</title>
+      <link>https://news.yahoo.co.jp/articles/137d3f0ac0222ff89d90eac158c6207dc4a72bb1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/137d3f0ac0222ff89d90eac158c6207dc4a72bb1</guid>
+      <pubDate>Wed, 12 Aug 2026 11:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サンリオ株が12年ぶり下落率、1Q営業益最高も市場予想を下回る</title>
+      <link>https://news.yahoo.co.jp/articles/58e084a9dfd99bfb1bcbfccf69402893141f3c1e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58e084a9dfd99bfb1bcbfccf69402893141f3c1e</guid>
+      <pubDate>Wed, 12 Aug 2026 11:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIデータセンターで保険需要急増、引き受け余力は「限界」－AIGのCEO</title>
+      <link>https://news.yahoo.co.jp/articles/c1fd5fbfd9f62757fcb45768a38f04f740a10769</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1fd5fbfd9f62757fcb45768a38f04f740a10769</guid>
+      <pubDate>Wed, 12 Aug 2026 10:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】5年金利が過去最高、日銀9月利上げ観測－円は159円前半</title>
       <link>https://news.yahoo.co.jp/articles/c6185f0d29159b06ffa7bf815f4c801e978b107d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6185f0d29159b06ffa7bf815f4c801e978b107d</guid>
       <pubDate>Wed, 12 Aug 2026 09:27:00 +0900</pubDate>
@@ -50,7 +68,7 @@
       <pubDate>Wed, 12 Aug 2026 07:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>トヨタ元社長の奥田碩氏が死去、93歳－プリウス普及を後押し</title>
+      <title>トヨタ元社長の奥田碩氏が死去、93歳－プリウス誕生を後押し</title>
       <link>https://news.yahoo.co.jp/articles/bbc210015e7a250f3a847c356bbd6f101c567ab8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bbc210015e7a250f3a847c356bbd6f101c567ab8</guid>
       <pubDate>Wed, 12 Aug 2026 07:16:00 +0900</pubDate>
@@ -218,6 +236,12 @@
       <pubDate>Tue, 11 Aug 2026 04:51:00 +0900</pubDate>
     </item>
     <item>
+      <title>【欧州市況】株は最高値、テクノロジーやエネルギー株上昇－国債下落</title>
+      <link>https://news.yahoo.co.jp/articles/ec25b8f35605d80c855e3290a82cdb00bffde341</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec25b8f35605d80c855e3290a82cdb00bffde341</guid>
+      <pubDate>Tue, 11 Aug 2026 03:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>エヌビディア、5000億ドルのAIインフラ投資でウォール街大手と提携へ</title>
       <link>https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</guid>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/dd80ff320f157ee7749998313f50606db46ba14b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd80ff320f157ee7749998313f50606db46ba14b</guid>
       <pubDate>Tue, 11 Aug 2026 22:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>コロンビア西部で強い地震、M7.4と米地質調査所－首都ボゴタでも揺れ</title>
-      <link>https://news.yahoo.co.jp/articles/fdf0de0067ef4c762af77a5b68fa58e3153f6de1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdf0de0067ef4c762af77a5b68fa58e3153f6de1</guid>
-      <pubDate>Mon, 10 Aug 2026 22:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油上昇、ブレントは85ドル近辺－イラン・オマーン合意なお見通せず</title>
-      <link>https://news.yahoo.co.jp/articles/a14a276cc57349913898e61fa396a0d24b8b623c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a14a276cc57349913898e61fa396a0d24b8b623c</guid>
-      <pubDate>Mon, 10 Aug 2026 22:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インテル、150億ドル相当の普通株発行へ－AIブームの好機生かす</title>
-      <link>https://news.yahoo.co.jp/articles/9a7933ac950a592a701e379e5259e7ac5187747d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a7933ac950a592a701e379e5259e7ac5187747d</guid>
-      <pubDate>Tue, 11 Aug 2026 22:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インテル、150億ドル相当の普通株式売り出し－AIブームの好機生かす</title>
-      <link>https://news.yahoo.co.jp/articles/7d4fa77c20235d40dbaefc95c4706317d6d75901</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d4fa77c20235d40dbaefc95c4706317d6d75901</guid>
-      <pubDate>Mon, 10 Aug 2026 22:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
