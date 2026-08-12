@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:36:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:39:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>シスコ、8－10月売上高見通しが市場予想上回る－AI需要が追い風</title>
+      <link>https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</guid>
+      <pubDate>Thu, 13 Aug 2026 05:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI半導体の米セレブラス、ハードウエア売上高が予想外の減少</title>
+      <link>https://news.yahoo.co.jp/articles/4bfe83e2d30a00c038266ae22e687e6c0d4d3df6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4bfe83e2d30a00c038266ae22e687e6c0d4d3df6</guid>
+      <pubDate>Thu, 13 Aug 2026 05:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホワイトハウスのレビット報道官、今月中に退任－トランプ氏が発表</title>
       <link>https://news.yahoo.co.jp/articles/eb41c9f0bbbd90bae59e997cb24a29d93b297f85</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb41c9f0bbbd90bae59e997cb24a29d93b297f85</guid>
       <pubDate>Thu, 13 Aug 2026 04:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油はもみ合い、米在庫増加－ホルムズ海峡巡る合意の進展に注目</title>
+      <link>https://news.yahoo.co.jp/articles/4cfdae72bff42baa0509de013c1d60e951000d95</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4cfdae72bff42baa0509de013c1d60e951000d95</guid>
+      <pubDate>Thu, 13 Aug 2026 01:53:00 +0900</pubDate>
     </item>
     <item>
       <title>日銀「後手」との見方が一変、市場は利上げ加速織り込む－ソシエテG</title>
@@ -44,10 +62,22 @@
       <pubDate>Wed, 12 Aug 2026 23:01:00 +0900</pubDate>
     </item>
     <item>
+      <title>【米国市況】CPI無風で株・国債堅調、円は対ドル160円へじりじり接近</title>
+      <link>https://news.yahoo.co.jp/articles/40b28c42c7a6d84119cefde6a4a0154f678054d1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40b28c42c7a6d84119cefde6a4a0154f678054d1</guid>
+      <pubDate>Thu, 13 Aug 2026 22:10:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米株と国債が上昇、CPIは予想通り－円は対ドル158円台後半</title>
       <link>https://news.yahoo.co.jp/articles/b3351697073d5459c6503cb47a48d61cdf8cf055</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3351697073d5459c6503cb47a48d61cdf8cf055</guid>
       <pubDate>Wed, 12 Aug 2026 22:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米CPI、コアも低い伸び－予想通りの内容で利上げ観測弱まる</title>
+      <link>https://news.yahoo.co.jp/articles/d491933ce0c3b11e445f4cee8664ff878d09ce04</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d491933ce0c3b11e445f4cee8664ff878d09ce04</guid>
+      <pubDate>Thu, 13 Aug 2026 21:42:00 +0900</pubDate>
     </item>
     <item>
       <title>米CPI、コア指数は前月比0.2%上昇にとどまる－利上げ圧力和らぐ</title>
@@ -92,7 +122,7 @@
       <pubDate>Wed, 12 Aug 2026 18:25:00 +0900</pubDate>
     </item>
     <item>
-      <title>鴻海の4－6月期は35%増益、市場予想上回る－持続的なAI支出が追い風</title>
+      <title>鴻海の4－6月は35%増益､予想以上－エヌビディア次世代品量産は今期中</title>
       <link>https://news.yahoo.co.jp/articles/03fe21e6020429a42d004a99e446ede87e5e32de</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03fe21e6020429a42d004a99e446ede87e5e32de</guid>
       <pubDate>Wed, 12 Aug 2026 18:09:00 +0900</pubDate>
@@ -128,7 +158,7 @@
       <pubDate>Wed, 12 Aug 2026 14:44:00 +0900</pubDate>
     </item>
     <item>
-      <title>太陽誘電株が反発、一時破綻危機の米シチュエーショナルが保有</title>
+      <title>太陽誘電株が反発、一時破綻危機のシチュエーショナルの売買判明</title>
       <link>https://news.yahoo.co.jp/articles/8ca6b2a67f21c7ded172892b9578918af9c6bb0e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ca6b2a67f21c7ded172892b9578918af9c6bb0e</guid>
       <pubDate>Wed, 12 Aug 2026 13:43:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f4e67d3bea9f5cb62060fa54b9bcd8ddc93955a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f4e67d3bea9f5cb62060fa54b9bcd8ddc93955a8</guid>
       <pubDate>Wed, 12 Aug 2026 23:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株と国債が上昇、ホルムズ巡る楽観でリスク志向－円は小動き</title>
-      <link>https://news.yahoo.co.jp/articles/2ea42d1e772aa1ff33c69206acd6194557672e39</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ea42d1e772aa1ff33c69206acd6194557672e39</guid>
-      <pubDate>Tue, 11 Aug 2026 23:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中古住宅販売、7月は406万戸に減少－3カ月ぶり低水準</title>
-      <link>https://news.yahoo.co.jp/articles/cb7e9263c5f6004415b847ff44b7ca57aff08cc9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cb7e9263c5f6004415b847ff44b7ca57aff08cc9</guid>
-      <pubDate>Wed, 12 Aug 2026 23:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パキスタン国防相、米・イランは合意に近づく－米国は強硬姿勢</title>
-      <link>https://news.yahoo.co.jp/articles/77ec4b7d04e4a7595e4baaa2d97ff32bbb706b3b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/77ec4b7d04e4a7595e4baaa2d97ff32bbb706b3b</guid>
-      <pubDate>Wed, 12 Aug 2026 22:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パキスタン国防相、米・イランは合意に近づく－トランプ氏は強硬発言</title>
-      <link>https://news.yahoo.co.jp/articles/705cb330375d1f20f4025a115e5a8febdee81284</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/705cb330375d1f20f4025a115e5a8febdee81284</guid>
-      <pubDate>Tue, 11 Aug 2026 22:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州株・債券に資金流入、景気は強過ぎず弱過ぎず「絶好の状況」</title>
-      <link>https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c1bc5962428df3662bdf5e53d7be69a3c096f30</guid>
-      <pubDate>Tue, 11 Aug 2026 21:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
