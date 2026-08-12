@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 17:11:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:38:19 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国の戦略型政府系ファンド、AIやロボティクスの投資競争に参入へ</title>
+      <link>https://news.yahoo.co.jp/articles/b6a1ce51f2b0e6bf9295cbe4a91b799f828a2a97</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6a1ce51f2b0e6bf9295cbe4a91b799f828a2a97</guid>
+      <pubDate>Wed, 12 Aug 2026 16:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>DMG森精、海外で新株発行し482億円調達－設備投資やM&amp;A待機資金</title>
+      <link>https://news.yahoo.co.jp/articles/7d60a22375ff6b91a8413fa6c590135aa493cebe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d60a22375ff6b91a8413fa6c590135aa493cebe</guid>
+      <pubDate>Wed, 12 Aug 2026 15:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、NY市のセカンドハウス税阻止へ連邦政府の介入検討</title>
       <link>https://news.yahoo.co.jp/articles/20ae73d4adcbbfdb65ab37d4138b8b11a65f0080</link>
@@ -128,7 +140,7 @@
       <pubDate>Wed, 12 Aug 2026 07:16:00 +0900</pubDate>
     </item>
     <item>
-      <title>システマティック勢の株買い再開へ、レバレッジ調整が一巡－シタデル</title>
+      <title>システマティック勢､調整一巡で再始動へ－シタデル･セキュリティーズ</title>
       <link>https://news.yahoo.co.jp/articles/0f32334c42a2636c25a41fcf23d3c195a4c5af06</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f32334c42a2636c25a41fcf23d3c195a4c5af06</guid>
       <pubDate>Wed, 12 Aug 2026 05:51:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ec25b8f35605d80c855e3290a82cdb00bffde341</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec25b8f35605d80c855e3290a82cdb00bffde341</guid>
       <pubDate>Tue, 11 Aug 2026 03:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、5000億ドルのAIインフラ投資でウォール街大手と提携へ</title>
-      <link>https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/078891611b2efc2cf3094ff3f7b565edcbd8fcc0</guid>
-      <pubDate>Tue, 11 Aug 2026 02:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>データセンター債、SECが証券化要件を一部免除－記録的発行増に拍車</title>
-      <link>https://news.yahoo.co.jp/articles/533f99006a89a26112a28271396a4e983f2dc114</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/533f99006a89a26112a28271396a4e983f2dc114</guid>
-      <pubDate>Tue, 11 Aug 2026 02:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
