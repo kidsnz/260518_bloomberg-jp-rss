@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:34:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:34:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本株は続伸へ、米利上げ観測の後退を好感－AI・半導体関連に買い</title>
+      <link>https://news.yahoo.co.jp/articles/c04d549f72d4464f58c7370af84964df93a38397</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c04d549f72d4464f58c7370af84964df93a38397</guid>
+      <pubDate>Thu, 13 Aug 2026 07:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油はほぼ変わらず、イランと米国の協議は打開の兆し見られず</title>
       <link>https://news.yahoo.co.jp/articles/8c268eaafb142faf47a91dbe5c4e7e1ffa308add</link>
@@ -14,7 +20,7 @@
       <pubDate>Thu, 13 Aug 2026 05:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>シスコ、8－10月売上高見通しが市場予想上回る－AI需要が追い風</title>
+      <title>シスコ、売上高と利益が市場予想上回るも高い期待に届かず－株価下落</title>
       <link>https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</guid>
       <pubDate>Thu, 13 Aug 2026 05:33:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f2a5a15dd1098c6c6ebf5c311771920254e8ad65</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f2a5a15dd1098c6c6ebf5c311771920254e8ad65</guid>
       <pubDate>Wed, 12 Aug 2026 03:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株はほぼ変わらず、中東情勢を注視－英・独債は上昇</title>
-      <link>https://news.yahoo.co.jp/articles/9d81ba4f3352bf8384bba3d5e96f02e622f12789</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d81ba4f3352bf8384bba3d5e96f02e622f12789</guid>
-      <pubDate>Wed, 12 Aug 2026 02:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
