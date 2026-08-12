@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:26:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:27:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ジョシュ・クシュナー氏らがレイカーズ買収へ－過去最高120億ドル</title>
+      <link>https://news.yahoo.co.jp/articles/df88b9190b1c2eb781b5ed652f6cfe64d9c9a057</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df88b9190b1c2eb781b5ed652f6cfe64d9c9a057</guid>
+      <pubDate>Thu, 13 Aug 2026 01:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米予備選、民主社会主義の旋風続かず－ウィスコンシン州で急伸派敗北</title>
+      <link>https://news.yahoo.co.jp/articles/49be3b2821f7464613f10a1caabbc0b16c569812</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49be3b2821f7464613f10a1caabbc0b16c569812</guid>
+      <pubDate>Thu, 13 Aug 2026 00:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>米CPI、FRBが直ちに行動する必要性示さず－市場関係者の見方</title>
       <link>https://news.yahoo.co.jp/articles/343c7f033b41b113de1585a339f70006d443b148</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/90435e93b47d80ccdfa23f3dc342dd1e21b166a2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90435e93b47d80ccdfa23f3dc342dd1e21b166a2</guid>
       <pubDate>Tue, 11 Aug 2026 19:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油、一時90ドル迫るも上げ消す－米イランの緊張緩和に期待</title>
-      <link>https://news.yahoo.co.jp/articles/37629f7df14ded448b4b77a06195659639a71cda</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37629f7df14ded448b4b77a06195659639a71cda</guid>
-      <pubDate>Tue, 11 Aug 2026 19:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル、ガラス仕様のiPhone計画を維持－来年の発売20周年に向け</title>
-      <link>https://news.yahoo.co.jp/articles/5aa34280b7c1d00d810a2a7d740672cc12ef7786</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5aa34280b7c1d00d810a2a7d740672cc12ef7786</guid>
-      <pubDate>Tue, 11 Aug 2026 18:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
