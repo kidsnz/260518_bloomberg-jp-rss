@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 21:55:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:18:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米株と国債が上昇、CPIは予想通り－円は対ドル158円台後半</title>
+      <link>https://news.yahoo.co.jp/articles/b3351697073d5459c6503cb47a48d61cdf8cf055</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3351697073d5459c6503cb47a48d61cdf8cf055</guid>
+      <pubDate>Wed, 12 Aug 2026 22:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米CPI、コア指数は前月比0.2%上昇にとどまる－利上げ圧力緩和へ</title>
+      <link>https://news.yahoo.co.jp/articles/56908cab3a1d3505fd98fb06ee4237d7633a740c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56908cab3a1d3505fd98fb06ee4237d7633a740c</guid>
+      <pubDate>Wed, 12 Aug 2026 21:42:00 +0900</pubDate>
+    </item>
     <item>
       <title>米CPI、７月は前月比0.1％上昇－前年比では3.4％上昇</title>
       <link>https://news.yahoo.co.jp/articles/36fa360eebe0a11eb8001e220f71e9b8d4f6d52b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36fa360eebe0a11eb8001e220f71e9b8d4f6d52b</guid>
       <pubDate>Wed, 12 Aug 2026 21:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで上げ幅拡大、一時158円台－米CPIの発表後</title>
+      <link>https://news.yahoo.co.jp/articles/6b3ad754c474d889d004a9fd3d0482b633efbb85</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b3ad754c474d889d004a9fd3d0482b633efbb85</guid>
+      <pubDate>Wed, 12 Aug 2026 21:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>テンセント、売上高11%増で予想上回る－AI投資支える成長維持</title>
+      <link>https://news.yahoo.co.jp/articles/883ef3138f7ae0cf9925c372fd99adc2978f39ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/883ef3138f7ae0cf9925c372fd99adc2978f39ab</guid>
+      <pubDate>Wed, 12 Aug 2026 20:26:00 +0900</pubDate>
     </item>
     <item>
       <title>市場のFRB不信は行き過ぎ、米国債利回りに投資妙味あり－ピムコ</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6ff1cd4fda3340ca6198635c1eba9e6c68e4d313</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ff1cd4fda3340ca6198635c1eba9e6c68e4d313</guid>
       <pubDate>Tue, 11 Aug 2026 13:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>GM、バッテリー合弁事業の持ち分をサムスンSDIに売却へ－EV事業縮小</title>
-      <link>https://news.yahoo.co.jp/articles/18d3a8b04243ef004671ba0efe524993c8120c35</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/18d3a8b04243ef004671ba0efe524993c8120c35</guid>
-      <pubDate>Tue, 11 Aug 2026 13:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イオン、一時再入館認めた事実を確認－爆発事故に関する調査で</title>
-      <link>https://news.yahoo.co.jp/articles/342824d40956059496832dfe79f43ad01133895b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/342824d40956059496832dfe79f43ad01133895b</guid>
-      <pubDate>Tue, 11 Aug 2026 13:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>台風15号、11日夜に関東上陸の見込み－JAL・ANAで欠航相次ぐ</title>
-      <link>https://news.yahoo.co.jp/articles/78ceebf85a48dd9a4bb3554e629b0c15fa4c8322</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/78ceebf85a48dd9a4bb3554e629b0c15fa4c8322</guid>
-      <pubDate>Tue, 11 Aug 2026 12:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック、計算能力確保でライオットと91億ドル契約－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/fdc94301950c009ec10c613c73e3d27465bf03ed</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdc94301950c009ec10c613c73e3d27465bf03ed</guid>
-      <pubDate>Tue, 11 Aug 2026 11:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
