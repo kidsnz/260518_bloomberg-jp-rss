@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 01:50:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:53:21 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく</title>
@@ -60,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</guid>
       <pubDate>Thu, 13 Aug 2026 18:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>半導体メモリー大手CXMT、中国企業で時価総額首位に－テンセント抜く</title>
+      <link>https://news.yahoo.co.jp/articles/e953cce44f304a7a0b906db6321f29a769167323</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e953cce44f304a7a0b906db6321f29a769167323</guid>
+      <pubDate>Thu, 13 Aug 2026 18:22:00 +0900</pubDate>
     </item>
     <item>
       <title>MUFG、日本国債レポ取引のオンチェーン化実証実験で協業開始</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b6a1ce51f2b0e6bf9295cbe4a91b799f828a2a97</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6a1ce51f2b0e6bf9295cbe4a91b799f828a2a97</guid>
       <pubDate>Wed, 12 Aug 2026 16:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>DMG森精、海外で新株発行し482億円調達－設備投資やM&amp;A待機資金</title>
-      <link>https://news.yahoo.co.jp/articles/7d60a22375ff6b91a8413fa6c590135aa493cebe</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d60a22375ff6b91a8413fa6c590135aa493cebe</guid>
-      <pubDate>Wed, 12 Aug 2026 15:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
