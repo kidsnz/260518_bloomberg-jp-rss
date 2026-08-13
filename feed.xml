@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 02:53:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 03:54:49 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>年内のFRB利上げ観測後退、米短期金融市場で織り込み縮小―原油下落で</title>
+      <link>https://news.yahoo.co.jp/articles/40555f660d42d2bd775e636a5277e2ccf1cc10fa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40555f660d42d2bd775e636a5277e2ccf1cc10fa</guid>
+      <pubDate>Fri, 14 Aug 2026 02:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>9月は米利上げ見送りも選択肢、柔軟さ重要-ゴールドマンのカプラン氏</title>
+      <link>https://news.yahoo.co.jp/articles/b34d91fc957dbe37a4b1d8aa2a9d49e6ab472f1e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b34d91fc957dbe37a4b1d8aa2a9d49e6ab472f1e</guid>
+      <pubDate>Fri, 14 Aug 2026 00:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく</title>
       <link>https://news.yahoo.co.jp/articles/f2a01dd83ef971bcaa11ad3a236c9e74b97b7a6f</link>
@@ -26,7 +38,7 @@
       <pubDate>Thu, 13 Aug 2026 22:56:00 +0900</pubDate>
     </item>
     <item>
-      <title>米PPI、7月は前年同月比4.7%上昇－予想以上に減速</title>
+      <title>米PPI、7月は前年比で予想以上に鈍化－戦争の物価への影響薄れる</title>
       <link>https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</guid>
       <pubDate>Thu, 13 Aug 2026 21:43:00 +0900</pubDate>
@@ -36,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/f385dd89c6771150dd1b52effed65de0ddfabda2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f385dd89c6771150dd1b52effed65de0ddfabda2</guid>
       <pubDate>Thu, 13 Aug 2026 20:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>千葉市など4市にレベル5大雨・土砂災害特別警報、40万人超に避難指示</title>
+      <link>https://news.yahoo.co.jp/articles/4378ebb378d56236fa9fb35c59f183e7ea50be0b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4378ebb378d56236fa9fb35c59f183e7ea50be0b</guid>
+      <pubDate>Fri, 14 Aug 2026 20:19:00 +0900</pubDate>
     </item>
     <item>
       <title>千葉市や市原市などにレベル5大雨特別警報、停電も発生</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/97632c492f472744c270764612869c5e95fb2e29</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97632c492f472744c270764612869c5e95fb2e29</guid>
       <pubDate>Wed, 12 Aug 2026 18:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>鴻海の4－6月は35%増益､予想以上－エヌビディア次世代品量産は今期中</title>
-      <link>https://news.yahoo.co.jp/articles/03fe21e6020429a42d004a99e446ede87e5e32de</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03fe21e6020429a42d004a99e446ede87e5e32de</guid>
-      <pubDate>Wed, 12 Aug 2026 18:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ノルウェー政府系ファンド、テック株好調で6年ぶり高リターン</title>
-      <link>https://news.yahoo.co.jp/articles/b1bfec8251fecf25fb5427ee239769b186d830a6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1bfec8251fecf25fb5427ee239769b186d830a6</guid>
-      <pubDate>Wed, 12 Aug 2026 18:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国の戦略型政府系ファンド、AIやロボティクスの投資競争に参入へ</title>
-      <link>https://news.yahoo.co.jp/articles/b6a1ce51f2b0e6bf9295cbe4a91b799f828a2a97</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6a1ce51f2b0e6bf9295cbe4a91b799f828a2a97</guid>
-      <pubDate>Wed, 12 Aug 2026 16:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
