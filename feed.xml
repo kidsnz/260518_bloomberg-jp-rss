@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 20:01:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:06:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>千葉市や市原市などにレベル5大雨特別警報、停電も発生</title>
+      <link>https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</guid>
+      <pubDate>Thu, 13 Aug 2026 20:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>6月の英経済は予想外の拡大、晴天やW杯寄与－第2四半期もプラス成長</title>
       <link>https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</link>
@@ -30,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/795c9aabb75860283051ca57bd4305df17e7c192</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/795c9aabb75860283051ca57bd4305df17e7c192</guid>
       <pubDate>Thu, 13 Aug 2026 16:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>豪住宅価格下落、景気減速の取り組みに寄与－ケント中銀総裁補佐</title>
+      <link>https://news.yahoo.co.jp/articles/6768c6caacf9959cee394bb7c4613fc8d2fb6181</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6768c6caacf9959cee394bb7c4613fc8d2fb6181</guid>
+      <pubDate>Thu, 13 Aug 2026 15:57:00 +0900</pubDate>
     </item>
     <item>
       <title>キオクシアHD、NAND出荷量で中国YMTCに抜かれ4位後退－調査</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/24d20a8fdd41b8dc618f807aa36d29b194e63be5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/24d20a8fdd41b8dc618f807aa36d29b194e63be5</guid>
       <pubDate>Wed, 12 Aug 2026 12:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ココイチで測る円の実力、ビッグマックより「カツカレー指数」で円安分析－BNYメロン</title>
-      <link>https://news.yahoo.co.jp/articles/137d3f0ac0222ff89d90eac158c6207dc4a72bb1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/137d3f0ac0222ff89d90eac158c6207dc4a72bb1</guid>
-      <pubDate>Wed, 12 Aug 2026 11:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油6日続伸、ブレント89ドル超－ホルムズ海峡の合意観測に懐疑姿勢</title>
-      <link>https://news.yahoo.co.jp/articles/a2d9aae56bb7e1b02f9bc176e988fdc2c67cb5f0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2d9aae56bb7e1b02f9bc176e988fdc2c67cb5f0</guid>
-      <pubDate>Wed, 12 Aug 2026 11:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
