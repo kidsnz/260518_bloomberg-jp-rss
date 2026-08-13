@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:53:50 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:50:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく</title>
+      <link>https://news.yahoo.co.jp/articles/f2a01dd83ef971bcaa11ad3a236c9e74b97b7a6f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f2a01dd83ef971bcaa11ad3a236c9e74b97b7a6f</guid>
+      <pubDate>Fri, 14 Aug 2026 00:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500種は最高値更新の勢い、円は対ドル159円に接近</title>
+      <link>https://news.yahoo.co.jp/articles/b7d6800b863d7572329b0233e7ae052fa43f9608</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7d6800b863d7572329b0233e7ae052fa43f9608</guid>
+      <pubDate>Thu, 13 Aug 2026 23:16:00 +0900</pubDate>
+    </item>
     <item>
       <title>クリーブランド連銀総裁、インフレ鈍化の持続性に疑問－今こそ行動を</title>
       <link>https://news.yahoo.co.jp/articles/82593ab29d4d1cb51205dc1ded230cdd64e66e9b</link>
@@ -30,6 +42,18 @@
       <link>https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</guid>
       <pubDate>Thu, 13 Aug 2026 20:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ノルウェー中銀が金利据え置き、今後の利上げ選択肢は維持</title>
+      <link>https://news.yahoo.co.jp/articles/204a7d685cd42bdb39e699885cf8692251b6ae11</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/204a7d685cd42bdb39e699885cf8692251b6ae11</guid>
+      <pubDate>Thu, 13 Aug 2026 19:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>レノボが通期見通し引き上げ、売上高1000億ドルへ－株価一時22%高</title>
+      <link>https://news.yahoo.co.jp/articles/66215648ba89f795fdc15623842eddc3c9d47e6a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66215648ba89f795fdc15623842eddc3c9d47e6a</guid>
+      <pubDate>Thu, 13 Aug 2026 19:04:00 +0900</pubDate>
     </item>
     <item>
       <title>6月の英経済は予想外の拡大、晴天やW杯寄与－第2四半期もプラス成長</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7d60a22375ff6b91a8413fa6c590135aa493cebe</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d60a22375ff6b91a8413fa6c590135aa493cebe</guid>
       <pubDate>Wed, 12 Aug 2026 15:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、NY市のセカンドハウス税阻止へ連邦政府の介入検討</title>
-      <link>https://news.yahoo.co.jp/articles/20ae73d4adcbbfdb65ab37d4138b8b11a65f0080</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20ae73d4adcbbfdb65ab37d4138b8b11a65f0080</guid>
-      <pubDate>Wed, 12 Aug 2026 14:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムスン、SKハイニックスの株主還元焦点に－メモリーのピーク懸念で</title>
-      <link>https://news.yahoo.co.jp/articles/e2710353d2cc9f805332bb7a2d98c684beb58a12</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2710353d2cc9f805332bb7a2d98c684beb58a12</guid>
-      <pubDate>Wed, 12 Aug 2026 14:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>太陽誘電株が反発、一時破綻危機のシチュエーショナルの売買判明</title>
-      <link>https://news.yahoo.co.jp/articles/8ca6b2a67f21c7ded172892b9578918af9c6bb0e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ca6b2a67f21c7ded172892b9578918af9c6bb0e</guid>
-      <pubDate>Wed, 12 Aug 2026 13:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI新興コグニションが資金調達交渉､企業価値6.4兆円と評価も－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/786485c5434a1422ac46d497941a2f3dd27be12e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/786485c5434a1422ac46d497941a2f3dd27be12e</guid>
-      <pubDate>Wed, 12 Aug 2026 13:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
