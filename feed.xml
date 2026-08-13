@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 03:54:49 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:53:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円は対ドル160円が再び視野､日銀利上げを高市政権支持でも買い続かず</title>
+      <link>https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</guid>
+      <pubDate>Fri, 14 Aug 2026 03:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>年内のFRB利上げ観測後退、米短期金融市場で織り込み縮小―原油下落で</title>
       <link>https://news.yahoo.co.jp/articles/40555f660d42d2bd775e636a5277e2ccf1cc10fa</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9f45aced18358bb27e29652932b4e054fd65ac83</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f45aced18358bb27e29652932b4e054fd65ac83</guid>
       <pubDate>Wed, 12 Aug 2026 18:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国サムスン電子とSKの株価が急伸、テマセクが投資計画と報道</title>
-      <link>https://news.yahoo.co.jp/articles/97632c492f472744c270764612869c5e95fb2e29</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/97632c492f472744c270764612869c5e95fb2e29</guid>
-      <pubDate>Wed, 12 Aug 2026 18:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
