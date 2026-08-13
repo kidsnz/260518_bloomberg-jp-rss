@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:57:50 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:01:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>6月の英経済は予想外の拡大、晴天やW杯寄与－第2四半期もプラス成長</title>
+      <link>https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</guid>
+      <pubDate>Thu, 13 Aug 2026 18:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>MUFG、日本国債レポ取引のオンチェーン化実証実験で協業開始</title>
       <link>https://news.yahoo.co.jp/articles/fc1912743c8c2cce715b98ae275ed5d401594ccd</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a2d9aae56bb7e1b02f9bc176e988fdc2c67cb5f0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2d9aae56bb7e1b02f9bc176e988fdc2c67cb5f0</guid>
       <pubDate>Wed, 12 Aug 2026 11:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サンリオ株が12年ぶり下落率、1Q営業益最高も市場予想を下回る</title>
-      <link>https://news.yahoo.co.jp/articles/58e084a9dfd99bfb1bcbfccf69402893141f3c1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58e084a9dfd99bfb1bcbfccf69402893141f3c1e</guid>
-      <pubDate>Wed, 12 Aug 2026 11:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
