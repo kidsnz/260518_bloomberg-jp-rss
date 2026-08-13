@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 08:34:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:24:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】株式6万8000円回復、AI・半導体上昇－債券は先物上昇</title>
+      <link>https://news.yahoo.co.jp/articles/6073170d21d5b3de3ec031ad1084182c0b2ec558</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6073170d21d5b3de3ec031ad1084182c0b2ec558</guid>
+      <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国株が10日間で22％上昇、強気相場入り視野－半導体株の反騰に勢い</title>
+      <link>https://news.yahoo.co.jp/articles/69781df1d8dfb5af15ad43df19dd4a26cab47377</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69781df1d8dfb5af15ad43df19dd4a26cab47377</guid>
+      <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>7月の日銀企業物価は前年比7.2%上昇、中東情勢など受け高い伸び続く</title>
+      <link>https://news.yahoo.co.jp/articles/90732623ca3a0d19bdc5339a8f3b289c8d77b137</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90732623ca3a0d19bdc5339a8f3b289c8d77b137</guid>
+      <pubDate>Thu, 13 Aug 2026 08:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本株は続伸へ、米利上げ観測の後退を好感－AI・半導体関連に買い</title>
       <link>https://news.yahoo.co.jp/articles/c04d549f72d4464f58c7370af84964df93a38397</link>
@@ -20,7 +38,7 @@
       <pubDate>Thu, 13 Aug 2026 05:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>シスコ、売上高と利益が市場予想上回るも高い期待に届かず－株価下落</title>
+      <title>シスコ、AI関連売上高見通しが投資家の期待に届かず－株価下落</title>
       <link>https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/757cb2ec57e36173f4b23113494fbf0563159af8</guid>
       <pubDate>Thu, 13 Aug 2026 05:33:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0f32334c42a2636c25a41fcf23d3c195a4c5af06</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f32334c42a2636c25a41fcf23d3c195a4c5af06</guid>
       <pubDate>Wed, 12 Aug 2026 05:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スーパー･マイクロ、売上高見通しが市場予想上回る-AI需要追い風</title>
-      <link>https://news.yahoo.co.jp/articles/b47e97dc61b4a5f52b2e47f135fe120b07185a21</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b47e97dc61b4a5f52b2e47f135fe120b07185a21</guid>
-      <pubDate>Wed, 12 Aug 2026 05:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル、決済サービスの責任者が10月退職へ－幹部の世代交代進む</title>
-      <link>https://news.yahoo.co.jp/articles/9f653981be3c37daed9287af61f0a18e1a32b2d8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f653981be3c37daed9287af61f0a18e1a32b2d8</guid>
-      <pubDate>Wed, 12 Aug 2026 04:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シカゴ連銀総裁、米経済が直面する最大の問題はインフレ</title>
-      <link>https://news.yahoo.co.jp/articles/f2a5a15dd1098c6c6ebf5c311771920254e8ad65</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f2a5a15dd1098c6c6ebf5c311771920254e8ad65</guid>
-      <pubDate>Wed, 12 Aug 2026 03:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
