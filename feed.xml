@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 22:54:40 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:51:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>クリーブランド連銀総裁、インフレ鈍化の持続性に疑問－今こそ行動を</title>
+      <link>https://news.yahoo.co.jp/articles/82593ab29d4d1cb51205dc1ded230cdd64e66e9b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82593ab29d4d1cb51205dc1ded230cdd64e66e9b</guid>
+      <pubDate>Thu, 13 Aug 2026 22:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>米PPI、7月は前年同月比4.7%上昇－予想以上に減速</title>
       <link>https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</link>
@@ -104,7 +110,7 @@
       <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
     </item>
     <item>
-      <title>韓国株が10日間で2割超上昇、強気相場入りへ－半導体株の反騰に勢い</title>
+      <title>韓国株が10日間で2割超上昇、強気相場入り－半導体株反騰に勢い</title>
       <link>https://news.yahoo.co.jp/articles/69781df1d8dfb5af15ad43df19dd4a26cab47377</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69781df1d8dfb5af15ad43df19dd4a26cab47377</guid>
       <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/786485c5434a1422ac46d497941a2f3dd27be12e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/786485c5434a1422ac46d497941a2f3dd27be12e</guid>
       <pubDate>Wed, 12 Aug 2026 13:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXAI「Grok Bot」提供へ-AIエージェントがチームのように機能</title>
-      <link>https://news.yahoo.co.jp/articles/0c675778b0366b9e6f5f4a2448104e275a3753a7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c675778b0366b9e6f5f4a2448104e275a3753a7</guid>
-      <pubDate>Wed, 12 Aug 2026 13:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
