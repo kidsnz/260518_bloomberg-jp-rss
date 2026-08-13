@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 21:06:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:54:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米PPI、7月は前年同月比4.7%上昇－予想以上に減速</title>
+      <link>https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</guid>
+      <pubDate>Thu, 13 Aug 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国の新発30年債利回り、25年ぶり高水準となる見通し－13日午後入札</title>
+      <link>https://news.yahoo.co.jp/articles/f385dd89c6771150dd1b52effed65de0ddfabda2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f385dd89c6771150dd1b52effed65de0ddfabda2</guid>
+      <pubDate>Thu, 13 Aug 2026 20:48:00 +0900</pubDate>
+    </item>
     <item>
       <title>千葉市や市原市などにレベル5大雨特別警報、停電も発生</title>
       <link>https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0c675778b0366b9e6f5f4a2448104e275a3753a7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0c675778b0366b9e6f5f4a2448104e275a3753a7</guid>
       <pubDate>Wed, 12 Aug 2026 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円トレーダー、米インフレ統計控えオプション活用－相場方向感乏しく</title>
-      <link>https://news.yahoo.co.jp/articles/bd4fb5670041d832a543796864f3b81b96b6a937</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bd4fb5670041d832a543796864f3b81b96b6a937</guid>
-      <pubDate>Wed, 12 Aug 2026 12:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ジェーン・ストリート、55億ドルのローン返済へ－債務再編の一環</title>
-      <link>https://news.yahoo.co.jp/articles/24d20a8fdd41b8dc618f807aa36d29b194e63be5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/24d20a8fdd41b8dc618f807aa36d29b194e63be5</guid>
-      <pubDate>Wed, 12 Aug 2026 12:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
