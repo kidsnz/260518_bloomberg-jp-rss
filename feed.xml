@@ -5,10 +5,28 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:24:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:38:34 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>【日本市況】株式6万8000円回復、AI・半導体上昇－債券は先物上昇</title>
+      <title>韓国中銀、13年ぶりの金関連投資－約400億円相当の金ETF保有開示</title>
+      <link>https://news.yahoo.co.jp/articles/d28e12120e687db5fe1f47ae3a44d7556f47af08</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d28e12120e687db5fe1f47ae3a44d7556f47af08</guid>
+      <pubDate>Thu, 13 Aug 2026 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドジャースオーナー､借り入れ返済に奔走-捜査渦中でレーカーズ手放す</title>
+      <link>https://news.yahoo.co.jp/articles/ed3c6818abe1c9ab7ac9b6f36c22ab7f37cf9f16</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed3c6818abe1c9ab7ac9b6f36c22ab7f37cf9f16</guid>
+      <pubDate>Thu, 13 Aug 2026 10:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックがAI高速化のDecart買収を目指す、60億ドルで－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/eea35a5d6bd6cdd18f8ce29f8e4fc722bcce35ca</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eea35a5d6bd6cdd18f8ce29f8e4fc722bcce35ca</guid>
+      <pubDate>Thu, 13 Aug 2026 10:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】株式6万8000円台回復、AI・半導体上昇－金利は小幅低下</title>
       <link>https://news.yahoo.co.jp/articles/6073170d21d5b3de3ec031ad1084182c0b2ec558</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6073170d21d5b3de3ec031ad1084182c0b2ec558</guid>
       <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
@@ -20,7 +38,7 @@
       <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
     </item>
     <item>
-      <title>7月の日銀企業物価は前年比7.2%上昇、中東情勢など受け高い伸び続く</title>
+      <title>日銀企業物価は高い伸び続く、7月は7.2%上昇ー早期利上げ観測は維持</title>
       <link>https://news.yahoo.co.jp/articles/90732623ca3a0d19bdc5339a8f3b289c8d77b137</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90732623ca3a0d19bdc5339a8f3b289c8d77b137</guid>
       <pubDate>Thu, 13 Aug 2026 08:58:00 +0900</pubDate>
@@ -44,7 +62,7 @@
       <pubDate>Thu, 13 Aug 2026 05:33:00 +0900</pubDate>
     </item>
     <item>
-      <title>AI半導体の米セレブラス、ハードウエア売上高が予想外の減少</title>
+      <title>AI半導体の米セレブラス株急落、ハードウエア売上高の減少響く</title>
       <link>https://news.yahoo.co.jp/articles/4bfe83e2d30a00c038266ae22e687e6c0d4d3df6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4bfe83e2d30a00c038266ae22e687e6c0d4d3df6</guid>
       <pubDate>Thu, 13 Aug 2026 05:23:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/33d47ef0dab1199a2c2c4a0d10499a3217011eb7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33d47ef0dab1199a2c2c4a0d10499a3217011eb7</guid>
       <pubDate>Wed, 12 Aug 2026 07:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>北朝鮮から弾道ミサイルの可能性があるものが発射－海上保安庁</title>
-      <link>https://news.yahoo.co.jp/articles/6c6f99f265e01542c17015b4d8b2df7d4c81ea81</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6c6f99f265e01542c17015b4d8b2df7d4c81ea81</guid>
-      <pubDate>Wed, 12 Aug 2026 07:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トヨタ元社長の奥田碩氏が死去、93歳－プリウス誕生を後押し</title>
-      <link>https://news.yahoo.co.jp/articles/bbc210015e7a250f3a847c356bbd6f101c567ab8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bbc210015e7a250f3a847c356bbd6f101c567ab8</guid>
-      <pubDate>Wed, 12 Aug 2026 07:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>システマティック勢､調整一巡で再始動へ－シタデル･セキュリティーズ</title>
-      <link>https://news.yahoo.co.jp/articles/0f32334c42a2636c25a41fcf23d3c195a4c5af06</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f32334c42a2636c25a41fcf23d3c195a4c5af06</guid>
-      <pubDate>Wed, 12 Aug 2026 05:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
