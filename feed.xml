@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 17:48:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:57:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>MUFG、日本国債レポ取引のオンチェーン化実証実験で協業開始</title>
+      <link>https://news.yahoo.co.jp/articles/fc1912743c8c2cce715b98ae275ed5d401594ccd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fc1912743c8c2cce715b98ae275ed5d401594ccd</guid>
+      <pubDate>Thu, 13 Aug 2026 17:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>韓国の不動産バブル、もはや放置できない水準－李在明大統領</title>
       <link>https://news.yahoo.co.jp/articles/81f57a90d177d67b76936b624efe339eaf455096</link>
@@ -62,7 +68,7 @@
       <pubDate>Thu, 13 Aug 2026 10:34:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】長期金利と円上げ拡大、早期利上げ政府支持－銀行株上昇</title>
+      <title>【日本市況】株6万8000円回復、政府利上げ支持で金利と円は上げ拡大</title>
       <link>https://news.yahoo.co.jp/articles/6073170d21d5b3de3ec031ad1084182c0b2ec558</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6073170d21d5b3de3ec031ad1084182c0b2ec558</guid>
       <pubDate>Thu, 13 Aug 2026 09:22:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/58e084a9dfd99bfb1bcbfccf69402893141f3c1e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/58e084a9dfd99bfb1bcbfccf69402893141f3c1e</guid>
       <pubDate>Wed, 12 Aug 2026 11:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIデータセンターで保険需要急増、引き受け余力は「限界」－AIGのCEO</title>
-      <link>https://news.yahoo.co.jp/articles/c1fd5fbfd9f62757fcb45768a38f04f740a10769</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1fd5fbfd9f62757fcb45768a38f04f740a10769</guid>
-      <pubDate>Wed, 12 Aug 2026 10:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
