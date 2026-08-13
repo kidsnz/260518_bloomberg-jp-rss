@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 04:53:47 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:35:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>円相場の回復、日銀のタカ派姿勢が必要－ブラックロックのリーダー氏</title>
+      <link>https://news.yahoo.co.jp/articles/9b6694f3244089871f701cd8efca6a1cfed0106c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b6694f3244089871f701cd8efca6a1cfed0106c</guid>
+      <pubDate>Fri, 14 Aug 2026 04:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>円は対ドル160円が再び視野､日銀利上げを高市政権支持でも買い続かず</title>
       <link>https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2f2acd4f5af04524e0bf29062600d21ff00b79e5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f2acd4f5af04524e0bf29062600d21ff00b79e5</guid>
       <pubDate>Wed, 12 Aug 2026 19:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油供給不足は拡大の見通し、イラン戦争で需要減速でも－IEA</title>
-      <link>https://news.yahoo.co.jp/articles/9f45aced18358bb27e29652932b4e054fd65ac83</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f45aced18358bb27e29652932b4e054fd65ac83</guid>
-      <pubDate>Wed, 12 Aug 2026 18:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
