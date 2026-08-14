@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:15:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:45:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ヘッジファンド、円ショートを半分余り縮小－日米の協調介入以降</title>
+      <link>https://news.yahoo.co.jp/articles/d56d5aee4033d29683413c55173408cc3e416d92</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d56d5aee4033d29683413c55173408cc3e416d92</guid>
+      <pubDate>Sat, 15 Aug 2026 06:31:00 +0900</pubDate>
+    </item>
     <item>
       <title>鉄鉱石商社ラディアント・ワールド巡る取引、米司法省とCFTCが調査</title>
       <link>https://news.yahoo.co.jp/articles/5de071f46d07b91fa7991f46dd8ed177ddbb54dd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5de071f46d07b91fa7991f46dd8ed177ddbb54dd</guid>
       <pubDate>Sat, 15 Aug 2026 04:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>バークレイズ、ヘッジファンドQRTとの取引急拡大－想定元本15兆円超</title>
+      <link>https://news.yahoo.co.jp/articles/caf27032196b3871665c9d40fe6dd3209b416059</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caf27032196b3871665c9d40fe6dd3209b416059</guid>
+      <pubDate>Sat, 15 Aug 2026 02:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株は最高値付近、資金流入活発－仏独債利回りは急伸</title>
+      <link>https://news.yahoo.co.jp/articles/e9372af8e019d5a27c0f5ed2a4683fadfbaa641c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e9372af8e019d5a27c0f5ed2a4683fadfbaa641c</guid>
+      <pubDate>Sat, 15 Aug 2026 02:23:00 +0900</pubDate>
     </item>
     <item>
       <title>シカゴ連銀総裁、インフレ鈍化のさらなる裏付け必要</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b34d91fc957dbe37a4b1d8aa2a9d49e6ab472f1e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b34d91fc957dbe37a4b1d8aa2a9d49e6ab472f1e</guid>
       <pubDate>Fri, 14 Aug 2026 00:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油相場が反落、WTIは一時81ドル割れ－米・イラン交渉に進展なく</title>
-      <link>https://news.yahoo.co.jp/articles/f2a01dd83ef971bcaa11ad3a236c9e74b97b7a6f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f2a01dd83ef971bcaa11ad3a236c9e74b97b7a6f</guid>
-      <pubDate>Fri, 14 Aug 2026 00:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500種は最高値更新、円は再び介入警戒ゾーン入り</title>
-      <link>https://news.yahoo.co.jp/articles/2fe48246e9c70472217472776afbc4d65736cf10</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2fe48246e9c70472217472776afbc4d65736cf10</guid>
-      <pubDate>Fri, 14 Aug 2026 23:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500種は最高値更新の勢い、円は対ドル159円に接近</title>
-      <link>https://news.yahoo.co.jp/articles/b7d6800b863d7572329b0233e7ae052fa43f9608</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7d6800b863d7572329b0233e7ae052fa43f9608</guid>
-      <pubDate>Thu, 13 Aug 2026 23:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
