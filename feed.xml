@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 14:27:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:53:27 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>豪中銀の11月追加利上げに投機筋が照準、インフレなお目標上回る</title>
+      <link>https://news.yahoo.co.jp/articles/2d1c64aea68e1c5048033a3f1c1a07cb8b9d6b3b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d1c64aea68e1c5048033a3f1c1a07cb8b9d6b3b</guid>
+      <pubDate>Fri, 14 Aug 2026 14:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NATOの戦闘機、ラトビア領空に侵入したドローンを撃墜</title>
+      <link>https://news.yahoo.co.jp/articles/5b0a5eabecd047b48d0dd7e5eef17b7246233e49</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b0a5eabecd047b48d0dd7e5eef17b7246233e49</guid>
+      <pubDate>Fri, 14 Aug 2026 13:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>アサヒGHD､1－6月営業益は過去最高－サイバー影響で為替影響除き減益</title>
       <link>https://news.yahoo.co.jp/articles/8b22d1d1d79e25b7f1dbaa17b7717ff8569bf152</link>
@@ -56,7 +68,7 @@
       <pubDate>Fri, 14 Aug 2026 10:15:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】TOPIX8連騰、米インフレ鈍化－円は159円半ば、債券上昇</title>
+      <title>【日本市況】株伸び悩み、AI関連に利益確定売り－円強含み159円前半</title>
       <link>https://news.yahoo.co.jp/articles/51d5f175feef0f886daead6de086c9e0134c8ff8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51d5f175feef0f886daead6de086c9e0134c8ff8</guid>
       <pubDate>Fri, 14 Aug 2026 09:16:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2a21bd86147e1a6eedb10b551ae870791952e391</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a21bd86147e1a6eedb10b551ae870791952e391</guid>
       <pubDate>Thu, 13 Aug 2026 12:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国中銀、13年ぶりの金関連投資－約400億円相当の金ETF保有開示</title>
-      <link>https://news.yahoo.co.jp/articles/d28e12120e687db5fe1f47ae3a44d7556f47af08</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d28e12120e687db5fe1f47ae3a44d7556f47af08</guid>
-      <pubDate>Thu, 13 Aug 2026 12:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>南米コロンビア地震､死者265人－大統領が経済非常事態宣言に向け動く</title>
-      <link>https://news.yahoo.co.jp/articles/de73225606b997c3594cb59302d8ee9283ccc8eb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de73225606b997c3594cb59302d8ee9283ccc8eb</guid>
-      <pubDate>Thu, 13 Aug 2026 11:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
