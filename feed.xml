@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:52:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:12:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米小売売上高、7月は1年超ぶりの大幅減－自動車・ネット通販が低迷</title>
+      <link>https://news.yahoo.co.jp/articles/4f85d0670e1c1be338b039a9b9d81fef0b22ab8c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4f85d0670e1c1be338b039a9b9d81fef0b22ab8c</guid>
+      <pubDate>Fri, 14 Aug 2026 21:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ政権、NATO加盟国に思想的忠誠迫る－米軍削減前に精査</title>
       <link>https://news.yahoo.co.jp/articles/32bc3e159fcfa94d5f6305b2248bb797251018d0</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/204a7d685cd42bdb39e699885cf8692251b6ae11</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/204a7d685cd42bdb39e699885cf8692251b6ae11</guid>
       <pubDate>Thu, 13 Aug 2026 19:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>レノボが通期見通し引き上げ、売上高1000億ドルへ－株価一時22%高</title>
-      <link>https://news.yahoo.co.jp/articles/66215648ba89f795fdc15623842eddc3c9d47e6a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66215648ba89f795fdc15623842eddc3c9d47e6a</guid>
-      <pubDate>Thu, 13 Aug 2026 19:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
