@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 04:26:40 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:02:35 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン国民は食料購入にも困窮、ツケ払い広がる－米国は経済圧力強化</title>
       <link>https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</guid>
       <pubDate>Sat, 15 Aug 2026 01:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株は下落、個人消費に減速の兆し－短期債アウトパフォーム</title>
+      <link>https://news.yahoo.co.jp/articles/3a26c4bc493013325a808f8e8d81661b8b2efb45</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a26c4bc493013325a808f8e8d81661b8b2efb45</guid>
+      <pubDate>Sat, 15 Aug 2026 01:00:00 +0900</pubDate>
     </item>
     <item>
       <title>米中間選挙で共和党勝利なら株高加速、AIは「バブル的上昇」－BofA</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</guid>
       <pubDate>Thu, 13 Aug 2026 21:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新規失業保険申請、9000件増加－継続受給者は減少</title>
-      <link>https://news.yahoo.co.jp/articles/ed2f0ae44547296a04d6e43e1508c730269d72e9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed2f0ae44547296a04d6e43e1508c730269d72e9</guid>
-      <pubDate>Thu, 13 Aug 2026 21:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
