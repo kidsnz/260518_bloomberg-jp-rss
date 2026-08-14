@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 01:13:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 02:25:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米中間選挙で共和党勝利なら株高加速、AIは「バブル的上昇」－BofA</title>
+      <link>https://news.yahoo.co.jp/articles/cd552f27e5dd6093b8d538e2b06b56230a397795</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd552f27e5dd6093b8d538e2b06b56230a397795</guid>
+      <pubDate>Fri, 14 Aug 2026 23:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>米消費者マインド指数、3カ月ぶりの低下－事業環境悪化など懸念</title>
       <link>https://news.yahoo.co.jp/articles/ae4c299e9da6c3a0424d20cd06cb5a595a571aa5</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4378ebb378d56236fa9fb35c59f183e7ea50be0b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4378ebb378d56236fa9fb35c59f183e7ea50be0b</guid>
       <pubDate>Fri, 14 Aug 2026 20:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>千葉市や市原市などにレベル5大雨特別警報、停電も発生</title>
-      <link>https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37a68469db90080f1827af66848c41c8fee06df1</guid>
-      <pubDate>Thu, 13 Aug 2026 20:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
