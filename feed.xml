@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 19:53:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:40:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ政権、NATO加盟国に思想的忠誠迫る－米軍削減前に精査</title>
+      <link>https://news.yahoo.co.jp/articles/32bc3e159fcfa94d5f6305b2248bb797251018d0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32bc3e159fcfa94d5f6305b2248bb797251018d0</guid>
+      <pubDate>Fri, 14 Aug 2026 20:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米大統領特使クシュナー氏、来週イスラエル訪問へ－ガザ和平計画協議</title>
+      <link>https://news.yahoo.co.jp/articles/cc5b278c5f685b9a8e6431ea3c1d6465e06d33c2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc5b278c5f685b9a8e6431ea3c1d6465e06d33c2</guid>
+      <pubDate>Fri, 14 Aug 2026 17:28:00 +0900</pubDate>
+    </item>
     <item>
       <title>事業法人の日本株買い1兆円超え最大、キオクシアHDが巨額自社株買い</title>
       <link>https://news.yahoo.co.jp/articles/f16e31e09f2a46445e308b94cf820ddd29a775fc</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/66215648ba89f795fdc15623842eddc3c9d47e6a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66215648ba89f795fdc15623842eddc3c9d47e6a</guid>
       <pubDate>Thu, 13 Aug 2026 19:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>6月の英経済は予想外の拡大、晴天やW杯寄与－第2四半期もプラス成長</title>
-      <link>https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/debd836a61fb554dbb8f7102b910130f86462aff</guid>
-      <pubDate>Thu, 13 Aug 2026 18:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>半導体メモリー大手CXMT、中国企業で時価総額首位に－テンセント抜く</title>
-      <link>https://news.yahoo.co.jp/articles/e953cce44f304a7a0b906db6321f29a769167323</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e953cce44f304a7a0b906db6321f29a769167323</guid>
-      <pubDate>Thu, 13 Aug 2026 18:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
