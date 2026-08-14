@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:23:10 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:26:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン国民は食料購入にも困窮、ツケ払い広がる－米国は経済圧力強化</title>
+      <link>https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</guid>
+      <pubDate>Sat, 15 Aug 2026 01:16:00 +0900</pubDate>
+    </item>
     <item>
       <title>米中間選挙で共和党勝利なら株高加速、AIは「バブル的上昇」－BofA</title>
       <link>https://news.yahoo.co.jp/articles/cd552f27e5dd6093b8d538e2b06b56230a397795</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd552f27e5dd6093b8d538e2b06b56230a397795</guid>
       <pubDate>Fri, 14 Aug 2026 23:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者マインド指数、3カ月ぶりの低下－事業環境悪化など懸念</title>
+      <link>https://news.yahoo.co.jp/articles/910fe69258e669f6748a53ead9dcffb6855a11e6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/910fe69258e669f6748a53ead9dcffb6855a11e6</guid>
+      <pubDate>Fri, 14 Aug 2026 23:14:00 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド指数、3カ月ぶりの低下－事業環境悪化など懸念</title>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/4f85d0670e1c1be338b039a9b9d81fef0b22ab8c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4f85d0670e1c1be338b039a9b9d81fef0b22ab8c</guid>
       <pubDate>Fri, 14 Aug 2026 21:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米小売売上高、７月は前月比0.6％減少－市場予想は0.1％増</title>
+      <link>https://news.yahoo.co.jp/articles/958f389196922f724151c8f08132ef2d5f21e3a8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/958f389196922f724151c8f08132ef2d5f21e3a8</guid>
+      <pubDate>Fri, 14 Aug 2026 21:32:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ政権、NATO加盟国に思想的忠誠迫る－米軍削減前に精査</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ed2f0ae44547296a04d6e43e1508c730269d72e9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed2f0ae44547296a04d6e43e1508c730269d72e9</guid>
       <pubDate>Thu, 13 Aug 2026 21:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米30年債入札、25年ぶりの高利回り－投資家がベッセント氏に警告</title>
-      <link>https://news.yahoo.co.jp/articles/0be32aae7e735189e3f65a18a65ebe73776a1a20</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0be32aae7e735189e3f65a18a65ebe73776a1a20</guid>
-      <pubDate>Fri, 14 Aug 2026 20:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国の新発30年債利回り、25年ぶり高水準となる見通し－13日午後入札</title>
-      <link>https://news.yahoo.co.jp/articles/f385dd89c6771150dd1b52effed65de0ddfabda2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f385dd89c6771150dd1b52effed65de0ddfabda2</guid>
-      <pubDate>Thu, 13 Aug 2026 20:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>千葉県で一時大雨特別警報、車水没などで4人死亡との報道</title>
-      <link>https://news.yahoo.co.jp/articles/4378ebb378d56236fa9fb35c59f183e7ea50be0b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4378ebb378d56236fa9fb35c59f183e7ea50be0b</guid>
-      <pubDate>Fri, 14 Aug 2026 20:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
