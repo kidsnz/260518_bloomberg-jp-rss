@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:02:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:54:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>鉄鉱石商社ラディアント・ワールド巡る取引、米司法省とCFTCが調査</title>
+      <link>https://news.yahoo.co.jp/articles/5de071f46d07b91fa7991f46dd8ed177ddbb54dd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5de071f46d07b91fa7991f46dd8ed177ddbb54dd</guid>
+      <pubDate>Sat, 15 Aug 2026 04:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>シカゴ連銀総裁、インフレ鈍化のさらなる裏付け必要</title>
+      <link>https://news.yahoo.co.jp/articles/e056f08c06aff875c3740b827fd66fd1587129b0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e056f08c06aff875c3740b827fd66fd1587129b0</guid>
+      <pubDate>Sat, 15 Aug 2026 02:14:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン国民は食料購入にも困窮、ツケ払い広がる－米国は経済圧力強化</title>
       <link>https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</link>
@@ -84,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/66f74e0499199d4c44db3e7997f168b95d0abd10</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66f74e0499199d4c44db3e7997f168b95d0abd10</guid>
       <pubDate>Fri, 14 Aug 2026 16:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇</title>
+      <link>https://news.yahoo.co.jp/articles/7238b49e090dfc4123a2ddf8dca63d6664a1ca97</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7238b49e090dfc4123a2ddf8dca63d6664a1ca97</guid>
+      <pubDate>Sat, 15 Aug 2026 16:14:00 +0900</pubDate>
     </item>
     <item>
       <title>日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/b7d6800b863d7572329b0233e7ae052fa43f9608</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b7d6800b863d7572329b0233e7ae052fa43f9608</guid>
       <pubDate>Thu, 13 Aug 2026 23:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クリーブランド連銀総裁、インフレ鈍化の持続性に疑問－今こそ行動を</title>
-      <link>https://news.yahoo.co.jp/articles/82593ab29d4d1cb51205dc1ded230cdd64e66e9b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82593ab29d4d1cb51205dc1ded230cdd64e66e9b</guid>
-      <pubDate>Thu, 13 Aug 2026 22:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>リッチモンド連銀総裁、金利据え置きと利上げ双方の論拠示す</title>
-      <link>https://news.yahoo.co.jp/articles/8327572a7a93f5b665170cb8d32b268a312fc0c4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8327572a7a93f5b665170cb8d32b268a312fc0c4</guid>
-      <pubDate>Thu, 13 Aug 2026 22:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米PPI、7月は前年比で予想以上に鈍化－戦争の物価への影響薄れる</title>
-      <link>https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/976ee7577a1bc5f9bcac6ced12f049eb5e6d20a5</guid>
-      <pubDate>Thu, 13 Aug 2026 21:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
