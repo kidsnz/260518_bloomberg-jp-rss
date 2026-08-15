@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:01:57 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:54:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>小泉防衛相が靖国参拝、「不戦の誓い」投稿－高市首相は見送りと報道</title>
+      <link>https://news.yahoo.co.jp/articles/2f3daf95b72afc6e435068fa7f2afc34e73b64c5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f3daf95b72afc6e435068fa7f2afc34e73b64c5</guid>
+      <pubDate>Sat, 15 Aug 2026 12:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ジェーン・ストリート、7月に150億ドル損失－月間マイナスは10年ぶり</title>
+      <link>https://news.yahoo.co.jp/articles/99d9ebdb7b8b8756c88f8a051b15506c4c43018d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/99d9ebdb7b8b8756c88f8a051b15506c4c43018d</guid>
+      <pubDate>Sat, 15 Aug 2026 11:07:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピックの売上高、2Qは1.8兆円超－少なくとも14倍に</title>
       <link>https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</guid>
       <pubDate>Fri, 14 Aug 2026 03:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英国のEU離脱けん引役が補選、対抗に「ごみ箱伯爵」－党勢占う戦いに</title>
-      <link>https://news.yahoo.co.jp/articles/8415a1bfeba77e78c75cdf1e5d839303363a62ac</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8415a1bfeba77e78c75cdf1e5d839303363a62ac</guid>
-      <pubDate>Fri, 14 Aug 2026 03:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株ほぼ変わらず、夏場で薄商い－米PPIで英独債上昇</title>
-      <link>https://news.yahoo.co.jp/articles/d53070928d41073d976cc72daf80a2c4f65bbc03</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d53070928d41073d976cc72daf80a2c4f65bbc03</guid>
-      <pubDate>Fri, 14 Aug 2026 03:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
