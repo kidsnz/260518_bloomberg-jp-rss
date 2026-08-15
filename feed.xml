@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 07:14:54 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:45:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>エヌビディア、ソフトバンクG出資のSBエナジーに最大30億ドル－報道</title>
       <link>https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</guid>
       <pubDate>Sun, 16 Aug 2026 05:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランとオマーン、ホルムズ海峡巡る合意に近づく－船舶攻撃相次ぐ中</title>
+      <link>https://news.yahoo.co.jp/articles/57a0479a1c1a21c7333650f9ec9b90e24bac0dc5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57a0479a1c1a21c7333650f9ec9b90e24bac0dc5</guid>
+      <pubDate>Sun, 16 Aug 2026 22:52:00 +0900</pubDate>
     </item>
     <item>
       <title>ホルムズ海峡で船舶攻撃相次ぐ、米国はイランへの経済措置を準備</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/45f325139d2b09b00a2a838e8e6ac9c9d04a7e60</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45f325139d2b09b00a2a838e8e6ac9c9d04a7e60</guid>
       <pubDate>Fri, 14 Aug 2026 07:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米オンライン掲示板レディット、S&amp;P500種に組み入れへ－株価10%急伸</title>
-      <link>https://news.yahoo.co.jp/articles/ceb69a9e09434d380f194d00cee643dc018abc24</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ceb69a9e09434d380f194d00cee643dc018abc24</guid>
-      <pubDate>Fri, 14 Aug 2026 07:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
