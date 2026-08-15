@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 08:14:41 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:42:29 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>エヌビディア、ソフトバンクG出資のSBエナジーに最大30億ドル－報道</title>
       <link>https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</guid>
       <pubDate>Sun, 16 Aug 2026 05:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント財務長官が目指すイランの経済的孤立、想定される措置は?</title>
+      <link>https://news.yahoo.co.jp/articles/71668ca603028004e61b0c0d9e91eba9b0c03500</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71668ca603028004e61b0c0d9e91eba9b0c03500</guid>
+      <pubDate>Sun, 16 Aug 2026 03:18:00 +0900</pubDate>
     </item>
     <item>
       <title>イランとオマーン、ホルムズ海峡巡る合意に近づく－船舶攻撃相次ぐ中</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/db0f9cd5d8a87cfba0791583c75762aa21a8ea48</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/db0f9cd5d8a87cfba0791583c75762aa21a8ea48</guid>
       <pubDate>Fri, 14 Aug 2026 08:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場は株式・債券上昇へ、米PPIが下振れる－円は介入警戒下支え</title>
-      <link>https://news.yahoo.co.jp/articles/45f325139d2b09b00a2a838e8e6ac9c9d04a7e60</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45f325139d2b09b00a2a838e8e6ac9c9d04a7e60</guid>
-      <pubDate>Fri, 14 Aug 2026 07:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
