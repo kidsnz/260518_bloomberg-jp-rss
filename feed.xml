@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 15:27:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:06:20 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米、イランへの前例ない経済措置準備－トランプ氏は選挙への影響軽視</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/99d9ebdb7b8b8756c88f8a051b15506c4c43018d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/99d9ebdb7b8b8756c88f8a051b15506c4c43018d</guid>
       <pubDate>Sat, 15 Aug 2026 11:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG、台湾TSMC株の保有を72%削減－開示</title>
+      <link>https://news.yahoo.co.jp/articles/1e340b2c4832db6c4e90b768956acdb6b7cdea22</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e340b2c4832db6c4e90b768956acdb6b7cdea22</guid>
+      <pubDate>Sat, 15 Aug 2026 10:51:00 +0900</pubDate>
     </item>
     <item>
       <title>アンソロピックの売上高、2Qは1.8兆円超－少なくとも14倍に</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7604cf4cf99b185c9ce12b14df3c7551aa935c20</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7604cf4cf99b185c9ce12b14df3c7551aa935c20</guid>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円相場の回復、日銀のタカ派姿勢が必要－ブラックロックのリーダー氏</title>
-      <link>https://news.yahoo.co.jp/articles/9b6694f3244089871f701cd8efca6a1cfed0106c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b6694f3244089871f701cd8efca6a1cfed0106c</guid>
-      <pubDate>Fri, 14 Aug 2026 04:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
