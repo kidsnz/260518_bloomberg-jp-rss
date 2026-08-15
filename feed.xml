@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:54:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:19:16 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米、イランへの前例ない経済措置準備－トランプ氏は選挙への影響軽視</title>
+      <link>https://news.yahoo.co.jp/articles/76ea27bb177edf3a1680d3f2cd3cb73025151fec</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76ea27bb177edf3a1680d3f2cd3cb73025151fec</guid>
+      <pubDate>Sat, 15 Aug 2026 13:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>小泉防衛相が靖国参拝、「不戦の誓い」投稿－高市首相は見送りと報道</title>
       <link>https://news.yahoo.co.jp/articles/2f3daf95b72afc6e435068fa7f2afc34e73b64c5</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9b6694f3244089871f701cd8efca6a1cfed0106c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9b6694f3244089871f701cd8efca6a1cfed0106c</guid>
       <pubDate>Fri, 14 Aug 2026 04:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドル160円が再び視野､日銀利上げを高市政権支持でも買い続かず</title>
-      <link>https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e9932871d64288d8550ac88c157d78e3ee951ec</guid>
-      <pubDate>Fri, 14 Aug 2026 03:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
