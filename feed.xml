@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 05:15:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 05:46:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>エヌビディア、ソフトバンクG出資のSBエナジーに最大30億ドル－報道</title>
+      <link>https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</guid>
+      <pubDate>Sun, 16 Aug 2026 05:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ海峡で船舶攻撃相次ぐ、米国はイランへの経済措置を準備</title>
       <link>https://news.yahoo.co.jp/articles/515d28ecf5fdfacf991438a9681c1e2a0280bb3d</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ceb69a9e09434d380f194d00cee643dc018abc24</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ceb69a9e09434d380f194d00cee643dc018abc24</guid>
       <pubDate>Fri, 14 Aug 2026 07:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米OpenAIの年間収入、400億ドルを上回る見通し－IPOの追い風に</title>
-      <link>https://news.yahoo.co.jp/articles/7b0a06fbc1a2f0a2b8d848157f147e1744d7c037</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b0a06fbc1a2f0a2b8d848157f147e1744d7c037</guid>
-      <pubDate>Fri, 14 Aug 2026 06:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
