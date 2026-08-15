@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:45:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:55:02 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピックの売上高、2Qは1.8兆円超－少なくとも14倍に</title>
+      <link>https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</guid>
+      <pubDate>Sat, 15 Aug 2026 08:11:00 +0900</pubDate>
+    </item>
     <item>
       <title>ヘッジファンド、円ショートを半分余り縮小－日米の協調介入以降</title>
       <link>https://news.yahoo.co.jp/articles/d56d5aee4033d29683413c55173408cc3e416d92</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d56d5aee4033d29683413c55173408cc3e416d92</guid>
       <pubDate>Sat, 15 Aug 2026 06:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油は小反発、米財務長官の対イラン発言見極め－ブレント88ドル台</title>
+      <link>https://news.yahoo.co.jp/articles/86d88dc6dc9b6f8d9ab8c23fa31bf647231509e9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86d88dc6dc9b6f8d9ab8c23fa31bf647231509e9</guid>
+      <pubDate>Sat, 15 Aug 2026 05:33:00 +0900</pubDate>
     </item>
     <item>
       <title>鉄鉱石商社ラディアント・ワールド巡る取引、米司法省とCFTCが調査</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d53070928d41073d976cc72daf80a2c4f65bbc03</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d53070928d41073d976cc72daf80a2c4f65bbc03</guid>
       <pubDate>Fri, 14 Aug 2026 03:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>年内の米利上げ観測後退､短期金融市場で織り込み縮小―原油下落で</title>
-      <link>https://news.yahoo.co.jp/articles/40555f660d42d2bd775e636a5277e2ccf1cc10fa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40555f660d42d2bd775e636a5277e2ccf1cc10fa</guid>
-      <pubDate>Fri, 14 Aug 2026 02:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9月は米利上げ見送りも選択肢、柔軟さ重要-ゴールドマンのカプラン氏</title>
-      <link>https://news.yahoo.co.jp/articles/b34d91fc957dbe37a4b1d8aa2a9d49e6ab472f1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b34d91fc957dbe37a4b1d8aa2a9d49e6ab472f1e</guid>
-      <pubDate>Fri, 14 Aug 2026 00:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
