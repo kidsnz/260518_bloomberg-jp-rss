@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 17:21:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:54:57 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】AIブームに伴う半導体不足、物価に波及も－英CPI加速の公算</title>
+      <link>https://news.yahoo.co.jp/articles/0bedaaacdeff527151cc0d821c8bdce3ad7b0278</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0bedaaacdeff527151cc0d821c8bdce3ad7b0278</guid>
+      <pubDate>Sun, 16 Aug 2026 13:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン軍のパイロット3人、カタールが3月から拘束－国営通信</title>
       <link>https://news.yahoo.co.jp/articles/81b3d6358aa4c8e79ef38355c6a52a2517d759be</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/42622a44f2b0b679153ac9586f86945463a67ae0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42622a44f2b0b679153ac9586f86945463a67ae0</guid>
       <pubDate>Fri, 14 Aug 2026 08:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB、8～9月は準備預金管理のTB購入せず－金融システムに十分な水準</title>
-      <link>https://news.yahoo.co.jp/articles/c7b67418bdbeb1c4618039d3b6732ce8124d9587</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7b67418bdbeb1c4618039d3b6732ce8124d9587</guid>
-      <pubDate>Fri, 14 Aug 2026 08:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
