@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 08:42:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:58:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン軍のパイロット3人、カタールが3月から拘束－国営通信</title>
+      <link>https://news.yahoo.co.jp/articles/81b3d6358aa4c8e79ef38355c6a52a2517d759be</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81b3d6358aa4c8e79ef38355c6a52a2517d759be</guid>
+      <pubDate>Sun, 16 Aug 2026 08:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディア、ソフトバンクG出資のSBエナジーに最大30億ドル－報道</title>
       <link>https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7700badcf372737b60858fbda0abbe21967789b2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7700badcf372737b60858fbda0abbe21967789b2</guid>
       <pubDate>Fri, 14 Aug 2026 08:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>介入警戒で上がる株高のハードル、円安頼みの好決算を投資家見極め</title>
-      <link>https://news.yahoo.co.jp/articles/db0f9cd5d8a87cfba0791583c75762aa21a8ea48</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/db0f9cd5d8a87cfba0791583c75762aa21a8ea48</guid>
-      <pubDate>Fri, 14 Aug 2026 08:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
