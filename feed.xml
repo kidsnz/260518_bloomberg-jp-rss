@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 08:13:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:41:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本市場、米利上げ観測後退し株式上昇へ－中東情勢警戒で債券は下落</title>
+      <link>https://news.yahoo.co.jp/articles/ad4cda554c655b20e34860355e1ff606dc815320</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad4cda554c655b20e34860355e1ff606dc815320</guid>
+      <pubDate>Mon, 17 Aug 2026 08:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は小幅続伸へ、銀行株などに買い－中東情勢は上値抑制要因に</title>
+      <link>https://news.yahoo.co.jp/articles/907ed309ae18e7c0dd9df34cd61f4dc99059e0b2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/907ed309ae18e7c0dd9df34cd61f4dc99059e0b2</guid>
+      <pubDate>Mon, 17 Aug 2026 08:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>債券は下落へ、原油高で米長期金利が上昇－円は対ドルで159円台前半</title>
       <link>https://news.yahoo.co.jp/articles/126838a8416415115b7ff5e5f19af4416e673075</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2d1c64aea68e1c5048033a3f1c1a07cb8b9d6b3b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d1c64aea68e1c5048033a3f1c1a07cb8b9d6b3b</guid>
       <pubDate>Fri, 14 Aug 2026 14:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>NATOの戦闘機、ラトビア領空に侵入したドローンを撃墜</title>
-      <link>https://news.yahoo.co.jp/articles/5b0a5eabecd047b48d0dd7e5eef17b7246233e49</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b0a5eabecd047b48d0dd7e5eef17b7246233e49</guid>
-      <pubDate>Fri, 14 Aug 2026 13:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アサヒGHD､1－6月営業益は過去最高－サイバー影響で為替影響除き減益</title>
-      <link>https://news.yahoo.co.jp/articles/8b22d1d1d79e25b7f1dbaa17b7717ff8569bf152</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8b22d1d1d79e25b7f1dbaa17b7717ff8569bf152</guid>
-      <pubDate>Fri, 14 Aug 2026 13:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
