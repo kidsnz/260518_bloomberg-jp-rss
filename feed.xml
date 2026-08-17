@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 16:01:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:05:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>楽天G、ドイツの防衛スタートアップと協業－軍用ドローン導入支援</title>
+      <link>https://news.yahoo.co.jp/articles/66a467ed7b6522139ae0caa316959fd1d747bfdf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66a467ed7b6522139ae0caa316959fd1d747bfdf</guid>
+      <pubDate>Mon, 17 Aug 2026 15:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀は毎回会合で利上げが必要、政策金利2%超えも－中尾元財務官</title>
+      <link>https://news.yahoo.co.jp/articles/5bc57f4c50cb3ba0ce557fd060d295d48b46bafa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5bc57f4c50cb3ba0ce557fd060d295d48b46bafa</guid>
+      <pubDate>Mon, 17 Aug 2026 15:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国アリババ、ゲーム事業を15億ドルで売却へ－AIへの軸足移行進める</title>
       <link>https://news.yahoo.co.jp/articles/fefdc8948a0eb563a397bf30043452f8b1862fa9</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/958f389196922f724151c8f08132ef2d5f21e3a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/958f389196922f724151c8f08132ef2d5f21e3a8</guid>
       <pubDate>Fri, 14 Aug 2026 21:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権、NATO加盟国に思想的忠誠迫る－米軍削減前に精査</title>
-      <link>https://news.yahoo.co.jp/articles/32bc3e159fcfa94d5f6305b2248bb797251018d0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/32bc3e159fcfa94d5f6305b2248bb797251018d0</guid>
-      <pubDate>Fri, 14 Aug 2026 20:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米大統領特使クシュナー氏、来週イスラエル訪問へ－ガザ和平計画協議</title>
-      <link>https://news.yahoo.co.jp/articles/cc5b278c5f685b9a8e6431ea3c1d6465e06d33c2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cc5b278c5f685b9a8e6431ea3c1d6465e06d33c2</guid>
-      <pubDate>Fri, 14 Aug 2026 17:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
