@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 22:34:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:20:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドル、3カ月ぶり低水準に－弱い経済指標受け利上げ見通しが後退</title>
+      <link>https://news.yahoo.co.jp/articles/b1e171bcf455bf0067a71f98ed08607f4884cbcd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b1e171bcf455bf0067a71f98ed08607f4884cbcd</guid>
+      <pubDate>Mon, 17 Aug 2026 22:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>トマホーク巡航ミサイル増産に3.6兆円、米海軍が旧レイセオンと契約</title>
       <link>https://news.yahoo.co.jp/articles/062040879a1f8e761507cd4fc3a66f447ce383e3</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e056f08c06aff875c3740b827fd66fd1587129b0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e056f08c06aff875c3740b827fd66fd1587129b0</guid>
       <pubDate>Sat, 15 Aug 2026 02:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン国民は食料購入にも困窮、ツケ払い広がる－米国は経済圧力強化</title>
-      <link>https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7ffe4dd04f0ea0a51c16d5422269f52234dff5b4</guid>
-      <pubDate>Sat, 15 Aug 2026 01:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
