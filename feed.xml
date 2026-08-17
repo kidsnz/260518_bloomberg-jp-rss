@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:49:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:18:43 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米30年債利回りが約20年ぶり高水準、世界で長期金利の上昇が鮮明に</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/895cfe31a3ca5ce39e140892637e90b7ddf3c8ac</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/895cfe31a3ca5ce39e140892637e90b7ddf3c8ac</guid>
       <pubDate>Tue, 18 Aug 2026 00:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500種は小安い、中東での戦闘激化で原油上昇－円は159円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/ad5b9abe83df3b6772e7fcac99e2a4ddc77985e7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad5b9abe83df3b6772e7fcac99e2a4ddc77985e7</guid>
+      <pubDate>Mon, 17 Aug 2026 23:32:00 +0900</pubDate>
     </item>
     <item>
       <title>米NAHB住宅市場指数､小幅改善－建設費などコスト高が重荷</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</guid>
       <pubDate>Sat, 15 Aug 2026 08:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヘッジファンド、円ショートを半分余り縮小－日米の協調介入以降</title>
-      <link>https://news.yahoo.co.jp/articles/d56d5aee4033d29683413c55173408cc3e416d92</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d56d5aee4033d29683413c55173408cc3e416d92</guid>
-      <pubDate>Sat, 15 Aug 2026 06:31:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
