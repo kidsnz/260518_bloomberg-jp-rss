@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:06:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:58:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国株の主役交代、政策に沿った半導体銘柄台頭－CXMTが時価総額首位</title>
+      <link>https://news.yahoo.co.jp/articles/a6c03196fa256447aa1db5ecfc296ae8d8d68524</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a6c03196fa256447aa1db5ecfc296ae8d8d68524</guid>
+      <pubDate>Mon, 17 Aug 2026 13:55:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘</title>
+      <link>https://news.yahoo.co.jp/articles/6504833ae1c377b59cac5c331e3cc155953b8137</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6504833ae1c377b59cac5c331e3cc155953b8137</guid>
+      <pubDate>Mon, 17 Aug 2026 13:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>【日本市況】長期金利30年ぶり高水準、日銀利上げ加速を警戒－円上昇</title>
       <link>https://news.yahoo.co.jp/articles/eb25b566dcb0769f98235d71a495a9a8be970dd2</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/36dfd8212249bb2c466134fa9400213f1bdb4d9b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36dfd8212249bb2c466134fa9400213f1bdb4d9b</guid>
       <pubDate>Fri, 14 Aug 2026 17:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>任天堂株が急反発､「ぽこ あ ポケモン」好調－上昇軌道に回帰との声</title>
-      <link>https://news.yahoo.co.jp/articles/20ed11d0efb3599e4e8709825908c7ef90412c45</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20ed11d0efb3599e4e8709825908c7ef90412c45</guid>
-      <pubDate>Fri, 14 Aug 2026 17:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>損保3社の政策株売却額4100億円､運用好調で純利益は高進捗－4－6月期</title>
-      <link>https://news.yahoo.co.jp/articles/66f74e0499199d4c44db3e7997f168b95d0abd10</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66f74e0499199d4c44db3e7997f168b95d0abd10</guid>
-      <pubDate>Fri, 14 Aug 2026 16:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
