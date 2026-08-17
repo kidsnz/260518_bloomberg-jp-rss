@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:17:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:48:14 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米アンソロピック売上高、年換算で10.4兆円突破のペース－IPO後押し</title>
@@ -36,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/26dc7dd551e94c1193cf7a4cd447f048e6c6fcb0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26dc7dd551e94c1193cf7a4cd447f048e6c6fcb0</guid>
       <pubDate>Tue, 18 Aug 2026 03:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】超長期国債が下落、仏30年債は18年ぶり安値－株は小幅安</title>
+      <link>https://news.yahoo.co.jp/articles/8bd157c5acbfe11b2a5884088028ba211154b65c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8bd157c5acbfe11b2a5884088028ba211154b65c</guid>
+      <pubDate>Tue, 18 Aug 2026 02:29:00 +0900</pubDate>
     </item>
     <item>
       <title>米長期金利上昇、FRBの政策リスク反映－シタデル・セキュリティーズ</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/71668ca603028004e61b0c0d9e91eba9b0c03500</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71668ca603028004e61b0c0d9e91eba9b0c03500</guid>
       <pubDate>Sun, 16 Aug 2026 03:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アリババのAIモデル、ダウンロード30億回突破－メタやグーグル上回る</title>
-      <link>https://news.yahoo.co.jp/articles/a20e934a9f2841ad989a84f5138de913d9017589</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a20e934a9f2841ad989a84f5138de913d9017589</guid>
-      <pubDate>Sun, 16 Aug 2026 00:04:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
