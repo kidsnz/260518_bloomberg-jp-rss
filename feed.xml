@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:18:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:51:29 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米30年債利回りが約20年ぶり高水準、世界で長期金利の上昇が鮮明に</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/895cfe31a3ca5ce39e140892637e90b7ddf3c8ac</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/895cfe31a3ca5ce39e140892637e90b7ddf3c8ac</guid>
       <pubDate>Tue, 18 Aug 2026 00:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油相場は小幅高、中東情勢の緊迫化と供給継続の兆候が綱引き</title>
+      <link>https://news.yahoo.co.jp/articles/d60c7e97a0cc952434cf5cf7f88d42155aab29ed</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d60c7e97a0cc952434cf5cf7f88d42155aab29ed</guid>
+      <pubDate>Mon, 17 Aug 2026 23:39:00 +0900</pubDate>
     </item>
     <item>
       <title>S&amp;P500種は小安い、中東での戦闘激化で原油上昇－円は159円台前半</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1e340b2c4832db6c4e90b768956acdb6b7cdea22</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e340b2c4832db6c4e90b768956acdb6b7cdea22</guid>
       <pubDate>Sat, 15 Aug 2026 10:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックの売上高、2Qは1.8兆円超－少なくとも14倍に</title>
-      <link>https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac74d244e4a7005b28a7a20010af64ed507b7b0e</guid>
-      <pubDate>Sat, 15 Aug 2026 08:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
