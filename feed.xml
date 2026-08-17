@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 23:20:54 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:51:43 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ドル、3カ月ぶり低水準に－弱い経済指標受け利上げ見通しが後退</title>
@@ -48,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/6b35669298772cc1b8983aa7e41862de0328e632</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b35669298772cc1b8983aa7e41862de0328e632</guid>
       <pubDate>Mon, 17 Aug 2026 17:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国経済、低調な年後半スタート－工業生産と消費、投資が予想下回る</title>
+      <link>https://news.yahoo.co.jp/articles/e6ab4fbd68be1d91a81fe267b87a5f054b8545d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e6ab4fbd68be1d91a81fe267b87a5f054b8545d3</guid>
+      <pubDate>Mon, 17 Aug 2026 16:45:00 +0900</pubDate>
     </item>
     <item>
       <title>楽天G、ドイツの防衛スタートアップと協業－軍用ドローン導入支援</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e9372af8e019d5a27c0f5ed2a4683fadfbaa641c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e9372af8e019d5a27c0f5ed2a4683fadfbaa641c</guid>
       <pubDate>Sat, 15 Aug 2026 02:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シカゴ連銀総裁、インフレ鈍化のさらなる裏付け必要</title>
-      <link>https://news.yahoo.co.jp/articles/e056f08c06aff875c3740b827fd66fd1587129b0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e056f08c06aff875c3740b827fd66fd1587129b0</guid>
-      <pubDate>Sat, 15 Aug 2026 02:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
