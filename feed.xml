@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 19:03:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 19:55:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>銅価格、ロンドン市場で過去最高値に迫る－米国に流入続き需給ひっ迫</title>
+      <link>https://news.yahoo.co.jp/articles/c3fb1ec0d81bc62c17fc918a992eaa545a2d32e6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c3fb1ec0d81bc62c17fc918a992eaa545a2d32e6</guid>
+      <pubDate>Mon, 17 Aug 2026 18:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>楽天G、ドイツの防衛スタートアップと協業－軍用ドローン導入支援</title>
       <link>https://news.yahoo.co.jp/articles/66a467ed7b6522139ae0caa316959fd1d747bfdf</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4f85d0670e1c1be338b039a9b9d81fef0b22ab8c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4f85d0670e1c1be338b039a9b9d81fef0b22ab8c</guid>
       <pubDate>Fri, 14 Aug 2026 21:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米小売売上高、７月は前月比0.6％減少－市場予想は0.1％増</title>
-      <link>https://news.yahoo.co.jp/articles/958f389196922f724151c8f08132ef2d5f21e3a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/958f389196922f724151c8f08132ef2d5f21e3a8</guid>
-      <pubDate>Fri, 14 Aug 2026 21:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
