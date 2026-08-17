@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:48:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:17:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米アンソロピック売上高、年換算で10.4兆円突破のペース－IPO後押し</title>
+      <link>https://news.yahoo.co.jp/articles/d2f1767d47fd83fc4dcde3d7c3df9451898064ae</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d2f1767d47fd83fc4dcde3d7c3df9451898064ae</guid>
+      <pubDate>Tue, 18 Aug 2026 06:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>米・イラン和平の見通しに暗雲、トランプ氏は覚書の延長はせずと明言</title>
       <link>https://news.yahoo.co.jp/articles/701f94bd70d06f9729a1f912228d564c4ad7ebe9</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a20e934a9f2841ad989a84f5138de913d9017589</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a20e934a9f2841ad989a84f5138de913d9017589</guid>
       <pubDate>Sun, 16 Aug 2026 00:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランとオマーン、ホルムズ海峡巡る合意に近づく－船舶攻撃相次ぐ中</title>
-      <link>https://news.yahoo.co.jp/articles/57a0479a1c1a21c7333650f9ec9b90e24bac0dc5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57a0479a1c1a21c7333650f9ec9b90e24bac0dc5</guid>
-      <pubDate>Sun, 16 Aug 2026 22:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
