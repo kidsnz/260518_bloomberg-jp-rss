@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:51:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:19:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油続伸、ブレント90ドル台－中東での紛争相次ぎ供給回復見通し後退</title>
+      <link>https://news.yahoo.co.jp/articles/f50565f5f1e5e5594b95d16dc63f86a091e22551</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f50565f5f1e5e5594b95d16dc63f86a091e22551</guid>
+      <pubDate>Tue, 18 Aug 2026 05:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>米30年債利回りが約20年ぶり高水準、世界で長期金利の上昇が鮮明に</title>
       <link>https://news.yahoo.co.jp/articles/26dc7dd551e94c1193cf7a4cd447f048e6c6fcb0</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/99d9ebdb7b8b8756c88f8a051b15506c4c43018d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/99d9ebdb7b8b8756c88f8a051b15506c4c43018d</guid>
       <pubDate>Sat, 15 Aug 2026 11:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG、台湾TSMC株の保有を72%削減－開示</title>
-      <link>https://news.yahoo.co.jp/articles/1e340b2c4832db6c4e90b768956acdb6b7cdea22</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1e340b2c4832db6c4e90b768956acdb6b7cdea22</guid>
-      <pubDate>Sat, 15 Aug 2026 10:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
