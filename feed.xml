@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:48:14 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:17:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本株は下落へ、原油高や日米の金利上昇が重し－内需関連に売り</title>
+      <link>https://news.yahoo.co.jp/articles/483fcfc43ae693937b20492446544b101ee01395</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/483fcfc43ae693937b20492446544b101ee01395</guid>
+      <pubDate>Tue, 18 Aug 2026 07:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>米アンソロピック売上高、年換算で10.4兆円突破のペース－IPO後押し</title>
       <link>https://news.yahoo.co.jp/articles/d2f1767d47fd83fc4dcde3d7c3df9451898064ae</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7a849925febb99495733c60835d910f4153382b</guid>
       <pubDate>Sun, 16 Aug 2026 05:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベッセント財務長官が目指すイランの経済的孤立、想定される措置は?</title>
-      <link>https://news.yahoo.co.jp/articles/71668ca603028004e61b0c0d9e91eba9b0c03500</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71668ca603028004e61b0c0d9e91eba9b0c03500</guid>
-      <pubDate>Sun, 16 Aug 2026 03:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
