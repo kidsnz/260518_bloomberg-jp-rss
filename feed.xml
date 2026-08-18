@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:03:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:57:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>今年の消費者物価上昇率、目標2%大幅に上回る可能性－ECBレーン理事</title>
+      <link>https://news.yahoo.co.jp/articles/76aad5ba34c9f08216d5a589b493997028b1ee21</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76aad5ba34c9f08216d5a589b493997028b1ee21</guid>
+      <pubDate>Tue, 18 Aug 2026 18:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英国企業、7月に人員さらに削減－求人件数は2021年以来の低水準</title>
+      <link>https://news.yahoo.co.jp/articles/1679be03d25b049c3d9dab07b4d832ab34338bc3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1679be03d25b049c3d9dab07b4d832ab34338bc3</guid>
+      <pubDate>Tue, 18 Aug 2026 17:45:00 +0900</pubDate>
+    </item>
     <item>
       <title>世界で長期金利上昇、十数年ぶり高水準－AI社債発行増や国債需要減で</title>
       <link>https://news.yahoo.co.jp/articles/0ebfd491459ccd1c12b18b49098991b963005b44</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/581ba4c10297d423c7b383b6932d4c1789b5ffa5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/581ba4c10297d423c7b383b6932d4c1789b5ffa5</guid>
       <pubDate>Mon, 17 Aug 2026 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米利上げ観測後退し株式上昇へ－中東情勢警戒で債券は下落</title>
-      <link>https://news.yahoo.co.jp/articles/ad4cda554c655b20e34860355e1ff606dc815320</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad4cda554c655b20e34860355e1ff606dc815320</guid>
-      <pubDate>Mon, 17 Aug 2026 08:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油上昇、レバノン緊張とホルムズ海峡のリスクに市場は注目</title>
-      <link>https://news.yahoo.co.jp/articles/9ca01ea41f51e8e3e3168c738356fe8d146ec75f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9ca01ea41f51e8e3e3168c738356fe8d146ec75f</guid>
-      <pubDate>Mon, 17 Aug 2026 08:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
