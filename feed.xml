@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:49:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:33:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>フランス債に弱気強まる、夏の間にショート増加－政治リスクを意識</title>
+      <link>https://news.yahoo.co.jp/articles/a2af9a7d679eeabfa5812059af13b69d0d61bd5e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2af9a7d679eeabfa5812059af13b69d0d61bd5e</guid>
+      <pubDate>Tue, 18 Aug 2026 20:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>株式強気派が席巻、オーバーウエート約5年ぶり高水準－BofA調査</title>
       <link>https://news.yahoo.co.jp/articles/348fcb5be78732a00f3272c1d994e570e8546479</link>
@@ -60,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/be90bd65698b9f8b0962eafb94b1216ba4371601</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be90bd65698b9f8b0962eafb94b1216ba4371601</guid>
       <pubDate>Tue, 18 Aug 2026 12:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国大統領、原潜保有へ対米協議加速呼び掛け－トランプ氏の批判受け</title>
+      <link>https://news.yahoo.co.jp/articles/43f17b49960a1f6cc068edacb82f3bec5ba739a4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/43f17b49960a1f6cc068edacb82f3bec5ba739a4</guid>
+      <pubDate>Tue, 18 Aug 2026 12:49:00 +0900</pubDate>
     </item>
     <item>
       <title>シチュエーショナル、太陽誘電株をシタデルなどに売却</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/066127bd25292912538791a367df27307892901c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/066127bd25292912538791a367df27307892901c</guid>
       <pubDate>Mon, 17 Aug 2026 14:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国株の主役交代、政策に沿った半導体銘柄台頭－CXMTが時価総額首位</title>
-      <link>https://news.yahoo.co.jp/articles/a6c03196fa256447aa1db5ecfc296ae8d8d68524</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a6c03196fa256447aa1db5ecfc296ae8d8d68524</guid>
-      <pubDate>Mon, 17 Aug 2026 13:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘</title>
-      <link>https://news.yahoo.co.jp/articles/6504833ae1c377b59cac5c331e3cc155953b8137</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6504833ae1c377b59cac5c331e3cc155953b8137</guid>
-      <pubDate>Mon, 17 Aug 2026 13:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
