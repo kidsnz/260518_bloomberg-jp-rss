@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:21:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:05:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>5年国債入札、応札倍率は過去12カ月平均上回る－昨年6月以来の高水準</title>
+      <link>https://news.yahoo.co.jp/articles/c2afcb16536230a29a9582d67faecce04200f3a2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2afcb16536230a29a9582d67faecce04200f3a2</guid>
+      <pubDate>Tue, 18 Aug 2026 12:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ジェーン・ストリート150億ドル損失、ヘッジファンド的側面浮き彫り</title>
+      <link>https://news.yahoo.co.jp/articles/b29d8a3cf9c2a1997d7e0cae126913cab9eb221f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b29d8a3cf9c2a1997d7e0cae126913cab9eb221f</guid>
+      <pubDate>Tue, 18 Aug 2026 10:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>【日本市況】債券続落、中東・財政懸念で世界的金利高－日経平均下落</title>
       <link>https://news.yahoo.co.jp/articles/cd9068aa65447dd852c7172eeeeb4712c5ecbcb9</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0f896f1c3331b9c2d0b5d65bc661f74a526dbab0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f896f1c3331b9c2d0b5d65bc661f74a526dbab0</guid>
       <pubDate>Sun, 16 Aug 2026 23:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウクライナ、ロシアを大規模ドローン攻撃－ロシア軍822機撃墜で最多</title>
-      <link>https://news.yahoo.co.jp/articles/3f0c59b49519d346d65452b6cf45b114fc580b73</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f0c59b49519d346d65452b6cf45b114fc580b73</guid>
-      <pubDate>Sun, 16 Aug 2026 23:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、前最高指導者ハメネイ師の追悼式典を開催－18日から3日間</title>
-      <link>https://news.yahoo.co.jp/articles/72fee769fb5cedace7a17015b17220dcd4cf9b11</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72fee769fb5cedace7a17015b17220dcd4cf9b11</guid>
-      <pubDate>Sun, 16 Aug 2026 18:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
