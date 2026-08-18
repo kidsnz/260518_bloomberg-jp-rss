@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:17:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:45:35 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アンソロピック､創業者への強力な議決権付与準備-インフォメーション</title>
@@ -30,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/f8a036716707078c5ef1f35a76f45e8e466d8d51</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8a036716707078c5ef1f35a76f45e8e466d8d51</guid>
       <pubDate>Wed, 19 Aug 2026 02:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株は3日続落、長期債利回りが高止まり－円は小幅安</title>
+      <link>https://news.yahoo.co.jp/articles/515dbb893efc02af1a223c0e60f327050919905b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/515dbb893efc02af1a223c0e60f327050919905b</guid>
+      <pubDate>Wed, 19 Aug 2026 23:11:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株が下落、半導体株に売り－世界的な金利高への不安強まる</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3a63d722d6487359cb1f2451655e064b4ace1c45</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a63d722d6487359cb1f2451655e064b4ace1c45</guid>
       <pubDate>Tue, 18 Aug 2026 23:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500種は小安い、中東での戦闘激化で原油上昇－円は159円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/ad5b9abe83df3b6772e7fcac99e2a4ddc77985e7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad5b9abe83df3b6772e7fcac99e2a4ddc77985e7</guid>
-      <pubDate>Mon, 17 Aug 2026 23:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
