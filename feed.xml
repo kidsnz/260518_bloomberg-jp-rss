@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:57:04 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:26:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドイツ経済見通しが改善、ZEW期待指数が予想上回る－景気回復に勢い</title>
+      <link>https://news.yahoo.co.jp/articles/fb61c4fc183041928fee10b5c01901116db6f47f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb61c4fc183041928fee10b5c01901116db6f47f</guid>
+      <pubDate>Tue, 18 Aug 2026 18:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>今年の消費者物価上昇率、目標2%大幅に上回る可能性－ECBレーン理事</title>
       <link>https://news.yahoo.co.jp/articles/76aad5ba34c9f08216d5a589b493997028b1ee21</link>
@@ -68,7 +74,7 @@
       <pubDate>Tue, 18 Aug 2026 10:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】長期金利30年ぶり高水準、世界的金利高の流れ－株下落</title>
+      <title>【日本市況】長期金利30年ぶり高水準、世界的金利高続く－株･円下落</title>
       <link>https://news.yahoo.co.jp/articles/cd9068aa65447dd852c7172eeeeb4712c5ecbcb9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd9068aa65447dd852c7172eeeeb4712c5ecbcb9</guid>
       <pubDate>Tue, 18 Aug 2026 09:38:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2046e0c94e3f9adbf5c213af88c7e8be1a793c67</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2046e0c94e3f9adbf5c213af88c7e8be1a793c67</guid>
       <pubDate>Mon, 17 Aug 2026 09:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中東原油、探知避けてホルムズ海峡シャトル輸送－世界の価格上昇抑制</title>
-      <link>https://news.yahoo.co.jp/articles/581ba4c10297d423c7b383b6932d4c1789b5ffa5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/581ba4c10297d423c7b383b6932d4c1789b5ffa5</guid>
-      <pubDate>Mon, 17 Aug 2026 08:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
