@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:32:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:32:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本、豪州で極超音速兵器含むミサイル実験実施へ－枠組み拡充で合意</title>
+      <link>https://news.yahoo.co.jp/articles/6a94a7463a5752d7d18e9a493c8c679a97363020</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a94a7463a5752d7d18e9a493c8c679a97363020</guid>
+      <pubDate>Tue, 18 Aug 2026 15:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>ブラックストーンなどプライベートクレジットファンド、社債を増額</title>
       <link>https://news.yahoo.co.jp/articles/0f3812021e71d97a907f83991db964d8d5fff213</link>
@@ -26,7 +32,7 @@
       <pubDate>Tue, 18 Aug 2026 12:47:00 +0900</pubDate>
     </item>
     <item>
-      <title>5年国債入札「強めの結果」との見方、応札倍率が昨年6月以来の高水準</title>
+      <title>市場の関心は20年債入札へ、超長期ゾーンに警戒感－5年債入札は強め</title>
       <link>https://news.yahoo.co.jp/articles/c2afcb16536230a29a9582d67faecce04200f3a2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2afcb16536230a29a9582d67faecce04200f3a2</guid>
       <pubDate>Tue, 18 Aug 2026 12:40:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/907ed309ae18e7c0dd9df34cd61f4dc99059e0b2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/907ed309ae18e7c0dd9df34cd61f4dc99059e0b2</guid>
       <pubDate>Mon, 17 Aug 2026 08:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>債券は下落へ、原油高で米長期金利が上昇－円は対ドルで159円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/126838a8416415115b7ff5e5f19af4416e673075</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/126838a8416415115b7ff5e5f19af4416e673075</guid>
-      <pubDate>Mon, 17 Aug 2026 07:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
