@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:20:30 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:49:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>株式強気派が席巻、オーバーウエート約5年ぶり高水準－BofA調査</title>
+      <link>https://news.yahoo.co.jp/articles/348fcb5be78732a00f3272c1d994e570e8546479</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/348fcb5be78732a00f3272c1d994e570e8546479</guid>
+      <pubDate>Tue, 18 Aug 2026 20:13:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国の百度、売上高が5四半期連続減－AI出遅れ挽回できず</title>
       <link>https://news.yahoo.co.jp/articles/5a8dcb192420eeda983fb62200baf53812490de4</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6504833ae1c377b59cac5c331e3cc155953b8137</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6504833ae1c377b59cac5c331e3cc155953b8137</guid>
       <pubDate>Mon, 17 Aug 2026 13:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】長期金利30年ぶり高水準、日銀利上げ加速を警戒－円上昇</title>
-      <link>https://news.yahoo.co.jp/articles/eb25b566dcb0769f98235d71a495a9a8be970dd2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb25b566dcb0769f98235d71a495a9a8be970dd2</guid>
-      <pubDate>Mon, 17 Aug 2026 09:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
