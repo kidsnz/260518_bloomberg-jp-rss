@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:54:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:12:31 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米、韓国に対米投資事業第一号を半導体メモリーにするよう要求－報道</title>
+      <title>【日本市況】長期金利が30年ぶり高水準、世界的金利高－日経平均下落</title>
+      <link>https://news.yahoo.co.jp/articles/cd9068aa65447dd852c7172eeeeb4712c5ecbcb9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd9068aa65447dd852c7172eeeeb4712c5ecbcb9</guid>
+      <pubDate>Tue, 18 Aug 2026 09:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>韓国政府、対米投資プロジェクト第1号で半導体協議との報道否定</title>
       <link>https://news.yahoo.co.jp/articles/eb4f78c242c1337fa2281e5ee874cd0e329f2944</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb4f78c242c1337fa2281e5ee874cd0e329f2944</guid>
       <pubDate>Tue, 18 Aug 2026 09:24:00 +0900</pubDate>
@@ -116,6 +122,12 @@
       <pubDate>Mon, 17 Aug 2026 23:32:00 +0900</pubDate>
     </item>
     <item>
+      <title>米住宅市場指数、小幅改善にとどまる－建設費などコスト高が重荷</title>
+      <link>https://news.yahoo.co.jp/articles/590f3c743cfc0a3146a5c34a93b897cd3ba25250</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/590f3c743cfc0a3146a5c34a93b897cd3ba25250</guid>
+      <pubDate>Tue, 18 Aug 2026 23:16:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米NAHB住宅市場指数､小幅改善－建設費などコスト高が重荷</title>
       <link>https://news.yahoo.co.jp/articles/d06dec64dbb55ddab5ab309b09c08a3205882775</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d06dec64dbb55ddab5ab309b09c08a3205882775</guid>
@@ -146,7 +158,7 @@
       <pubDate>Mon, 17 Aug 2026 21:45:00 +0900</pubDate>
     </item>
     <item>
-      <title>8月のNY連銀製造業景況指数は20.6に上昇、2021年12月以来の高水準</title>
+      <title>8月のNY連銀製造業指数、21年12月以来の高水準－受注が堅調維持</title>
       <link>https://news.yahoo.co.jp/articles/fdf82228a5f7d11efa13f7076538976a58eb7dbf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdf82228a5f7d11efa13f7076538976a58eb7dbf</guid>
       <pubDate>Mon, 17 Aug 2026 21:45:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/72fee769fb5cedace7a17015b17220dcd4cf9b11</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/72fee769fb5cedace7a17015b17220dcd4cf9b11</guid>
       <pubDate>Sun, 16 Aug 2026 18:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI企業の姿なき負債、債券市場が懸念－エヌビディアなど残価保証巡り</title>
-      <link>https://news.yahoo.co.jp/articles/93bc1468a29fd513b1c34a1bfdba8623b8f53095</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93bc1468a29fd513b1c34a1bfdba8623b8f53095</guid>
-      <pubDate>Mon, 17 Aug 2026 17:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI企業の姿なき負債、債券市場が懸念－エヌビディアなど残価保証巡り</title>
-      <link>https://news.yahoo.co.jp/articles/0330e9c2dce2657f0b21f388ffe67585dfa67dfb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0330e9c2dce2657f0b21f388ffe67585dfa67dfb</guid>
-      <pubDate>Sun, 16 Aug 2026 17:36:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
