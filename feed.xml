@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:05:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:00:41 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>5年国債入札、応札倍率は過去12カ月平均上回る－昨年6月以来の高水準</title>
+      <title>ブラックストーンなどプライベートクレジットファンド、社債を増額</title>
+      <link>https://news.yahoo.co.jp/articles/0f3812021e71d97a907f83991db964d8d5fff213</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f3812021e71d97a907f83991db964d8d5fff213</guid>
+      <pubDate>Tue, 18 Aug 2026 13:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホルムズ海峡で船舶に飛翔体、乗組員1人死亡－英海軍</title>
+      <link>https://news.yahoo.co.jp/articles/be90bd65698b9f8b0962eafb94b1216ba4371601</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be90bd65698b9f8b0962eafb94b1216ba4371601</guid>
+      <pubDate>Tue, 18 Aug 2026 12:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>シチュエーショナル、太陽誘電株をシタデルなどに売却</title>
+      <link>https://news.yahoo.co.jp/articles/1a2ae7cfe7fba7cd915ea845f953368a60b8e3cb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a2ae7cfe7fba7cd915ea845f953368a60b8e3cb</guid>
+      <pubDate>Tue, 18 Aug 2026 12:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>5年国債入札「強めの結果」との見方、応札倍率が昨年6月以来の高水準</title>
       <link>https://news.yahoo.co.jp/articles/c2afcb16536230a29a9582d67faecce04200f3a2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2afcb16536230a29a9582d67faecce04200f3a2</guid>
       <pubDate>Tue, 18 Aug 2026 12:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドジャースオーナー関連の米生保の社債が急落、空売り投資家が問題視</title>
+      <link>https://news.yahoo.co.jp/articles/ca5da5f5cd46e79da9940d1f90313e0494276909</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ca5da5f5cd46e79da9940d1f90313e0494276909</guid>
+      <pubDate>Tue, 18 Aug 2026 12:27:00 +0900</pubDate>
     </item>
     <item>
       <title>ジェーン・ストリート150億ドル損失、ヘッジファンド的側面浮き彫り</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/126838a8416415115b7ff5e5f19af4416e673075</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/126838a8416415115b7ff5e5f19af4416e673075</guid>
       <pubDate>Mon, 17 Aug 2026 07:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国7月の経済統計、日本時間午後4時に発表－通常の午前11時から変更</title>
-      <link>https://news.yahoo.co.jp/articles/272748c95de36ca1eb626ea5c191d8cb4c03835a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/272748c95de36ca1eb626ea5c191d8cb4c03835a</guid>
-      <pubDate>Mon, 17 Aug 2026 07:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、米韓軍事演習を大幅縮小へ－日本含む同盟国に懸念も</title>
-      <link>https://news.yahoo.co.jp/articles/348c4c866cb286526f1fe775134c2b382651275b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/348c4c866cb286526f1fe775134c2b382651275b</guid>
-      <pubDate>Mon, 17 Aug 2026 06:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イスラエルが再びレバノン空爆、死者多数－米は対イラン追加制裁準備</title>
-      <link>https://news.yahoo.co.jp/articles/3fc8210bfb6d6473787758fdc15c051464652b3e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3fc8210bfb6d6473787758fdc15c051464652b3e</guid>
-      <pubDate>Sun, 16 Aug 2026 23:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イスラエルが再びレバノン空爆、死者多数－米イラン合意期限を前に</title>
-      <link>https://news.yahoo.co.jp/articles/0f896f1c3331b9c2d0b5d65bc661f74a526dbab0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f896f1c3331b9c2d0b5d65bc661f74a526dbab0</guid>
-      <pubDate>Sun, 16 Aug 2026 23:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
