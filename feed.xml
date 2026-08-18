@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:55:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:20:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>中国の百度、売上高が5四半期連続減－AI出遅れ挽回できず</title>
+      <link>https://news.yahoo.co.jp/articles/5a8dcb192420eeda983fb62200baf53812490de4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a8dcb192420eeda983fb62200baf53812490de4</guid>
+      <pubDate>Tue, 18 Aug 2026 18:50:00 +0900</pubDate>
+    </item>
     <item>
       <title>ドイツ経済見通しが改善、ZEW期待指数が予想上回る－景気回復に勢い</title>
       <link>https://news.yahoo.co.jp/articles/fb61c4fc183041928fee10b5c01901116db6f47f</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/eb25b566dcb0769f98235d71a495a9a8be970dd2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb25b566dcb0769f98235d71a495a9a8be970dd2</guid>
       <pubDate>Mon, 17 Aug 2026 09:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米アルファベット、豪ドル建て債を初発行へ－AI投資で資金調達拡大</title>
-      <link>https://news.yahoo.co.jp/articles/2046e0c94e3f9adbf5c213af88c7e8be1a793c67</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2046e0c94e3f9adbf5c213af88c7e8be1a793c67</guid>
-      <pubDate>Mon, 17 Aug 2026 09:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
