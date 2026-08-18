@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:48:24 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:16:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日本株は続落へ、金利上昇や中東情勢に警戒－AI・半導体に売り</title>
+      <link>https://news.yahoo.co.jp/articles/0be89ce1fe942336c75ba7f1f31332c6c4b9a1bb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0be89ce1fe942336c75ba7f1f31332c6c4b9a1bb</guid>
+      <pubDate>Wed, 19 Aug 2026 07:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円は対ドルで159円台後半、中東巡る不透明感と介入警戒－債券上昇へ</title>
+      <link>https://news.yahoo.co.jp/articles/40a8420df3ab6bafb3e20863c5506e1910291793</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40a8420df3ab6bafb3e20863c5506e1910291793</guid>
+      <pubDate>Wed, 19 Aug 2026 07:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>米とカナダ、関税交渉で合意期待後退－50%関税の発動期限迫る</title>
       <link>https://news.yahoo.co.jp/articles/f807c8b73ef84001df6a2d1a7441116cfc3b21bc</link>
@@ -42,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/f8a036716707078c5ef1f35a76f45e8e466d8d51</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8a036716707078c5ef1f35a76f45e8e466d8d51</guid>
       <pubDate>Wed, 19 Aug 2026 02:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米中古住宅販売成約指数は7月に低下、今年の最低水準に迫る</title>
+      <link>https://news.yahoo.co.jp/articles/016daf95794470e33dd51b73c73aa368a4b7ffe3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/016daf95794470e33dd51b73c73aa368a4b7ffe3</guid>
+      <pubDate>Tue, 18 Aug 2026 23:14:00 +0900</pubDate>
     </item>
     <item>
       <title>【米国市況】株は3日続落、長期債利回りが高止まり－円は小幅安</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8bd157c5acbfe11b2a5884088028ba211154b65c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8bd157c5acbfe11b2a5884088028ba211154b65c</guid>
       <pubDate>Tue, 18 Aug 2026 02:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米長期金利上昇、FRBの政策リスク反映－シタデル・セキュリティーズ</title>
-      <link>https://news.yahoo.co.jp/articles/48fbe2c2e4f400a6f7c21521ba24271971592e0a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48fbe2c2e4f400a6f7c21521ba24271971592e0a</guid>
-      <pubDate>Tue, 18 Aug 2026 02:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、OpenAI賃借のデータセンター支援で最大1050億ドル拠出</title>
-      <link>https://news.yahoo.co.jp/articles/70bc07ae2225e9620d5ed5f2b065ddc54d23a9cc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/70bc07ae2225e9620d5ed5f2b065ddc54d23a9cc</guid>
-      <pubDate>Tue, 18 Aug 2026 01:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米・イラン和平の見通しに暗雲、トランプ氏は戦争終結の合意急がず</title>
-      <link>https://news.yahoo.co.jp/articles/895cfe31a3ca5ce39e140892637e90b7ddf3c8ac</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/895cfe31a3ca5ce39e140892637e90b7ddf3c8ac</guid>
-      <pubDate>Tue, 18 Aug 2026 00:34:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
