@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:26:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:52 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>日米円買い協調介入は「逆効果」、不介入ならより円高に－ドイツ銀行</title>
@@ -36,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/cef6c19cfd5116dc1613274d8cbc54b387c900cf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cef6c19cfd5116dc1613274d8cbc54b387c900cf</guid>
       <pubDate>Tue, 18 Aug 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップル株、最高値から10％安－AI巨額投資と一線画す戦略が裏目に</title>
+      <link>https://news.yahoo.co.jp/articles/e3b5d873af8d7365409ff353d8eb70dfc52730c0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e3b5d873af8d7365409ff353d8eb70dfc52730c0</guid>
+      <pubDate>Tue, 18 Aug 2026 21:15:00 +0900</pubDate>
     </item>
     <item>
       <title>フランス債に弱気強まる、夏の間にショート増加－政治リスクを意識</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/db26e41ea3190e4e993bc066e24f07a342aa57fa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/db26e41ea3190e4e993bc066e24f07a342aa57fa</guid>
       <pubDate>Mon, 17 Aug 2026 20:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中東和平に暗雲、イスラエルとヒズボラの戦闘激化－ガザでも攻撃</title>
-      <link>https://news.yahoo.co.jp/articles/704ea3f2aba7590c9ea5d335cb0857d1884abbeb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/704ea3f2aba7590c9ea5d335cb0857d1884abbeb</guid>
-      <pubDate>Mon, 17 Aug 2026 20:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
