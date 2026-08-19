@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 06:48:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:18:25 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ベッセント氏の米国債買い戻し増額表明、「ツイストオペ」再来か</title>
       <link>https://news.yahoo.co.jp/articles/6ef9606ebe962374c01dba6f2e53b7a4bff1901f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6ef9606ebe962374c01dba6f2e53b7a4bff1901f</guid>
       <pubDate>Thu, 20 Aug 2026 06:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ米政権、カナダからの輸入車関税率15%に引き下げの方向</title>
+      <link>https://news.yahoo.co.jp/articles/a9dded658d6ba495ab440e6ccc02b4d200902064</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a9dded658d6ba495ab440e6ccc02b4d200902064</guid>
+      <pubDate>Thu, 20 Aug 2026 06:03:00 +0900</pubDate>
     </item>
     <item>
       <title>難関日本市場攻めるBYD、軽EV「ラッコ」に重責ー世界攻略への試金石</title>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</guid>
       <pubDate>Thu, 20 Aug 2026 03:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】超長期債が反発、米財務省の長期国債買い戻し増額を好感</title>
+      <link>https://news.yahoo.co.jp/articles/85ea4f099bd2fd23ad2430402869cb74cf03854f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85ea4f099bd2fd23ad2430402869cb74cf03854f</guid>
+      <pubDate>Thu, 20 Aug 2026 02:53:00 +0900</pubDate>
     </item>
     <item>
       <title>ビットコイン急騰、一時7.7%高－トランプ氏と業界幹部の会合控え</title>
@@ -74,7 +86,7 @@
       <pubDate>Wed, 19 Aug 2026 21:53:00 +0900</pubDate>
     </item>
     <item>
-      <title>ベッセント長官、予想外の米国債買い戻し増額－利回り急低下し円上昇</title>
+      <title>米財務省、予想外の米国債買い戻し増額－利回り急低下し円上昇</title>
       <link>https://news.yahoo.co.jp/articles/20f03a9d93c7db564527a26de8a186aa24f9aede</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20f03a9d93c7db564527a26de8a186aa24f9aede</guid>
       <pubDate>Thu, 20 Aug 2026 21:51:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5c6d1b594d3f33365c506d97b32af6bce415f1ea</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c6d1b594d3f33365c506d97b32af6bce415f1ea</guid>
       <pubDate>Wed, 19 Aug 2026 02:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコインの「クジラ」が再び買いに転じる－低迷する市場に安心感</title>
-      <link>https://news.yahoo.co.jp/articles/f8a036716707078c5ef1f35a76f45e8e466d8d51</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8a036716707078c5ef1f35a76f45e8e466d8d51</guid>
-      <pubDate>Wed, 19 Aug 2026 02:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中古住宅販売成約指数は7月に低下、今年の最低水準に迫る</title>
-      <link>https://news.yahoo.co.jp/articles/016daf95794470e33dd51b73c73aa368a4b7ffe3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/016daf95794470e33dd51b73c73aa368a4b7ffe3</guid>
-      <pubDate>Tue, 18 Aug 2026 23:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
