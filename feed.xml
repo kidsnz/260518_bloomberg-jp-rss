@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:06:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:57:02 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>楽天市場への出店、カタログハウスがとりやめ－軍用ドローン支援巡り</title>
+      <link>https://news.yahoo.co.jp/articles/14f54648817ce73b72d53f741fc95b605e337e91</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/14f54648817ce73b72d53f741fc95b605e337e91</guid>
+      <pubDate>Wed, 19 Aug 2026 17:47:00 +0900</pubDate>
+    </item>
     <item>
       <title>米ペンシルベニア州、データセンター建設規制へ－NYやテキサスに続き</title>
       <link>https://news.yahoo.co.jp/articles/f3426d58d677739000365ca300b7a1b2dbc35bbe</link>
@@ -86,7 +92,7 @@
       <pubDate>Wed, 19 Aug 2026 10:28:00 +0900</pubDate>
     </item>
     <item>
-      <title>中国ヒト型ロボットのユニツリー、上場初日に株価7倍超え－上海市場</title>
+      <title>中国ヒト型ロボットのユニツリー、上場初日に株価一時7倍超</title>
       <link>https://news.yahoo.co.jp/articles/acbd75b87ef03a3e0d5b42b5180a4030b55f5368</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/acbd75b87ef03a3e0d5b42b5180a4030b55f5368</guid>
       <pubDate>Wed, 19 Aug 2026 09:55:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1679be03d25b049c3d9dab07b4d832ab34338bc3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1679be03d25b049c3d9dab07b4d832ab34338bc3</guid>
       <pubDate>Tue, 18 Aug 2026 17:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフト関連の社債発行案件、ジャンク級並み利回りで需要殺到</title>
-      <link>https://news.yahoo.co.jp/articles/7648386650133e429fc0c37355473884bbac071b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7648386650133e429fc0c37355473884bbac071b</guid>
-      <pubDate>Tue, 18 Aug 2026 16:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
