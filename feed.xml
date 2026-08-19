@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 02:48:38 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:25:45 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アンソロピック関連AI施設に13億ドル融資－イーグル・ポイント</title>
@@ -30,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/6426abd952dd119effd48fab9ef49ed95f7b7127</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6426abd952dd119effd48fab9ef49ed95f7b7127</guid>
       <pubDate>Wed, 19 Aug 2026 21:53:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント長官、予想外の米国債買い戻し増額－利回り急低下し円上昇</title>
+      <link>https://news.yahoo.co.jp/articles/20f03a9d93c7db564527a26de8a186aa24f9aede</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20f03a9d93c7db564527a26de8a186aa24f9aede</guid>
+      <pubDate>Thu, 20 Aug 2026 21:51:00 +0900</pubDate>
     </item>
     <item>
       <title>ベッセント財務長官、予想外の米国債買い戻し増額－長期債と円が上昇</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b4b1b2d3e677d1686e0db7b45323d385642a749</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b4b1b2d3e677d1686e0db7b45323d385642a749</guid>
       <pubDate>Tue, 18 Aug 2026 22:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米住宅着工件数、予想以上に減少－集合住宅と一戸建てともに落ち込む</title>
-      <link>https://news.yahoo.co.jp/articles/90ca12968ab8fd5b938c4461442a55644e820b12</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90ca12968ab8fd5b938c4461442a55644e820b12</guid>
-      <pubDate>Tue, 18 Aug 2026 21:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
