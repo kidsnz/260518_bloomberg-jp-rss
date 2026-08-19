@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:47:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:19:39 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>FOMC議事要旨：利上げは必要になるだろうと多くの参加者が認識</title>
       <link>https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</guid>
       <pubDate>Thu, 20 Aug 2026 03:12:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>グーグルとマーベル、半導体で提携拡大－最大122億ドルのワラントも</title>
+      <link>https://news.yahoo.co.jp/articles/5c0715c64902a487e2b567baf6564e71b4ebda62</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c0715c64902a487e2b567baf6564e71b4ebda62</guid>
+      <pubDate>Thu, 20 Aug 2026 00:55:00 +0900</pubDate>
     </item>
     <item>
       <title>アンソロピック関連AI施設に13億ドル融資－イーグル・ポイント</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/eed239b578b27a44a4980aa057b538542d411291</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eed239b578b27a44a4980aa057b538542d411291</guid>
       <pubDate>Wed, 19 Aug 2026 22:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米鉱工業生産指数、7月に0.2%上昇－製造業の生産増が押し上げ</title>
-      <link>https://news.yahoo.co.jp/articles/3b1871ca3062a63140f1614b847f79c93b588dea</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1871ca3062a63140f1614b847f79c93b588dea</guid>
-      <pubDate>Tue, 18 Aug 2026 22:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
