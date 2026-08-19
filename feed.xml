@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:55:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:26:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピック関連AI施設に13億ドル融資－イーグル・ポイント</title>
+      <link>https://news.yahoo.co.jp/articles/8ba04f0da2378a2f65a9b104c4d561406ceb6628</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ba04f0da2378a2f65a9b104c4d561406ceb6628</guid>
+      <pubDate>Wed, 19 Aug 2026 23:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>S&amp;P500種反発、長期金利低下を好感－米財務省が長期債買い戻し倍増へ</title>
       <link>https://news.yahoo.co.jp/articles/c764dd096905f458af9a65e9008af1c6efe5870c</link>
@@ -26,7 +32,7 @@
       <pubDate>Wed, 19 Aug 2026 21:53:00 +0900</pubDate>
     </item>
     <item>
-      <title>米財務省、長期国債の買い戻し額の上限を少なくとも2倍に引き上げへ</title>
+      <title>ベッセント財務長官、予想外の米国債買い戻し増額－長期債と円が上昇</title>
       <link>https://news.yahoo.co.jp/articles/b3f9ed9b5ec633ec68c53af500e16d12f36e1dfb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3f9ed9b5ec633ec68c53af500e16d12f36e1dfb</guid>
       <pubDate>Wed, 19 Aug 2026 21:51:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/90ca12968ab8fd5b938c4461442a55644e820b12</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90ca12968ab8fd5b938c4461442a55644e820b12</guid>
       <pubDate>Tue, 18 Aug 2026 21:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プライベートクレジットに代わる投資先、ウェルス業界が模索－ピムコ</title>
-      <link>https://news.yahoo.co.jp/articles/cef6c19cfd5116dc1613274d8cbc54b387c900cf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cef6c19cfd5116dc1613274d8cbc54b387c900cf</guid>
-      <pubDate>Tue, 18 Aug 2026 21:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
