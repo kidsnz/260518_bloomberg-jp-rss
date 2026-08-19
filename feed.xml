@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:25:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:01:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>FOMC議事要旨：利上げは必要になるだろうと多くの参加者が認識</title>
+      <link>https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</guid>
+      <pubDate>Thu, 20 Aug 2026 03:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック関連AI施設に13億ドル融資－イーグル・ポイント</title>
       <link>https://news.yahoo.co.jp/articles/8ba04f0da2378a2f65a9b104c4d561406ceb6628</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b1871ca3062a63140f1614b847f79c93b588dea</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1871ca3062a63140f1614b847f79c93b588dea</guid>
       <pubDate>Tue, 18 Aug 2026 22:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ米大統領、イランとの交渉は行われておらず予定もない</title>
-      <link>https://news.yahoo.co.jp/articles/3b4b1b2d3e677d1686e0db7b45323d385642a749</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b4b1b2d3e677d1686e0db7b45323d385642a749</guid>
-      <pubDate>Tue, 18 Aug 2026 22:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
