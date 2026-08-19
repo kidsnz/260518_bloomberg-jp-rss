@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:57:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:27:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>UAE、イランと経済関係を断絶－自国領土がミサイルの標的に</title>
+      <link>https://news.yahoo.co.jp/articles/3097bd9d2dafe451358a0d3f14f700396c19079b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3097bd9d2dafe451358a0d3f14f700396c19079b</guid>
+      <pubDate>Wed, 19 Aug 2026 18:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>楽天市場への出店、カタログハウスがとりやめ－軍用ドローン支援巡り</title>
       <link>https://news.yahoo.co.jp/articles/14f54648817ce73b72d53f741fc95b605e337e91</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/76aad5ba34c9f08216d5a589b493997028b1ee21</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/76aad5ba34c9f08216d5a589b493997028b1ee21</guid>
       <pubDate>Tue, 18 Aug 2026 18:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英国企業、7月に人員さらに削減－求人件数は2021年以来の低水準</title>
-      <link>https://news.yahoo.co.jp/articles/1679be03d25b049c3d9dab07b4d832ab34338bc3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1679be03d25b049c3d9dab07b4d832ab34338bc3</guid>
-      <pubDate>Tue, 18 Aug 2026 17:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
