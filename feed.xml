@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:33:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:32:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>7月の訪日客は横ばいの344万人、台湾客が初めて70万人超える</title>
+      <link>https://news.yahoo.co.jp/articles/e455bf3fc40002981cf74de72a4613748dc9bec1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e455bf3fc40002981cf74de72a4613748dc9bec1</guid>
+      <pubDate>Wed, 19 Aug 2026 16:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス、4.5兆円相当の自社株買い実施へ－AI好況で株主還元</title>
+      <link>https://news.yahoo.co.jp/articles/dd6a267a8ab014ea0be7a12a49751afaeabe5c8e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd6a267a8ab014ea0be7a12a49751afaeabe5c8e</guid>
+      <pubDate>Wed, 19 Aug 2026 16:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>香港ヘッジファンド減税「狂騒曲」、非課税ボーナス狙い転職も</title>
+      <link>https://news.yahoo.co.jp/articles/873b07e680f86a6e23cf852512cda6b1f798c71c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/873b07e680f86a6e23cf852512cda6b1f798c71c</guid>
+      <pubDate>Wed, 19 Aug 2026 15:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>シンガポール、ファンドマネジャー向け税優遇措置検討－香港に対抗</title>
       <link>https://news.yahoo.co.jp/articles/e00db952d5666da4ebaa750a0132c0859bdb5b43</link>
@@ -68,7 +86,7 @@
       <pubDate>Wed, 19 Aug 2026 09:36:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均2300円超安、金利高を警戒－円159円前半に上昇</title>
+      <title>【日本市況】TOPIX5カ月ぶり大幅安、金利高警戒－対策期待で債券上昇</title>
       <link>https://news.yahoo.co.jp/articles/62ebfe3b1fb239a79e13efd54f3b6f1f52757ff9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62ebfe3b1fb239a79e13efd54f3b6f1f52757ff9</guid>
       <pubDate>Wed, 19 Aug 2026 09:24:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6a94a7463a5752d7d18e9a493c8c679a97363020</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a94a7463a5752d7d18e9a493c8c679a97363020</guid>
       <pubDate>Tue, 18 Aug 2026 15:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブラックストーンなどプライベートクレジットファンド、社債を増額</title>
-      <link>https://news.yahoo.co.jp/articles/0f3812021e71d97a907f83991db964d8d5fff213</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f3812021e71d97a907f83991db964d8d5fff213</guid>
-      <pubDate>Tue, 18 Aug 2026 13:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホルムズ海峡で船舶に飛翔体、乗組員1人死亡－英海軍</title>
-      <link>https://news.yahoo.co.jp/articles/be90bd65698b9f8b0962eafb94b1216ba4371601</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be90bd65698b9f8b0962eafb94b1216ba4371601</guid>
-      <pubDate>Tue, 18 Aug 2026 12:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国大統領、原潜保有へ対米協議加速呼び掛け－トランプ氏の批判受け</title>
-      <link>https://news.yahoo.co.jp/articles/43f17b49960a1f6cc068edacb82f3bec5ba739a4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/43f17b49960a1f6cc068edacb82f3bec5ba739a4</guid>
-      <pubDate>Tue, 18 Aug 2026 12:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
