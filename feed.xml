@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:39:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:26:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>原油は不安定ながら続伸、UAE・イラン関係悪化で中東情勢再び緊迫</title>
+      <link>https://news.yahoo.co.jp/articles/adefae44ccbb3d78b92c4d375401236ac43c2207</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/adefae44ccbb3d78b92c4d375401236ac43c2207</guid>
+      <pubDate>Wed, 19 Aug 2026 22:39:00 +0900</pubDate>
+    </item>
     <item>
       <title>ラガルドECB総裁、欧州はAI革命に取り残されてはならない</title>
       <link>https://news.yahoo.co.jp/articles/6426abd952dd119effd48fab9ef49ed95f7b7127</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e3b5d873af8d7365409ff353d8eb70dfc52730c0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e3b5d873af8d7365409ff353d8eb70dfc52730c0</guid>
       <pubDate>Tue, 18 Aug 2026 21:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フランス債に弱気強まる、夏の間にショート増加－政治リスクを意識</title>
-      <link>https://news.yahoo.co.jp/articles/a2af9a7d679eeabfa5812059af13b69d0d61bd5e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2af9a7d679eeabfa5812059af13b69d0d61bd5e</guid>
-      <pubDate>Tue, 18 Aug 2026 20:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
