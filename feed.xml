@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:49:04 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:17:23 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米公的債務残高、初の40兆ドル突破－「破滅の連鎖」のリスク高まる</title>
+      <link>https://news.yahoo.co.jp/articles/ca42e0652b4fd37e64d338fc527be7a04b09d749</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ca42e0652b4fd37e64d338fc527be7a04b09d749</guid>
+      <pubDate>Thu, 20 Aug 2026 07:39:00 +0900</pubDate>
+    </item>
     <item>
       <title>米財務省の国債買い戻し増額、Tビル発行見通し不透明に－増発の公算</title>
       <link>https://news.yahoo.co.jp/articles/69b2c840a6c8b0e842dd63d885169e9c51c1af23</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5fcb29ab77c7b95bb78973ebeec4a15ddc4cf00f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5fcb29ab77c7b95bb78973ebeec4a15ddc4cf00f</guid>
       <pubDate>Wed, 19 Aug 2026 06:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米アンソロピック、創業者に強力な議決権付与へ－インフォメーション</title>
-      <link>https://news.yahoo.co.jp/articles/8c693df32156a1192a83f8ac75ce370d91a505a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c693df32156a1192a83f8ac75ce370d91a505a8</guid>
-      <pubDate>Wed, 19 Aug 2026 05:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
