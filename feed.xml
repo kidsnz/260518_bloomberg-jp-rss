@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:15:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:23:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ政権、対カナダ50%関税を3日延期－通商合意へ前進</title>
+      <link>https://news.yahoo.co.jp/articles/9738985659528e4b062a49b84c9aee719e155112</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9738985659528e4b062a49b84c9aee719e155112</guid>
+      <pubDate>Wed, 19 Aug 2026 11:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>AI・半導体株が軒並み下落、世界的な金利高でグロース株に逆風</title>
       <link>https://news.yahoo.co.jp/articles/5e9e3884ee9f972ab4a87ff3397176911dea2c97</link>
@@ -26,7 +32,7 @@
       <pubDate>Wed, 19 Aug 2026 09:36:00 +0900</pubDate>
     </item>
     <item>
-      <title>韓国総合株価指数が一時6.8%安、半導体株に売り－金利上昇を警戒</title>
+      <title>韓国株が急落、半導体株に売り－利回り上昇でAI投資懸念</title>
       <link>https://news.yahoo.co.jp/articles/edacddf6de79337bcef5607c19d3aad09cf06046</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/edacddf6de79337bcef5607c19d3aad09cf06046</guid>
       <pubDate>Wed, 19 Aug 2026 09:13:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/11412a10937a4fabad09a5f2c6222dd51d29e632</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11412a10937a4fabad09a5f2c6222dd51d29e632</guid>
       <pubDate>Tue, 18 Aug 2026 08:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、中東緊張・長期金利上昇で債券・株は下落へ－円じり安継続</title>
-      <link>https://news.yahoo.co.jp/articles/34d648760797906ee04d9c603c77f8187d00790e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34d648760797906ee04d9c603c77f8187d00790e</guid>
-      <pubDate>Tue, 18 Aug 2026 08:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
