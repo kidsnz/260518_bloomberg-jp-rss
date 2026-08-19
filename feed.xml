@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:18:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:49:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米財務省の国債買い戻し増額、Tビル発行見通し不透明に－増発の公算</title>
+      <link>https://news.yahoo.co.jp/articles/69b2c840a6c8b0e842dd63d885169e9c51c1af23</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/69b2c840a6c8b0e842dd63d885169e9c51c1af23</guid>
+      <pubDate>Thu, 20 Aug 2026 07:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>ベッセント氏の米国債買い戻し増額表明、「ツイストオペ」再来か</title>
       <link>https://news.yahoo.co.jp/articles/6ef9606ebe962374c01dba6f2e53b7a4bff1901f</link>
@@ -42,6 +48,12 @@
       <link>https://news.yahoo.co.jp/articles/a35c3af784ff088f682119b5129aa336706435b3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a35c3af784ff088f682119b5129aa336706435b3</guid>
       <pubDate>Thu, 20 Aug 2026 02:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>北朝鮮、米国とのやり取り否定－トランプ氏は年内首脳会談に再び意欲</title>
+      <link>https://news.yahoo.co.jp/articles/3a7acc66a322bce036da00d4169e515a6b8226ee</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a7acc66a322bce036da00d4169e515a6b8226ee</guid>
+      <pubDate>Thu, 20 Aug 2026 02:00:00 +0900</pubDate>
     </item>
     <item>
       <title>グーグルとマーベル、半導体で提携拡大－最大122億ドルのワラントも</title>
@@ -104,7 +116,7 @@
       <pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
     </item>
     <item>
-      <title>モデルナ株価が急騰、皮膚がんワクチンが後期臨床試験で評価項目達成</title>
+      <title>モデルナ株価が急騰、皮膚がんワクチンが後期試験で評価項目達成</title>
       <link>https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</guid>
       <pubDate>Wed, 19 Aug 2026 20:53:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8c693df32156a1192a83f8ac75ce370d91a505a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c693df32156a1192a83f8ac75ce370d91a505a8</guid>
       <pubDate>Wed, 19 Aug 2026 05:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は約3週間ぶり高値、北海ブレント91ドル台－米イランの対立膠着</title>
-      <link>https://news.yahoo.co.jp/articles/0e06359d5c4572fc4479d91a96e790ac34bb9f89</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e06359d5c4572fc4479d91a96e790ac34bb9f89</guid>
-      <pubDate>Wed, 19 Aug 2026 05:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】国債下落、独10・30年債は15年ぶり安値－株は5日続落</title>
-      <link>https://news.yahoo.co.jp/articles/5c6d1b594d3f33365c506d97b32af6bce415f1ea</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5c6d1b594d3f33365c506d97b32af6bce415f1ea</guid>
-      <pubDate>Wed, 19 Aug 2026 02:33:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
