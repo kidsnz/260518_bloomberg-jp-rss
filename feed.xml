@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:48:53 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:34:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>大手運用会社、短期債に資金シフト－長期債下落受けリスク軽減</title>
+      <link>https://news.yahoo.co.jp/articles/1868c0796274a91f84d87f102b581982f829ec0f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1868c0796274a91f84d87f102b581982f829ec0f</guid>
+      <pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>モデルナ株価が急騰、皮膚がんワクチンが後期臨床試験で評価項目達成</title>
+      <link>https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</guid>
+      <pubDate>Wed, 19 Aug 2026 20:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>アルファベットが豪ドル建て社債を起債、最長の20年債発行利回り7%弱</title>
       <link>https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/466e32806fab5a877800e60ab044ea174fd25b3b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/466e32806fab5a877800e60ab044ea174fd25b3b</guid>
       <pubDate>Wed, 19 Aug 2026 18:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油3週ぶり高値、ホルムズ海峡で船舶攻撃－米・イラン停戦は失効</title>
-      <link>https://news.yahoo.co.jp/articles/f51a12a9cbfba75bab6ae29f7174249aa98d7c5c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f51a12a9cbfba75bab6ae29f7174249aa98d7c5c</guid>
-      <pubDate>Tue, 18 Aug 2026 18:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツ経済見通しが改善、ZEW期待指数が予想上回る－景気回復に勢い</title>
-      <link>https://news.yahoo.co.jp/articles/fb61c4fc183041928fee10b5c01901116db6f47f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb61c4fc183041928fee10b5c01901116db6f47f</guid>
-      <pubDate>Tue, 18 Aug 2026 18:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
