@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:54:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:36:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ベッセント氏、「手段を選ばない」と債券自警団に警告－ヤルデニ氏ら</title>
@@ -14,10 +14,22 @@
       <pubDate>Thu, 20 Aug 2026 14:08:00 +0900</pubDate>
     </item>
     <item>
+      <title>SKハイニックス、27年末までに追加株主還元20兆円規模も－JPモルガン</title>
+      <link>https://news.yahoo.co.jp/articles/6b1885a5942231f9f4ffea47e1ba2b412452b9cb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b1885a5942231f9f4ffea47e1ba2b412452b9cb</guid>
+      <pubDate>Thu, 20 Aug 2026 14:08:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米、対カナダ関税引き下げ方向－一部の鉄鋼・アルミ25%、自動車15%に</title>
       <link>https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</guid>
       <pubDate>Thu, 20 Aug 2026 13:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サムスン、11兆円超の株主還元発表へ－韓国メディア</title>
+      <link>https://news.yahoo.co.jp/articles/ed7eaeec860158997ad20050bd9a756e44708434</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed7eaeec860158997ad20050bd9a756e44708434</guid>
+      <pubDate>Thu, 20 Aug 2026 13:25:00 +0900</pubDate>
     </item>
     <item>
       <title>20年国債入札は「無難な結果」との声、応札倍率は12カ月平均上回る</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/7115450a1102cb0c6e259ca8b52a5a7a0bfc8bce</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7115450a1102cb0c6e259ca8b52a5a7a0bfc8bce</guid>
       <pubDate>Wed, 19 Aug 2026 11:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ政権、カナダへの50%関税を3日延期－通商合意へ前進</title>
-      <link>https://news.yahoo.co.jp/articles/9738985659528e4b062a49b84c9aee719e155112</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9738985659528e4b062a49b84c9aee719e155112</guid>
-      <pubDate>Wed, 19 Aug 2026 11:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHDなどAI関連株が大幅安、金利高がグロース株に逆風</title>
-      <link>https://news.yahoo.co.jp/articles/5e9e3884ee9f972ab4a87ff3397176911dea2c97</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e9e3884ee9f972ab4a87ff3397176911dea2c97</guid>
-      <pubDate>Wed, 19 Aug 2026 10:28:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
