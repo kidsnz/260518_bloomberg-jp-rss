@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:05:30 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:02:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米、対カナダ関税引き下げ方向－一部の鉄鋼・アルミ25%、自動車15%に</title>
+      <link>https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</guid>
+      <pubDate>Thu, 20 Aug 2026 13:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>20年国債入札は「無難な結果」との声、応札倍率は12カ月平均上回る</title>
+      <link>https://news.yahoo.co.jp/articles/572ceaa617e6552dfd238f5e93da0a956d21c194</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/572ceaa617e6552dfd238f5e93da0a956d21c194</guid>
+      <pubDate>Thu, 20 Aug 2026 12:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>金利上昇の波は奨学金にも、学生支援機構債の利率が過去最高</title>
       <link>https://news.yahoo.co.jp/articles/d2d3f4389a43ed648a6d8e2c0cbe133571940233</link>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/cfb0340d7a7f94e80b8da651c0d2a890e8e60678</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cfb0340d7a7f94e80b8da651c0d2a890e8e60678</guid>
       <pubDate>Thu, 20 Aug 2026 09:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】超長期金利が急低下、米債券買い戻し策を好感－株式反発</title>
+      <link>https://news.yahoo.co.jp/articles/f080c4821fd02ccec5699934cee576f91ee4a6c3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f080c4821fd02ccec5699934cee576f91ee4a6c3</guid>
+      <pubDate>Thu, 20 Aug 2026 09:18:00 +0900</pubDate>
     </item>
     <item>
       <title>20年国債入札、金利急低下後の投資家需要見極めへ－海外でも債券買い</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/acbd75b87ef03a3e0d5b42b5180a4030b55f5368</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/acbd75b87ef03a3e0d5b42b5180a4030b55f5368</guid>
       <pubDate>Wed, 19 Aug 2026 09:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オアシス、カカクコムTOB価格3640円以上に引き上げ要請－株価小動き</title>
-      <link>https://news.yahoo.co.jp/articles/1145224bb5ca5e7d60b89a251d736b0b17e3a749</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1145224bb5ca5e7d60b89a251d736b0b17e3a749</guid>
-      <pubDate>Wed, 19 Aug 2026 09:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】TOPIX5カ月ぶり大幅安、金利高警戒－対策期待で債券上昇</title>
-      <link>https://news.yahoo.co.jp/articles/62ebfe3b1fb239a79e13efd54f3b6f1f52757ff9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62ebfe3b1fb239a79e13efd54f3b6f1f52757ff9</guid>
-      <pubDate>Wed, 19 Aug 2026 09:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国株が急落、半導体株に売り－利回り上昇でAI投資懸念</title>
-      <link>https://news.yahoo.co.jp/articles/edacddf6de79337bcef5607c19d3aad09cf06046</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/edacddf6de79337bcef5607c19d3aad09cf06046</guid>
-      <pubDate>Wed, 19 Aug 2026 09:13:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
