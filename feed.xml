@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:50:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:35:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国債買い戻し増額、債券押し上げ効果は限定的－アナリストら</title>
+      <link>https://news.yahoo.co.jp/articles/03ea687aef71dc577e3ceb3eb5b60ae5ed578617</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03ea687aef71dc577e3ceb3eb5b60ae5ed578617</guid>
+      <pubDate>Thu, 20 Aug 2026 20:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>ドルが最大の犠牲に、米財務省の国債支援措置で－市場関係者ら指摘</title>
       <link>https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/873b07e680f86a6e23cf852512cda6b1f798c71c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/873b07e680f86a6e23cf852512cda6b1f798c71c</guid>
       <pubDate>Wed, 19 Aug 2026 15:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIデータセンター計画に沸く秋田､投資検討のUAE大使が訪問－経済効果期待</title>
-      <link>https://news.yahoo.co.jp/articles/4b8d94325c3eb44546678d74727eb775761bd2f2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b8d94325c3eb44546678d74727eb775761bd2f2</guid>
-      <pubDate>Wed, 19 Aug 2026 14:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
