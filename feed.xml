@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:20:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:53:05 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ベッセント氏の長期債市場介入、FRB利上げ判断の連立方程式を複雑化</title>
+      <link>https://news.yahoo.co.jp/articles/bad4fc6f2262f6fff33fd576a5d40cbc30496d88</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bad4fc6f2262f6fff33fd576a5d40cbc30496d88</guid>
+      <pubDate>Fri, 21 Aug 2026 07:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、IPOの主要担当銀行にシティグループ追加へ－関係者</title>
       <link>https://news.yahoo.co.jp/articles/c6723b953410e7c6e5f6ff7ec0d0ede5f851e353</link>
@@ -86,7 +92,7 @@
       <pubDate>Thu, 20 Aug 2026 21:43:00 +0900</pubDate>
     </item>
     <item>
-      <title>米30年債、買い戻し増額発表後の上げほぼ失う－金利抑制効果に疑問</title>
+      <title>米30年債、買い戻し増額発表後の上げ失う－金利抑制効果に疑問</title>
       <link>https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</guid>
       <pubDate>Thu, 20 Aug 2026 20:23:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c9f469f93627dde57d46b50f5972e38d9e4ab5d2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9f469f93627dde57d46b50f5972e38d9e4ab5d2</guid>
       <pubDate>Thu, 20 Aug 2026 23:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500種反発、長期金利低下を好感－米財務省が長期債買い戻し倍増へ</title>
-      <link>https://news.yahoo.co.jp/articles/c764dd096905f458af9a65e9008af1c6efe5870c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c764dd096905f458af9a65e9008af1c6efe5870c</guid>
-      <pubDate>Wed, 19 Aug 2026 23:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
