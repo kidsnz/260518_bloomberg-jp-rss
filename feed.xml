@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:21:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:54:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】独仏スプレッド、2012年以来の水準に接近－株は7日続落</title>
+      <link>https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</guid>
+      <pubDate>Fri, 21 Aug 2026 03:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>スイス、中国向けの主要輸出品ほぼ無関税に－自由貿易協定改定で合意</title>
       <link>https://news.yahoo.co.jp/articles/996a9a45c344801828875261dc64467e94462cf8</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1868c0796274a91f84d87f102b581982f829ec0f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1868c0796274a91f84d87f102b581982f829ec0f</guid>
       <pubDate>Wed, 19 Aug 2026 21:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>モデルナ株価が急騰、皮膚がんワクチンが後期試験で評価項目達成</title>
-      <link>https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</guid>
-      <pubDate>Wed, 19 Aug 2026 20:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
