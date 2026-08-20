@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:35:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:22:56 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スイス、中国向けの主要輸出品ほぼ無関税に－自由貿易協定改定で合意</title>
+      <link>https://news.yahoo.co.jp/articles/996a9a45c344801828875261dc64467e94462cf8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/996a9a45c344801828875261dc64467e94462cf8</guid>
+      <pubDate>Fri, 21 Aug 2026 01:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国債買い戻し、発表した40億ドルを超える可能性－ベッセント氏</title>
       <link>https://news.yahoo.co.jp/articles/30905fa0e1bb03504036163025c0f826339dd6dd</link>
@@ -54,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</guid>
       <pubDate>Thu, 20 Aug 2026 19:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油相場は続伸、1カ月ぶり高値－トランプ氏が対イラン経済戦争表明</title>
+      <link>https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</guid>
+      <pubDate>Fri, 21 Aug 2026 18:09:00 +0900</pubDate>
     </item>
     <item>
       <title>ブレント原油一時93ドル超－トランプ氏の対イラン経済措置の表明受け</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</guid>
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イランへの圧力強まる－UAEが経済関係を断絶、ミサイル発射と非難</title>
-      <link>https://news.yahoo.co.jp/articles/7d9eacad76ea4c90ffcf7289bd40e6c202762de9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7d9eacad76ea4c90ffcf7289bd40e6c202762de9</guid>
-      <pubDate>Wed, 19 Aug 2026 18:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>UAE、イランと経済関係を断絶－自国領土がミサイルの標的に</title>
-      <link>https://news.yahoo.co.jp/articles/3097bd9d2dafe451358a0d3f14f700396c19079b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3097bd9d2dafe451358a0d3f14f700396c19079b</guid>
-      <pubDate>Wed, 19 Aug 2026 18:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
