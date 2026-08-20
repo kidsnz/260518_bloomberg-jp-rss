@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:30:50 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:27:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>シンガポール警察、鉄鉱石商社ラディアントの捜査開始－通報受ける</title>
+      <link>https://news.yahoo.co.jp/articles/0f9440c407462b05467b80218203b21f8ea71349</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f9440c407462b05467b80218203b21f8ea71349</guid>
+      <pubDate>Thu, 20 Aug 2026 17:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>三菱電機、エネルギー管理・最適化ソフト開発の米PCI買収－14億ドル</title>
       <link>https://news.yahoo.co.jp/articles/44c75db528039d1d22e1c27a47a8e8a5f9fb8872</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/44c75db528039d1d22e1c27a47a8e8a5f9fb8872</guid>
       <pubDate>Thu, 20 Aug 2026 15:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソニー、今年発表の「Horizon」次回作見直し－非公開テストで低評価</title>
+      <link>https://news.yahoo.co.jp/articles/0bb94964647941cf3c3033e4956d35ffd77d4388</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0bb94964647941cf3c3033e4956d35ffd77d4388</guid>
+      <pubDate>Thu, 20 Aug 2026 14:32:00 +0900</pubDate>
     </item>
     <item>
       <title>ベッセント氏の一手、債券自警団に「手段選ばず」と警告－ヤルデニ氏</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4a737c88edcc6451626465da41e9bf883be4b005</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a737c88edcc6451626465da41e9bf883be4b005</guid>
       <pubDate>Wed, 19 Aug 2026 12:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、ロケットブースターを初めて陸上で回収－米スペースXを猛追</title>
-      <link>https://news.yahoo.co.jp/articles/6a401ca2785296a48fe9b69fcf4bee7bf0aaf7e3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6a401ca2785296a48fe9b69fcf4bee7bf0aaf7e3</guid>
-      <pubDate>Wed, 19 Aug 2026 12:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日立建機株が反落、日立が保有全株を売却へ－1180億円規模の取引</title>
-      <link>https://news.yahoo.co.jp/articles/bde0c618a023b85c8f993fbeb9f2839f8f457c22</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bde0c618a023b85c8f993fbeb9f2839f8f457c22</guid>
-      <pubDate>Wed, 19 Aug 2026 11:38:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
