@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:30:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:25:50 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>スイス、中国向けの主要輸出品ほぼ無関税に－自由貿易協定改定で合意</title>
@@ -42,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</guid>
       <pubDate>Thu, 20 Aug 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米30年債、買い戻し増額発表後の上げほぼ失う－金利抑制効果に疑問</title>
+      <link>https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</guid>
+      <pubDate>Thu, 20 Aug 2026 20:23:00 +0900</pubDate>
     </item>
     <item>
       <title>米30年債、買い戻し増額発表後の上げ失う－金利抑制効果に懐疑的見方</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/45c43723c7018827da8cbe7c65a77db3e14a20a4</guid>
       <pubDate>Wed, 19 Aug 2026 20:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アルファベットが豪ドル建て社債を起債、最長の20年債発行利回り7%弱</title>
-      <link>https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec448ac7ab1bae0437f04ace5eed498aefd034d9</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
