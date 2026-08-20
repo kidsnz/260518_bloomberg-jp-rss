@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:00:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:38:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブレント原油一時93ドル超－トランプ氏の対イラン経済措置の表明受け</title>
+      <link>https://news.yahoo.co.jp/articles/e304dd9c468fe578da920735fbba8925b28d7d71</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e304dd9c468fe578da920735fbba8925b28d7d71</guid>
+      <pubDate>Thu, 20 Aug 2026 18:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スウェーデン中銀、政策金利を12カ月連続据え置き－年内利上げに含み</title>
+      <link>https://news.yahoo.co.jp/articles/1dd32b59d87306dcd8b4ecb7063813bc80cd005f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1dd32b59d87306dcd8b4ecb7063813bc80cd005f</guid>
+      <pubDate>Thu, 20 Aug 2026 17:29:00 +0900</pubDate>
+    </item>
     <item>
       <title>シンガポール警察、鉄鉱石商社ラディアントの捜査開始－通報受ける</title>
       <link>https://news.yahoo.co.jp/articles/0f9440c407462b05467b80218203b21f8ea71349</link>
@@ -50,7 +62,7 @@
       <pubDate>Thu, 20 Aug 2026 13:25:00 +0900</pubDate>
     </item>
     <item>
-      <title>20年債入札は「無難な結果」との声、米国債買い戻しで金利は大幅低下</title>
+      <title>「ベッセント・プット」で日本も長期金利急低下－市場は持続性見極め</title>
       <link>https://news.yahoo.co.jp/articles/572ceaa617e6552dfd238f5e93da0a956d21c194</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/572ceaa617e6552dfd238f5e93da0a956d21c194</guid>
       <pubDate>Thu, 20 Aug 2026 12:40:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e00db952d5666da4ebaa750a0132c0859bdb5b43</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e00db952d5666da4ebaa750a0132c0859bdb5b43</guid>
       <pubDate>Wed, 19 Aug 2026 14:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米セレブラスが新型コンピューター、AI処理速度で優位性拡大と主張</title>
-      <link>https://news.yahoo.co.jp/articles/e23e69368319b4eb3471ad918e1e174d6eb32954</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e23e69368319b4eb3471ad918e1e174d6eb32954</guid>
-      <pubDate>Wed, 19 Aug 2026 14:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本国債のボラティリティー拡大、シンガポールで先物取引活発化</title>
-      <link>https://news.yahoo.co.jp/articles/4a737c88edcc6451626465da41e9bf883be4b005</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a737c88edcc6451626465da41e9bf883be4b005</guid>
-      <pubDate>Wed, 19 Aug 2026 12:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
