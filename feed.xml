@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:38:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:20:36 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドルが最大の犠牲に、米財務省の国債支援措置で－市場関係者ら指摘</title>
+      <link>https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</guid>
+      <pubDate>Thu, 20 Aug 2026 19:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>ブレント原油一時93ドル超－トランプ氏の対イラン経済措置の表明受け</title>
       <link>https://news.yahoo.co.jp/articles/e304dd9c468fe578da920735fbba8925b28d7d71</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4b8d94325c3eb44546678d74727eb775761bd2f2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b8d94325c3eb44546678d74727eb775761bd2f2</guid>
       <pubDate>Wed, 19 Aug 2026 14:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シンガポール、ファンドマネジャー向け税優遇措置検討－香港に対抗</title>
-      <link>https://news.yahoo.co.jp/articles/e00db952d5666da4ebaa750a0132c0859bdb5b43</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e00db952d5666da4ebaa750a0132c0859bdb5b43</guid>
-      <pubDate>Wed, 19 Aug 2026 14:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
