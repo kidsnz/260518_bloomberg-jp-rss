@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:17:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:46:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ米大統領、ベッセント財務長官に国債市場への介入指示せず</title>
+      <link>https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</guid>
+      <pubDate>Sat, 22 Aug 2026 06:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>ダリオ氏､債券減らし金・ビットコイン保有を－米国の債務危機を警戒</title>
       <link>https://news.yahoo.co.jp/articles/561d49dd6f3681f0334770918bf1a0bf969009d1</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</guid>
       <pubDate>Thu, 20 Aug 2026 21:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米30年債、買い戻し増額発表後の上げ失う－金利抑制効果に疑問</title>
-      <link>https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</guid>
-      <pubDate>Thu, 20 Aug 2026 20:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
