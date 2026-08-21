@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:02:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:56:19 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ヒューリックが2295万円で首位、上場企業平均年収－東京商工リサーチ</title>
@@ -212,6 +212,12 @@
       <pubDate>Thu, 20 Aug 2026 19:21:00 +0900</pubDate>
     </item>
     <item>
+      <title>日米韓が電話協議、北朝鮮のミサイル発射受け－挑発行動の停止要求</title>
+      <link>https://news.yahoo.co.jp/articles/bfcd92b9dab8025d75fcbb00dc567bf74a1209c9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bfcd92b9dab8025d75fcbb00dc567bf74a1209c9</guid>
+      <pubDate>Fri, 21 Aug 2026 19:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>原油相場上昇、1カ月ぶり高値－トランプ氏が対イラン経済戦争を表明</title>
       <link>https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</guid>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f080c4821fd02ccec5699934cee576f91ee4a6c3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f080c4821fd02ccec5699934cee576f91ee4a6c3</guid>
       <pubDate>Thu, 20 Aug 2026 09:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>20年国債入札、金利急低下後の投資家需要見極めへ－海外でも債券買い</title>
-      <link>https://news.yahoo.co.jp/articles/4866fc50c76a1fa844067417dc3e0598a40ee74c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4866fc50c76a1fa844067417dc3e0598a40ee74c</guid>
-      <pubDate>Thu, 20 Aug 2026 08:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
