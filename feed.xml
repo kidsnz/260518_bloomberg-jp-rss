@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:47:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:17:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ダリオ氏､債券減らし金・ビットコイン保有を－米国の債務危機を警戒</title>
+      <link>https://news.yahoo.co.jp/articles/561d49dd6f3681f0334770918bf1a0bf969009d1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/561d49dd6f3681f0334770918bf1a0bf969009d1</guid>
+      <pubDate>Sat, 22 Aug 2026 03:34:00 +0900</pubDate>
+    </item>
     <item>
       <title>アポロにサイバー攻撃、個人情報にアクセス－ファンドへの攻撃相次ぐ</title>
       <link>https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</link>
@@ -299,12 +305,6 @@
       <title>米30年債、買い戻し増額発表後の上げ失う－金利抑制効果に疑問</title>
       <link>https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd102d71dfadee007a60209d5d15c4b42a836248</guid>
-      <pubDate>Thu, 20 Aug 2026 20:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米30年債、買い戻し増額発表後の上げ失う－金利抑制効果に懐疑的見方</title>
-      <link>https://news.yahoo.co.jp/articles/03ea687aef71dc577e3ceb3eb5b60ae5ed578617</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03ea687aef71dc577e3ceb3eb5b60ae5ed578617</guid>
       <pubDate>Thu, 20 Aug 2026 20:23:00 +0900</pubDate>
     </item>
   </channel>
