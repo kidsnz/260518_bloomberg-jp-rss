@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 08:48:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:58:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン経済孤立化、中国対応が試金石－トランプ政権に手詰まり感</title>
+      <link>https://news.yahoo.co.jp/articles/8de0de9250d79e446a90539c9fc23091b865e4ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8de0de9250d79e446a90539c9fc23091b865e4ab</guid>
+      <pubDate>Fri, 21 Aug 2026 09:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>7月の消費者物価、2カ月連続で伸び拡大－日銀の早期利上げ観測支え</title>
+      <link>https://news.yahoo.co.jp/articles/3b75e44f66add30a34f27fd7f049ddec4939e679</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b75e44f66add30a34f27fd7f049ddec4939e679</guid>
+      <pubDate>Fri, 21 Aug 2026 08:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>元クレディSトレーダーのヘッジファンド、7月に約8%の損失</title>
       <link>https://news.yahoo.co.jp/articles/4ec51c67a547f0fd013c0944350eae2641b4267a</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8e0afdf5261812e1e5df63738886be4dc665c492</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8e0afdf5261812e1e5df63738886be4dc665c492</guid>
       <pubDate>Thu, 20 Aug 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FOMC議事要旨：利上げは必要になるだろうと多くの参加者が認識</title>
-      <link>https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17b552796296f2d99a32f7ae33a245003be8711a</guid>
-      <pubDate>Thu, 20 Aug 2026 03:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】超長期債が反発、米財務省の長期国債買い戻し増額を好感</title>
-      <link>https://news.yahoo.co.jp/articles/85ea4f099bd2fd23ad2430402869cb74cf03854f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85ea4f099bd2fd23ad2430402869cb74cf03854f</guid>
-      <pubDate>Thu, 20 Aug 2026 02:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
