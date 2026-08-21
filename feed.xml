@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:22:30 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 02:54:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アポロにサイバー攻撃、個人情報にアクセス－ファンドへの攻撃相次ぐ</title>
+      <link>https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</guid>
+      <pubDate>Sat, 22 Aug 2026 02:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>テスラだけで300万台弱、中国が「ドア問題」で過去最大のリコール</title>
       <link>https://news.yahoo.co.jp/articles/b170948ef8be6b3273c13691f911361185af4ce7</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</guid>
       <pubDate>Thu, 20 Aug 2026 19:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日米韓が電話協議、北朝鮮のミサイル発射受け－挑発行動の停止要求</title>
-      <link>https://news.yahoo.co.jp/articles/bfcd92b9dab8025d75fcbb00dc567bf74a1209c9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bfcd92b9dab8025d75fcbb00dc567bf74a1209c9</guid>
-      <pubDate>Fri, 21 Aug 2026 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
