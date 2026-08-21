@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:28:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:04:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ大統領、輸入牛ひき肉の関税一部緩和へ－選挙前に価格対策</title>
       <link>https://news.yahoo.co.jp/articles/a5a76bc20443a31178b767da1b5a7389a744c5f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5a76bc20443a31178b767da1b5a7389a744c5f4</guid>
       <pubDate>Fri, 21 Aug 2026 23:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米総合PMI、8月は2022年以来の高水準－需要拡大と見通し改善で</title>
+      <link>https://news.yahoo.co.jp/articles/81b2e624685a3e8336ecf4ba6e16b28ce3bcf8ff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81b2e624685a3e8336ecf4ba6e16b28ce3bcf8ff</guid>
+      <pubDate>Fri, 21 Aug 2026 23:03:00 +0900</pubDate>
     </item>
     <item>
       <title>イラン大統領、戦況で優位な今こそ対米戦争終結を－国内強硬派に異議</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1dd32b59d87306dcd8b4ecb7063813bc80cd005f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1dd32b59d87306dcd8b4ecb7063813bc80cd005f</guid>
       <pubDate>Thu, 20 Aug 2026 17:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シンガポール警察、鉄鉱石商社ラディアントの捜査開始－通報受ける</title>
-      <link>https://news.yahoo.co.jp/articles/0f9440c407462b05467b80218203b21f8ea71349</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f9440c407462b05467b80218203b21f8ea71349</guid>
-      <pubDate>Thu, 20 Aug 2026 17:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
