@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:54:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:28:00 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>アポロにサイバー攻撃、個人情報にアクセス－ファンドへの攻撃相次ぐ</title>
       <link>https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</guid>
       <pubDate>Sat, 22 Aug 2026 02:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株は反発、債券市場の安定で買いが戻る－ドル159円ちょうど近辺</title>
+      <link>https://news.yahoo.co.jp/articles/6d1bf63279f981e02fc940e0fac26255b998f6dc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d1bf63279f981e02fc940e0fac26255b998f6dc</guid>
+      <pubDate>Sat, 22 Aug 2026 00:49:00 +0900</pubDate>
     </item>
     <item>
       <title>テスラだけで300万台弱、中国が「ドア問題」で過去最大のリコール</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c28f6a5b65dc3f62a646104127e7ad3e524ba6e6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c28f6a5b65dc3f62a646104127e7ad3e524ba6e6</guid>
       <pubDate>Fri, 21 Aug 2026 19:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドルが最大の犠牲に、米財務省の国債支援措置で－市場関係者ら指摘</title>
-      <link>https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b1a72f4e7e8c844ee435736f3e2869e36f586a9</guid>
-      <pubDate>Thu, 20 Aug 2026 19:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
