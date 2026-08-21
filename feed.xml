@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:30:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:23:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ユーロ圏総合PMIが予想外に改善、独仏低調も製造業が大幅な伸び</title>
+      <link>https://news.yahoo.co.jp/articles/33e061ac51ba62983a114ff91da6b04e247789ad</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33e061ac51ba62983a114ff91da6b04e247789ad</guid>
+      <pubDate>Fri, 21 Aug 2026 18:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>日韓の通貨政策責任者が会談、緊密な協力継続で一致</title>
       <link>https://news.yahoo.co.jp/articles/0e63d706d48a68e9240f00b7b61169940cb441db</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</guid>
       <pubDate>Thu, 20 Aug 2026 13:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムスン、11兆円超の株主還元発表へ－韓国メディア</title>
-      <link>https://news.yahoo.co.jp/articles/ed7eaeec860158997ad20050bd9a756e44708434</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed7eaeec860158997ad20050bd9a756e44708434</guid>
-      <pubDate>Thu, 20 Aug 2026 13:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
