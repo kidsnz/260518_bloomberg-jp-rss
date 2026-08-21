@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:41:17 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:37:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>モンテ・パスキ、総額340億ユーロでBPMとバンカ・ゼネラリ買収目指す</title>
+      <link>https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本株週間展望】不安定、世界の金利動向に過敏－中銀首脳発言が鍵</title>
+      <link>https://news.yahoo.co.jp/articles/0a22c85979f0ff536e8bf0c15a8ab78a8f5bce8e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0a22c85979f0ff536e8bf0c15a8ab78a8f5bce8e</guid>
+      <pubDate>Fri, 21 Aug 2026 15:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>富士フイルムHD、AI需要で半導体材料の生産能力3倍に－大分に新棟</title>
+      <link>https://news.yahoo.co.jp/articles/d1be97ff6f567c0d9f81c6e0e7c7c15f69df2704</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d1be97ff6f567c0d9f81c6e0e7c7c15f69df2704</guid>
+      <pubDate>Fri, 21 Aug 2026 15:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>ヒューリックが2295万円で首位、上場企業平均年収－東京商工リサーチ</title>
       <link>https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</link>
@@ -44,7 +62,7 @@
       <pubDate>Fri, 21 Aug 2026 10:58:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】金利一転上昇、米債買い戻し効果が持続せず－株式は下落</title>
+      <title>【日本市況】金利一転上昇、米債買い戻し効果が持続せず－株持ち直し</title>
       <link>https://news.yahoo.co.jp/articles/96db9574bc4e0fd53e8e23171d5acba244a05697</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96db9574bc4e0fd53e8e23171d5acba244a05697</guid>
       <pubDate>Fri, 21 Aug 2026 09:45:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d2d3f4389a43ed648a6d8e2c0cbe133571940233</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d2d3f4389a43ed648a6d8e2c0cbe133571940233</guid>
       <pubDate>Thu, 20 Aug 2026 11:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックス株13%高、4.5兆円の自社株買いと過去最大の消却を評価</title>
-      <link>https://news.yahoo.co.jp/articles/a79f70d2ca1d820465fd10dcd8da89af031bbb82</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a79f70d2ca1d820465fd10dcd8da89af031bbb82</guid>
-      <pubDate>Thu, 20 Aug 2026 09:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米超長期債ETFに40億ドル流入､財務省の発表前－フィッシャー氏が主導</title>
-      <link>https://news.yahoo.co.jp/articles/cfb0340d7a7f94e80b8da651c0d2a890e8e60678</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cfb0340d7a7f94e80b8da651c0d2a890e8e60678</guid>
-      <pubDate>Thu, 20 Aug 2026 09:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】金利急低下、米国債買い戻し策と20年入札に安心－株反発</title>
-      <link>https://news.yahoo.co.jp/articles/f080c4821fd02ccec5699934cee576f91ee4a6c3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f080c4821fd02ccec5699934cee576f91ee4a6c3</guid>
-      <pubDate>Thu, 20 Aug 2026 09:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
