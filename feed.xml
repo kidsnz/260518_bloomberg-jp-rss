@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:04:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:57:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>テスラだけで300万台弱、中国が「ドア問題」で過去最大のリコール</title>
+      <link>https://news.yahoo.co.jp/articles/b170948ef8be6b3273c13691f911361185af4ce7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b170948ef8be6b3273c13691f911361185af4ce7</guid>
+      <pubDate>Fri, 21 Aug 2026 23:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ大統領、輸入牛ひき肉の関税一部緩和へ－選挙前に価格対策</title>
       <link>https://news.yahoo.co.jp/articles/a5a76bc20443a31178b767da1b5a7389a744c5f4</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/4b0786b9559e1f4b68a970b2bbf259e7bb4e43a4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b0786b9559e1f4b68a970b2bbf259e7bb4e43a4</guid>
       <pubDate>Fri, 21 Aug 2026 22:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債の長期金利抑制策、失敗ならリスク資産に売り圧力－BofA</title>
+      <link>https://news.yahoo.co.jp/articles/2eb74025ce980c0ab3f8ab10e867b70d26e7bb8b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2eb74025ce980c0ab3f8ab10e867b70d26e7bb8b</guid>
+      <pubDate>Fri, 21 Aug 2026 21:09:00 +0900</pubDate>
     </item>
     <item>
       <title>SKハイニックス、日本での工場建設は何も決定していない－当局文書</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</guid>
       <pubDate>Fri, 21 Aug 2026 18:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油一時93ドル超－トランプ氏の対イラン経済措置の表明受け</title>
-      <link>https://news.yahoo.co.jp/articles/e304dd9c468fe578da920735fbba8925b28d7d71</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e304dd9c468fe578da920735fbba8925b28d7d71</guid>
-      <pubDate>Thu, 20 Aug 2026 18:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スウェーデン中銀、政策金利を12カ月連続据え置き－年内利上げに含み</title>
-      <link>https://news.yahoo.co.jp/articles/1dd32b59d87306dcd8b4ecb7063813bc80cd005f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1dd32b59d87306dcd8b4ecb7063813bc80cd005f</guid>
-      <pubDate>Thu, 20 Aug 2026 17:29:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
