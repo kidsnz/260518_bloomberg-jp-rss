@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:23:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:55:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国債の利回り低下、インフレの鈍化が最も有効－ゴールドマン</title>
+      <link>https://news.yahoo.co.jp/articles/03aad12bf8bfa7242849e65f400d4a9fefa5b83a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/03aad12bf8bfa7242849e65f400d4a9fefa5b83a</guid>
+      <pubDate>Fri, 21 Aug 2026 19:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>ユーロ圏総合PMIが予想外に改善、独仏低調も製造業が大幅な伸び</title>
       <link>https://news.yahoo.co.jp/articles/33e061ac51ba62983a114ff91da6b04e247789ad</link>
@@ -14,7 +20,7 @@
       <pubDate>Fri, 21 Aug 2026 18:15:00 +0900</pubDate>
     </item>
     <item>
-      <title>日韓の通貨政策責任者が会談、緊密な協力継続で一致</title>
+      <title>三村財務官が韓国当局者と会談､緊密協力継続で一致-日米協調介入後初</title>
       <link>https://news.yahoo.co.jp/articles/0e63d706d48a68e9240f00b7b61169940cb441db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e63d706d48a68e9240f00b7b61169940cb441db</guid>
       <pubDate>Fri, 21 Aug 2026 18:00:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6b1885a5942231f9f4ffea47e1ba2b412452b9cb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b1885a5942231f9f4ffea47e1ba2b412452b9cb</guid>
       <pubDate>Thu, 20 Aug 2026 14:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米、対カナダ関税引き下げ方向－一部の鉄鋼・アルミ25%、自動車15%に</title>
-      <link>https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f8e965e26bd882f0590944d0c4e18f9ccd2b1d83</guid>
-      <pubDate>Thu, 20 Aug 2026 13:45:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
