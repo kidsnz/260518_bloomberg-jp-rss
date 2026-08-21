@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:57:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:33:43 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>テスラだけで300万台弱、中国が「ドア問題」で過去最大のリコール</title>
@@ -68,6 +68,12 @@
       <pubDate>Fri, 21 Aug 2026 17:27:00 +0900</pubDate>
     </item>
     <item>
+      <title>エヌビディア、韓国AI半導体設計リベリオンズと提携協議－買収も視野</title>
+      <link>https://news.yahoo.co.jp/articles/436ee36b2fd0723f9562473232c2b32f3321c43a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/436ee36b2fd0723f9562473232c2b32f3321c43a</guid>
+      <pubDate>Fri, 21 Aug 2026 17:12:00 +0900</pubDate>
+    </item>
+    <item>
       <title>モンテ・パスキ、総額340億ユーロでBPMとバンカ・ゼネラリ買収目指す</title>
       <link>https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</guid>
@@ -98,7 +104,7 @@
       <pubDate>Fri, 21 Aug 2026 13:07:00 +0900</pubDate>
     </item>
     <item>
-      <title>ビットコイン7万5000ドル突破､米財務省の国債買い戻し増額で上昇続く</title>
+      <title>ビットコイン一時7万9000ドル台、9%超える上げ－相場の勢い加速</title>
       <link>https://news.yahoo.co.jp/articles/3124bd551ad6b8035330092de8c6304c8695c019</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3124bd551ad6b8035330092de8c6304c8695c019</guid>
       <pubDate>Fri, 21 Aug 2026 12:52:00 +0900</pubDate>
@@ -140,7 +146,7 @@
       <pubDate>Fri, 21 Aug 2026 09:18:00 +0900</pubDate>
     </item>
     <item>
-      <title>サムスン、最大12.5兆円相当の株主還元を計画－SKハイニックスに続く</title>
+      <title>サムスン、最大12.6兆円相当の株主還元へ－SKハイニックスに続く</title>
       <link>https://news.yahoo.co.jp/articles/ecd74eb9b771410bf89dac1f2f6ba847131a8d18</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ecd74eb9b771410bf89dac1f2f6ba847131a8d18</guid>
       <pubDate>Fri, 21 Aug 2026 08:46:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bfcd92b9dab8025d75fcbb00dc567bf74a1209c9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bfcd92b9dab8025d75fcbb00dc567bf74a1209c9</guid>
       <pubDate>Fri, 21 Aug 2026 19:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油相場上昇、1カ月ぶり高値－トランプ氏が対イラン経済戦争を表明</title>
-      <link>https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5d989a03ae64a9cb6a7a8fb941c0637f452cfaf6</guid>
-      <pubDate>Fri, 21 Aug 2026 18:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
