@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 11:13:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:13:15 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ米大統領、ベッセント財務長官に国債市場への介入指示せず</title>
@@ -144,6 +144,12 @@
       <link>https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</guid>
       <pubDate>Fri, 21 Aug 2026 13:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ビットコイン8万ドルに迫る、週間上昇率は3年超ぶり大きさへ</title>
+      <link>https://news.yahoo.co.jp/articles/91e4965ca182c75821387d064b72db581a655e90</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91e4965ca182c75821387d064b72db581a655e90</guid>
+      <pubDate>Sat, 22 Aug 2026 12:52:00 +0900</pubDate>
     </item>
     <item>
       <title>ビットコイン一時7万9000ドル台、9%超える上げ－相場の勢い加速</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5ce2fcf3a3ea47cdff7b1704c549e204f9b1853c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ce2fcf3a3ea47cdff7b1704c549e204f9b1853c</guid>
       <pubDate>Thu, 20 Aug 2026 21:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新規失業保険申請は減少、予想も下回る－レイオフ引き続き抑制</title>
-      <link>https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a70b9977e1066a8b9e0d3e884ce6f849035db9ec</guid>
-      <pubDate>Thu, 20 Aug 2026 21:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
