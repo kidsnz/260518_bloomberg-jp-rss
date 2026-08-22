@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:13:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:03:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米・カナダ、貿易合意へ大詰め－トランプ氏は期限内の成立見込む</title>
+      <link>https://news.yahoo.co.jp/articles/cdd62ae2806e4385b502e5461e971f892286aae5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cdd62ae2806e4385b502e5461e971f892286aae5</guid>
+      <pubDate>Sat, 22 Aug 2026 10:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ米大統領、ベッセント財務長官に国債市場への介入指示せず</title>
       <link>https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ce1eb65871310fc96716d1e7bea781357ba26aa9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce1eb65871310fc96716d1e7bea781357ba26aa9</guid>
       <pubDate>Fri, 21 Aug 2026 21:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株は反落、長期金利が上昇－原油高でインフレ懸念強まる</title>
-      <link>https://news.yahoo.co.jp/articles/5ce2fcf3a3ea47cdff7b1704c549e204f9b1853c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ce2fcf3a3ea47cdff7b1704c549e204f9b1853c</guid>
-      <pubDate>Thu, 20 Aug 2026 21:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
