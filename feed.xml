@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:29:50 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:10:11 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米・カナダ貿易協議が決裂、トランプ政権の50%関税発動</title>
+      <title>トランプ氏のホワイトハウス大宴会場建設、米最高裁長官が暫定容認</title>
+      <link>https://news.yahoo.co.jp/articles/9fdde0a63f07c73dd2ef3978740126e292aeb9c6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9fdde0a63f07c73dd2ef3978740126e292aeb9c6</guid>
+      <pubDate>Sat, 22 Aug 2026 15:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国の対カナダ50%関税が発動、カーニー加首相は報復表明</title>
       <link>https://news.yahoo.co.jp/articles/ec4d07a3ba7786cfdded0592d960035a3368c86f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec4d07a3ba7786cfdded0592d960035a3368c86f</guid>
       <pubDate>Sat, 22 Aug 2026 12:47:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ae41b498519541ed5611609b25399603c8a011a8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae41b498519541ed5611609b25399603c8a011a8</guid>
       <pubDate>Thu, 20 Aug 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン続伸､7万ドル台回復－トランプ氏会合と利回り低下で楽観</title>
-      <link>https://news.yahoo.co.jp/articles/be4c094f756fea9e77ebe1d4c68ba7dba3528b4e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be4c094f756fea9e77ebe1d4c68ba7dba3528b4e</guid>
-      <pubDate>Thu, 20 Aug 2026 22:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
