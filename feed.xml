@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 01:16:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:47:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>カナダ、200億ドル規模の対米報復関税を発表－鉄鋼や電子機器など</title>
+      <link>https://news.yahoo.co.jp/articles/df3a8e26dff3c41ca2df07022178ded4382e54e5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/df3a8e26dff3c41ca2df07022178ded4382e54e5</guid>
+      <pubDate>Sun, 23 Aug 2026 00:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏のホワイトハウス大宴会場建設、米最高裁長官が暫定容認</title>
       <link>https://news.yahoo.co.jp/articles/9fdde0a63f07c73dd2ef3978740126e292aeb9c6</link>
@@ -299,12 +305,6 @@
       <title>「FRBの信認」に問題なし、長期金利の上昇を地区連銀総裁2人が説明</title>
       <link>https://news.yahoo.co.jp/articles/63873f59b0df6818a470ca3d183494f06efae5cd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63873f59b0df6818a470ca3d183494f06efae5cd</guid>
-      <pubDate>Thu, 20 Aug 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SF連銀デーリー総裁、米国債市場はFRBへの｢信頼性｣シグナル発信</title>
-      <link>https://news.yahoo.co.jp/articles/ae41b498519541ed5611609b25399603c8a011a8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae41b498519541ed5611609b25399603c8a011a8</guid>
       <pubDate>Thu, 20 Aug 2026 23:12:00 +0900</pubDate>
     </item>
   </channel>
