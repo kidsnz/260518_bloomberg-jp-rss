@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:43:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:59:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】ウォーシュFRB議長、試される市場との対話－物価対応に注視</title>
+      <link>https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</guid>
+      <pubDate>Sun, 23 Aug 2026 07:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、6月は1000件超える証券取引－政府倫理局が開示</title>
       <link>https://news.yahoo.co.jp/articles/0d9dc9fffcd2fcf5808cbe7bea48c4eb9b6f5064</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</guid>
       <pubDate>Fri, 21 Aug 2026 03:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シティがドル弱気に転じる、米国債買い戻し増額受けて予想引き下げ</title>
-      <link>https://news.yahoo.co.jp/articles/3c7deccae5d585d7c29d1590c1f4db139875e710</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c7deccae5d585d7c29d1590c1f4db139875e710</guid>
-      <pubDate>Fri, 21 Aug 2026 02:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
