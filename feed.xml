@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:15:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:46:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>SHEIN、47.6－49.5香港ドルを提示－香港市場でのIPO価格</title>
+      <link>https://news.yahoo.co.jp/articles/47237118ab8ed03f1ebf54e9082e5842f1cefb2f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/47237118ab8ed03f1ebf54e9082e5842f1cefb2f</guid>
+      <pubDate>Mon, 24 Aug 2026 07:07:00 +0900</pubDate>
+    </item>
     <item>
       <title>米長期債に一段安のリスク－週末のウォーシュFRB議長講演が鍵握る</title>
       <link>https://news.yahoo.co.jp/articles/3d84e54760adcaf98fce1a08a76277aa65d6c260</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/96db9574bc4e0fd53e8e23171d5acba244a05697</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/96db9574bc4e0fd53e8e23171d5acba244a05697</guid>
       <pubDate>Fri, 21 Aug 2026 09:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン経済孤立化、中国対応が試金石－トランプ政権に手詰まり感</title>
-      <link>https://news.yahoo.co.jp/articles/8de0de9250d79e446a90539c9fc23091b865e4ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8de0de9250d79e446a90539c9fc23091b865e4ab</guid>
-      <pubDate>Fri, 21 Aug 2026 09:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
