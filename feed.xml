@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:46:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:15:18 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>カナダ・ドルが対米ドルで下落､円は159円付近で小動き－シドニー市場</title>
+      <link>https://news.yahoo.co.jp/articles/2e45e7680be1b7ed89a75858ec74d75edbd1b25d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e45e7680be1b7ed89a75858ec74d75edbd1b25d</guid>
+      <pubDate>Mon, 24 Aug 2026 05:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏の大ばくち、イラン包囲網は裏目に－湾岸全域で攻撃誘発も</title>
       <link>https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/3b75e44f66add30a34f27fd7f049ddec4939e679</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b75e44f66add30a34f27fd7f049ddec4939e679</guid>
       <pubDate>Fri, 21 Aug 2026 08:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>元クレディSトレーダーのヘッジファンド、7月に約8%の損失</title>
-      <link>https://news.yahoo.co.jp/articles/4ec51c67a547f0fd013c0944350eae2641b4267a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ec51c67a547f0fd013c0944350eae2641b4267a</guid>
-      <pubDate>Fri, 21 Aug 2026 08:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
