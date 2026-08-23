@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 01:49:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 02:15:04 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ氏の大ばくち、イラン包囲網は裏目に－湾岸全域で攻撃誘発も</title>
@@ -96,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</guid>
       <pubDate>Sat, 22 Aug 2026 06:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アップルが人員削減、Siriとヘッドセット用没入型ゲームのチームで</title>
+      <link>https://news.yahoo.co.jp/articles/60d82f2caa4887a857d334935419cb30ace3bbb6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60d82f2caa4887a857d334935419cb30ace3bbb6</guid>
+      <pubDate>Sat, 22 Aug 2026 05:23:00 +0900</pubDate>
     </item>
     <item>
       <title>ダリオ氏､債券減らし金・ビットコイン保有を－米国の債務危機を警戒</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4ec51c67a547f0fd013c0944350eae2641b4267a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ec51c67a547f0fd013c0944350eae2641b4267a</guid>
       <pubDate>Fri, 21 Aug 2026 08:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米長期金利反発し株・債券安へ－原油価格上昇も重しに</title>
-      <link>https://news.yahoo.co.jp/articles/71f76da807ba4f24d0547710e78f542d8769c60e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71f76da807ba4f24d0547710e78f542d8769c60e</guid>
-      <pubDate>Fri, 21 Aug 2026 08:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
