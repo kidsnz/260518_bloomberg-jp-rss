@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:24:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:28:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>韓国の個人投資家、年率40%の仕組み商品に食指－株安でもリスク選好</title>
+      <link>https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</guid>
+      <pubDate>Sun, 23 Aug 2026 10:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>【焦点】ウォーシュFRB議長、試される市場との対話－物価対応に注視</title>
       <link>https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0043f0745f4e7b57db495d631dc76b4d813ed354</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0043f0745f4e7b57db495d631dc76b4d813ed354</guid>
       <pubDate>Fri, 21 Aug 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】独仏スプレッド、2012年以来の水準に接近－株は7日続落</title>
-      <link>https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caf3fc18550fd96d9f450caf6bc82c5c32de4ceb</guid>
-      <pubDate>Fri, 21 Aug 2026 03:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
