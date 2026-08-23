@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:52:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:17:02 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏の大ばくち、イラン包囲網は裏目に－湾岸全域で攻撃誘発も</title>
+      <link>https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</guid>
+      <pubDate>Sun, 23 Aug 2026 22:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>中国アリババ、新株発行で1.6兆円を調達－AI投資を拡大</title>
       <link>https://news.yahoo.co.jp/articles/d9119b90761a65a1dc3a0342d29bdae48ca7c272</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/71f76da807ba4f24d0547710e78f542d8769c60e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71f76da807ba4f24d0547710e78f542d8769c60e</guid>
       <pubDate>Fri, 21 Aug 2026 08:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SKハイニックスが宮城県に半導体工場建設へ、数十兆ウォン投資－報道</title>
-      <link>https://news.yahoo.co.jp/articles/cf1bd53c92b91f32f600c82c4e3e4474026f7c01</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cf1bd53c92b91f32f600c82c4e3e4474026f7c01</guid>
-      <pubDate>Fri, 21 Aug 2026 07:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
