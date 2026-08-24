@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:21:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:30:02 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>【日本市況】債券が下落、米長期金利上昇受けて売り－円は158円後半</title>
+      <title>トランプ米政権、ファニーメイの上級スタッフ12人を先週解任－当局者</title>
+      <link>https://news.yahoo.co.jp/articles/1b056363ab24a1652a06776a2a2c8dda5a049c04</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b056363ab24a1652a06776a2a2c8dda5a049c04</guid>
+      <pubDate>Mon, 24 Aug 2026 11:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【日本市況】債券下落、世界的なインフレ・財政懸念－円は158円後半</title>
       <link>https://news.yahoo.co.jp/articles/83534253e58684615bcab0e0817ee5e4e289b4d1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83534253e58684615bcab0e0817ee5e4e289b4d1</guid>
       <pubDate>Mon, 24 Aug 2026 09:26:00 +0900</pubDate>
@@ -20,7 +26,13 @@
       <pubDate>Mon, 24 Aug 2026 09:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>カナダ、米との長期の貿易戦争見込む－中間選挙後も続く可能性</title>
+      <title>ソフトバンクG、個人向けに1兆円社債発行へ－国内リテールで最大</title>
+      <link>https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</guid>
+      <pubDate>Mon, 24 Aug 2026 09:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>カナダ、米国との貿易交渉再開は困難か－中間選挙後も対立継続、長期化の可能性見込む</title>
       <link>https://news.yahoo.co.jp/articles/9e585f515721f8f38c8879ec92b25a6dc119c1e4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e585f515721f8f38c8879ec92b25a6dc119c1e4</guid>
       <pubDate>Mon, 24 Aug 2026 09:09:00 +0900</pubDate>
@@ -164,6 +176,12 @@
       <pubDate>Sat, 22 Aug 2026 10:32:00 +0900</pubDate>
     </item>
     <item>
+      <title>ベッセント氏の米国債市場対策、「ディベースメント取引」を再燃</title>
+      <link>https://news.yahoo.co.jp/articles/097d0a7f46b51fe63de2f203e4f1f8767721d686</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/097d0a7f46b51fe63de2f203e4f1f8767721d686</guid>
+      <pubDate>Sat, 22 Aug 2026 08:50:00 +0900</pubDate>
+    </item>
+    <item>
       <title>トランプ米大統領、ベッセント財務長官に国債市場への介入指示せず</title>
       <link>https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</guid>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</guid>
       <pubDate>Fri, 21 Aug 2026 16:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本株週間展望】不安定、世界の金利動向に過敏－中銀首脳発言が鍵</title>
-      <link>https://news.yahoo.co.jp/articles/0a22c85979f0ff536e8bf0c15a8ab78a8f5bce8e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0a22c85979f0ff536e8bf0c15a8ab78a8f5bce8e</guid>
-      <pubDate>Fri, 21 Aug 2026 15:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>富士フイルムHD、AI需要で半導体材料の生産能力3倍に－大分に新棟</title>
-      <link>https://news.yahoo.co.jp/articles/d1be97ff6f567c0d9f81c6e0e7c7c15f69df2704</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d1be97ff6f567c0d9f81c6e0e7c7c15f69df2704</guid>
-      <pubDate>Fri, 21 Aug 2026 15:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国、景気減速で新たな財政支援策－企業・消費者の借り入れ喚起</title>
-      <link>https://news.yahoo.co.jp/articles/d93a3af2b5f2febffcccba1afbf371d429000d19</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d93a3af2b5f2febffcccba1afbf371d429000d19</guid>
-      <pubDate>Fri, 21 Aug 2026 15:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
