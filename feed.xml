@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:51:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:17:28 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国が新たな対イラン制裁、取引続ける国も対象－「経済版Dデー」</title>
@@ -56,7 +56,7 @@
       <pubDate>Mon, 24 Aug 2026 23:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏、カナダ製自動車への関税を2倍にと表明－対立さらに激化</title>
+      <title>トランプ氏、カナダ製自動車への関税倍増と表明－対立さらに激化</title>
       <link>https://news.yahoo.co.jp/articles/1aee1803f626eb9edfc08bdade3b38514513d68a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1aee1803f626eb9edfc08bdade3b38514513d68a</guid>
       <pubDate>Tue, 25 Aug 2026 22:50:00 +0900</pubDate>
@@ -108,6 +108,12 @@
       <link>https://news.yahoo.co.jp/articles/f335d8b8981c16a5faf0fed071945b80290077f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f335d8b8981c16a5faf0fed071945b80290077f4</guid>
       <pubDate>Mon, 24 Aug 2026 18:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>金が3カ月超ぶり高値－米長期債買い戻し拡大受け、ドル安懸念広がる</title>
+      <link>https://news.yahoo.co.jp/articles/27337c2ccae1898133f13d6d59fdcf6188a791dd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27337c2ccae1898133f13d6d59fdcf6188a791dd</guid>
+      <pubDate>Tue, 25 Aug 2026 17:46:00 +0900</pubDate>
     </item>
     <item>
       <title>金が3カ月ぶり高値－米長期債買い戻し拡大受け、ドル安懸念広がる</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</guid>
       <pubDate>Sun, 23 Aug 2026 07:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、6月は1000件超える証券取引－政府倫理局が開示</title>
-      <link>https://news.yahoo.co.jp/articles/0d9dc9fffcd2fcf5808cbe7bea48c4eb9b6f5064</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d9dc9fffcd2fcf5808cbe7bea48c4eb9b6f5064</guid>
-      <pubDate>Sun, 23 Aug 2026 05:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
