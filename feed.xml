@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 12:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:23:16 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>トランプ米政権、ファニーメイの上級スタッフ12人を先週解任－当局者</title>
@@ -84,6 +84,12 @@
       <link>https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</guid>
       <pubDate>Sun, 23 Aug 2026 22:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国アリババ、新株発行で約1兆6000億円調達－香港上場株8.1%安</title>
+      <link>https://news.yahoo.co.jp/articles/1b72f5f97bf32f5c7a0c5390b3e7411743fbcc66</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b72f5f97bf32f5c7a0c5390b3e7411743fbcc66</guid>
+      <pubDate>Mon, 24 Aug 2026 15:41:00 +0900</pubDate>
     </item>
     <item>
       <title>中国アリババ、新株発行で1.6兆円を調達－AI投資を拡大</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/436ee36b2fd0723f9562473232c2b32f3321c43a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/436ee36b2fd0723f9562473232c2b32f3321c43a</guid>
       <pubDate>Fri, 21 Aug 2026 17:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>モンテ・パスキ、総額340億ユーロでBPMとバンカ・ゼネラリ買収目指す</title>
-      <link>https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6054bd8c8bc3055bbe035594f916c2c753d925fb</guid>
-      <pubDate>Fri, 21 Aug 2026 16:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
