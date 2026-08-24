@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:56:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:21:27 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>【日本市況】債券が下落、米長期金利上昇受けて売り－円は158円後半</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/4b430022d68b23ef15a9523fcab116bf1f54c297</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b430022d68b23ef15a9523fcab116bf1f54c297</guid>
       <pubDate>Mon, 24 Aug 2026 09:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>カナダ、米との長期の貿易戦争見込む－中間選挙後も続く可能性</title>
+      <link>https://news.yahoo.co.jp/articles/9e585f515721f8f38c8879ec92b25a6dc119c1e4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e585f515721f8f38c8879ec92b25a6dc119c1e4</guid>
+      <pubDate>Mon, 24 Aug 2026 09:09:00 +0900</pubDate>
     </item>
     <item>
       <title>日銀の発言に注目、9月利上げ観測強まる－市場は約8割織り込み</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d93a3af2b5f2febffcccba1afbf371d429000d19</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d93a3af2b5f2febffcccba1afbf371d429000d19</guid>
       <pubDate>Fri, 21 Aug 2026 15:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヒューリックが2295万円で首位、上場企業平均年収－東京商工リサーチ</title>
-      <link>https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</guid>
-      <pubDate>Fri, 21 Aug 2026 13:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
