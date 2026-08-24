@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:09:53 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:01:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ヘッジファンド､ドル安に備え-米財務省が利回り管理なら信認に打撃も</title>
+      <link>https://news.yahoo.co.jp/articles/fac0eafde35df8768571f6c56db910a24e678996</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fac0eafde35df8768571f6c56db910a24e678996</guid>
+      <pubDate>Mon, 24 Aug 2026 14:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、パープレキシティAIに追加出資検討－米メディア</title>
+      <link>https://news.yahoo.co.jp/articles/63d91087f9b1608ce9b672bf4853664f35fc5383</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63d91087f9b1608ce9b672bf4853664f35fc5383</guid>
+      <pubDate>Mon, 24 Aug 2026 12:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ米政権、ファニーメイの上級スタッフ12人を先週解任－当局者</title>
       <link>https://news.yahoo.co.jp/articles/1b056363ab24a1652a06776a2a2c8dda5a049c04</link>
@@ -26,7 +38,7 @@
       <pubDate>Mon, 24 Aug 2026 09:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>ソフトバンクG、個人向けに1兆円社債発行へ－国内リテールで最大</title>
+      <title>ソフトバンクGが社債1兆円、4%台利回りで個人マネー呼び込む</title>
       <link>https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</guid>
       <pubDate>Mon, 24 Aug 2026 09:15:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0e63d706d48a68e9240f00b7b61169940cb441db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e63d706d48a68e9240f00b7b61169940cb441db</guid>
       <pubDate>Fri, 21 Aug 2026 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>サムスン電子、26年の株主還元額は最大110兆ウォンと予想</title>
-      <link>https://news.yahoo.co.jp/articles/4ecbb1a6985082376ed43fdfc43ccb032a5b2200</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ecbb1a6985082376ed43fdfc43ccb032a5b2200</guid>
-      <pubDate>Fri, 21 Aug 2026 17:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、韓国AI半導体設計リベリオンズと提携協議－買収も視野</title>
-      <link>https://news.yahoo.co.jp/articles/436ee36b2fd0723f9562473232c2b32f3321c43a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/436ee36b2fd0723f9562473232c2b32f3321c43a</guid>
-      <pubDate>Fri, 21 Aug 2026 17:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
