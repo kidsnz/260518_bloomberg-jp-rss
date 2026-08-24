@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:43:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:56:45 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】債券が下落、米長期金利上昇受けて売り－円は158円後半</title>
+      <link>https://news.yahoo.co.jp/articles/83534253e58684615bcab0e0817ee5e4e289b4d1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83534253e58684615bcab0e0817ee5e4e289b4d1</guid>
+      <pubDate>Mon, 24 Aug 2026 09:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン孤立へ「前例のない規模の金融攻勢」－ベッセント氏がFT投稿</title>
+      <link>https://news.yahoo.co.jp/articles/4b430022d68b23ef15a9523fcab116bf1f54c297</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b430022d68b23ef15a9523fcab116bf1f54c297</guid>
+      <pubDate>Mon, 24 Aug 2026 09:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀の発言に注目、9月利上げ観測強まる－市場は約8割織り込み</title>
+      <link>https://news.yahoo.co.jp/articles/fb12632163ae673e2d957cf95b11ea337e03768f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb12632163ae673e2d957cf95b11ea337e03768f</guid>
+      <pubDate>Mon, 24 Aug 2026 08:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、金利高懸念や米加関税交渉決裂で株安へ－ドル安が円支援</title>
+      <link>https://news.yahoo.co.jp/articles/a086aa153ec8b82640d1c845d7e24cc4614c732f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a086aa153ec8b82640d1c845d7e24cc4614c732f</guid>
+      <pubDate>Mon, 24 Aug 2026 08:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本株下落へ、米半導体株下落や米・カナダ関税協議決裂－自動車売り</title>
       <link>https://news.yahoo.co.jp/articles/4c2ac6ccac6fe119322d8f5a6ab186eefb67463f</link>
@@ -54,6 +78,12 @@
       <link>https://news.yahoo.co.jp/articles/978308b6aab148f732acfd191a030a3c23271754</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/978308b6aab148f732acfd191a030a3c23271754</guid>
       <pubDate>Sun, 23 Aug 2026 14:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米共和党議員、トランプ氏に米韓合同軍事演習の再開を要請</title>
+      <link>https://news.yahoo.co.jp/articles/e00a27789dd55f33fbcaf46a46c667204ba1fe62</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e00a27789dd55f33fbcaf46a46c667204ba1fe62</guid>
+      <pubDate>Sun, 23 Aug 2026 12:32:00 +0900</pubDate>
     </item>
     <item>
       <title>カナダのトラック関税引き下げ要求、米加通商協議決裂の一因に</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eb896972f3370a91a4c293093f64b20e756c8b25</guid>
       <pubDate>Fri, 21 Aug 2026 13:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン8万ドルに迫る、週間上昇率は3年超ぶり大きさへ</title>
-      <link>https://news.yahoo.co.jp/articles/91e4965ca182c75821387d064b72db581a655e90</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/91e4965ca182c75821387d064b72db581a655e90</guid>
-      <pubDate>Sat, 22 Aug 2026 12:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン一時7万9000ドル台、9%超える上げ－相場の勢い加速</title>
-      <link>https://news.yahoo.co.jp/articles/3124bd551ad6b8035330092de8c6304c8695c019</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3124bd551ad6b8035330092de8c6304c8695c019</guid>
-      <pubDate>Fri, 21 Aug 2026 12:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利は3%を目指す展開、国内外で財政拡張に懸念</title>
-      <link>https://news.yahoo.co.jp/articles/1044e023a4f8c5f651b4bd3ba9cb4b6f419b75f0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1044e023a4f8c5f651b4bd3ba9cb4b6f419b75f0</guid>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】対ドル160円手前でもみ合い、中銀の情報発信で変動</title>
-      <link>https://news.yahoo.co.jp/articles/d67a7dd24a45cc32c11456992c25ef5f4f4b512b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d67a7dd24a45cc32c11456992c25ef5f4f4b512b</guid>
-      <pubDate>Fri, 21 Aug 2026 11:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>金利ショック回避の｢第一関門｣に、27年度予算の概算要求締め切り迫る</title>
-      <link>https://news.yahoo.co.jp/articles/ae03c2536a9d26fb758283d4932988ddedd8072f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae03c2536a9d26fb758283d4932988ddedd8072f</guid>
-      <pubDate>Fri, 21 Aug 2026 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
