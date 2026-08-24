@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:06:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:56:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国、新たな対イラン制裁措置を発表－取引続ければ他国も標的に</title>
+      <link>https://news.yahoo.co.jp/articles/86b6cd2d094cc50940475289cb38a6ff3478234a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86b6cd2d094cc50940475289cb38a6ff3478234a</guid>
+      <pubDate>Tue, 25 Aug 2026 02:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国が中国製品に7.5%関税へ､過剰生産能力で－9月の米中首脳会談前に</title>
       <link>https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9fdde0a63f07c73dd2ef3978740126e292aeb9c6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9fdde0a63f07c73dd2ef3978740126e292aeb9c6</guid>
       <pubDate>Sat, 22 Aug 2026 15:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国の対カナダ50%関税が発動、カーニー加首相は報復表明</title>
-      <link>https://news.yahoo.co.jp/articles/ec4d07a3ba7786cfdded0592d960035a3368c86f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec4d07a3ba7786cfdded0592d960035a3368c86f</guid>
-      <pubDate>Sat, 22 Aug 2026 12:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
