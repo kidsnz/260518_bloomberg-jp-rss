@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:31:49 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:20:59 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン産原油、中国向け供給は既にほぼ途絶－通貨リアルは過去最安値</title>
+      <link>https://news.yahoo.co.jp/articles/88caa19f3a4d8e99d250195aca51f4ba00b3a2f4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88caa19f3a4d8e99d250195aca51f4ba00b3a2f4</guid>
+      <pubDate>Mon, 24 Aug 2026 19:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油再急騰が米株最大のリスク、エネルギー株でヘッジを－モルガンS</title>
+      <link>https://news.yahoo.co.jp/articles/0e3e47b6977c71f6b9f3a42378f1a1a2960585f2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e3e47b6977c71f6b9f3a42378f1a1a2960585f2</guid>
+      <pubDate>Mon, 24 Aug 2026 19:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>日本の超党派国会議員団が中国訪問、政治対話再開へ手探りの一歩</title>
       <link>https://news.yahoo.co.jp/articles/afadbd16ce7862938a4803d095a473d2699f4c25</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</guid>
       <pubDate>Sat, 22 Aug 2026 01:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国債買い戻し増額、日銀政策との比較論浮上－通貨安促す「火遊び」</title>
-      <link>https://news.yahoo.co.jp/articles/6e126952936a15e23b4052dc7a9b01ccb03a37d3</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6e126952936a15e23b4052dc7a9b01ccb03a37d3</guid>
-      <pubDate>Sat, 22 Aug 2026 01:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株は反発、債券市場の安定で買いが戻る－ドル159円ちょうど近辺</title>
-      <link>https://news.yahoo.co.jp/articles/6d1bf63279f981e02fc940e0fac26255b998f6dc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d1bf63279f981e02fc940e0fac26255b998f6dc</guid>
-      <pubDate>Sat, 22 Aug 2026 00:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
