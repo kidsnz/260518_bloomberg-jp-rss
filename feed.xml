@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:33:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:29:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国、中国製品に7.5%関税課す方針－9月の米中首脳会談を前に</title>
+      <link>https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</guid>
+      <pubDate>Tue, 25 Aug 2026 00:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国、対イラン追加制裁を発表へ－財務長官「経済的生命線全て断つ」</title>
       <link>https://news.yahoo.co.jp/articles/e7b4d51452776bb3bbfd07d67d50db8e40988551</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/cdd62ae2806e4385b502e5461e971f892286aae5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cdd62ae2806e4385b502e5461e971f892286aae5</guid>
       <pubDate>Sat, 22 Aug 2026 10:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベッセント氏の米国債市場対策、「ディベースメント取引」を再燃</title>
-      <link>https://news.yahoo.co.jp/articles/097d0a7f46b51fe63de2f203e4f1f8767721d686</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/097d0a7f46b51fe63de2f203e4f1f8767721d686</guid>
-      <pubDate>Sat, 22 Aug 2026 08:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
