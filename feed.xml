@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:35:31 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:40:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>プルデンシャル生命、自粛以降に不適切金銭受領－担当営業社員は死亡</title>
+      <link>https://news.yahoo.co.jp/articles/7025e48e93f22793a406b2ee02c78076beecd25e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7025e48e93f22793a406b2ee02c78076beecd25e</guid>
+      <pubDate>Mon, 24 Aug 2026 17:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>ピムコ、タームプレミアム高止まり予想－利回り上昇は債券投資の好機</title>
       <link>https://news.yahoo.co.jp/articles/8e26b42870c9e3f76dba6493e73e4b02e5de10df</link>
@@ -20,7 +26,7 @@
       <pubDate>Mon, 24 Aug 2026 15:53:00 +0900</pubDate>
     </item>
     <item>
-      <title>みずほ銀行などが日本空港ビルデング株を売り出しへ</title>
+      <title>みずほ銀行などが日本空港ビルデング株売り出し、最大約660億円（1）</title>
       <link>https://news.yahoo.co.jp/articles/a0b2e0444dbf727ac881ecebbb7b5e52d46e3a0e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a0b2e0444dbf727ac881ecebbb7b5e52d46e3a0e</guid>
       <pubDate>Mon, 24 Aug 2026 15:45:00 +0900</pubDate>
@@ -62,7 +68,7 @@
       <pubDate>Mon, 24 Aug 2026 11:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】債券軟調、世界的なインフレ・財政懸念－円は158円後半</title>
+      <title>【日本市況】長期債が小幅下落、インフレと財政懸念－日経平均続落</title>
       <link>https://news.yahoo.co.jp/articles/83534253e58684615bcab0e0817ee5e4e289b4d1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83534253e58684615bcab0e0817ee5e4e289b4d1</guid>
       <pubDate>Mon, 24 Aug 2026 09:26:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a5a76bc20443a31178b767da1b5a7389a744c5f4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5a76bc20443a31178b767da1b5a7389a744c5f4</guid>
       <pubDate>Fri, 21 Aug 2026 23:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米総合PMI、8月は2022年以来の高水準－需要拡大と見通し改善で</title>
-      <link>https://news.yahoo.co.jp/articles/81b2e624685a3e8336ecf4ba6e16b28ce3bcf8ff</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81b2e624685a3e8336ecf4ba6e16b28ce3bcf8ff</guid>
-      <pubDate>Fri, 21 Aug 2026 23:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
