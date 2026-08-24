@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:36:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:44:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米財務省、国債買い戻しの資金に一般勘定を利用する可能性－CNBC</title>
+      <link>https://news.yahoo.co.jp/articles/e37a1f7573cd45091f00afa1732b95adeed2a052</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e37a1f7573cd45091f00afa1732b95adeed2a052</guid>
+      <pubDate>Mon, 24 Aug 2026 21:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債上昇、ベッセント長官とウォーシュ議長の発言に手掛かり探る</title>
+      <link>https://news.yahoo.co.jp/articles/130ddc7dbcc26ca86e0376415c5f292023e3df3b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/130ddc7dbcc26ca86e0376415c5f292023e3df3b</guid>
+      <pubDate>Mon, 24 Aug 2026 20:04:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン産原油、中国向け供給は既にほぼ途絶－通貨リアルは過去最安値</title>
       <link>https://news.yahoo.co.jp/articles/88caa19f3a4d8e99d250195aca51f4ba00b3a2f4</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/561d49dd6f3681f0334770918bf1a0bf969009d1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/561d49dd6f3681f0334770918bf1a0bf969009d1</guid>
       <pubDate>Sat, 22 Aug 2026 03:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アポロにサイバー攻撃、個人情報にアクセス－ファンドへの攻撃相次ぐ</title>
-      <link>https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1fc583821a73ed6f48700b2fb5564b3ea7026aaf</guid>
-      <pubDate>Sat, 22 Aug 2026 02:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シタデル、シチュエーショナル関連の投資案件を売却－40億ドル超</title>
-      <link>https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79113ce709c23d173ce7141e2a74dbe1e5128f29</guid>
-      <pubDate>Sat, 22 Aug 2026 01:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
