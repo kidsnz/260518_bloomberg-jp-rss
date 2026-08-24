@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:35:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:33:13 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>トランプ氏、カナダ産自動車や鉄鋼の関税50%に引き上げ－1月1日から</title>
+      <title>米国、対イラン追加制裁を発表へ－財務長官「経済的生命線全て断つ」</title>
+      <link>https://news.yahoo.co.jp/articles/e7b4d51452776bb3bbfd07d67d50db8e40988551</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7b4d51452776bb3bbfd07d67d50db8e40988551</guid>
+      <pubDate>Mon, 24 Aug 2026 23:46:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英国、ウクライナにミサイル部品の機密開示へ－防空能力強化を支援</title>
+      <link>https://news.yahoo.co.jp/articles/963ff163f139ff3ef2491088622ad07e28eb01c2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/963ff163f139ff3ef2491088622ad07e28eb01c2</guid>
+      <pubDate>Mon, 24 Aug 2026 23:02:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、カナダ製自動車への関税を2倍にと表明－紛争さらに激化</title>
       <link>https://news.yahoo.co.jp/articles/9f17cabdd268e7da47d46eacd0ce3ddebec3f442</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f17cabdd268e7da47d46eacd0ce3ddebec3f442</guid>
       <pubDate>Mon, 24 Aug 2026 22:50:00 +0900</pubDate>
@@ -20,7 +32,7 @@
       <pubDate>Mon, 24 Aug 2026 21:14:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国債上昇、ベッセント長官とウォーシュ議長の発言に手掛かり探る</title>
+      <title>米国債上昇、ベッセント長官とウォーシュ議長発言に手掛かり探る</title>
       <link>https://news.yahoo.co.jp/articles/130ddc7dbcc26ca86e0376415c5f292023e3df3b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/130ddc7dbcc26ca86e0376415c5f292023e3df3b</guid>
       <pubDate>Mon, 24 Aug 2026 20:04:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/097d0a7f46b51fe63de2f203e4f1f8767721d686</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/097d0a7f46b51fe63de2f203e4f1f8767721d686</guid>
       <pubDate>Sat, 22 Aug 2026 08:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ米大統領、ベッセント財務長官に国債市場への介入指示せず</title>
-      <link>https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdeafe9be608ca9ce75db313fd067a33222341de</guid>
-      <pubDate>Sat, 22 Aug 2026 06:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップルが人員削減、Siriとヘッドセット用没入型ゲームのチームで</title>
-      <link>https://news.yahoo.co.jp/articles/60d82f2caa4887a857d334935419cb30ace3bbb6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60d82f2caa4887a857d334935419cb30ace3bbb6</guid>
-      <pubDate>Sat, 22 Aug 2026 05:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
