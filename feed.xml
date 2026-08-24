@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:19:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:51:20 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国が新たな対イラン制裁、取引続ける国も対象－「経済版Dデー」</title>
       <link>https://news.yahoo.co.jp/articles/86b6cd2d094cc50940475289cb38a6ff3478234a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86b6cd2d094cc50940475289cb38a6ff3478234a</guid>
       <pubDate>Tue, 25 Aug 2026 02:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】長期債買われる、米国債高が下支え－株は方向感欠く展開</title>
+      <link>https://news.yahoo.co.jp/articles/291e8ad6de27643d79cc95ec6f708bb354e38c77</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/291e8ad6de27643d79cc95ec6f708bb354e38c77</guid>
+      <pubDate>Tue, 25 Aug 2026 02:26:00 +0900</pubDate>
     </item>
     <item>
       <title>メキシコが2年ぶりにサムライ債の発行計画、最大6本－関係者</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0d9dc9fffcd2fcf5808cbe7bea48c4eb9b6f5064</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0d9dc9fffcd2fcf5808cbe7bea48c4eb9b6f5064</guid>
       <pubDate>Sun, 23 Aug 2026 05:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>茨城県や東京都などで震度5弱の地震－鉄道に影響、けが人複数</title>
-      <link>https://news.yahoo.co.jp/articles/fa7600c9190ec54776c875a24e01f54535990d32</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa7600c9190ec54776c875a24e01f54535990d32</guid>
-      <pubDate>Sun, 23 Aug 2026 02:13:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
