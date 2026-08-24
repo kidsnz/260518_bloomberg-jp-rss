@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:17:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:44:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>カナダ、対米報復で「幅広い選択肢」－重要鉱物やエネルギーも</title>
+      <link>https://news.yahoo.co.jp/articles/490ca2177b2453c62368aa8d55da5609f74d874b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/490ca2177b2453c62368aa8d55da5609f74d874b</guid>
+      <pubDate>Tue, 25 Aug 2026 08:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、米追加関税やイラン二次制裁で株安・債券高へ－円は膠着</title>
+      <link>https://news.yahoo.co.jp/articles/5e99a213a67912c8731573d7ec44a50dfe8a5605</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e99a213a67912c8731573d7ec44a50dfe8a5605</guid>
+      <pubDate>Tue, 25 Aug 2026 08:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国が新たな対イラン制裁、取引続ける国も対象－「経済版Dデー」</title>
       <link>https://news.yahoo.co.jp/articles/86b6cd2d094cc50940475289cb38a6ff3478234a</link>
@@ -26,7 +38,7 @@
       <pubDate>Tue, 25 Aug 2026 01:25:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国が中国製品に7.5%関税へ､過剰生産能力で－9月の米中首脳会談前に</title>
+      <title>米国が中国製品に7.5%関税へ、過剰生産能力で－米中首脳会談前に</title>
       <link>https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</guid>
       <pubDate>Tue, 25 Aug 2026 00:40:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</guid>
       <pubDate>Sun, 23 Aug 2026 10:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高利回りのAI関連債、投資適格級にもジャンク債マネー流入</title>
-      <link>https://news.yahoo.co.jp/articles/57e284ea06118e233b3500fc2e2c75a9d7123cde</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57e284ea06118e233b3500fc2e2c75a9d7123cde</guid>
-      <pubDate>Sun, 23 Aug 2026 09:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【焦点】ウォーシュFRB議長、試される市場との対話－物価対応に注視</title>
-      <link>https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5ea333d53f333d679f079ba582c9972550670431</guid>
-      <pubDate>Sun, 23 Aug 2026 07:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
