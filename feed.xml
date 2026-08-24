@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:57:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:27:30 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国、新たな対イラン制裁措置を発表－取引続ければ他国も標的に</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</guid>
       <pubDate>Tue, 25 Aug 2026 00:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500反落、半導体株に売り－円は小幅安で159円10銭台</title>
+      <link>https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</guid>
+      <pubDate>Tue, 25 Aug 2026 00:16:00 +0900</pubDate>
     </item>
     <item>
       <title>9月の相次ぐ社債発行、消化への懸念は行き過ぎ－JPモルガン</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fa7600c9190ec54776c875a24e01f54535990d32</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa7600c9190ec54776c875a24e01f54535990d32</guid>
       <pubDate>Sun, 23 Aug 2026 02:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カナダが米国に報復関税で対抗－カーニー首相、貿易で「戦争状態に」</title>
-      <link>https://news.yahoo.co.jp/articles/0bd1fc16b96d83e242b9a0c97aed12d998e1fa4c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0bd1fc16b96d83e242b9a0c97aed12d998e1fa4c</guid>
-      <pubDate>Mon, 24 Aug 2026 00:52:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
