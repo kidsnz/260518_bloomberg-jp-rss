@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:44:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:56:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】日経平均6万5000円割れ、半導体株に売り－債券もみ合い</title>
+      <link>https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</guid>
+      <pubDate>Tue, 25 Aug 2026 09:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>バーナム英首相、来月訪米へ－ウクライナ支援でトランプ氏に働きかけ</title>
+      <link>https://news.yahoo.co.jp/articles/657465ca5be2851f18579357a308785647e1903c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/657465ca5be2851f18579357a308785647e1903c</guid>
+      <pubDate>Tue, 25 Aug 2026 09:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>カナダ、対米報復で「幅広い選択肢」－重要鉱物やエネルギーも</title>
       <link>https://news.yahoo.co.jp/articles/490ca2177b2453c62368aa8d55da5609f74d874b</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e00a27789dd55f33fbcaf46a46c667204ba1fe62</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e00a27789dd55f33fbcaf46a46c667204ba1fe62</guid>
       <pubDate>Sun, 23 Aug 2026 12:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カナダのトラック関税引き下げ要求、米加通商協議決裂の一因に</title>
-      <link>https://news.yahoo.co.jp/articles/116eebd685a5bba6a696f6c9e05d54266fb751bb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/116eebd685a5bba6a696f6c9e05d54266fb751bb</guid>
-      <pubDate>Sun, 23 Aug 2026 11:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>韓国の個人投資家、年率40%の仕組み商品に食指－株安でもリスク選好</title>
-      <link>https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/622257eaf8e3f2d2b52a74ce83892b45864fca4a</guid>
-      <pubDate>Sun, 23 Aug 2026 10:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
