@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:16:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:24:55 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米アップルが「Mac mini」新モデル、約2年ぶりに投入へ</title>
+      <link>https://news.yahoo.co.jp/articles/2e052e6d5177ae9b2bc6a560bc9419b784533e3d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e052e6d5177ae9b2bc6a560bc9419b784533e3d</guid>
+      <pubDate>Tue, 25 Aug 2026 11:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>東京海上HDが過去最大規模の買収検討、豪サンコープが有力－FT</title>
+      <link>https://news.yahoo.co.jp/articles/98947d80d9108677c5cb2d14f24d732e5d5c37c2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98947d80d9108677c5cb2d14f24d732e5d5c37c2</guid>
+      <pubDate>Tue, 25 Aug 2026 10:51:00 +0900</pubDate>
+    </item>
     <item>
       <title>米の対イラン圧力強化、中国企業への二次的制裁が焦点－報復リスクも</title>
       <link>https://news.yahoo.co.jp/articles/bba06ce5b9ea1a5d06ade9f3ffd6fae40936aa6e</link>
@@ -20,7 +32,7 @@
       <pubDate>Tue, 25 Aug 2026 10:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均6万5000円割れ、半導体株に売り－債券もみ合い</title>
+      <title>【日本市況】エヌビディア決算控えて半導体関連株に売り－債券下落</title>
       <link>https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</guid>
       <pubDate>Tue, 25 Aug 2026 09:36:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a038a8cc358da9291ae8b341d65a4b5e5529876e</guid>
       <pubDate>Sun, 23 Aug 2026 22:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国アリババ、新株発行で約1兆6000億円調達－香港上場株8.1%安</title>
-      <link>https://news.yahoo.co.jp/articles/1b72f5f97bf32f5c7a0c5390b3e7411743fbcc66</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b72f5f97bf32f5c7a0c5390b3e7411743fbcc66</guid>
-      <pubDate>Mon, 24 Aug 2026 15:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国アリババ、新株発行で1.6兆円を調達－AI投資を拡大</title>
-      <link>https://news.yahoo.co.jp/articles/d9119b90761a65a1dc3a0342d29bdae48ca7c272</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d9119b90761a65a1dc3a0342d29bdae48ca7c272</guid>
-      <pubDate>Sun, 23 Aug 2026 15:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
