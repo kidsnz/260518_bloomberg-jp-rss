@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:52:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:19:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>債券は上昇へ、原油下落と米長期金利低下－円は対ドルで159円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/f23a86b50bf89213e2e8d18b6fc46469d991ce0c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f23a86b50bf89213e2e8d18b6fc46469d991ce0c</guid>
+      <pubDate>Wed, 26 Aug 2026 07:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランとオマーン、ホルムズ海峡通航再開へ「暫定的」枠組み巡り協議</title>
       <link>https://news.yahoo.co.jp/articles/4267fed9e1732f906e0c0fccbf0f288d33d5064c</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/20c8d4fc67225c5020d1ea7e8eb3d9bdaf09a24c</guid>
       <pubDate>Tue, 25 Aug 2026 00:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500反落、半導体株に売り－円は小幅安で159円10銭台</title>
-      <link>https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</guid>
-      <pubDate>Tue, 25 Aug 2026 00:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
