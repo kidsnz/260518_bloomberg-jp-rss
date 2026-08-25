@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:53:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:21:23 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>中国、対イランで米国の要求に反発－首脳会談前に衝突拡大のリスク</title>
@@ -36,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/27f9cfe097f199e451311643971daed0768823c7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27f9cfe097f199e451311643971daed0768823c7</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株上昇、半導体指数が反発－原油下落で国債利回りは低下</title>
+      <link>https://news.yahoo.co.jp/articles/a280333baec26f560d4d046665e7becfab25d1bb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a280333baec26f560d4d046665e7becfab25d1bb</guid>
+      <pubDate>Tue, 25 Aug 2026 23:49:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株は上昇、エヌビディア8日ぶり反発－原油安で米債利回り低下</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/130ddc7dbcc26ca86e0376415c5f292023e3df3b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/130ddc7dbcc26ca86e0376415c5f292023e3df3b</guid>
       <pubDate>Mon, 24 Aug 2026 20:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン産原油、中国向け供給は既にほぼ途絶－通貨リアルは過去最安値</title>
-      <link>https://news.yahoo.co.jp/articles/88caa19f3a4d8e99d250195aca51f4ba00b3a2f4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88caa19f3a4d8e99d250195aca51f4ba00b3a2f4</guid>
-      <pubDate>Mon, 24 Aug 2026 19:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
