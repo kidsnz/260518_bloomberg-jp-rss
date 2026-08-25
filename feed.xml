@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:56:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:41:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>HFTのダルマがシンガポールに移転、日本拠点の業者はゼロに－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</guid>
+      <pubDate>Tue, 25 Aug 2026 14:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>ブロードコムの信用リスク上昇、AI資金調達で巨額の保証提供を不安視</title>
       <link>https://news.yahoo.co.jp/articles/c4815c1c004430b06773f221b416cef752934f66</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/149bbe7edcf86b0b5865567e48211497b77b798c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/149bbe7edcf86b0b5865567e48211497b77b798c</guid>
       <pubDate>Tue, 25 Aug 2026 13:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ビットコインの人気復活、8万ドル回復－通貨価値希薄化を見込む取引</title>
+      <link>https://news.yahoo.co.jp/articles/c1cdd5273bed7cecf53f2c45231fac86b049c2af</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1cdd5273bed7cecf53f2c45231fac86b049c2af</guid>
+      <pubDate>Tue, 25 Aug 2026 13:12:00 +0900</pubDate>
     </item>
     <item>
       <title>台風18号、奄美・沖縄に強い勢力で接近へ－空の便に欠航広がる</title>
@@ -74,7 +86,7 @@
       <pubDate>Tue, 25 Aug 2026 10:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】株式持ち直す、エヌビディア決算前に打診買い－債券下落</title>
+      <title>【日本市況】株式持ち直す、エヌビディア決算前に打診買い－金利上昇</title>
       <link>https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</guid>
       <pubDate>Tue, 25 Aug 2026 09:36:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</guid>
       <pubDate>Mon, 24 Aug 2026 09:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カナダ、米国との貿易交渉再開は困難か－中間選挙後も対立継続、長期化の可能性見込む</title>
-      <link>https://news.yahoo.co.jp/articles/9e585f515721f8f38c8879ec92b25a6dc119c1e4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e585f515721f8f38c8879ec92b25a6dc119c1e4</guid>
-      <pubDate>Mon, 24 Aug 2026 09:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀の発言に注目、9月利上げ観測強まる－市場は約8割織り込み</title>
-      <link>https://news.yahoo.co.jp/articles/fb12632163ae673e2d957cf95b11ea337e03768f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fb12632163ae673e2d957cf95b11ea337e03768f</guid>
-      <pubDate>Mon, 24 Aug 2026 08:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
