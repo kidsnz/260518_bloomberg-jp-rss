@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:20:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:52:59 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イランとオマーン、ホルムズ海峡通航再開へ「暫定的」枠組み巡り協議</title>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/1a0eb45f8a729f5951258f58efa6c1db467f98bf</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a0eb45f8a729f5951258f58efa6c1db467f98bf</guid>
       <pubDate>Wed, 26 Aug 2026 05:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株、債券ともに上昇－原油価格下落が投資家心理を後押し</title>
+      <link>https://news.yahoo.co.jp/articles/1d802ad9e723fe1ce3d73c10d6f7187b6839ff0e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1d802ad9e723fe1ce3d73c10d6f7187b6839ff0e</guid>
+      <pubDate>Wed, 26 Aug 2026 02:27:00 +0900</pubDate>
     </item>
     <item>
       <title>アリババのマー氏、自社株122億円相当購入－AI基盤整備への支持示す</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2edcf63bf2b28d8878860ce2ee72e01955670597</guid>
       <pubDate>Tue, 25 Aug 2026 00:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>9月の相次ぐ社債発行、消化への懸念は行き過ぎ－JPモルガン</title>
-      <link>https://news.yahoo.co.jp/articles/c31ae87569d1fdd58609bda3adbca8d79ab5ddcb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c31ae87569d1fdd58609bda3adbca8d79ab5ddcb</guid>
-      <pubDate>Tue, 25 Aug 2026 00:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
