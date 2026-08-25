@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 18:29:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:01:41 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドイツ企業の景気見通し、4カ月連続で改善－経済回復の進展を示唆</title>
+      <link>https://news.yahoo.co.jp/articles/7f2619da3702e63653ba3218f1884843af5a029d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f2619da3702e63653ba3218f1884843af5a029d</guid>
+      <pubDate>Tue, 25 Aug 2026 18:11:00 +0900</pubDate>
+    </item>
     <item>
       <title>米財務省の対イラン制裁、中国・香港の数十社に影響－効果は不透明</title>
       <link>https://news.yahoo.co.jp/articles/f9de308f964e88cbaf818a455f536df615d811b7</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/63d91087f9b1608ce9b672bf4853664f35fc5383</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63d91087f9b1608ce9b672bf4853664f35fc5383</guid>
       <pubDate>Mon, 24 Aug 2026 12:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ米政権、ファニーメイの上級スタッフ12人を先週解任－当局者</title>
-      <link>https://news.yahoo.co.jp/articles/1b056363ab24a1652a06776a2a2c8dda5a049c04</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b056363ab24a1652a06776a2a2c8dda5a049c04</guid>
-      <pubDate>Mon, 24 Aug 2026 11:26:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
