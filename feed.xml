@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:41:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:38:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>東京海上HD、1株を15株に分割へ－株主優待制度導入も決定</title>
+      <link>https://news.yahoo.co.jp/articles/ae81f10ae81d1b1bb4ae4d93be7d5e1fc4340b85</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae81f10ae81d1b1bb4ae4d93be7d5e1fc4340b85</guid>
+      <pubDate>Tue, 25 Aug 2026 15:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>HFTのダルマがシンガポールに移転、日本拠点の業者はゼロに－関係者</title>
       <link>https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4b430022d68b23ef15a9523fcab116bf1f54c297</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b430022d68b23ef15a9523fcab116bf1f54c297</guid>
       <pubDate>Mon, 24 Aug 2026 09:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクGが社債1兆円、4%台利回りで個人マネー呼び込む</title>
-      <link>https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/68c39b282b93831e09fdcc091df33f9bf4cd1065</guid>
-      <pubDate>Mon, 24 Aug 2026 09:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
