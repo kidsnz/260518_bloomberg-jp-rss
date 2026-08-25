@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:07:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:03:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ラトニック米商務長官に称賛と非難、米カナダ貿易交渉で土壇場の介入</title>
+      <link>https://news.yahoo.co.jp/articles/149bbe7edcf86b0b5865567e48211497b77b798c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/149bbe7edcf86b0b5865567e48211497b77b798c</guid>
+      <pubDate>Tue, 25 Aug 2026 13:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント財務長官の米長期債買い戻し計画、かつてのメンターが論難</title>
+      <link>https://news.yahoo.co.jp/articles/e8252f3371ee4dcf335412f433624b471ac7d902</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e8252f3371ee4dcf335412f433624b471ac7d902</guid>
+      <pubDate>Tue, 25 Aug 2026 13:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>片山財務相､強い経済の構築と財政の持続可能性を両立する-27年度予算</title>
       <link>https://news.yahoo.co.jp/articles/89b145e99d0cceed59c1a3080d0b8dd1c56ba623</link>
@@ -44,7 +56,7 @@
       <pubDate>Tue, 25 Aug 2026 10:13:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】エヌビディア決算控えて半導体関連株に売り－債券下落</title>
+      <title>【日本市況】株式持ち直す、エヌビディア決算前に打診買い－債券下落</title>
       <link>https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bb528a1ba17fcf1665c2d75a92045e1a0cdc38e</guid>
       <pubDate>Tue, 25 Aug 2026 09:36:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/47237118ab8ed03f1ebf54e9082e5842f1cefb2f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/47237118ab8ed03f1ebf54e9082e5842f1cefb2f</guid>
       <pubDate>Mon, 24 Aug 2026 07:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米長期債に一段安のリスク－週末のウォーシュFRB議長講演が鍵握る</title>
-      <link>https://news.yahoo.co.jp/articles/3d84e54760adcaf98fce1a08a76277aa65d6c260</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d84e54760adcaf98fce1a08a76277aa65d6c260</guid>
-      <pubDate>Mon, 24 Aug 2026 06:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カナダ・ドルが対米ドルで下落､円は159円付近で小動き－シドニー市場</title>
-      <link>https://news.yahoo.co.jp/articles/2e45e7680be1b7ed89a75858ec74d75edbd1b25d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e45e7680be1b7ed89a75858ec74d75edbd1b25d</guid>
-      <pubDate>Mon, 24 Aug 2026 05:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
