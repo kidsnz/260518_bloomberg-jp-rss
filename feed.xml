@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:29:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 02:06:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ボストン連銀総裁、金融引き締めが適切－インフレ鈍化の証拠なければ</title>
+      <link>https://news.yahoo.co.jp/articles/b5788213930c3cf3a52b55bb41a5903edef09461</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b5788213930c3cf3a52b55bb41a5903edef09461</guid>
+      <pubDate>Wed, 26 Aug 2026 01:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI自前のAI向け半導体、エヌビディアの現行製品上回る性能示す</title>
+      <link>https://news.yahoo.co.jp/articles/c7a965b4adc9c628c46ef6c0dbc5c3f6c268b8a3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7a965b4adc9c628c46ef6c0dbc5c3f6c268b8a3</guid>
+      <pubDate>Wed, 26 Aug 2026 00:24:00 +0900</pubDate>
+    </item>
     <item>
       <title>カナダが対米報復措置を発表、米国産の鉄鋼・アルミ関税は50%に倍増</title>
       <link>https://news.yahoo.co.jp/articles/098f3a0b8cb9fa680d4708a556860115a672324f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/098f3a0b8cb9fa680d4708a556860115a672324f</guid>
       <pubDate>Wed, 26 Aug 2026 00:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ホンダ、米国での新工場建設検討－EV推進転換、手頃な価格のHV強化へ</title>
+      <link>https://news.yahoo.co.jp/articles/27f9cfe097f199e451311643971daed0768823c7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27f9cfe097f199e451311643971daed0768823c7</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株は上昇、エヌビディア8日ぶり反発－原油安で米債利回り低下</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0e3e47b6977c71f6b9f3a42378f1a1a2960585f2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0e3e47b6977c71f6b9f3a42378f1a1a2960585f2</guid>
       <pubDate>Mon, 24 Aug 2026 19:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本の超党派国会議員団が中国訪問、政治対話再開へ手探りの一歩</title>
-      <link>https://news.yahoo.co.jp/articles/afadbd16ce7862938a4803d095a473d2699f4c25</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afadbd16ce7862938a4803d095a473d2699f4c25</guid>
-      <pubDate>Mon, 24 Aug 2026 18:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油下落、米国の対イラン計画の詳細発表控え－ブレント93ドル付近</title>
-      <link>https://news.yahoo.co.jp/articles/f335d8b8981c16a5faf0fed071945b80290077f4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f335d8b8981c16a5faf0fed071945b80290077f4</guid>
-      <pubDate>Mon, 24 Aug 2026 18:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>金が3カ月超ぶり高値－米長期債買い戻し拡大受け、ドル安懸念広がる</title>
-      <link>https://news.yahoo.co.jp/articles/27337c2ccae1898133f13d6d59fdcf6188a791dd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27337c2ccae1898133f13d6d59fdcf6188a791dd</guid>
-      <pubDate>Tue, 25 Aug 2026 17:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
