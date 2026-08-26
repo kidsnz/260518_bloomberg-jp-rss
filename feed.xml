@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:28:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:59:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>LME銅価格、最高値更新後も上昇継続－供給ひっ迫なお続く</title>
+      <link>https://news.yahoo.co.jp/articles/f3fd2530b4eb69abec3567c0614e53e56c2d5f35</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f3fd2530b4eb69abec3567c0614e53e56c2d5f35</guid>
+      <pubDate>Wed, 26 Aug 2026 14:24:00 +0900</pubDate>
+    </item>
     <item>
       <title>オーストラリアのインフレ率、予想を上回る－追加利上げ観測強まる</title>
       <link>https://news.yahoo.co.jp/articles/005c384e7ca133a3ead66c2eb8b6a5fc8850866c</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a2cd5d5a65302c2578d217af041991273acfe18a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2cd5d5a65302c2578d217af041991273acfe18a</guid>
       <pubDate>Tue, 25 Aug 2026 14:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ラトニック米商務長官に称賛と非難、米カナダ貿易交渉で土壇場の介入</title>
-      <link>https://news.yahoo.co.jp/articles/149bbe7edcf86b0b5865567e48211497b77b798c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/149bbe7edcf86b0b5865567e48211497b77b798c</guid>
-      <pubDate>Tue, 25 Aug 2026 13:27:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
