@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 01:12:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 03:12:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>プーチン氏は外交行き詰まりと判断、ウクライナ攻撃を激化へ－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/3b93c4e351f26eedcf8323f1553928758d99c00f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b93c4e351f26eedcf8323f1553928758d99c00f</guid>
+      <pubDate>Thu, 27 Aug 2026 02:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>CIA長官のモスクワ訪問、「緊張緩和が目的」－リトアニア大統領</title>
+      <link>https://news.yahoo.co.jp/articles/e7d4254c769dc6845ccd2a29afbbf9b5c25244aa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7d4254c769dc6845ccd2a29afbbf9b5c25244aa</guid>
+      <pubDate>Thu, 27 Aug 2026 01:12:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国債下落、コアPCE価格発表後も利上げ観測変わらず－株もみ合い</title>
       <link>https://news.yahoo.co.jp/articles/1a2d431ae303aaf536d1743aa47a8b9f8172c7c3</link>
@@ -14,10 +26,16 @@
       <pubDate>Wed, 26 Aug 2026 23:16:00 +0900</pubDate>
     </item>
     <item>
-      <title>メタ、167億ドルで米国の各州と和解－若者のSNS依存巡る訴訟</title>
+      <title>メタ、最大167億ドルで米国の各州と和解－若者のSNS依存巡る訴訟</title>
       <link>https://news.yahoo.co.jp/articles/c61cf306e5fb4ebd34f2c92265c3c801b9f3b177</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c61cf306e5fb4ebd34f2c92265c3c801b9f3b177</guid>
       <pubDate>Wed, 26 Aug 2026 22:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>世界の中銀当局者、ジャクソンホールでインフレのリスク強調へ</title>
+      <link>https://news.yahoo.co.jp/articles/c928700ec78850ced1e5655e88808938269bfdd7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c928700ec78850ced1e5655e88808938269bfdd7</guid>
+      <pubDate>Thu, 27 Aug 2026 21:59:00 +0900</pubDate>
     </item>
     <item>
       <title>世界の中銀当局者、ジャクソンホールでインフレのリスク強調へ</title>
@@ -32,6 +50,12 @@
       <pubDate>Wed, 26 Aug 2026 21:54:00 +0900</pubDate>
     </item>
     <item>
+      <title>米PCEコア価格指数、小幅な伸び－個人消費支出は実質ベースで停滞</title>
+      <link>https://news.yahoo.co.jp/articles/4540f8f69e0e1b3887aee289709cc46b6e70689f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4540f8f69e0e1b3887aee289709cc46b6e70689f</guid>
+      <pubDate>Thu, 27 Aug 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米PCEコア価格指数、小幅な伸びにとどまる－実質消費支出は横ばい</title>
       <link>https://news.yahoo.co.jp/articles/c2dcae68752e992b78a6d17af7d30bd8d2bdcfd1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2dcae68752e992b78a6d17af7d30bd8d2bdcfd1</guid>
@@ -42,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/fe655db5391957f699cd69724d005a7fa782b91e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe655db5391957f699cd69724d005a7fa782b91e</guid>
       <pubDate>Wed, 26 Aug 2026 21:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州債に天然ガスの脅威、インフレ懸念の焦点が原油からシフト</title>
+      <link>https://news.yahoo.co.jp/articles/7cc447c13a96ada0cb061934c1a2f5650884fbee</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cc447c13a96ada0cb061934c1a2f5650884fbee</guid>
+      <pubDate>Wed, 26 Aug 2026 20:29:00 +0900</pubDate>
     </item>
     <item>
       <title>タイ中銀、政策金利1％に据え置き継続－危機時には利下げ余地</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/27f9cfe097f199e451311643971daed0768823c7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27f9cfe097f199e451311643971daed0768823c7</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株上昇、半導体指数が反発－原油下落で国債利回りは低下</title>
-      <link>https://news.yahoo.co.jp/articles/a280333baec26f560d4d046665e7becfab25d1bb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a280333baec26f560d4d046665e7becfab25d1bb</guid>
-      <pubDate>Tue, 25 Aug 2026 23:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株は上昇、エヌビディア8日ぶり反発－原油安で米債利回り低下</title>
-      <link>https://news.yahoo.co.jp/articles/550bd11e63c6f0cd244356ab919731480b7c1283</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/550bd11e63c6f0cd244356ab919731480b7c1283</guid>
-      <pubDate>Tue, 25 Aug 2026 23:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新築住宅販売、予想下回り6カ月ぶり低水準－高金利が需要圧迫</title>
-      <link>https://news.yahoo.co.jp/articles/188b0df712e0da627f90b9cf11207f603c6f7c6b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/188b0df712e0da627f90b9cf11207f603c6f7c6b</guid>
-      <pubDate>Tue, 25 Aug 2026 23:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米新築住宅販売件数、6カ月ぶり低水準－市場予想を下回る</title>
-      <link>https://news.yahoo.co.jp/articles/3dc69768fb0125461865fa019f0c8a340d9e56be</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3dc69768fb0125461865fa019f0c8a340d9e56be</guid>
-      <pubDate>Tue, 25 Aug 2026 23:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者信頼感指数は前月から低下、業況や労働市場の見通し悪化</title>
-      <link>https://news.yahoo.co.jp/articles/4f8380bdec986caa4179212a0eb74bec135b6b84</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4f8380bdec986caa4179212a0eb74bec135b6b84</guid>
-      <pubDate>Wed, 26 Aug 2026 23:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
