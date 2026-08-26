@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:24:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:31:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米ディックス株が上場来最大の下落、昨年買収のフットロッカー不振</title>
+      <link>https://news.yahoo.co.jp/articles/ffaabcff22ce92de288962d3587e40531939a256</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ffaabcff22ce92de288962d3587e40531939a256</guid>
+      <pubDate>Wed, 26 Aug 2026 11:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏支持のグラム氏が決選投票勝利へ、Sカロライナ上院予備選</title>
       <link>https://news.yahoo.co.jp/articles/33c7aa46360ce2c8cf89c92439d2eb8b64316c53</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2e052e6d5177ae9b2bc6a560bc9419b784533e3d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e052e6d5177ae9b2bc6a560bc9419b784533e3d</guid>
       <pubDate>Tue, 25 Aug 2026 11:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グッゲンハイム、資金調達事業体のローン価格急落－会計処理に疑念</title>
-      <link>https://news.yahoo.co.jp/articles/eaaf22cc761cfa5291a62316230844f1c9e6e335</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eaaf22cc761cfa5291a62316230844f1c9e6e335</guid>
-      <pubDate>Tue, 25 Aug 2026 11:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
