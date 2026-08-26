@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:34:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:29:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>タイ中銀、政策金利1％に据え置き継続－危機時には利下げ余地</title>
+      <link>https://news.yahoo.co.jp/articles/aa0ba93e3c4d59b399b3b23289d10c8ca0b573c9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa0ba93e3c4d59b399b3b23289d10c8ca0b573c9</guid>
+      <pubDate>Wed, 26 Aug 2026 18:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>バリアズニー、野村のジブラジ氏を起用－アジア担当COOに</title>
+      <link>https://news.yahoo.co.jp/articles/0fa9ca4be1dbf0f65941bbebf0e63fc9b5b1785a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0fa9ca4be1dbf0f65941bbebf0e63fc9b5b1785a</guid>
+      <pubDate>Wed, 26 Aug 2026 18:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドル160円台へ、日銀「ハト派的」9月利上げなら－ウェルズ・ファーゴ</title>
+      <link>https://news.yahoo.co.jp/articles/9d515fcb71d4bf01aa4793c13a815442c4ad68c0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9d515fcb71d4bf01aa4793c13a815442c4ad68c0</guid>
+      <pubDate>Wed, 26 Aug 2026 17:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>政府、原油調達先・輸入経路の多角化支援へ－中東依存リスクに対応</title>
       <link>https://news.yahoo.co.jp/articles/9e15206cc67f38928782f97bbb9df9d0e38c1ba6</link>
@@ -72,6 +90,12 @@
       <link>https://news.yahoo.co.jp/articles/2e21182bb8d1fc2880995e37af602f15a583eb9c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e21182bb8d1fc2880995e37af602f15a583eb9c</guid>
       <pubDate>Wed, 26 Aug 2026 12:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>習近平政権、異例の税追徴で中国上場企業に打撃－地方が新財源を模索</title>
+      <link>https://news.yahoo.co.jp/articles/7744ff601ee18dbba0b521263d6d0ed80d150e9a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7744ff601ee18dbba0b521263d6d0ed80d150e9a</guid>
+      <pubDate>Wed, 26 Aug 2026 12:13:00 +0900</pubDate>
     </item>
     <item>
       <title>米ディックス株が上場来最大の下落、昨年買収のフットロッカー不振</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ad90715156569685409d6f360b1e89c2ab7b2298</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ad90715156569685409d6f360b1e89c2ab7b2298</guid>
       <pubDate>Wed, 26 Aug 2026 19:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ議長、批判に反論の機会－注目のジャクソンホール会合講演</title>
-      <link>https://news.yahoo.co.jp/articles/855aae242a5ea74da9a1d561dddfebfa5ac2fb48</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/855aae242a5ea74da9a1d561dddfebfa5ac2fb48</guid>
-      <pubDate>Tue, 25 Aug 2026 19:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツ企業の景気見通し、4カ月連続で改善－経済回復の進展を示唆</title>
-      <link>https://news.yahoo.co.jp/articles/7f2619da3702e63653ba3218f1884843af5a029d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f2619da3702e63653ba3218f1884843af5a029d</guid>
-      <pubDate>Tue, 25 Aug 2026 18:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>VWの人員削減、最大で14万人規模に膨らむ恐れ－労組が警告</title>
-      <link>https://news.yahoo.co.jp/articles/fd756dd72b8eab95fa63a5cc42f5be768b2330e6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd756dd72b8eab95fa63a5cc42f5be768b2330e6</guid>
-      <pubDate>Tue, 25 Aug 2026 17:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米財務省の対イラン制裁、中国・香港の数十社に影響－効果は不透明</title>
-      <link>https://news.yahoo.co.jp/articles/f9de308f964e88cbaf818a455f536df615d811b7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f9de308f964e88cbaf818a455f536df615d811b7</guid>
-      <pubDate>Tue, 25 Aug 2026 17:40:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
