@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 22:50:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:38:17 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国債下落、コアPCE価格発表後も利上げ観測変わらず－株もみ合い</title>
+      <link>https://news.yahoo.co.jp/articles/1a2d431ae303aaf536d1743aa47a8b9f8172c7c3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a2d431ae303aaf536d1743aa47a8b9f8172c7c3</guid>
+      <pubDate>Wed, 26 Aug 2026 23:16:00 +0900</pubDate>
+    </item>
     <item>
       <title>メタ、167億ドルで米国の各州と和解－若者のSNS依存巡る訴訟</title>
       <link>https://news.yahoo.co.jp/articles/c61cf306e5fb4ebd34f2c92265c3c801b9f3b177</link>
@@ -20,7 +26,7 @@
       <pubDate>Wed, 26 Aug 2026 21:54:00 +0900</pubDate>
     </item>
     <item>
-      <title>米個人消費支出、実質の伸び横ばい－PCEコア価格指数は市場予想通り</title>
+      <title>米個人消費支出、実質の伸び横ばい－PCEコア価格指数は予想通り</title>
       <link>https://news.yahoo.co.jp/articles/c2dcae68752e992b78a6d17af7d30bd8d2bdcfd1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2dcae68752e992b78a6d17af7d30bd8d2bdcfd1</guid>
       <pubDate>Wed, 26 Aug 2026 21:43:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9bcf132576aac4d2adef3a0b6ab37436e4ceb01b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bcf132576aac4d2adef3a0b6ab37436e4ceb01b</guid>
       <pubDate>Tue, 25 Aug 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、オンタリオ湖の「アメリカ湖」改称を検討－舌戦も激化</title>
-      <link>https://news.yahoo.co.jp/articles/19d6f48251d6845e8e9a476f7d107f4d28d73fe0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19d6f48251d6845e8e9a476f7d107f4d28d73fe0</guid>
-      <pubDate>Tue, 25 Aug 2026 21:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
