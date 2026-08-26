@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:59:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:50:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ファーウェイ、AI半導体巡りエジプトに働きかけ－中東で米国に挑む</title>
+      <link>https://news.yahoo.co.jp/articles/1c263e308ef7eac2c102b981bac5ad797f3f2695</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c263e308ef7eac2c102b981bac5ad797f3f2695</guid>
+      <pubDate>Wed, 26 Aug 2026 15:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>AIでIT業務価格は最大25%低下へ、人員需要も減少－印ヘクサウェアCEO</title>
       <link>https://news.yahoo.co.jp/articles/649677184a3451eb60c752b04c883bac52bf6076</link>
@@ -24,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/9e60c21779d878e3fdf8d9b2e2cec4efc4eafb96</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e60c21779d878e3fdf8d9b2e2cec4efc4eafb96</guid>
       <pubDate>Wed, 26 Aug 2026 14:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG、OpenAI関連の資金調達で最大200億ドルの起債検討</title>
+      <link>https://news.yahoo.co.jp/articles/e91aa790d6605e1f48471104049f2eb2849e3e35</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e91aa790d6605e1f48471104049f2eb2849e3e35</guid>
+      <pubDate>Wed, 26 Aug 2026 14:01:00 +0900</pubDate>
     </item>
     <item>
       <title>オーストラリアのインフレ率、予想を上回る－追加利上げ観測強まる</title>
@@ -86,7 +98,7 @@
       <pubDate>Wed, 26 Aug 2026 09:40:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】長期債が上昇、中東の緊張緩和期待で原油安－株式堅調</title>
+      <title>【日本市況】長期債が上昇、中東の緊張緩和期待で原油安－株式は続伸</title>
       <link>https://news.yahoo.co.jp/articles/935de49c805c46dc16f238800e56f9c709d5500f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/935de49c805c46dc16f238800e56f9c709d5500f</guid>
       <pubDate>Wed, 26 Aug 2026 09:29:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1164363b10de82cf12c359dd9814a504fc5d6aaa</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1164363b10de82cf12c359dd9814a504fc5d6aaa</guid>
       <pubDate>Tue, 25 Aug 2026 17:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>東京海上HD、1株を15株に分割へ－株主優待制度導入も決定</title>
-      <link>https://news.yahoo.co.jp/articles/ae81f10ae81d1b1bb4ae4d93be7d5e1fc4340b85</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae81f10ae81d1b1bb4ae4d93be7d5e1fc4340b85</guid>
-      <pubDate>Tue, 25 Aug 2026 15:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>HFTのダルマがシンガポールに移転、日本拠点の業者はゼロに－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</guid>
-      <pubDate>Tue, 25 Aug 2026 14:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
