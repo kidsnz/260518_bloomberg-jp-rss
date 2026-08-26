@@ -5,12 +5,24 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:59:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:59:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AIでIT業務価格は最大25%低下へ、人員需要も減少－印ヘクサウェアCEO</title>
+      <link>https://news.yahoo.co.jp/articles/649677184a3451eb60c752b04c883bac52bf6076</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/649677184a3451eb60c752b04c883bac52bf6076</guid>
+      <pubDate>Wed, 26 Aug 2026 14:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>LME銅価格、最高値更新後も上昇継続－供給ひっ迫なお続く</title>
       <link>https://news.yahoo.co.jp/articles/f3fd2530b4eb69abec3567c0614e53e56c2d5f35</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f3fd2530b4eb69abec3567c0614e53e56c2d5f35</guid>
+      <pubDate>Wed, 26 Aug 2026 14:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECBシュナーベル理事、さらなる利上げ必要－ユーロ圏経済底堅い</title>
+      <link>https://news.yahoo.co.jp/articles/9e60c21779d878e3fdf8d9b2e2cec4efc4eafb96</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e60c21779d878e3fdf8d9b2e2cec4efc4eafb96</guid>
       <pubDate>Wed, 26 Aug 2026 14:24:00 +0900</pubDate>
     </item>
     <item>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/49d7f1d9f8c4ea2be97dfa40f988d6c7717f0b9e</guid>
       <pubDate>Tue, 25 Aug 2026 14:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブロードコムの信用リスク上昇、AI資金調達で巨額の保証提供を不安視</title>
-      <link>https://news.yahoo.co.jp/articles/c4815c1c004430b06773f221b416cef752934f66</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4815c1c004430b06773f221b416cef752934f66</guid>
-      <pubDate>Tue, 25 Aug 2026 14:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀試算の消費者物価は22カ月連続2%超え、早期利上げ観測サポート</title>
-      <link>https://news.yahoo.co.jp/articles/a2cd5d5a65302c2578d217af041991273acfe18a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2cd5d5a65302c2578d217af041991273acfe18a</guid>
-      <pubDate>Tue, 25 Aug 2026 14:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
