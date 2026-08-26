@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 23:38:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 01:12:51 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>米国債下落、コアPCE価格発表後も利上げ観測変わらず－株もみ合い</title>
@@ -20,13 +20,19 @@
       <pubDate>Wed, 26 Aug 2026 22:27:00 +0900</pubDate>
     </item>
     <item>
-      <title>米GDP、前期比年率1.5%増で予想と一致－個人消費と投資は上方修正</title>
+      <title>世界の中銀当局者、ジャクソンホールでインフレのリスク強調へ</title>
+      <link>https://news.yahoo.co.jp/articles/33f483e4e291d5471163428bb18ea419f8d1d781</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/33f483e4e291d5471163428bb18ea419f8d1d781</guid>
+      <pubDate>Wed, 26 Aug 2026 21:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米GDP、4－6月は年率1.5%増で予想と一致－消費と投資は上方修正</title>
       <link>https://news.yahoo.co.jp/articles/a18ca39c487c5a03c03fe63e489343f6385be5ad</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a18ca39c487c5a03c03fe63e489343f6385be5ad</guid>
       <pubDate>Wed, 26 Aug 2026 21:54:00 +0900</pubDate>
     </item>
     <item>
-      <title>米個人消費支出、実質の伸び横ばい－PCEコア価格指数は予想通り</title>
+      <title>米PCEコア価格指数、小幅な伸びにとどまる－実質消費支出は横ばい</title>
       <link>https://news.yahoo.co.jp/articles/c2dcae68752e992b78a6d17af7d30bd8d2bdcfd1</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c2dcae68752e992b78a6d17af7d30bd8d2bdcfd1</guid>
       <pubDate>Wed, 26 Aug 2026 21:43:00 +0900</pubDate>
@@ -182,7 +188,7 @@
       <pubDate>Wed, 26 Aug 2026 08:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>ブレント原油87ドル割れ、イランとオマーンがホルムズ通航再開へ協議</title>
+      <title>ブレント原油86ドル割れ、イランとオマーンがホルムズ通航再開へ協議</title>
       <link>https://news.yahoo.co.jp/articles/da55639f462a19c3d962294f0a1c65e3ecefd8a4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/da55639f462a19c3d962294f0a1c65e3ecefd8a4</guid>
       <pubDate>Wed, 26 Aug 2026 08:15:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4f8380bdec986caa4179212a0eb74bec135b6b84</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4f8380bdec986caa4179212a0eb74bec135b6b84</guid>
       <pubDate>Wed, 26 Aug 2026 23:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者信頼感指数は前月から低下、業況や労働市場の見通しが悪化</title>
-      <link>https://news.yahoo.co.jp/articles/9bcf132576aac4d2adef3a0b6ab37436e4ceb01b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9bcf132576aac4d2adef3a0b6ab37436e4ceb01b</guid>
-      <pubDate>Tue, 25 Aug 2026 23:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
