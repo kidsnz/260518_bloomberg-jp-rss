@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:16:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:16:23 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン大統領、戦争終結へ妥協の用意を示唆</title>
@@ -20,13 +20,19 @@
       <pubDate>Sat, 29 Aug 2026 12:37:00 +0900</pubDate>
     </item>
     <item>
+      <title>船越外務次官がランドー米国務副長官と会談－ICCや中東情勢など議論</title>
+      <link>https://news.yahoo.co.jp/articles/820645ba333f53975a5aa2211dbc7208e75eff8e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/820645ba333f53975a5aa2211dbc7208e75eff8e</guid>
+      <pubDate>Sat, 29 Aug 2026 12:37:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ウォール街で利上げ観測台頭－ウォーシュ議長がタカ派姿勢を再表明</title>
       <link>https://news.yahoo.co.jp/articles/a05ed50129896648ae062321e6c5df1fcf5285d8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a05ed50129896648ae062321e6c5df1fcf5285d8</guid>
       <pubDate>Sat, 29 Aug 2026 09:53:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏、米がベネズエラ石油埋蔵量の一部で権益確保と表明</title>
+      <title>米国、ベネズエラの石油資源の大部分を支配下に－トランプ氏表明</title>
       <link>https://news.yahoo.co.jp/articles/147c1f9aeb132c1177c9fc9314a61ced83e330dc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/147c1f9aeb132c1177c9fc9314a61ced83e330dc</guid>
       <pubDate>Sat, 29 Aug 2026 08:07:00 +0900</pubDate>
@@ -158,7 +164,7 @@
       <pubDate>Fri, 28 Aug 2026 15:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>ネパール・中国国境、約2500人が行方不明－当局は救助活動を強化</title>
+      <title>ネパール・中国国境、約3000人が行方不明－当局は救助活動を強化</title>
       <link>https://news.yahoo.co.jp/articles/dbaa3d4613d6b8594888775a6e38ae6f884c7034</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbaa3d4613d6b8594888775a6e38ae6f884c7034</guid>
       <pubDate>Fri, 28 Aug 2026 15:12:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0174faba2ebf9a8c3b1bc30e7cddc73385c3b709</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0174faba2ebf9a8c3b1bc30e7cddc73385c3b709</guid>
       <pubDate>Fri, 28 Aug 2026 07:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P500は年末7.5%安、BofAの弱気派が予想－AI投資に警戒</title>
-      <link>https://news.yahoo.co.jp/articles/a600d61bea626483c5ddefc51ed7eecf75e57a96</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a600d61bea626483c5ddefc51ed7eecf75e57a96</guid>
-      <pubDate>Fri, 28 Aug 2026 07:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
