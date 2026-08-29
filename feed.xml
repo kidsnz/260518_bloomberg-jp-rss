@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:14:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:16:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン大統領、戦争終結へ妥協の用意を示唆</title>
+      <link>https://news.yahoo.co.jp/articles/944f9a60c09c895374bae203664f1a676c2aee15</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/944f9a60c09c895374bae203664f1a676c2aee15</guid>
+      <pubDate>Sat, 29 Aug 2026 15:37:00 +0900</pubDate>
+    </item>
     <item>
       <title>ウォーシュ議長が物価抑制で強いメッセージ－9月FOMC会合が正念場に</title>
       <link>https://news.yahoo.co.jp/articles/ef429bd954a598fe101c52cd00093aa733691511</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a600d61bea626483c5ddefc51ed7eecf75e57a96</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a600d61bea626483c5ddefc51ed7eecf75e57a96</guid>
       <pubDate>Fri, 28 Aug 2026 07:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>YouTubeを米FTCが調査、SNSアカウント凍結巡り－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/d316912e444bc3a749f5eb8d13835741c44cf5a6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d316912e444bc3a749f5eb8d13835741c44cf5a6</guid>
-      <pubDate>Fri, 28 Aug 2026 07:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
