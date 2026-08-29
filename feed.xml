@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:20:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:14:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォーシュ議長が物価抑制で強いメッセージ－9月FOMC会合が正念場に</title>
+      <link>https://news.yahoo.co.jp/articles/ef429bd954a598fe101c52cd00093aa733691511</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef429bd954a598fe101c52cd00093aa733691511</guid>
+      <pubDate>Sat, 29 Aug 2026 12:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォール街で利上げ観測台頭－ウォーシュ議長がタカ派姿勢を再表明</title>
+      <link>https://news.yahoo.co.jp/articles/a05ed50129896648ae062321e6c5df1fcf5285d8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a05ed50129896648ae062321e6c5df1fcf5285d8</guid>
+      <pubDate>Sat, 29 Aug 2026 09:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、米がベネズエラ石油埋蔵量の一部で権益確保と表明</title>
       <link>https://news.yahoo.co.jp/articles/147c1f9aeb132c1177c9fc9314a61ced83e330dc</link>
@@ -138,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/f1144dc28aa05757423f6c3c750514287856ae0c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f1144dc28aa05757423f6c3c750514287856ae0c</guid>
       <pubDate>Fri, 28 Aug 2026 15:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ネパール・中国国境、約2500人が行方不明－当局は救助活動を強化</title>
+      <link>https://news.yahoo.co.jp/articles/dbaa3d4613d6b8594888775a6e38ae6f884c7034</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbaa3d4613d6b8594888775a6e38ae6f884c7034</guid>
+      <pubDate>Fri, 28 Aug 2026 15:12:00 +0900</pubDate>
     </item>
     <item>
       <title>ネパール・中国国境、新たな決壊の恐れ－不明者名簿にヤマモト姓5人</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d316912e444bc3a749f5eb8d13835741c44cf5a6</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d316912e444bc3a749f5eb8d13835741c44cf5a6</guid>
       <pubDate>Fri, 28 Aug 2026 07:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カナダ、米国産銅線・木炭に50%関税－報復措置に追加</title>
-      <link>https://news.yahoo.co.jp/articles/213e1263679fe14fc8e85d80e9c0c1b547f4ca50</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/213e1263679fe14fc8e85d80e9c0c1b547f4ca50</guid>
-      <pubDate>Fri, 28 Aug 2026 06:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シタデル・セキュリティーズ､トレーディング収入が過去最高-73億ドル</title>
-      <link>https://news.yahoo.co.jp/articles/4b86b3b6cedc15f4a5c587cdabda7ec61e922f95</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4b86b3b6cedc15f4a5c587cdabda7ec61e922f95</guid>
-      <pubDate>Fri, 28 Aug 2026 06:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日米協調から1カ月、薄れる介入効果－円安ファンダメンタルズは健在</title>
-      <link>https://news.yahoo.co.jp/articles/1ffd68ceb99bd621dd430a29e3d722bff8915200</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1ffd68ceb99bd621dd430a29e3d722bff8915200</guid>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
