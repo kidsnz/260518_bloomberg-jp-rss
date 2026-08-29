@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 02:16:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 04:52:00 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン大統領、戦争終結へ妥協の用意を示唆</title>
@@ -54,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/26d97c34ac83c16081dce68ccdaafadb9961d79d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/26d97c34ac83c16081dce68ccdaafadb9961d79d</guid>
       <pubDate>Sat, 29 Aug 2026 03:17:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドジャース会長傘下の生保、商品の販売を地銀が停止－当局捜査の渦中</title>
+      <link>https://news.yahoo.co.jp/articles/2a9671e5b4c699dec951cc0ddb4da0aa0e1657cc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a9671e5b4c699dec951cc0ddb4da0aa0e1657cc</guid>
+      <pubDate>Sat, 29 Aug 2026 03:11:00 +0900</pubDate>
     </item>
     <item>
       <title>ウォーシュ氏講演、フォワードガイダンスそのものー市場関係者の見方</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5a4a47f3a1a475a4f5a02fb62692117d335f252a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a4a47f3a1a475a4f5a02fb62692117d335f252a</guid>
       <pubDate>Fri, 28 Aug 2026 07:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベネズエラがOPEC離脱検討、米と関係深化－原油価格への影響力低下も</title>
-      <link>https://news.yahoo.co.jp/articles/0174faba2ebf9a8c3b1bc30e7cddc73385c3b709</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0174faba2ebf9a8c3b1bc30e7cddc73385c3b709</guid>
-      <pubDate>Fri, 28 Aug 2026 07:24:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
