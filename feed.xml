@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 04:52:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:12:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏の誤算、終わらぬイラン戦争－中間選挙大敗への危機感募る</title>
+      <link>https://news.yahoo.co.jp/articles/7c29078dff80afe67fbc5b090c391df2336ef1bc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7c29078dff80afe67fbc5b090c391df2336ef1bc</guid>
+      <pubDate>Sat, 29 Aug 2026 22:58:00 +0900</pubDate>
+    </item>
     <item>
       <title>イラン大統領、戦争終結へ妥協の用意を示唆</title>
       <link>https://news.yahoo.co.jp/articles/944f9a60c09c895374bae203664f1a676c2aee15</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/150c3e4069f5fef8c6f3032585f9afd3bbd49377</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/150c3e4069f5fef8c6f3032585f9afd3bbd49377</guid>
       <pubDate>Fri, 28 Aug 2026 07:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>債券下落へ、FRB議長講演前に米長期金利上昇－円は対ドル159円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/5a4a47f3a1a475a4f5a02fb62692117d335f252a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a4a47f3a1a475a4f5a02fb62692117d335f252a</guid>
-      <pubDate>Fri, 28 Aug 2026 07:51:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
