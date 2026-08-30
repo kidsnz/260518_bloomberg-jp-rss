@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:12:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:30:10 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】8月の米雇用統計、持ち直しへ－FRBの9月利上げ観測が注目</title>
+      <link>https://news.yahoo.co.jp/articles/447739f822272c072dbbd62f7ad3a8eabe627877</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/447739f822272c072dbbd62f7ad3a8eabe627877</guid>
+      <pubDate>Sun, 30 Aug 2026 07:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏の誤算、終わらぬイラン戦争－中間選挙大敗への危機感募る</title>
       <link>https://news.yahoo.co.jp/articles/7c29078dff80afe67fbc5b090c391df2336ef1bc</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/00ce83e8af9aa27c0d6760f148e6d6448a94e94e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/00ce83e8af9aa27c0d6760f148e6d6448a94e94e</guid>
       <pubDate>Fri, 28 Aug 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株もみ合いへ、ウォーシュ議長講演見極め－巨額メモリー投資支え</title>
-      <link>https://news.yahoo.co.jp/articles/150c3e4069f5fef8c6f3032585f9afd3bbd49377</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/150c3e4069f5fef8c6f3032585f9afd3bbd49377</guid>
-      <pubDate>Fri, 28 Aug 2026 07:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
