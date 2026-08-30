@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:09:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:04:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ネパール、河川の水位上昇で新たな警戒呼びかけ－救助活動に支障も</title>
+      <link>https://news.yahoo.co.jp/articles/9c59b29da2f91cb773eb34871be711b7290906ea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c59b29da2f91cb773eb34871be711b7290906ea</guid>
+      <pubDate>Sun, 30 Aug 2026 15:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国との石油合意に批判噴出－ベネズエラ暫定大統領に試練</title>
       <link>https://news.yahoo.co.jp/articles/881df219e415ad24cbaffc5d84528ed5579d5ba2</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5a368612ef2e51e6f462e1db198206985195f076</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a368612ef2e51e6f462e1db198206985195f076</guid>
       <pubDate>Fri, 28 Aug 2026 11:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>住友商事、チリ・アタカマ州の銅・金鉱山プロジェクトに参画</title>
-      <link>https://news.yahoo.co.jp/articles/f24eb98b371615468f09942da5a336ac2cdddfe8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f24eb98b371615468f09942da5a336ac2cdddfe8</guid>
-      <pubDate>Fri, 28 Aug 2026 11:34:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
