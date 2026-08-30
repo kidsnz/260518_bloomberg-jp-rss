@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:04:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:52:40 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ネパール、河川の水位上昇で新たな警戒呼びかけ－救助活動に支障も</title>
@@ -66,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/aa850084e5eaa091c347f826ee7d781d2a29b49a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aa850084e5eaa091c347f826ee7d781d2a29b49a</guid>
       <pubDate>Sun, 30 Aug 2026 01:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>肥満症薬の大ヒットに続け、脱毛症の新薬開発に熱視線－バイオ株高騰</title>
+      <link>https://news.yahoo.co.jp/articles/175823b3b784cb04982f2e1441cedbeb7aef6d56</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/175823b3b784cb04982f2e1441cedbeb7aef6d56</guid>
+      <pubDate>Sun, 30 Aug 2026 00:36:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏の誤算、終わらぬイラン戦争－中間選挙大敗への危機感募る</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5b5d64c20ce39461b20389b39cf8a8bf8c43cd23</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b5d64c20ce39461b20389b39cf8a8bf8c43cd23</guid>
       <pubDate>Fri, 28 Aug 2026 11:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SBIHD、インドネシアのAjaibグループ株20%を取得</title>
-      <link>https://news.yahoo.co.jp/articles/5a368612ef2e51e6f462e1db198206985195f076</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5a368612ef2e51e6f462e1db198206985195f076</guid>
-      <pubDate>Fri, 28 Aug 2026 11:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
