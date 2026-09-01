@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 03:40:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:31:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>デル、通期売上高見通しを上方修正－AI向けサーバー需要旺盛</title>
+      <link>https://news.yahoo.co.jp/articles/e25b93d2d239cb7303d3d6fe3c717aa64007a44b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e25b93d2d239cb7303d3d6fe3c717aa64007a44b</guid>
+      <pubDate>Wed, 02 Sep 2026 05:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>英国の財政余地が半減、利回り上昇で利払い費用膨張の懸念</title>
       <link>https://news.yahoo.co.jp/articles/e86e4efe1657096aaadc51a1be545b0a31e172e9</link>
@@ -14,10 +20,16 @@
       <pubDate>Wed, 02 Sep 2026 02:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>米軍、イラン革命防衛隊の標的への攻撃を米東部時間1日正午に開始</title>
+      <title>米国、イランへの新たな攻撃を開始－ホルムズ海峡巡り再び緊張高まる</title>
       <link>https://news.yahoo.co.jp/articles/d04e6734f0704c358d6c2f9c757619d3e8357544</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d04e6734f0704c358d6c2f9c757619d3e8357544</guid>
       <pubDate>Wed, 02 Sep 2026 01:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント長官、円相場に関する日本の対応支持－植田総裁との会談で</title>
+      <link>https://news.yahoo.co.jp/articles/690f323275fa6c2918829b0debe3ac7a38923042</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/690f323275fa6c2918829b0debe3ac7a38923042</guid>
+      <pubDate>Wed, 02 Sep 2026 01:31:00 +0900</pubDate>
     </item>
     <item>
       <title>BofAバイスプレジデントの女性、NYタイムズスクエアで刺され死亡</title>
@@ -30,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/80266f9e3ea1b9aa1c3fcb3c21ed9d0370beaf25</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80266f9e3ea1b9aa1c3fcb3c21ed9d0370beaf25</guid>
       <pubDate>Wed, 02 Sep 2026 01:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株下落、原油急騰･金利上昇重し－円売られ一時160円27銭</title>
+      <link>https://news.yahoo.co.jp/articles/e354551c7bdb2927b5d4cb3a5b904ef0008dbe6e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e354551c7bdb2927b5d4cb3a5b904ef0008dbe6e</guid>
+      <pubDate>Wed, 02 Sep 2026 23:54:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株は下落で開始、金利・原油高重し－ドル買われ一時160円20銭台</title>
@@ -164,6 +182,12 @@
       <pubDate>Tue, 01 Sep 2026 13:21:00 +0900</pubDate>
     </item>
     <item>
+      <title>原油価格が急伸、米軍がイラン標的への攻撃を開始－南部一帯で爆発音</title>
+      <link>https://news.yahoo.co.jp/articles/22014749ce563f5a614bbdac5bce0a133d411fe7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/22014749ce563f5a614bbdac5bce0a133d411fe7</guid>
+      <pubDate>Tue, 01 Sep 2026 13:12:00 +0900</pubDate>
+    </item>
+    <item>
       <title>原油は一段高、ホルムズ海峡のリスク再燃－ブレント92ドル台</title>
       <link>https://news.yahoo.co.jp/articles/fdc56c7af91dea467825a9fc28d019b77fa9a550</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdc56c7af91dea467825a9fc28d019b77fa9a550</guid>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6011e4cb2aebeb020a25b49623e3fbd962ebfedb</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6011e4cb2aebeb020a25b49623e3fbd962ebfedb</guid>
       <pubDate>Tue, 01 Sep 2026 07:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は3週間ぶり大幅高、中東情勢緊迫で－ブレントは90ドル台に上昇</title>
-      <link>https://news.yahoo.co.jp/articles/36f20a52bc21d52dbe96681805351605cbfa1f43</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36f20a52bc21d52dbe96681805351605cbfa1f43</guid>
-      <pubDate>Tue, 01 Sep 2026 07:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10年国債入札、利回り3%目前で投資家需要試す－日銀利上げ意識</title>
-      <link>https://news.yahoo.co.jp/articles/b012c3bb6f41a77f1d307db2139056ff652f2d03</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b012c3bb6f41a77f1d307db2139056ff652f2d03</guid>
-      <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベッセント氏、ロシア財務相とG20で会談－米ロ経済高官の接触は異例</title>
-      <link>https://news.yahoo.co.jp/articles/c5fd5d3d9814af1b91d5a87092faf90a2f1a7673</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5fd5d3d9814af1b91d5a87092faf90a2f1a7673</guid>
-      <pubDate>Tue, 01 Sep 2026 06:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>片山財務相、金融市場の投機的動き「G20として注視すべきだ」</title>
-      <link>https://news.yahoo.co.jp/articles/c7375eb5d6876d2cb7f34f3895a51a32f5f067c9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c7375eb5d6876d2cb7f34f3895a51a32f5f067c9</guid>
-      <pubDate>Tue, 01 Sep 2026 05:43:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
