@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:45:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:35:48 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米経済活動、過去2カ月は緩慢なペースで拡大－ベージュブック</title>
+      <link>https://news.yahoo.co.jp/articles/738a0c8a304f8f17c9ce98059c2ed024724a3a3f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/738a0c8a304f8f17c9ce98059c2ed024724a3a3f</guid>
+      <pubDate>Thu, 03 Sep 2026 03:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調</title>
+      <link>https://news.yahoo.co.jp/articles/d1f4204c20e77795f1e8cbd4ade1bc0b83933a65</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d1f4204c20e77795f1e8cbd4ade1bc0b83933a65</guid>
+      <pubDate>Thu, 03 Sep 2026 01:54:00 +0900</pubDate>
+    </item>
     <item>
       <title>NY連銀総裁「インフレは緩やかな低下傾向にある」－金利は適切と指摘</title>
       <link>https://news.yahoo.co.jp/articles/ff5df8e0543e8d33a75cb7fa7b92e447f8bd40e4</link>
@@ -24,6 +36,12 @@
       <link>https://news.yahoo.co.jp/articles/1d48364a2f68bb37a845492eeb2afcca6a332ecd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1d48364a2f68bb37a845492eeb2afcca6a332ecd</guid>
       <pubDate>Wed, 02 Sep 2026 22:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債利回り、イラン戦争と関税でさらに上昇の可能性－アポロ</title>
+      <link>https://news.yahoo.co.jp/articles/2c4fe801fb539bd1d4d69b15853925e2c7d2ddb5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c4fe801fb539bd1d4d69b15853925e2c7d2ddb5</guid>
+      <pubDate>Wed, 02 Sep 2026 21:30:00 +0900</pubDate>
     </item>
     <item>
       <title>米ADP民間雇用者数、8月は緩やかなペースで増加－労働市場安定を示唆</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d643e8ac0f39345ce7bf731ab04ffc3de4faa4ed</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d643e8ac0f39345ce7bf731ab04ffc3de4faa4ed</guid>
       <pubDate>Tue, 01 Sep 2026 23:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ISM製造業景況指数、8月は54.6に低下－4年ぶり高水準近辺</title>
-      <link>https://news.yahoo.co.jp/articles/a2d5df2ca619ca7231523e152a594b5f34d934d9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2d5df2ca619ca7231523e152a594b5f34d934d9</guid>
-      <pubDate>Tue, 01 Sep 2026 23:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バーFRB理事、インフレ鈍化なければ「断固として利上げに動くべき」</title>
-      <link>https://news.yahoo.co.jp/articles/6faea79c034f4f7ad59cd8ac14b72f3f296969cd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6faea79c034f4f7ad59cd8ac14b72f3f296969cd</guid>
-      <pubDate>Tue, 01 Sep 2026 22:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フランス資産に警戒感、来年の大統領選すでに圧力－市場で敬遠の動き</title>
-      <link>https://news.yahoo.co.jp/articles/8f8167b852b740910bdefefe5b3228f30f31030a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8f8167b852b740910bdefefe5b3228f30f31030a</guid>
-      <pubDate>Tue, 01 Sep 2026 21:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
