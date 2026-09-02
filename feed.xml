@@ -5,13 +5,37 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:35:48 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:15:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブロードコム、8－10月売上高見通しが市場予想下回る－AI恩恵に遅れ</title>
+      <link>https://news.yahoo.co.jp/articles/fde705eba8645d81b3d9512d9fef435c1e73325e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fde705eba8645d81b3d9512d9fef435c1e73325e</guid>
+      <pubDate>Thu, 03 Sep 2026 05:34:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>住友商事の上野社長、エネルギー事業に一段と注力－AI需要が追い風</title>
+      <link>https://news.yahoo.co.jp/articles/3ce96379cc482c2ff02beca654463c6633d46f22</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3ce96379cc482c2ff02beca654463c6633d46f22</guid>
+      <pubDate>Thu, 03 Sep 2026 04:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ米大統領、イランをいつでも再攻撃する用意が整っている</title>
+      <link>https://news.yahoo.co.jp/articles/eafa5abfde584d530717c32812d0404ae0b913be</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eafa5abfde584d530717c32812d0404ae0b913be</guid>
+      <pubDate>Thu, 03 Sep 2026 04:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>米経済活動、過去2カ月は緩慢なペースで拡大－ベージュブック</title>
       <link>https://news.yahoo.co.jp/articles/738a0c8a304f8f17c9ce98059c2ed024724a3a3f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/738a0c8a304f8f17c9ce98059c2ed024724a3a3f</guid>
       <pubDate>Thu, 03 Sep 2026 03:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】ドイツ10年債は6日続落、英国債下げ縮小－株は小幅安</title>
+      <link>https://news.yahoo.co.jp/articles/916d16eadcd198ca5073d5109ee9f9f326249683</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/916d16eadcd198ca5073d5109ee9f9f326249683</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:00 +0900</pubDate>
     </item>
     <item>
       <title>エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調</title>
@@ -20,13 +44,19 @@
       <pubDate>Thu, 03 Sep 2026 01:54:00 +0900</pubDate>
     </item>
     <item>
+      <title>【米国市況】S&amp;P500種、押し目買いで4日ぶり反発－円一時158円22銭</title>
+      <link>https://news.yahoo.co.jp/articles/440ff7db5345c3477fb2ba9a4770e8e99b7f50b2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/440ff7db5345c3477fb2ba9a4770e8e99b7f50b2</guid>
+      <pubDate>Thu, 03 Sep 2026 23:48:00 +0900</pubDate>
+    </item>
+    <item>
       <title>NY連銀総裁「インフレは緩やかな低下傾向にある」－金利は適切と指摘</title>
       <link>https://news.yahoo.co.jp/articles/ff5df8e0543e8d33a75cb7fa7b92e447f8bd40e4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ff5df8e0543e8d33a75cb7fa7b92e447f8bd40e4</guid>
       <pubDate>Wed, 02 Sep 2026 22:51:00 +0900</pubDate>
     </item>
     <item>
-      <title>円が対ドルで1%超急伸、一時158円22銭－円買い介入への警戒強まる</title>
+      <title>円が対ドルで1%超急伸､一時158円22銭－介入の兆しに市場神経とがらす</title>
       <link>https://news.yahoo.co.jp/articles/927d0d7f54e6d948b4371f07a1cd8d50b0863a1f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/927d0d7f54e6d948b4371f07a1cd8d50b0863a1f</guid>
       <pubDate>Thu, 03 Sep 2026 22:37:00 +0900</pubDate>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/61415a9eea24031b01dcca6b8c4e7f44fda98285</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/61415a9eea24031b01dcca6b8c4e7f44fda98285</guid>
       <pubDate>Wed, 02 Sep 2026 01:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国の円介入ユーロ利用は寝耳に水､G20で率直に議論した－独連銀総裁</title>
-      <link>https://news.yahoo.co.jp/articles/80266f9e3ea1b9aa1c3fcb3c21ed9d0370beaf25</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80266f9e3ea1b9aa1c3fcb3c21ed9d0370beaf25</guid>
-      <pubDate>Wed, 02 Sep 2026 01:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株下落、原油急騰･金利上昇重し－円売られ一時160円27銭</title>
-      <link>https://news.yahoo.co.jp/articles/e354551c7bdb2927b5d4cb3a5b904ef0008dbe6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e354551c7bdb2927b5d4cb3a5b904ef0008dbe6e</guid>
-      <pubDate>Wed, 02 Sep 2026 23:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株は下落で開始、金利・原油高重し－ドル買われ一時160円20銭台</title>
-      <link>https://news.yahoo.co.jp/articles/3207fde465be0fb0cba315dc94a3d0c0f6d6dad2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3207fde465be0fb0cba315dc94a3d0c0f6d6dad2</guid>
-      <pubDate>Tue, 01 Sep 2026 23:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ベッセント長官、ホルムズ｢無価値の水域｣に－パイプラインで迂回</title>
-      <link>https://news.yahoo.co.jp/articles/357e0178bf3baf55069bf073affd60b7368a0b89</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/357e0178bf3baf55069bf073affd60b7368a0b89</guid>
-      <pubDate>Tue, 01 Sep 2026 23:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米求人件数、7月は小幅増加－労働需要の安定示す</title>
-      <link>https://news.yahoo.co.jp/articles/d643e8ac0f39345ce7bf731ab04ffc3de4faa4ed</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d643e8ac0f39345ce7bf731ab04ffc3de4faa4ed</guid>
-      <pubDate>Tue, 01 Sep 2026 23:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
