@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:01:34 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:41:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>バンス氏、イランとの紛争「戦争とは呼ばない」－軍事攻撃は激化</title>
+      <link>https://news.yahoo.co.jp/articles/3cdf34050c1680502e9383611c9fde18edda1e2c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3cdf34050c1680502e9383611c9fde18edda1e2c</guid>
+      <pubDate>Fri, 04 Sep 2026 06:16:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ルルレモン、通期見通しを再び下方修正－新CEOの課題一段と重く</title>
+      <link>https://news.yahoo.co.jp/articles/ec92d93f80feec405f1b790ce0aafa31b7462193</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec92d93f80feec405f1b790ce0aafa31b7462193</guid>
+      <pubDate>Fri, 04 Sep 2026 06:14:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株は上昇、米当局者発言で利上げ観測後退－国債持ち直す</title>
+      <link>https://news.yahoo.co.jp/articles/ce0df355961ad484d3e9a0e5c9aceeeeb6b093fa</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce0df355961ad484d3e9a0e5c9aceeeeb6b093fa</guid>
+      <pubDate>Fri, 04 Sep 2026 02:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>クリフウォーターのプライベートクレジット、償還を5%に再び制限</title>
+      <link>https://news.yahoo.co.jp/articles/93215353a2343bded0bc6a4ff4f290dbc2ec6538</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93215353a2343bded0bc6a4ff4f290dbc2ec6538</guid>
+      <pubDate>Fri, 04 Sep 2026 02:03:00 +0900</pubDate>
+    </item>
     <item>
       <title>円上昇に弾み、155円割れならドル売り加速も－CMEがオプション分析</title>
       <link>https://news.yahoo.co.jp/articles/7673d716b60d8e880af9996570e3ab2637ca7e44</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7673d716b60d8e880af9996570e3ab2637ca7e44</guid>
       <pubDate>Fri, 04 Sep 2026 01:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500種、1カ月ぶりの大幅高－円は買われ一時155円30銭</title>
+      <link>https://news.yahoo.co.jp/articles/fdea2a4c66d3f5651421c22c82788b38dc91317d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fdea2a4c66d3f5651421c22c82788b38dc91317d</guid>
+      <pubDate>Fri, 04 Sep 2026 23:39:00 +0900</pubDate>
     </item>
     <item>
       <title>米国株上昇、利上げ観測後退で利回り低下－円は155円30銭台まで上昇</title>
@@ -74,6 +104,12 @@
       <pubDate>Thu, 03 Sep 2026 19:44:00 +0900</pubDate>
     </item>
     <item>
+      <title>片山財務相、為替市場に「協調介入の瞬間と同じ姿勢で臨んでいる」</title>
+      <link>https://news.yahoo.co.jp/articles/f54c3e9c0f867c05a59353ed86f904a2a19292b5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f54c3e9c0f867c05a59353ed86f904a2a19292b5</guid>
+      <pubDate>Thu, 03 Sep 2026 18:20:00 +0900</pubDate>
+    </item>
+    <item>
       <title>キオクシアHD、AI時代へ技術に磨き－速度向上や「液冷」、量産急ぐ</title>
       <link>https://news.yahoo.co.jp/articles/c474a0c14453ee4ba00e48686490933b226c1435</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c474a0c14453ee4ba00e48686490933b226c1435</guid>
@@ -114,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/9f77747b45be8ef4084b7ac641eebe78d0181512</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f77747b45be8ef4084b7ac641eebe78d0181512</guid>
       <pubDate>Thu, 03 Sep 2026 15:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>円急反発、一時155円30銭－介入警戒感に日銀利上げやGPIF巡る観測</title>
+      <link>https://news.yahoo.co.jp/articles/3442f86e52c597f708ea20ecdbaaa158a6010bb5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3442f86e52c597f708ea20ecdbaaa158a6010bb5</guid>
+      <pubDate>Fri, 04 Sep 2026 15:16:00 +0900</pubDate>
     </item>
     <item>
       <title>円急反発、対ドルで2%上昇－介入警戒感に日銀利上げや年金巡る観測</title>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/eafa5abfde584d530717c32812d0404ae0b913be</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/eafa5abfde584d530717c32812d0404ae0b913be</guid>
       <pubDate>Thu, 03 Sep 2026 04:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米経済活動、過去2カ月は緩慢なペースで拡大－ベージュブック</title>
-      <link>https://news.yahoo.co.jp/articles/738a0c8a304f8f17c9ce98059c2ed024724a3a3f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/738a0c8a304f8f17c9ce98059c2ed024724a3a3f</guid>
-      <pubDate>Thu, 03 Sep 2026 03:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】ドイツ10年債は6日続落、英国債下げ縮小－株は小幅安</title>
-      <link>https://news.yahoo.co.jp/articles/916d16eadcd198ca5073d5109ee9f9f326249683</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/916d16eadcd198ca5073d5109ee9f9f326249683</guid>
-      <pubDate>Thu, 03 Sep 2026 02:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調</title>
-      <link>https://news.yahoo.co.jp/articles/d1f4204c20e77795f1e8cbd4ade1bc0b83933a65</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d1f4204c20e77795f1e8cbd4ade1bc0b83933a65</guid>
-      <pubDate>Thu, 03 Sep 2026 01:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】S&amp;P500種、押し目買いで4日ぶり反発－円一時158円22銭</title>
-      <link>https://news.yahoo.co.jp/articles/440ff7db5345c3477fb2ba9a4770e8e99b7f50b2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/440ff7db5345c3477fb2ba9a4770e8e99b7f50b2</guid>
-      <pubDate>Thu, 03 Sep 2026 23:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>NY連銀総裁「インフレは緩やかな低下傾向にある」－金利は適切と指摘</title>
-      <link>https://news.yahoo.co.jp/articles/ff5df8e0543e8d33a75cb7fa7b92e447f8bd40e4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ff5df8e0543e8d33a75cb7fa7b92e447f8bd40e4</guid>
-      <pubDate>Wed, 02 Sep 2026 22:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで1%超急伸､一時158円22銭－介入の兆しに市場神経とがらす</title>
-      <link>https://news.yahoo.co.jp/articles/927d0d7f54e6d948b4371f07a1cd8d50b0863a1f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/927d0d7f54e6d948b4371f07a1cd8d50b0863a1f</guid>
-      <pubDate>Thu, 03 Sep 2026 22:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円が対ドルで1%超急伸、一時158円22銭－円買い介入への警戒強まる</title>
-      <link>https://news.yahoo.co.jp/articles/1d48364a2f68bb37a845492eeb2afcca6a332ecd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1d48364a2f68bb37a845492eeb2afcca6a332ecd</guid>
-      <pubDate>Wed, 02 Sep 2026 22:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
