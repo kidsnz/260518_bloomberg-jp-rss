@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:20:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 04:45:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】週間で株下落、雇用統計で米利上げ観測強まる－英債上昇</title>
+      <link>https://news.yahoo.co.jp/articles/41e2e09e5fc194fc9ed64fcf6230eda766174666</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/41e2e09e5fc194fc9ed64fcf6230eda766174666</guid>
+      <pubDate>Sat, 05 Sep 2026 02:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ブルー・アウル、データセンターREITの設立・上場を検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/f048df91b68984d1fe708c095fce3578bdfcc812</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f048df91b68984d1fe708c095fce3578bdfcc812</guid>
+      <pubDate>Sat, 05 Sep 2026 02:11:00 +0900</pubDate>
+    </item>
     <item>
       <title>米CPIの重要性が一段と高まる、雇用統計受け－ブラックロック運用者</title>
       <link>https://news.yahoo.co.jp/articles/3685de89c756cefe1ce164005cb93ca77b6e6e7a</link>
@@ -66,6 +78,12 @@
       <link>https://news.yahoo.co.jp/articles/a435fb374b7c6d7eb5e9987cef2541d677842bf9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a435fb374b7c6d7eb5e9987cef2541d677842bf9</guid>
       <pubDate>Fri, 04 Sep 2026 21:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>世界の食料価格、2022年以来の高値に－戦争や異常気象で供給に懸念</title>
+      <link>https://news.yahoo.co.jp/articles/3c59b8b196e85c37c540cdfddaf03a42a41adb04</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3c59b8b196e85c37c540cdfddaf03a42a41adb04</guid>
+      <pubDate>Fri, 04 Sep 2026 19:16:00 +0900</pubDate>
     </item>
     <item>
       <title>中国DeepSeek、ファーウェイ製AI半導体導入へ－少なくとも16万個</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f356f2ec24d1e5a02c80d11366d18eb75f2543c8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f356f2ec24d1e5a02c80d11366d18eb75f2543c8</guid>
       <pubDate>Fri, 04 Sep 2026 07:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バンス氏、イランとの紛争「戦争とは呼ばない」－軍事攻撃は激化</title>
-      <link>https://news.yahoo.co.jp/articles/3cdf34050c1680502e9383611c9fde18edda1e2c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3cdf34050c1680502e9383611c9fde18edda1e2c</guid>
-      <pubDate>Fri, 04 Sep 2026 06:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ルルレモン、通期見通しを再び下方修正－新CEOの課題一段と重く</title>
-      <link>https://news.yahoo.co.jp/articles/ec92d93f80feec405f1b790ce0aafa31b7462193</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec92d93f80feec405f1b790ce0aafa31b7462193</guid>
-      <pubDate>Fri, 04 Sep 2026 06:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>英中銀チーフエコノミスト、利上げしても長期引き締めには直結せず</title>
-      <link>https://news.yahoo.co.jp/articles/9a32bc212465f5dcb2d297c660f16aed28fe6851</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a32bc212465f5dcb2d297c660f16aed28fe6851</guid>
-      <pubDate>Fri, 04 Sep 2026 03:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
