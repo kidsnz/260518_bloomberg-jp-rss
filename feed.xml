@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 21:17:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:23:46 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>プーチン大統領、キーウへの攻撃停止を命じる－米特使の訪問に合わせ</title>
+      <link>https://news.yahoo.co.jp/articles/981eb739fbdf81cd9757bbbb03cc4fc6127b099a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/981eb739fbdf81cd9757bbbb03cc4fc6127b099a</guid>
+      <pubDate>Sat, 05 Sep 2026 21:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>債券市場「危機」のサインは中央銀行の介入－格付け会社スコープ</title>
+      <link>https://news.yahoo.co.jp/articles/b8d1876dafe48e4b1da8e32201d847bda5387e38</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8d1876dafe48e4b1da8e32201d847bda5387e38</guid>
+      <pubDate>Sat, 05 Sep 2026 17:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>イルミナ、ブルーム・エナジーなどS&amp;P500採用－四半期の銘柄入れ替え</title>
       <link>https://news.yahoo.co.jp/articles/79d7ed9fd0654132a1b8f0811595ef8b979c976c</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a4adfdd1ffc1fd795aa2aa4d0ba49ac5b19a0da8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4adfdd1ffc1fd795aa2aa4d0ba49ac5b19a0da8</guid>
       <pubDate>Fri, 04 Sep 2026 10:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>明治安田､不動産運用残高2040年に倍増2兆円-物流･ホテルで収益増</title>
-      <link>https://news.yahoo.co.jp/articles/57139486992bdc1536b0d2ce64bc31fa13e20af2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/57139486992bdc1536b0d2ce64bc31fa13e20af2</guid>
-      <pubDate>Fri, 04 Sep 2026 10:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクの1兆円社債、利率4.75%－個人向け市場拡大の契機に</title>
-      <link>https://news.yahoo.co.jp/articles/a41f9c0e4607c999e27cdff494b59e117ce8623c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a41f9c0e4607c999e27cdff494b59e117ce8623c</guid>
-      <pubDate>Fri, 04 Sep 2026 09:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
