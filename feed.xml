@@ -5,13 +5,25 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:45:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:45:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イルミナ、ブルーム・エナジーなどS&amp;P500採用－四半期の銘柄入れ替え</title>
+      <link>https://news.yahoo.co.jp/articles/79d7ed9fd0654132a1b8f0811595ef8b979c976c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/79d7ed9fd0654132a1b8f0811595ef8b979c976c</guid>
+      <pubDate>Sat, 05 Sep 2026 13:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>アンソロピック、11月の米中間選挙直前に上場完了へ－ロイター</title>
       <link>https://news.yahoo.co.jp/articles/f0dc0be8f47c9f209e98f2bbcf3bb1f5fea72a66</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f0dc0be8f47c9f209e98f2bbcf3bb1f5fea72a66</guid>
       <pubDate>Sat, 05 Sep 2026 12:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>北朝鮮が国連総会で28日に演説へ、外務次官出席が有力－聯合ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/1977abc37dee964c8852e6ad430e14c48241be99</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1977abc37dee964c8852e6ad430e14c48241be99</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、訪米する習氏を国賓晩餐会でもてなし－9月24日開催</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a41f9c0e4607c999e27cdff494b59e117ce8623c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a41f9c0e4607c999e27cdff494b59e117ce8623c</guid>
       <pubDate>Fri, 04 Sep 2026 09:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクG、利率は4.75%に決定－個人向け7年債</title>
-      <link>https://news.yahoo.co.jp/articles/1f9d9f86b070a489f2d1f34c7a0b723c626f18e0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f9d9f86b070a489f2d1f34c7a0b723c626f18e0</guid>
-      <pubDate>Fri, 04 Sep 2026 09:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>16兆円の円ショート、155円突破で巻き戻しリスク－JPモルガン</title>
-      <link>https://news.yahoo.co.jp/articles/2e3b4b920a0c29745413dd714757edaed65634bb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e3b4b920a0c29745413dd714757edaed65634bb</guid>
-      <pubDate>Fri, 04 Sep 2026 09:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
