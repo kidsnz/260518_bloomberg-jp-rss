@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:06:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:09:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブルー・アウル、融資評価額ほぼゼロに引き下げ－破綻懸念の企業向け</title>
+      <link>https://news.yahoo.co.jp/articles/a79241fcd4349308426aaf18e6e596ac24bccefd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a79241fcd4349308426aaf18e6e596ac24bccefd</guid>
+      <pubDate>Sun, 06 Sep 2026 04:05:00 +0900</pubDate>
+    </item>
     <item>
       <title>プーチン大統領、キーウへの攻撃停止を命じる－米特使の訪問に合わせ</title>
       <link>https://news.yahoo.co.jp/articles/981eb739fbdf81cd9757bbbb03cc4fc6127b099a</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9cccbdaa8fd76711870565e613307606e27279f5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9cccbdaa8fd76711870565e613307606e27279f5</guid>
       <pubDate>Fri, 04 Sep 2026 10:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日立エナジーCEO、データセンター需要は想定上回るーバブル兆候ない</title>
-      <link>https://news.yahoo.co.jp/articles/a4adfdd1ffc1fd795aa2aa4d0ba49ac5b19a0da8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a4adfdd1ffc1fd795aa2aa4d0ba49ac5b19a0da8</guid>
-      <pubDate>Fri, 04 Sep 2026 10:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
