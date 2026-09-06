@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 23:17:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:12:03 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドイツ極右政党AfD、州議会選で第1党に－過半数には届かない見通し</title>
+      <link>https://news.yahoo.co.jp/articles/b255b0f9428a7440bd8977a4e42a5b9a2cab7790</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b255b0f9428a7440bd8977a4e42a5b9a2cab7790</guid>
+      <pubDate>Mon, 07 Sep 2026 01:21:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OPECプラス、10月の生産枠据え置き－イラン戦争で供給制約続く</title>
+      <link>https://news.yahoo.co.jp/articles/2ab67607d9aa4d23eb99ea218b9647c43a7da5fd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ab67607d9aa4d23eb99ea218b9647c43a7da5fd</guid>
+      <pubDate>Mon, 07 Sep 2026 00:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>イランと米国、ホルムズ海峡でタンカー攻撃の応酬－戦争終結見通せず</title>
       <link>https://news.yahoo.co.jp/articles/4c675b9713ef10a777052d58b81814640c23c1e2</link>
@@ -90,6 +102,12 @@
       <link>https://news.yahoo.co.jp/articles/1977abc37dee964c8852e6ad430e14c48241be99</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1977abc37dee964c8852e6ad430e14c48241be99</guid>
       <pubDate>Sat, 05 Sep 2026 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌスケール､IPO前に最大35億ドル調達へ－エヌビディアから資金も</title>
+      <link>https://news.yahoo.co.jp/articles/bdeead051a4031950b0c8e6c51e28763794a5055</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdeead051a4031950b0c8e6c51e28763794a5055</guid>
+      <pubDate>Sat, 05 Sep 2026 11:12:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、訪米する習氏を国賓晩餐会でもてなし－9月24日開催</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9c7cdb250e89f288a9b518db08568f31458da31c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c7cdb250e89f288a9b518db08568f31458da31c</guid>
       <pubDate>Fri, 04 Sep 2026 14:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>豪州プライベートクレジットに試練、不動産大手バスラが支払い不能</title>
-      <link>https://news.yahoo.co.jp/articles/9e50e568530240114fb5eef79678ecd876197849</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e50e568530240114fb5eef79678ecd876197849</guid>
-      <pubDate>Fri, 04 Sep 2026 13:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀が3会合連続利上げのシナリオも、円安続く極端なケース－野村証</title>
-      <link>https://news.yahoo.co.jp/articles/330f2620c05cc9a9bdfa9dc18a698705bab2563f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/330f2620c05cc9a9bdfa9dc18a698705bab2563f</guid>
-      <pubDate>Fri, 04 Sep 2026 13:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シタデルのアジア・トレーディング責任者、入社4カ月で退社へ</title>
-      <link>https://news.yahoo.co.jp/articles/b5a5c81f60134ac1ad3da46daff7f4ce39563892</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b5a5c81f60134ac1ad3da46daff7f4ce39563892</guid>
-      <pubDate>Fri, 04 Sep 2026 12:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
