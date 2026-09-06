@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:21:30 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:30:23 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ドイツ極右政党AfD、州議会選で第1党に－過半数には届かない見通し</title>
@@ -18,6 +18,18 @@
       <link>https://news.yahoo.co.jp/articles/2ab67607d9aa4d23eb99ea218b9647c43a7da5fd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ab67607d9aa4d23eb99ea218b9647c43a7da5fd</guid>
       <pubDate>Mon, 07 Sep 2026 00:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国政府、大手銀行・保険会社に約8兆円の資本注入－景気下支えへ</title>
+      <link>https://news.yahoo.co.jp/articles/e0215f3c308842e542178f5e65a39a122435cbc2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e0215f3c308842e542178f5e65a39a122435cbc2</guid>
+      <pubDate>Mon, 07 Sep 2026 00:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ゼレンスキー大統領、戦争長期化を覚悟－キーウ訪問の米特使と協議後</title>
+      <link>https://news.yahoo.co.jp/articles/bee5931cbf0abb1c48821377b9cd9c565f3d2cb0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bee5931cbf0abb1c48821377b9cd9c565f3d2cb0</guid>
+      <pubDate>Sun, 06 Sep 2026 23:52:00 +0900</pubDate>
     </item>
     <item>
       <title>米特使2人が開戦後初めてキーウ入り、ロシアとの戦争終結に向け協議</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a7ad4b7e227a8d8c02eb8417b48c3a12769cc28f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7ad4b7e227a8d8c02eb8417b48c3a12769cc28f</guid>
       <pubDate>Fri, 04 Sep 2026 15:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】一段高の公算､155円焦点－米物価や日銀発言にらむ</title>
-      <link>https://news.yahoo.co.jp/articles/d75062054180876a0cafce81d6260960ebf35a48</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d75062054180876a0cafce81d6260960ebf35a48</guid>
-      <pubDate>Fri, 04 Sep 2026 14:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利反発へ、日銀利上げ加速や到達点上昇を警戒</title>
-      <link>https://news.yahoo.co.jp/articles/74a15fb96eab304ad5f92d8987aad62195ca0445</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74a15fb96eab304ad5f92d8987aad62195ca0445</guid>
-      <pubDate>Fri, 04 Sep 2026 14:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
