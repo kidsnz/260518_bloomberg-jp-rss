@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:12:59 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:10:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ドイツのスタートアップ、民間衛星の軌道投入に成功－欧州大陸から初</title>
+      <link>https://news.yahoo.co.jp/articles/590bc09dc72be8b631fa218dad0ebad639c0ee8e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/590bc09dc72be8b631fa218dad0ebad639c0ee8e</guid>
+      <pubDate>Sun, 06 Sep 2026 17:06:00 +0900</pubDate>
+    </item>
     <item>
       <title>ヘッジファンドの原油強気ポジション､5月以来の高水準－需給逼迫懸念</title>
       <link>https://news.yahoo.co.jp/articles/5ad18576996c58530247e054102cc9d6b94cf680</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/4a8ccb02d0c6356094a9cf57e1104ce3d356cd25</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4a8ccb02d0c6356094a9cf57e1104ce3d356cd25</guid>
       <pubDate>Fri, 04 Sep 2026 12:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ジェーン・ストリート､約2兆円クラウド契約締結－AI計算資源を確保へ</title>
-      <link>https://news.yahoo.co.jp/articles/bc829c7552e2c877accfbcf2da69cf3121c8e060</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc829c7552e2c877accfbcf2da69cf3121c8e060</guid>
-      <pubDate>Fri, 04 Sep 2026 12:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
