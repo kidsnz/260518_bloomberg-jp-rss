@@ -5,10 +5,22 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:30:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:24:22 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>ドイツ極右政党AfD、州議会選で第1党に－過半数には届かない見通し</title>
+      <title>原油上昇、米軍がイランのタンカー攻撃－ホルムズ海峡巡る緊張激化</title>
+      <link>https://news.yahoo.co.jp/articles/71e2b789264aef05098e2a9974034b172669ca5f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71e2b789264aef05098e2a9974034b172669ca5f</guid>
+      <pubDate>Mon, 07 Sep 2026 07:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債市場、長短両端で波乱に身構え－財務省とFRBの政策焦点</title>
+      <link>https://news.yahoo.co.jp/articles/e7de218352564c6f14bf662aee1cc54e68aeb839</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e7de218352564c6f14bf662aee1cc54e68aeb839</guid>
+      <pubDate>Mon, 07 Sep 2026 06:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ドイツ極右AfD、州議会選として過去最高の得票率－メルツ政権に打撃</title>
       <link>https://news.yahoo.co.jp/articles/b255b0f9428a7440bd8977a4e42a5b9a2cab7790</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b255b0f9428a7440bd8977a4e42a5b9a2cab7790</guid>
       <pubDate>Mon, 07 Sep 2026 01:21:00 +0900</pubDate>
@@ -38,6 +50,12 @@
       <pubDate>Sun, 06 Sep 2026 23:52:00 +0900</pubDate>
     </item>
     <item>
+      <title>イラン、米国とタンカー攻撃の応酬－ホルムズ海峡外に制限区域設定へ</title>
+      <link>https://news.yahoo.co.jp/articles/094b0330669b73e41d7151f8e288e45047bde8a5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/094b0330669b73e41d7151f8e288e45047bde8a5</guid>
+      <pubDate>Sun, 06 Sep 2026 22:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>イランと米国、ホルムズ海峡でタンカー攻撃の応酬－戦争終結見通せず</title>
       <link>https://news.yahoo.co.jp/articles/4c675b9713ef10a777052d58b81814640c23c1e2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4c675b9713ef10a777052d58b81814640c23c1e2</guid>
@@ -48,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/590bc09dc72be8b631fa218dad0ebad639c0ee8e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/590bc09dc72be8b631fa218dad0ebad639c0ee8e</guid>
       <pubDate>Sun, 06 Sep 2026 17:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロシア「ボストーク・オイル」、初の原油積み出し－北極海航路で輸送</title>
+      <link>https://news.yahoo.co.jp/articles/164c85c96742790fcbf3c0c79c724fe25fc36a44</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/164c85c96742790fcbf3c0c79c724fe25fc36a44</guid>
+      <pubDate>Sun, 06 Sep 2026 15:34:00 +0900</pubDate>
     </item>
     <item>
       <title>ヘッジファンドの原油強気ポジション､5月以来の高水準－需給逼迫懸念</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/2ee02e2a4862c5c038c0317e51908a54ef05da42</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ee02e2a4862c5c038c0317e51908a54ef05da42</guid>
       <pubDate>Fri, 04 Sep 2026 16:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本株週間展望】小動き、好業績支え－日米金融政策や為替見極め</title>
-      <link>https://news.yahoo.co.jp/articles/3d9723fa14562228083b71e3dcc0d98f992395dc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d9723fa14562228083b71e3dcc0d98f992395dc</guid>
-      <pubDate>Fri, 04 Sep 2026 16:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECBの利上げは来週で打ち止めか、エコノミストと市場で見方分かれる</title>
-      <link>https://news.yahoo.co.jp/articles/ef91df7659883aa311a1dd9b6e1f9af19766a648</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ef91df7659883aa311a1dd9b6e1f9af19766a648</guid>
-      <pubDate>Fri, 04 Sep 2026 15:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アブダビ国営石油､ペルシャ湾でLNG積み出し継続－海峡で戦闘激化でも</title>
-      <link>https://news.yahoo.co.jp/articles/82d5710cef82c41ea985f1d0f2355e0a736a8006</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82d5710cef82c41ea985f1d0f2355e0a736a8006</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>国連、温暖化「1.5度超え」不可避と警告－気温低下への反転必要</title>
-      <link>https://news.yahoo.co.jp/articles/a7ad4b7e227a8d8c02eb8417b48c3a12769cc28f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a7ad4b7e227a8d8c02eb8417b48c3a12769cc28f</guid>
-      <pubDate>Fri, 04 Sep 2026 15:13:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
