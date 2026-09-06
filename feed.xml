@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 02:12:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:21:30 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ドイツ極右政党AfD、州議会選で第1党に－過半数には届かない見通し</title>
@@ -18,6 +18,12 @@
       <link>https://news.yahoo.co.jp/articles/2ab67607d9aa4d23eb99ea218b9647c43a7da5fd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ab67607d9aa4d23eb99ea218b9647c43a7da5fd</guid>
       <pubDate>Mon, 07 Sep 2026 00:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米特使2人が開戦後初めてキーウ入り、ロシアとの戦争終結に向け協議</title>
+      <link>https://news.yahoo.co.jp/articles/ee925739d4c39b63095aa944e6ec690bd183aa02</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ee925739d4c39b63095aa944e6ec690bd183aa02</guid>
+      <pubDate>Sun, 06 Sep 2026 23:52:00 +0900</pubDate>
     </item>
     <item>
       <title>イランと米国、ホルムズ海峡でタンカー攻撃の応酬－戦争終結見通せず</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/74a15fb96eab304ad5f92d8987aad62195ca0445</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/74a15fb96eab304ad5f92d8987aad62195ca0445</guid>
       <pubDate>Fri, 04 Sep 2026 14:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ノルウェー年金基金､国債保有の圧縮提案－米国債800億ドル減の可能性</title>
-      <link>https://news.yahoo.co.jp/articles/9c7cdb250e89f288a9b518db08568f31458da31c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9c7cdb250e89f288a9b518db08568f31458da31c</guid>
-      <pubDate>Fri, 04 Sep 2026 14:18:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
