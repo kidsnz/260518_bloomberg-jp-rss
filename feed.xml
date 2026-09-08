@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:49:27 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>クアルコム、アマゾンにAIデータセンター向け半導体供給へ－株価上昇</title>
+      <link>https://news.yahoo.co.jp/articles/27fa6d965f7ab95755be37c5c6bf760f9097b97a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27fa6d965f7ab95755be37c5c6bf760f9097b97a</guid>
+      <pubDate>Wed, 09 Sep 2026 02:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か</title>
       <link>https://news.yahoo.co.jp/articles/8398ef7b38b778fe497a3aea615a931d15cc1e9d</link>
@@ -18,6 +24,18 @@
       <link>https://news.yahoo.co.jp/articles/2e2177b36603f6f6a114fc4ba3c7429a96f5e61c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e2177b36603f6f6a114fc4ba3c7429a96f5e61c</guid>
       <pubDate>Wed, 09 Sep 2026 00:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フランス大統領選を収益機会に、ゴールドマンやドイツ銀が仕組み提供</title>
+      <link>https://news.yahoo.co.jp/articles/3cb5e998aded114bbe59e58e0414048ede93b746</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3cb5e998aded114bbe59e58e0414048ede93b746</guid>
+      <pubDate>Wed, 09 Sep 2026 00:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>序盤の米国株は下落、原油高が重し－CPI発表控え利上げリスクを警戒</title>
+      <link>https://news.yahoo.co.jp/articles/2f56401e9e243fa40cec4c3cce3f88e7fd1b0102</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f56401e9e243fa40cec4c3cce3f88e7fd1b0102</guid>
+      <pubDate>Tue, 08 Sep 2026 23:58:00 +0900</pubDate>
     </item>
     <item>
       <title>英国、30年債を利回り5.82%で発行－1998年以来の高水準</title>
@@ -42,6 +60,12 @@
       <link>https://news.yahoo.co.jp/articles/7e8e8f643363a691e4625f3d8ec6bc3437b52e9a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7e8e8f643363a691e4625f3d8ec6bc3437b52e9a</guid>
       <pubDate>Tue, 08 Sep 2026 18:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジ南部のエネルギー施設、フーシ派の攻撃受け操業停止</title>
+      <link>https://news.yahoo.co.jp/articles/c1f9918322112172fa9d9e24b24960b95d0efeea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1f9918322112172fa9d9e24b24960b95d0efeea</guid>
+      <pubDate>Tue, 08 Sep 2026 18:18:00 +0900</pubDate>
     </item>
     <item>
       <title>日・オマーン国際法当局者間協議を開催、ホルムズ海峡巡り－外務省</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/845e9e5315c5df95ba38cdd5caf5513d7e157e23</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/845e9e5315c5df95ba38cdd5caf5513d7e157e23</guid>
       <pubDate>Mon, 07 Sep 2026 22:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株先物は下落、円は対ドル154円台前半－米祝日で薄商い</title>
-      <link>https://news.yahoo.co.jp/articles/7cfa4756fc2a6e4bebd9e0b40d30d91b1ea1882e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cfa4756fc2a6e4bebd9e0b40d30d91b1ea1882e</guid>
-      <pubDate>Tue, 08 Sep 2026 21:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>株下落、中東情勢の緊迫で原油高・国債利回り上昇－円は154円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/bf8a3edc07eb9de2e9ffdf68d8c6445790841bcb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf8a3edc07eb9de2e9ffdf68d8c6445790841bcb</guid>
-      <pubDate>Mon, 07 Sep 2026 21:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヒーリー英財務相、財政規律の重視を表明－就任後初の主要演説</title>
-      <link>https://news.yahoo.co.jp/articles/0bb2b985c2e10f9856dfb14f49151afee4e21b7d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0bb2b985c2e10f9856dfb14f49151afee4e21b7d</guid>
-      <pubDate>Mon, 07 Sep 2026 21:38:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>カタール、空荷のLNG船がペルシャ湾へ－輸出再開に向け配置の可能性</title>
-      <link>https://news.yahoo.co.jp/articles/77981e8a5e0f023a3187d46ad1dcf9ffe7a59a36</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/77981e8a5e0f023a3187d46ad1dcf9ffe7a59a36</guid>
-      <pubDate>Mon, 07 Sep 2026 21:19:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
