@@ -5,13 +5,31 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 04:57:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:19:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブレント原油101ドル突破、7月以来－米イラン戦争激化で供給懸念</title>
+      <link>https://news.yahoo.co.jp/articles/e4454ee633d77001fc15086151f31e15098c8684</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e4454ee633d77001fc15086151f31e15098c8684</guid>
+      <pubDate>Thu, 10 Sep 2026 05:53:00 +0900</pubDate>
+    </item>
     <item>
       <title>アップル、初の折り畳み式iPhone「Duo」発表－ターナスCEO初舞台</title>
       <link>https://news.yahoo.co.jp/articles/54dc9c3af83bcc28fdd3d3c3a6637f4aaf266948</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/54dc9c3af83bcc28fdd3d3c3a6637f4aaf266948</guid>
       <pubDate>Thu, 10 Sep 2026 03:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】債券売られる、原油高で利上げ観測拡大－株も大幅安</title>
+      <link>https://news.yahoo.co.jp/articles/81d9517d94f2725a9e0118beff197a6d16ce0106</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81d9517d94f2725a9e0118beff197a6d16ce0106</guid>
+      <pubDate>Thu, 10 Sep 2026 02:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント氏の円安けん制、日銀に利上げの重圧－失望招けば市場動揺</title>
+      <link>https://news.yahoo.co.jp/articles/b3ee56dfedaac3c5159a60928944b14aa8c28f06</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b3ee56dfedaac3c5159a60928944b14aa8c28f06</guid>
+      <pubDate>Thu, 10 Sep 2026 02:16:00 +0900</pubDate>
     </item>
     <item>
       <title>シタデル、アリニ米国事業のイェーツ元CEOを採用－関係者</title>
@@ -26,7 +44,7 @@
       <pubDate>Thu, 10 Sep 2026 00:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>米財務省、国債買い戻しを3倍に増額－市場は失望売りで利回り上昇</title>
+      <title>ベッセント米財務長官、国債買い戻し3倍でも長期金利の上昇止まらず</title>
       <link>https://news.yahoo.co.jp/articles/a2a6eefd37eef144df1981a7e11e03498598c71e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2a6eefd37eef144df1981a7e11e03498598c71e</guid>
       <pubDate>Thu, 10 Sep 2026 00:11:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/34ff47d3be1595781114a89eed058d7e4ae4c9e9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/34ff47d3be1595781114a89eed058d7e4ae4c9e9</guid>
       <pubDate>Wed, 09 Sep 2026 03:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クアルコム、アマゾンにAIデータセンター向け半導体供給へ－株価上昇</title>
-      <link>https://news.yahoo.co.jp/articles/27fa6d965f7ab95755be37c5c6bf760f9097b97a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/27fa6d965f7ab95755be37c5c6bf760f9097b97a</guid>
-      <pubDate>Wed, 09 Sep 2026 02:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米消費者の家計認識が悪化、インフレ期待はほぼ横ばい－NY連銀</title>
-      <link>https://news.yahoo.co.jp/articles/d8fe5578de9fbf6bbb870da8ecb73791e1df7373</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d8fe5578de9fbf6bbb870da8ecb73791e1df7373</guid>
-      <pubDate>Wed, 09 Sep 2026 01:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル初の折り畳み式iPhone、開発に約10年－価格は2000ドル超か</title>
-      <link>https://news.yahoo.co.jp/articles/8398ef7b38b778fe497a3aea615a931d15cc1e9d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8398ef7b38b778fe497a3aea615a931d15cc1e9d</guid>
-      <pubDate>Wed, 09 Sep 2026 00:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
