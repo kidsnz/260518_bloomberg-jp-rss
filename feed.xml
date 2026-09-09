@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 02:28:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:57:51 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アップル、初の折り畳み式iPhone「Duo」発表－ターナスCEO初舞台</title>
+      <link>https://news.yahoo.co.jp/articles/54dc9c3af83bcc28fdd3d3c3a6637f4aaf266948</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/54dc9c3af83bcc28fdd3d3c3a6637f4aaf266948</guid>
+      <pubDate>Thu, 10 Sep 2026 03:20:00 +0900</pubDate>
+    </item>
     <item>
       <title>シタデル、アリニ米国事業のイェーツ元CEOを採用－関係者</title>
       <link>https://news.yahoo.co.jp/articles/e5bf13a2b4baa60d042111a2adca02a5d460bd86</link>
@@ -20,10 +26,16 @@
       <pubDate>Thu, 10 Sep 2026 00:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>米長期債の買い戻し、当初計画の3倍に－投資家は失望して利回り上昇</title>
+      <title>米財務省、国債買い戻しを3倍に増額－市場は失望売りで利回り上昇</title>
       <link>https://news.yahoo.co.jp/articles/a2a6eefd37eef144df1981a7e11e03498598c71e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a2a6eefd37eef144df1981a7e11e03498598c71e</guid>
       <pubDate>Thu, 10 Sep 2026 00:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>序盤の米株・国債は下落、原油高重し－円はベッセント氏発言で底堅く</title>
+      <link>https://news.yahoo.co.jp/articles/c0ee5254cf0984c3db76ac01547e0c95de361d24</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c0ee5254cf0984c3db76ac01547e0c95de361d24</guid>
+      <pubDate>Wed, 09 Sep 2026 23:55:00 +0900</pubDate>
     </item>
     <item>
       <title>楽天メディカル、武田の前CEOを副会長に起用－米国での事業展開加速</title>
@@ -54,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/80f37cd5a254a05dc7fc55b71a92b467ef262f29</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80f37cd5a254a05dc7fc55b71a92b467ef262f29</guid>
       <pubDate>Wed, 09 Sep 2026 19:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米アマゾン、初の英ポンド建て債で約8840億円調達－4本立て</title>
+      <link>https://news.yahoo.co.jp/articles/48dfdd2094cee703f648cf2f9e676fa32a98488f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48dfdd2094cee703f648cf2f9e676fa32a98488f</guid>
+      <pubDate>Wed, 09 Sep 2026 18:32:00 +0900</pubDate>
     </item>
     <item>
       <title>米アマゾンが初の英ポンド建て債、起債開始－3～19年の4本立て</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8398ef7b38b778fe497a3aea615a931d15cc1e9d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8398ef7b38b778fe497a3aea615a931d15cc1e9d</guid>
       <pubDate>Wed, 09 Sep 2026 00:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>EUとカナダ、関係強化へ新たな枠組み－貿易・安保など広範な連携模索</title>
-      <link>https://news.yahoo.co.jp/articles/2e2177b36603f6f6a114fc4ba3c7429a96f5e61c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e2177b36603f6f6a114fc4ba3c7429a96f5e61c</guid>
-      <pubDate>Wed, 09 Sep 2026 00:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>フランス大統領選を収益機会に、ゴールドマンやドイツ銀が仕組み提供</title>
-      <link>https://news.yahoo.co.jp/articles/3cb5e998aded114bbe59e58e0414048ede93b746</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3cb5e998aded114bbe59e58e0414048ede93b746</guid>
-      <pubDate>Wed, 09 Sep 2026 00:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>序盤の米国株は下落、原油高が重し－CPI発表控え利上げリスクを警戒</title>
-      <link>https://news.yahoo.co.jp/articles/2f56401e9e243fa40cec4c3cce3f88e7fd1b0102</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f56401e9e243fa40cec4c3cce3f88e7fd1b0102</guid>
-      <pubDate>Tue, 08 Sep 2026 23:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
