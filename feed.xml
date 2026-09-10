@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:01:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:46:00 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米中古住宅販売、年率換算で400万戸割れ－購入希望者は金利低下待ち</title>
+      <link>https://news.yahoo.co.jp/articles/1b38eea08d1e960cb50a87c5b083684524cd9ce5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b38eea08d1e960cb50a87c5b083684524cd9ce5</guid>
+      <pubDate>Thu, 10 Sep 2026 23:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国株・国債が下落、原油高と利上げ懸念で－PPI発表後に円は一段安</title>
+      <link>https://news.yahoo.co.jp/articles/a6e86a829af001c056b78f4b178f04c622eef42f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a6e86a829af001c056b78f4b178f04c622eef42f</guid>
+      <pubDate>Thu, 10 Sep 2026 23:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州債下落、ECBがインフレ期待高止まり見込む－独仏債利回り差拡大</title>
+      <link>https://news.yahoo.co.jp/articles/bd65ffc03431dae3a461abd2d32acaf5cf038ce7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bd65ffc03431dae3a461abd2d32acaf5cf038ce7</guid>
+      <pubDate>Thu, 10 Sep 2026 21:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米PPIコア指数、前月比0.2%上昇－伸びは予想下回る</title>
+      <link>https://news.yahoo.co.jp/articles/4d5d32e8e6e8f6ff711bd443de479e6690d49ca8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d5d32e8e6e8f6ff711bd443de479e6690d49ca8</guid>
+      <pubDate>Thu, 10 Sep 2026 21:43:00 +0900</pubDate>
+    </item>
     <item>
       <title>ECBが利上げ、中銀預金金利2.50%に－インフレ高止まりの見込みに対応</title>
       <link>https://news.yahoo.co.jp/articles/766726f2d1231911b9987fe4331b8fbafb52831f</link>
@@ -42,6 +66,12 @@
       <link>https://news.yahoo.co.jp/articles/81ded6fd9721a541b957c858bfebbbb82cc8f1a7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/81ded6fd9721a541b957c858bfebbbb82cc8f1a7</guid>
       <pubDate>Thu, 10 Sep 2026 18:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米中の10年債利回り差、過去最大に拡大－金融政策の乖離を反映</title>
+      <link>https://news.yahoo.co.jp/articles/62dc636167f6dd7aeccac0c75d69891038ad84d2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62dc636167f6dd7aeccac0c75d69891038ad84d2</guid>
+      <pubDate>Thu, 10 Sep 2026 17:47:00 +0900</pubDate>
     </item>
     <item>
       <title>ダウ、アラムコとの200億ドル規模の化学合弁から撤退検討－関係者</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f380d76bb76f5b9ee44405b101476462950a3ff3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f380d76bb76f5b9ee44405b101476462950a3ff3</guid>
       <pubDate>Wed, 09 Sep 2026 19:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グーグル、2.3兆円でフィンランドにAIインフラ－欧州で最大の投資</title>
-      <link>https://news.yahoo.co.jp/articles/d7429dc2caef10bbc84fd1a602a31171ddcdc837</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7429dc2caef10bbc84fd1a602a31171ddcdc837</guid>
-      <pubDate>Wed, 09 Sep 2026 19:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油トレーダー戦争疲れ、長期ポジション回避－選別強化でリスク排除</title>
-      <link>https://news.yahoo.co.jp/articles/80f37cd5a254a05dc7fc55b71a92b467ef262f29</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/80f37cd5a254a05dc7fc55b71a92b467ef262f29</guid>
-      <pubDate>Wed, 09 Sep 2026 19:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パナソニックエナジー、人型ロボット向け電池開発に参入－用途を探索</title>
-      <link>https://news.yahoo.co.jp/articles/936963559408f4317d18e026782b4492569506bd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/936963559408f4317d18e026782b4492569506bd</guid>
-      <pubDate>Wed, 09 Sep 2026 18:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米アマゾン、初の英ポンド建て債で約8840億円調達－4本立て</title>
-      <link>https://news.yahoo.co.jp/articles/48dfdd2094cee703f648cf2f9e676fa32a98488f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/48dfdd2094cee703f648cf2f9e676fa32a98488f</guid>
-      <pubDate>Wed, 09 Sep 2026 18:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米アマゾンが初の英ポンド建て債、起債開始－3～19年の4本立て</title>
-      <link>https://news.yahoo.co.jp/articles/4da4a90ecae4fb948cedf651e6fe5fea321513a9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4da4a90ecae4fb948cedf651e6fe5fea321513a9</guid>
-      <pubDate>Wed, 09 Sep 2026 18:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
