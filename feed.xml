@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:06:22 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:06:42 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ウォーシュFRB議長に利上げ圧力、｢行動で示すか黙るか｣－CPI上振れで</title>
+      <link>https://news.yahoo.co.jp/articles/5f81c4e005de619b1b53ecf871c7d6f08e5c9273</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f81c4e005de619b1b53ecf871c7d6f08e5c9273</guid>
+      <pubDate>Sat, 12 Sep 2026 04:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジ、東西パイプラインの操業を停止－攻撃後の安全確保で</title>
+      <link>https://news.yahoo.co.jp/articles/766431dbd9f521af0a1cbbdffedb4ec6c3aca43c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/766431dbd9f521af0a1cbbdffedb4ec6c3aca43c</guid>
+      <pubDate>Sat, 12 Sep 2026 03:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フーシ派攻勢、サウジは苦渋の選択へ－軍事衝突拡大か要衝支配容認か</title>
+      <link>https://news.yahoo.co.jp/articles/c1cf44a5bd648e508f63b8c6d79e9ef2d821cda3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1cf44a5bd648e508f63b8c6d79e9ef2d821cda3</guid>
+      <pubDate>Sat, 12 Sep 2026 03:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>米CPI、インフレ巡る議論に決着つけず－市場関係者の見方</title>
       <link>https://news.yahoo.co.jp/articles/2ebefbde7a236dc633a797acb9c5355182916684</link>
@@ -24,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/c6d3b95d270fa0fdff7d026afdf4ccfa2bd72a38</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6d3b95d270fa0fdff7d026afdf4ccfa2bd72a38</guid>
       <pubDate>Sat, 12 Sep 2026 23:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者マインド、2カ月連続低下－ガソリン高と貿易摩擦が重し</title>
+      <link>https://news.yahoo.co.jp/articles/40353d94aadb40cb9062cf0e48f264df3f732c8f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/40353d94aadb40cb9062cf0e48f264df3f732c8f</guid>
+      <pubDate>Sat, 12 Sep 2026 23:09:00 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド指数、9月は低下－ガソリン高と貿易摩擦が重し</title>
@@ -236,7 +260,7 @@
       <pubDate>Fri, 11 Sep 2026 09:49:00 +0900</pubDate>
     </item>
     <item>
-      <title>ブレント原油が下落、一時104ドル台－IEAが需要見通しを引き下げ</title>
+      <title>ブレント原油が一時3％安、104ドル台－IEAが需要見通しを引き下げ</title>
       <link>https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</guid>
       <pubDate>Fri, 11 Sep 2026 09:41:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/f069abf6632a628e6c15952825e0c9c7bf9cd13c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f069abf6632a628e6c15952825e0c9c7bf9cd13c</guid>
       <pubDate>Fri, 11 Sep 2026 08:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、原油と米金利高で株・債券下落へ－円は日米物価指標が注目</title>
-      <link>https://news.yahoo.co.jp/articles/19a75a5586c135bfaa52b2001bc31f96a195e6aa</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19a75a5586c135bfaa52b2001bc31f96a195e6aa</guid>
-      <pubDate>Fri, 11 Sep 2026 08:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は反落へ、原油急伸と米金利上昇が重し－AI関連や景気敏感売り</title>
-      <link>https://news.yahoo.co.jp/articles/830269acebeea8ef4d7fdce2977eadcafcf3c586</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/830269acebeea8ef4d7fdce2977eadcafcf3c586</guid>
-      <pubDate>Fri, 11 Sep 2026 08:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米財務長官､予想下回る国債買い戻し巡る懸念一蹴-市場は「良好」</title>
-      <link>https://news.yahoo.co.jp/articles/e26ed3f6aec806a2093d2e671c7aeb2c99249fde</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e26ed3f6aec806a2093d2e671c7aeb2c99249fde</guid>
-      <pubDate>Fri, 11 Sep 2026 07:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円は対ドルで154円台半ば、原油と米金利上昇でドル買い－債券下落へ</title>
-      <link>https://news.yahoo.co.jp/articles/2493ff167008426ba36376f819b92cc43576d847</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2493ff167008426ba36376f819b92cc43576d847</guid>
-      <pubDate>Fri, 11 Sep 2026 07:53:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
