@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:06:42 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:25:45 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ウォーシュFRB議長に利上げ圧力、｢行動で示すか黙るか｣－CPI上振れで</title>
@@ -26,10 +26,22 @@
       <pubDate>Sat, 12 Sep 2026 03:40:00 +0900</pubDate>
     </item>
     <item>
+      <title>9.11米同時多発テロから25年、NYなどで犠牲者追悼－記憶を次世代へ</title>
+      <link>https://news.yahoo.co.jp/articles/3f45ae85e34fb381f1a0756c55a12a272132403e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3f45ae85e34fb381f1a0756c55a12a272132403e</guid>
+      <pubDate>Sat, 12 Sep 2026 02:53:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米CPI、インフレ巡る議論に決着つけず－市場関係者の見方</title>
       <link>https://news.yahoo.co.jp/articles/2ebefbde7a236dc633a797acb9c5355182916684</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ebefbde7a236dc633a797acb9c5355182916684</guid>
       <pubDate>Fri, 11 Sep 2026 23:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株反発､原油安でインフレ懸念後退－円買われ153円台後半</title>
+      <link>https://news.yahoo.co.jp/articles/86665d872c1b4e5cdda123d2a77c7dadb24819d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86665d872c1b4e5cdda123d2a77c7dadb24819d3</guid>
+      <pubDate>Sat, 12 Sep 2026 23:30:00 +0900</pubDate>
     </item>
     <item>
       <title>米株と国債が上昇、原油安が利上げ懸念相殺－円は153円台半ばに上昇</title>
@@ -260,6 +272,12 @@
       <pubDate>Fri, 11 Sep 2026 09:49:00 +0900</pubDate>
     </item>
     <item>
+      <title>ブレント原油が週間で9%高、フーシ派攻撃激化で－11日は3%安</title>
+      <link>https://news.yahoo.co.jp/articles/5736615f04b6cfec2f52b3be0698ea13532b7ab0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5736615f04b6cfec2f52b3be0698ea13532b7ab0</guid>
+      <pubDate>Sat, 12 Sep 2026 09:41:00 +0900</pubDate>
+    </item>
+    <item>
       <title>ブレント原油が一時3％安、104ドル台－IEAが需要見通しを引き下げ</title>
       <link>https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</guid>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ac820e9973e3ebd47f791444b636fc1751ca8b10</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac820e9973e3ebd47f791444b636fc1751ca8b10</guid>
       <pubDate>Fri, 11 Sep 2026 08:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソフトバンクGの空売り勢、含み損急拡大－OpenAI新モデル期待で株高</title>
-      <link>https://news.yahoo.co.jp/articles/2ccd1ff9cbfcccebf1c8338732441245e9f0b5fb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ccd1ff9cbfcccebf1c8338732441245e9f0b5fb</guid>
-      <pubDate>Fri, 11 Sep 2026 08:45:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「隠れAI株」を探す日本株、金利警戒で主役不調ー成長期待映し好成績</title>
-      <link>https://news.yahoo.co.jp/articles/71cca2a9adc786b718759c964b25f5f496059733</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/71cca2a9adc786b718759c964b25f5f496059733</guid>
-      <pubDate>Fri, 11 Sep 2026 08:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オーストラリア国債利回りが急上昇、2011年以来の高水準－原油高受け</title>
-      <link>https://news.yahoo.co.jp/articles/f069abf6632a628e6c15952825e0c9c7bf9cd13c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f069abf6632a628e6c15952825e0c9c7bf9cd13c</guid>
-      <pubDate>Fri, 11 Sep 2026 08:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
