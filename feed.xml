@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:20:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:05:57 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏、中国勢の米国内EV生産認める可能性－米国人雇用が条件</title>
+      <link>https://news.yahoo.co.jp/articles/bc51086df9285fe8ad808079aa53b6b441766562</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc51086df9285fe8ad808079aa53b6b441766562</guid>
+      <pubDate>Sat, 12 Sep 2026 11:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>北朝鮮、短距離弾道ミサイル発射－米国と同盟国に差し迫った脅威なし</title>
       <link>https://news.yahoo.co.jp/articles/1c63f64ad3407e6536f236022c14cdd0dbc5d446</link>
@@ -126,6 +132,12 @@
       <link>https://news.yahoo.co.jp/articles/36266c6921c545b88e621129cae98c6b1dec7519</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36266c6921c545b88e621129cae98c6b1dec7519</guid>
       <pubDate>Fri, 11 Sep 2026 19:37:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国ムーンショットAI、年内に年換算売上高20億ドル目指す－Kimi好調</title>
+      <link>https://news.yahoo.co.jp/articles/2216eb3ea60b577e03c9c5a299d680c370842430</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2216eb3ea60b577e03c9c5a299d680c370842430</guid>
+      <pubDate>Fri, 11 Sep 2026 18:43:00 +0900</pubDate>
     </item>
     <item>
       <title>ECB、景気抑制的水準まで利上げ必要となる可能性－独連銀総裁</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/9fac4f96b801fd4bc31372c9e4725e4ece85995c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9fac4f96b801fd4bc31372c9e4725e4ece85995c</guid>
       <pubDate>Fri, 11 Sep 2026 09:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油が週間で9%高、フーシ派攻撃激化で－11日は3%安</title>
-      <link>https://news.yahoo.co.jp/articles/5736615f04b6cfec2f52b3be0698ea13532b7ab0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5736615f04b6cfec2f52b3be0698ea13532b7ab0</guid>
-      <pubDate>Sat, 12 Sep 2026 09:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油が一時3％安、104ドル台－IEAが需要見通しを引き下げ</title>
-      <link>https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</guid>
-      <pubDate>Fri, 11 Sep 2026 09:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
