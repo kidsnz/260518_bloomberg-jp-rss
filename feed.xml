@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:25:45 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:20:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>北朝鮮、短距離弾道ミサイル発射－米国と同盟国に差し迫った脅威なし</title>
+      <link>https://news.yahoo.co.jp/articles/1c63f64ad3407e6536f236022c14cdd0dbc5d446</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c63f64ad3407e6536f236022c14cdd0dbc5d446</guid>
+      <pubDate>Sat, 12 Sep 2026 09:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>湾岸6カ国、イランと来週にも異例の会合検討－ホルムズ海峡巡り</title>
+      <link>https://news.yahoo.co.jp/articles/583021645ed2e4e3558520ee04085e366fb620ff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/583021645ed2e4e3558520ee04085e366fb620ff</guid>
+      <pubDate>Sat, 12 Sep 2026 06:47:00 +0900</pubDate>
+    </item>
     <item>
       <title>ウォーシュFRB議長に利上げ圧力、｢行動で示すか黙るか｣－CPI上振れで</title>
       <link>https://news.yahoo.co.jp/articles/5f81c4e005de619b1b53ecf871c7d6f08e5c9273</link>
@@ -14,7 +26,13 @@
       <pubDate>Sat, 12 Sep 2026 04:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>サウジ、東西パイプラインの操業を停止－攻撃後の安全確保で</title>
+      <title>円は再び1ドル163円に下落へ、大規模なレパトリ想定せず－モルガンS</title>
+      <link>https://news.yahoo.co.jp/articles/7f76e6c69506532351e7eb0d51b7cc92a01f0ec6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7f76e6c69506532351e7eb0d51b7cc92a01f0ec6</guid>
+      <pubDate>Sat, 12 Sep 2026 04:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジ、東西パイプラインの操業停止－ホルムズに代わる主要ルート</title>
       <link>https://news.yahoo.co.jp/articles/766431dbd9f521af0a1cbbdffedb4ec6c3aca43c</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/766431dbd9f521af0a1cbbdffedb4ec6c3aca43c</guid>
       <pubDate>Sat, 12 Sep 2026 03:44:00 +0900</pubDate>
@@ -36,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/2ebefbde7a236dc633a797acb9c5355182916684</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2ebefbde7a236dc633a797acb9c5355182916684</guid>
       <pubDate>Fri, 11 Sep 2026 23:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州債買いに「後悔」、債券相場急落で投資家に痛手－BofA調査</title>
+      <link>https://news.yahoo.co.jp/articles/364d9efe3e3091f8a65ae9a5485f1ad1d2f97b6e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/364d9efe3e3091f8a65ae9a5485f1ad1d2f97b6e</guid>
+      <pubDate>Fri, 11 Sep 2026 23:33:00 +0900</pubDate>
     </item>
     <item>
       <title>【米国市況】株反発､原油安でインフレ懸念後退－円買われ153円台後半</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7a959d8fca9a2da577934928b04e0c9b973c1ec</guid>
       <pubDate>Fri, 11 Sep 2026 09:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米ミレニアムが王子氏採用、元野村証券の株式デリバティブ取引幹部</title>
-      <link>https://news.yahoo.co.jp/articles/d67ed0b0b7e2574807cf19e3944f488d3a24b9a7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d67ed0b0b7e2574807cf19e3944f488d3a24b9a7</guid>
-      <pubDate>Fri, 11 Sep 2026 09:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】長期金利が再び3%、原油高や金利高嫌気し日経平均大幅安</title>
-      <link>https://news.yahoo.co.jp/articles/60c6df4d6f5bb7c12c8e797d8ded8489ddeaf7e6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/60c6df4d6f5bb7c12c8e797d8ded8489ddeaf7e6</guid>
-      <pubDate>Fri, 11 Sep 2026 09:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>あいちFG株が一時7%超安、三十三FGも大幅安－統合合意を解消</title>
-      <link>https://news.yahoo.co.jp/articles/239a14b9742782195ebea998c832b7489d356357</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/239a14b9742782195ebea998c832b7489d356357</guid>
-      <pubDate>Fri, 11 Sep 2026 09:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀企業物価は高水準の伸び継続、9月利上げ観測のサポート材料に</title>
-      <link>https://news.yahoo.co.jp/articles/ac820e9973e3ebd47f791444b636fc1751ca8b10</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac820e9973e3ebd47f791444b636fc1751ca8b10</guid>
-      <pubDate>Fri, 11 Sep 2026 08:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
