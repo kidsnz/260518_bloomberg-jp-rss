@@ -5,10 +5,16 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:42:52 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:54:57 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>OpenAIのIPO、年内は実施しない-アルトマン氏がフォーチュン誌に語る</title>
+      <title>【焦点】FRBと日銀、利上げの公算－G7中銀のタカ派スタンス鮮明に</title>
+      <link>https://news.yahoo.co.jp/articles/2bbd90a6a6e8889b5e7771ae867c6465843ded30</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2bbd90a6a6e8889b5e7771ae867c6465843ded30</guid>
+      <pubDate>Sun, 13 Sep 2026 14:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIの年内上場は見送り、AI安全性巡る不安への対応に集中へ－CEO</title>
       <link>https://news.yahoo.co.jp/articles/a03d6b0e15c758f54d829d6f78cf261b69027895</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a03d6b0e15c758f54d829d6f78cf261b69027895</guid>
       <pubDate>Sun, 13 Sep 2026 05:06:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/65044dcc43358e38d46720e4875b00672c0d4e14</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65044dcc43358e38d46720e4875b00672c0d4e14</guid>
       <pubDate>Fri, 11 Sep 2026 13:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利上昇へ、日米利上げ見通し－内閣改造は警戒</title>
-      <link>https://news.yahoo.co.jp/articles/98e98f7a79a0222f5dae1ac4b637472cf0f2a0b8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98e98f7a79a0222f5dae1ac4b637472cf0f2a0b8</guid>
-      <pubDate>Fri, 11 Sep 2026 13:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
