@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:00:22 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:36:27 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ巡るオマーンとの合意案、イランが14日に湾岸諸国に提示へ</title>
+      <link>https://news.yahoo.co.jp/articles/a3cd37ef14999dee9df3ffae33bc453f796e3751</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3cd37ef14999dee9df3ffae33bc453f796e3751</guid>
+      <pubDate>Mon, 14 Sep 2026 00:28:00 +0900</pubDate>
+    </item>
     <item>
       <title>AI企業トップの警告、目先半導体株の重しに－投資テーマは維持との声</title>
       <link>https://news.yahoo.co.jp/articles/da95c8cc10a919af5dffc1521cdaee0f62f12094</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/11a1f2ff81d9ad38f711f8d455d61226de4992de</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11a1f2ff81d9ad38f711f8d455d61226de4992de</guid>
       <pubDate>Fri, 11 Sep 2026 14:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマンIPO導いたエリートクラブ縮小－ウェルス事業CIO退社へ</title>
-      <link>https://news.yahoo.co.jp/articles/003d1379955a60e71281e1db1b54c6379ac832b1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/003d1379955a60e71281e1db1b54c6379ac832b1</guid>
-      <pubDate>Fri, 11 Sep 2026 14:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
