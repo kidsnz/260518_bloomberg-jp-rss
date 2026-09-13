@@ -5,13 +5,19 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 08:39:19 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:42:52 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>OpenAIのIPO、年内は実施しない-アルトマン氏がフォーチュン誌に語る</title>
       <link>https://news.yahoo.co.jp/articles/a03d6b0e15c758f54d829d6f78cf261b69027895</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a03d6b0e15c758f54d829d6f78cf261b69027895</guid>
       <pubDate>Sun, 13 Sep 2026 05:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>オラクルのエリソン会長、時価75億ドル相当の保有株売却取りやめ</title>
+      <link>https://news.yahoo.co.jp/articles/3bbaccdb638fb836d109b66db1db095d2591a533</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bbaccdb638fb836d109b66db1db095d2591a533</guid>
+      <pubDate>Sun, 13 Sep 2026 03:24:00 +0900</pubDate>
     </item>
     <item>
       <title>アンソロピックCEO、AI開発の減速訴え－人類に「深刻な」リスク</title>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/98e98f7a79a0222f5dae1ac4b637472cf0f2a0b8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/98e98f7a79a0222f5dae1ac4b637472cf0f2a0b8</guid>
       <pubDate>Fri, 11 Sep 2026 13:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>赤沢経産相、中部電力の不祥事に「極めて遺憾」－厳格対応へ</title>
-      <link>https://news.yahoo.co.jp/articles/7c8e4965229658234bd60658df5021a08ac22f5b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7c8e4965229658234bd60658df5021a08ac22f5b</guid>
-      <pubDate>Fri, 11 Sep 2026 13:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
