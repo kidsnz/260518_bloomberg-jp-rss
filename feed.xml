@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:36:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:01:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ海峡巡るイランと湾岸諸国の会合は延期、オマーンが発表</title>
+      <link>https://news.yahoo.co.jp/articles/6d0a0c32971f1b4b33f99103bf3e9f33b0cc786b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6d0a0c32971f1b4b33f99103bf3e9f33b0cc786b</guid>
+      <pubDate>Mon, 14 Sep 2026 04:21:00 +0900</pubDate>
+    </item>
     <item>
       <title>ホルムズ巡るオマーンとの合意案、イランが14日に湾岸諸国に提示へ</title>
       <link>https://news.yahoo.co.jp/articles/a3cd37ef14999dee9df3ffae33bc453f796e3751</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/70f5aecec459ae3f9c1670a304eb13d97316fa89</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/70f5aecec459ae3f9c1670a304eb13d97316fa89</guid>
       <pubDate>Fri, 11 Sep 2026 14:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>世界の金利押し上げる原油再騰不安、日本も10年債利回りが3%乗せ場面</title>
-      <link>https://news.yahoo.co.jp/articles/11a1f2ff81d9ad38f711f8d455d61226de4992de</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/11a1f2ff81d9ad38f711f8d455d61226de4992de</guid>
-      <pubDate>Fri, 11 Sep 2026 14:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
