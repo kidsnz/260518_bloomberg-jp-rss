@@ -5,16 +5,100 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:51:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:44:25 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>AI開発減速巡る米テック幹部の主張、中国が「恐怖あおる」と批判</title>
+      <title>ドイツがEUに対中強硬策働きかけ、PHEV車への関税も模索－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/5e2b76b942431c688639473477f6914893d258ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e2b76b942431c688639473477f6914893d258ab</guid>
+      <pubDate>Tue, 15 Sep 2026 01:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロシア・ウクライナ、エネルギー施設への攻撃停止で合意－トランプ氏</title>
+      <link>https://news.yahoo.co.jp/articles/d497c27eb10ae183503d6a859912c49c40ef6dc0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d497c27eb10ae183503d6a859912c49c40ef6dc0</guid>
+      <pubDate>Tue, 15 Sep 2026 00:56:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>欧州ジャンク級企業、借り換え前倒しラッシュ－金利上昇を警戒</title>
+      <link>https://news.yahoo.co.jp/articles/ce89080301f4892b93a57a65c44eecb45f88c15d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce89080301f4892b93a57a65c44eecb45f88c15d</guid>
+      <pubDate>Tue, 15 Sep 2026 00:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、アンソロピックCEO批判-「強く賢い大統領」こそAI安全策</title>
+      <link>https://news.yahoo.co.jp/articles/2a20173d3548e2503e960fded9dd5c847152d4ab</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a20173d3548e2503e960fded9dd5c847152d4ab</guid>
+      <pubDate>Tue, 15 Sep 2026 00:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油急伸、ブレントは一時110ドルに迫る－サウジのパイプライン停止</title>
+      <link>https://news.yahoo.co.jp/articles/51a6a8d9d32a6ce4a5a6be054e6395f20275b88f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/51a6a8d9d32a6ce4a5a6be054e6395f20275b88f</guid>
+      <pubDate>Mon, 14 Sep 2026 23:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米10年債利回り節目の5%突破、2023年以来－供給やインフレ巡る懸念で</title>
+      <link>https://news.yahoo.co.jp/articles/e206dd7f9c6b1a9f747f520c5cc61a880046ea03</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e206dd7f9c6b1a9f747f520c5cc61a880046ea03</guid>
+      <pubDate>Mon, 14 Sep 2026 23:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ウォール街ストラテジスト、FRB利上げでも株高続くと予想</title>
+      <link>https://news.yahoo.co.jp/articles/de605fe13de1f117d50c22a7cf395f937c370a47</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/de605fe13de1f117d50c22a7cf395f937c370a47</guid>
+      <pubDate>Mon, 14 Sep 2026 23:18:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米10年債利回り5%に上昇、AI脅威論の影響で株下落－ドル154円台後半</title>
+      <link>https://news.yahoo.co.jp/articles/504db1e8a564b97e768e167edd716d7c4c91e6fb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/504db1e8a564b97e768e167edd716d7c4c91e6fb</guid>
+      <pubDate>Mon, 14 Sep 2026 22:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イランと湾岸諸国の会合延期、緊張続く－サウジがフーシ派攻撃に反発</title>
+      <link>https://news.yahoo.co.jp/articles/225aed5271aa8c196c1977ebdd5c1c2d884970ff</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/225aed5271aa8c196c1977ebdd5c1c2d884970ff</guid>
+      <pubDate>Mon, 14 Sep 2026 22:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油上昇、ブレントは一時3.9%高－サウジの輸送路停止で供給にリスク</title>
+      <link>https://news.yahoo.co.jp/articles/bcf28d20a2ed9c2c7f2920fc6bb8ac4fdec3eedd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bcf28d20a2ed9c2c7f2920fc6bb8ac4fdec3eedd</guid>
+      <pubDate>Mon, 14 Sep 2026 20:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>クラリオン・エレクトロニクス、フランス親会社が売却を検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/bf66fb0c28cbf76dec07d0a6ec6b0edd9f0b7f5f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf66fb0c28cbf76dec07d0a6ec6b0edd9f0b7f5f</guid>
+      <pubDate>Mon, 14 Sep 2026 20:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI社長、AI開発減速は先端企業に限定すべきだとの考え示す</title>
+      <link>https://news.yahoo.co.jp/articles/cd7056b067597fc6628851db73171173fd45a6a2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/cd7056b067597fc6628851db73171173fd45a6a2</guid>
+      <pubDate>Mon, 14 Sep 2026 19:54:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>キオクシアHD、ADR上場で1兆5000億円規模の調達を検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/e11fc6a27a265ea41a31a0a646c7801f5d0c931e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e11fc6a27a265ea41a31a0a646c7801f5d0c931e</guid>
+      <pubDate>Mon, 14 Sep 2026 19:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ECB当局者、慎重姿勢も追加利上げ辞さず－「どの会合」も選択肢に</title>
+      <link>https://news.yahoo.co.jp/articles/ba15222e2ec757878aaf863c7dc5ac7a8dec6903</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba15222e2ec757878aaf863c7dc5ac7a8dec6903</guid>
+      <pubDate>Mon, 14 Sep 2026 19:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI開発減速巡る米テック幹部の主張、中国が「恐怖あおる」と反発</title>
       <link>https://news.yahoo.co.jp/articles/ff89c38c3478f9a177a90fd5953f3daa52fa4d4b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ff89c38c3478f9a177a90fd5953f3daa52fa4d4b</guid>
       <pubDate>Mon, 14 Sep 2026 18:14:00 +0900</pubDate>
     </item>
     <item>
-      <title>欧州債が下落、ドルは全面高－中東のエネルギ＝供給混乱に反応</title>
+      <title>欧州債が下落、ドルは全面高－エネルギー供給混乱で再び155円に接近</title>
       <link>https://news.yahoo.co.jp/articles/b9a83d7e96b29fc4b8a00e5b33a2456858f89691</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9a83d7e96b29fc4b8a00e5b33a2456858f89691</guid>
       <pubDate>Mon, 14 Sep 2026 17:54:00 +0900</pubDate>
@@ -222,90 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/a03d6b0e15c758f54d829d6f78cf261b69027895</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a03d6b0e15c758f54d829d6f78cf261b69027895</guid>
       <pubDate>Sun, 13 Sep 2026 05:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オラクルのエリソン会長、時価75億ドル相当の保有株売却取りやめ</title>
-      <link>https://news.yahoo.co.jp/articles/3bbaccdb638fb836d109b66db1db095d2591a533</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3bbaccdb638fb836d109b66db1db095d2591a533</guid>
-      <pubDate>Sun, 13 Sep 2026 03:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックCEO、AI開発の減速訴え－人類に「深刻な」リスク</title>
-      <link>https://news.yahoo.co.jp/articles/c6781c3894e8ff9ebfff25aa672394c97a25657b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c6781c3894e8ff9ebfff25aa672394c97a25657b</guid>
-      <pubDate>Sun, 13 Sep 2026 00:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、カナダとの貿易摩擦「かなり近く」合意する可能性を示唆</title>
-      <link>https://news.yahoo.co.jp/articles/d75a1704f725422c0f303e0d5b99b6238b037289</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d75a1704f725422c0f303e0d5b99b6238b037289</guid>
-      <pubDate>Sat, 12 Sep 2026 23:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>BRICSサミット開幕、中東での戦争や貿易摩擦乗り越え共同声明で合意</title>
-      <link>https://news.yahoo.co.jp/articles/a3b4d775a1ddc11a95e9730ad11dc5c28894bdcc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3b4d775a1ddc11a95e9730ad11dc5c28894bdcc</guid>
-      <pubDate>Sat, 12 Sep 2026 22:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>GPIF、最大620億ドル相当の米国債売却も－サンタンデール銀</title>
-      <link>https://news.yahoo.co.jp/articles/2a914d52b6457d8068954835b2e20dcbb1aedd66</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a914d52b6457d8068954835b2e20dcbb1aedd66</guid>
-      <pubDate>Sat, 12 Sep 2026 18:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォール街、原油高・金利上昇でも戦略変えず－AI主導の増益に賭け</title>
-      <link>https://news.yahoo.co.jp/articles/3b48f06b6e1b88ef49e8e8dd221a54756b23babd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3b48f06b6e1b88ef49e8e8dd221a54756b23babd</guid>
-      <pubDate>Sat, 12 Sep 2026 17:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヘッジファンド、円ショート大幅削減－ベッセント氏「胴元」発言前に</title>
-      <link>https://news.yahoo.co.jp/articles/7b13383d07f2ced5a06816d7ec0259c40cb72e66</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7b13383d07f2ced5a06816d7ec0259c40cb72e66</guid>
-      <pubDate>Sat, 12 Sep 2026 15:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン大統領、抗戦姿勢崩さず－BRICS会議で結束図るも足並みに乱れ</title>
-      <link>https://news.yahoo.co.jp/articles/e17c99f8ef7f32eb42792a2b80d5a3e097f6e1eb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e17c99f8ef7f32eb42792a2b80d5a3e097f6e1eb</guid>
-      <pubDate>Sat, 12 Sep 2026 12:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、中国勢の米国内EV生産認める可能性－米国人雇用が条件</title>
-      <link>https://news.yahoo.co.jp/articles/bc51086df9285fe8ad808079aa53b6b441766562</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bc51086df9285fe8ad808079aa53b6b441766562</guid>
-      <pubDate>Sat, 12 Sep 2026 11:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックIPO、エヌビディアが最大1.5兆円投資検討－ロイター</title>
-      <link>https://news.yahoo.co.jp/articles/d36030daa69a6b9a8145533b321e7c209eb08a0f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d36030daa69a6b9a8145533b321e7c209eb08a0f</guid>
-      <pubDate>Sat, 12 Sep 2026 09:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>北朝鮮、短距離弾道ミサイル発射－米国と同盟国に差し迫った脅威なし</title>
-      <link>https://news.yahoo.co.jp/articles/1c63f64ad3407e6536f236022c14cdd0dbc5d446</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1c63f64ad3407e6536f236022c14cdd0dbc5d446</guid>
-      <pubDate>Sat, 12 Sep 2026 09:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>湾岸6カ国、イランと来週にも異例の会合検討－ホルムズ海峡巡り</title>
-      <link>https://news.yahoo.co.jp/articles/583021645ed2e4e3558520ee04085e366fb620ff</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/583021645ed2e4e3558520ee04085e366fb620ff</guid>
-      <pubDate>Sat, 12 Sep 2026 06:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>JPモルガンとシティ、9月の米利上げ予想に転換－インフレ高止まり</title>
-      <link>https://news.yahoo.co.jp/articles/af0332f8b527b482aa475ce71491263195a047ca</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/af0332f8b527b482aa475ce71491263195a047ca</guid>
-      <pubDate>Sat, 12 Sep 2026 06:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュFRB議長に利上げ圧力、｢行動で示すか黙るか｣－CPI上振れで</title>
-      <link>https://news.yahoo.co.jp/articles/5f81c4e005de619b1b53ecf871c7d6f08e5c9273</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5f81c4e005de619b1b53ecf871c7d6f08e5c9273</guid>
-      <pubDate>Sat, 12 Sep 2026 04:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
