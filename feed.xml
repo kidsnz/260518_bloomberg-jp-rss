@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:19:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:34:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ベッセント氏がお墨付き、1人5000ドルの｢トランプ配当」赤字増やさず</title>
+      <link>https://news.yahoo.co.jp/articles/2a84c67a5db480341e4b02747765ca502f8adf89</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a84c67a5db480341e4b02747765ca502f8adf89</guid>
+      <pubDate>Wed, 16 Sep 2026 01:55:00 +0900</pubDate>
+    </item>
     <item>
       <title>OpenAI、アンソロピックやグーグルとAI安全対策を巡り協力</title>
       <link>https://news.yahoo.co.jp/articles/daab0b0d3b359d94e4cd60dc433e1c5272fa0bb6</link>
@@ -14,7 +20,7 @@
       <pubDate>Wed, 16 Sep 2026 00:39:00 +0900</pubDate>
     </item>
     <item>
-      <title>ベッセント長官、今週末に中国副首相と会談－イラン戦争が議題に</title>
+      <title>ベッセント長官、今週末に中国副首相と会談－米中首脳会談控え</title>
       <link>https://news.yahoo.co.jp/articles/038f759ad491ea05c8db9937d04d680d11019636</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/038f759ad491ea05c8db9937d04d680d11019636</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
@@ -32,10 +38,22 @@
       <pubDate>Tue, 15 Sep 2026 22:48:00 +0900</pubDate>
     </item>
     <item>
+      <title>【米国市況】株と国債が下落、FOMC控えリスク敬遠－ドル155円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/1bb09cc9f7732392c19e683e7a8f3a5ea363e814</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1bb09cc9f7732392c19e683e7a8f3a5ea363e814</guid>
+      <pubDate>Wed, 16 Sep 2026 22:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米10年債利回りは5%割り込む、円と株先物は軟調－WTI原油は伸び悩み</title>
       <link>https://news.yahoo.co.jp/articles/b98bbec06f74ed467f902de7aef822bbf882c3a2</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b98bbec06f74ed467f902de7aef822bbf882c3a2</guid>
       <pubDate>Tue, 15 Sep 2026 22:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ベッセント氏が狙う「成長で債務問題克服」、利回り急騰で困難さ増す</title>
+      <link>https://news.yahoo.co.jp/articles/3caef65feaf9f643947b6fd3fa28b860e05f8cbe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3caef65feaf9f643947b6fd3fa28b860e05f8cbe</guid>
+      <pubDate>Wed, 16 Sep 2026 21:47:00 +0900</pubDate>
     </item>
     <item>
       <title>ベッセント氏が狙う「成長による債務克服」、利回り急騰で困難さ増す</title>
@@ -114,6 +132,12 @@
       <link>https://news.yahoo.co.jp/articles/fd8dd49c37812030368987ada0b5be891bc05985</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd8dd49c37812030368987ada0b5be891bc05985</guid>
       <pubDate>Tue, 15 Sep 2026 14:39:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米10年債利回り5.04%、2007年以来の高水準－FOMC政策判断が焦点</title>
+      <link>https://news.yahoo.co.jp/articles/82e564e97b0ddf0df573afdac966ebdcb4bff6c1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/82e564e97b0ddf0df573afdac966ebdcb4bff6c1</guid>
+      <pubDate>Wed, 16 Sep 2026 14:10:00 +0900</pubDate>
     </item>
     <item>
       <title>米10年債利回り5.03%、2007年以来の高水準－世界的な債券売り強まる</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/162d1b36f182675aacd59f6349fa878599c90bcc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/162d1b36f182675aacd59f6349fa878599c90bcc</guid>
       <pubDate>Tue, 15 Sep 2026 02:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドイツがEUに対中強硬策働きかけ、PHEV車への関税も模索－関係者</title>
-      <link>https://news.yahoo.co.jp/articles/5e2b76b942431c688639473477f6914893d258ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e2b76b942431c688639473477f6914893d258ab</guid>
-      <pubDate>Tue, 15 Sep 2026 01:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏「ロシア・ウクライナがエネルギー停戦」、キーウは否定</title>
-      <link>https://news.yahoo.co.jp/articles/d497c27eb10ae183503d6a859912c49c40ef6dc0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d497c27eb10ae183503d6a859912c49c40ef6dc0</guid>
-      <pubDate>Tue, 15 Sep 2026 00:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>欧州ジャンク級企業、借り換え前倒しラッシュ－金利上昇を警戒</title>
-      <link>https://news.yahoo.co.jp/articles/ce89080301f4892b93a57a65c44eecb45f88c15d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce89080301f4892b93a57a65c44eecb45f88c15d</guid>
-      <pubDate>Tue, 15 Sep 2026 00:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、アンソロピックCEO批判-「強く賢い大統領」こそAI安全策</title>
-      <link>https://news.yahoo.co.jp/articles/2a20173d3548e2503e960fded9dd5c847152d4ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2a20173d3548e2503e960fded9dd5c847152d4ab</guid>
-      <pubDate>Tue, 15 Sep 2026 00:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
