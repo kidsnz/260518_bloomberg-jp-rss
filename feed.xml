@@ -5,8 +5,32 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:27:25 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:59:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>個人向け国債の発行、金利高で過去最高ペース－安定消化へ家計に期待</title>
+      <link>https://news.yahoo.co.jp/articles/24f6c9e37fde57bd65a3a097bceac77ced7d9676</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/24f6c9e37fde57bd65a3a097bceac77ced7d9676</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン代表団、国連総会出席で訪米可能に－米国務省</title>
+      <link>https://news.yahoo.co.jp/articles/a5dd71fd1558d7881d7a61ea55e068a4d26de8ef</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5dd71fd1558d7881d7a61ea55e068a4d26de8ef</guid>
+      <pubDate>Fri, 18 Sep 2026 05:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油続落、ブレントは104ドル台－中東での供給混乱に緩和の兆し</title>
+      <link>https://news.yahoo.co.jp/articles/5b0e0af90a2396e28be7ce24c74dc4876f94e9d3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b0e0af90a2396e28be7ce24c74dc4876f94e9d3</guid>
+      <pubDate>Fri, 18 Sep 2026 05:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油続落、ブレントは104ドル台－中東での供給混乱に緩和の兆し</title>
+      <link>https://news.yahoo.co.jp/articles/ce858a145c8d682d3a45748da63864e540c9ac1e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce858a145c8d682d3a45748da63864e540c9ac1e</guid>
+      <pubDate>Fri, 18 Sep 2026 04:56:00 +0900</pubDate>
+    </item>
     <item>
       <title>【欧州市況】株上昇、7月上旬来の大幅高－英30年債利回りは大幅低下</title>
       <link>https://news.yahoo.co.jp/articles/7491fa6b58f9ecbdcd5f404272bceb477f7faa95</link>
@@ -26,10 +50,22 @@
       <pubDate>Fri, 18 Sep 2026 00:31:00 +0900</pubDate>
     </item>
     <item>
+      <title>【米国市況】株・国債が高い、インフレ懸念後退－日銀会合控え円堅調</title>
+      <link>https://news.yahoo.co.jp/articles/66211c65fc2cb76edd09f99be068939d9ae27ca7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66211c65fc2cb76edd09f99be068939d9ae27ca7</guid>
+      <pubDate>Fri, 18 Sep 2026 23:28:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米金融市場は株・国債が上昇、原油安でインフレ抑制期待広がる</title>
       <link>https://news.yahoo.co.jp/articles/d18d37ca52756f5d1e3cb34a26fe9375d7a890b0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d18d37ca52756f5d1e3cb34a26fe9375d7a890b0</guid>
       <pubDate>Thu, 17 Sep 2026 23:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>スウェーデン総選挙、中道左派野党連合が僅差で勝利－政権交代へ</title>
+      <link>https://news.yahoo.co.jp/articles/62692d70f4159ecd26963efcf9a488e21071512d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62692d70f4159ecd26963efcf9a488e21071512d</guid>
+      <pubDate>Thu, 17 Sep 2026 23:23:00 +0900</pubDate>
     </item>
     <item>
       <title>米中古住宅販売成約指数は小幅上昇、ローン金利高止まりなお重し</title>
@@ -50,7 +86,7 @@
       <pubDate>Thu, 17 Sep 2026 22:17:00 +0900</pubDate>
     </item>
     <item>
-      <title>米住宅着工件数、8月に減少－集合住宅の急減が響く</title>
+      <title>米住宅着工件数は減少、市場予想も下回る－集合住宅の急減が響く</title>
       <link>https://news.yahoo.co.jp/articles/4237fec7986fbc1c88a0583f4e2cfee1b19231db</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4237fec7986fbc1c88a0583f4e2cfee1b19231db</guid>
       <pubDate>Thu, 17 Sep 2026 21:52:00 +0900</pubDate>
@@ -176,7 +212,13 @@
       <pubDate>Thu, 17 Sep 2026 13:33:00 +0900</pubDate>
     </item>
     <item>
-      <title>世界の債券持ち直し、ウォーシュ氏がインフレ抑制姿勢－日銀会合待ち</title>
+      <title>米国債利回り低下、利上げと原油安がウォーシュFRB議長の信認後押し</title>
+      <link>https://news.yahoo.co.jp/articles/9ed6a6cbd5d88039e0f10afb7733be027f344f37</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9ed6a6cbd5d88039e0f10afb7733be027f344f37</guid>
+      <pubDate>Fri, 18 Sep 2026 13:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債相場が上昇、利上げがウォーシュFRB議長の信認支える</title>
       <link>https://news.yahoo.co.jp/articles/7107d7ee86fd48d6a4dc1a5d91b80deb433385b5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7107d7ee86fd48d6a4dc1a5d91b80deb433385b5</guid>
       <pubDate>Thu, 17 Sep 2026 13:13:00 +0900</pubDate>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e597ee01f7b8fb9557d005ec10710be514c33354</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e597ee01f7b8fb9557d005ec10710be514c33354</guid>
       <pubDate>Thu, 17 Sep 2026 08:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコインに「二重苦」、米暗号資産関連法案の頓挫とFRB利上げ</title>
-      <link>https://news.yahoo.co.jp/articles/5674df843133ba80446e3bb13239a6f3cf5a6577</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5674df843133ba80446e3bb13239a6f3cf5a6577</guid>
-      <pubDate>Thu, 17 Sep 2026 07:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>債券市場が映すウォーシュFRB議長への信認、インフレ抑制に本腰</title>
-      <link>https://news.yahoo.co.jp/articles/2c4312e02c30b3d852e30a2582b1f397dca0fc3a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c4312e02c30b3d852e30a2582b1f397dca0fc3a</guid>
-      <pubDate>Thu, 17 Sep 2026 07:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、ウォーシュ議長を信頼と発言－理事会が「敵対的」と指摘</title>
-      <link>https://news.yahoo.co.jp/articles/b8ee2f54d3c20eb01e340557ea8936084e0bbefd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8ee2f54d3c20eb01e340557ea8936084e0bbefd</guid>
-      <pubDate>Thu, 17 Sep 2026 07:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏､ウォーシュ議長を支持-利上げは「敵対的」な理事会に責任</title>
-      <link>https://news.yahoo.co.jp/articles/2875f8be0d634de5750905f65ee92aba5b1a700f</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2875f8be0d634de5750905f65ee92aba5b1a700f</guid>
-      <pubDate>Thu, 17 Sep 2026 06:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブラジル中銀0.25ポイント利下げ、金利13.75%－5会合連続の金融緩和</title>
-      <link>https://news.yahoo.co.jp/articles/b8b0546e63090fecf7f451c0859d87b33c94a0c6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b8b0546e63090fecf7f451c0859d87b33c94a0c6</guid>
-      <pubDate>Thu, 17 Sep 2026 06:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマンCEO、債券トレーディング低調と指摘－全社的に経費増</title>
-      <link>https://news.yahoo.co.jp/articles/d4ecaeb58d3b985c4a4a9d83b742e1fa64e2d146</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4ecaeb58d3b985c4a4a9d83b742e1fa64e2d146</guid>
-      <pubDate>Thu, 17 Sep 2026 06:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は反落、中東の供給障害に緩和の兆し－テクニカル面で過熱感も</title>
-      <link>https://news.yahoo.co.jp/articles/caa2e2caa18c78251c6890db5f36ec8810282260</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caa2e2caa18c78251c6890db5f36ec8810282260</guid>
-      <pubDate>Thu, 17 Sep 2026 06:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
