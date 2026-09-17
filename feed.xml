@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 02:25:04 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:27:25 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【欧州市況】株上昇、7月上旬来の大幅高－英30年債利回りは大幅低下</title>
+      <link>https://news.yahoo.co.jp/articles/7491fa6b58f9ecbdcd5f404272bceb477f7faa95</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7491fa6b58f9ecbdcd5f404272bceb477f7faa95</guid>
+      <pubDate>Fri, 18 Sep 2026 02:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>メタと契約のデータセンター運営会社、ジャンク債で約3500億円調達へ</title>
+      <link>https://news.yahoo.co.jp/articles/c575a1af6ff1d75faae2ab7942dff3438b5bf2af</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c575a1af6ff1d75faae2ab7942dff3438b5bf2af</guid>
+      <pubDate>Fri, 18 Sep 2026 02:23:00 +0900</pubDate>
+    </item>
     <item>
       <title>ハッカーのブロックチェーン利用440%増、オープンソースAIで攻撃拡大</title>
       <link>https://news.yahoo.co.jp/articles/019b1e979cafb972dba319a97cd16f0d40f63831</link>
@@ -44,7 +56,7 @@
       <pubDate>Thu, 17 Sep 2026 21:52:00 +0900</pubDate>
     </item>
     <item>
-      <title>米新規失業保険申請は19.6万件、7月以来の低水準－継続受給者も減少</title>
+      <title>米新規失業保険申請は19.6万件、7月以来の低水準－祝日を含む週</title>
       <link>https://news.yahoo.co.jp/articles/88e2a1d7f6ef0a5de51d9f11dd63dd1a10fda17d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88e2a1d7f6ef0a5de51d9f11dd63dd1a10fda17d</guid>
       <pubDate>Thu, 17 Sep 2026 21:48:00 +0900</pubDate>
@@ -80,7 +92,7 @@
       <pubDate>Thu, 17 Sep 2026 18:12:00 +0900</pubDate>
     </item>
     <item>
-      <title>トルコ市場規制当局、7社が運営する一部ファンドを清算へ</title>
+      <title>トルコ当局､7社が運営する一部ファンドを清算へ－混乱ひとまず沈静化</title>
       <link>https://news.yahoo.co.jp/articles/7adaea016926f82ae3984eed70372dfd5525b5cd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7adaea016926f82ae3984eed70372dfd5525b5cd</guid>
       <pubDate>Thu, 17 Sep 2026 17:53:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/caa2e2caa18c78251c6890db5f36ec8810282260</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/caa2e2caa18c78251c6890db5f36ec8810282260</guid>
       <pubDate>Thu, 17 Sep 2026 06:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株下落、FOMCが追加利上げ示唆－ドル上昇し156円台前半</title>
-      <link>https://news.yahoo.co.jp/articles/2daa22bf9927c68b84656c61b5db18fa31f32254</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2daa22bf9927c68b84656c61b5db18fa31f32254</guid>
-      <pubDate>Thu, 17 Sep 2026 05:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FOMCが25bp利上げ、トランプ氏の利下げ要求退け－年内追加措置を予想</title>
-      <link>https://news.yahoo.co.jp/articles/610aac8eb4a42c73ebc31dea041a46756a922119</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/610aac8eb4a42c73ebc31dea041a46756a922119</guid>
-      <pubDate>Thu, 17 Sep 2026 03:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
