@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:39:55 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:48:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国債利回りが上昇、FRBの追加利上げ観測でセンチメント悪化</title>
+      <link>https://news.yahoo.co.jp/articles/bdd44383b2a76ea592e3c96a8eb47ea31a08477d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bdd44383b2a76ea592e3c96a8eb47ea31a08477d</guid>
+      <pubDate>Sat, 19 Sep 2026 01:43:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>カンザスシティー連銀総裁、利上げ支持－インフレはエネルギー以外も</title>
+      <link>https://news.yahoo.co.jp/articles/b182c9c0dc594d7ea7d605a5d2a809614d0bb6ac</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b182c9c0dc594d7ea7d605a5d2a809614d0bb6ac</guid>
+      <pubDate>Sat, 19 Sep 2026 01:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピック、年末までに計算能力5GW確保を計画－NYT</title>
+      <link>https://news.yahoo.co.jp/articles/ba8c566b53feef3a207c80821c0cda23a1185169</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba8c566b53feef3a207c80821c0cda23a1185169</guid>
+      <pubDate>Fri, 18 Sep 2026 23:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>アラムコ、欧州顧客への来月の原油供給停止－パイプライン停止受け</title>
       <link>https://news.yahoo.co.jp/articles/2c5dcbf1967f835626a258ffe709f75bcde65d79</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c5dcbf1967f835626a258ffe709f75bcde65d79</guid>
       <pubDate>Fri, 18 Sep 2026 22:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債安が生んだ利回り5%の好機、「魅力的な」水準に資金流入続く</title>
+      <link>https://news.yahoo.co.jp/articles/f459e416f0f61807a0b1c80eb1cb841588cb2359</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f459e416f0f61807a0b1c80eb1cb841588cb2359</guid>
+      <pubDate>Fri, 18 Sep 2026 22:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米製造業生産、今年初の低下－コスト上昇響き予想外に落ち込む</title>
+      <link>https://news.yahoo.co.jp/articles/c1de79645c71be015e75b1152a700cd7701bcee1</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c1de79645c71be015e75b1152a700cd7701bcee1</guid>
+      <pubDate>Fri, 18 Sep 2026 22:34:00 +0900</pubDate>
     </item>
     <item>
       <title>フランス国債のリスク指標が節目を突破、予算リスクに投資家警戒</title>
@@ -44,6 +74,12 @@
       <pubDate>Fri, 18 Sep 2026 18:38:00 +0900</pubDate>
     </item>
     <item>
+      <title>ECBラガルド総裁、「2027年に退任する」－具体的な時期明言せず</title>
+      <link>https://news.yahoo.co.jp/articles/c51260341ea51a71310d9854be8b665f56eadb86</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c51260341ea51a71310d9854be8b665f56eadb86</guid>
+      <pubDate>Fri, 18 Sep 2026 18:31:00 +0900</pubDate>
+    </item>
+    <item>
       <title>【来週の円相場】158円付近の下値意識、大型連休中の当局介入警戒</title>
       <link>https://news.yahoo.co.jp/articles/8c3c3b19cc1d6f53a058bb45eb9ebe3fab19d711</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c3c3b19cc1d6f53a058bb45eb9ebe3fab19d711</guid>
@@ -60,6 +96,12 @@
       <link>https://news.yahoo.co.jp/articles/67364f648bf5cf2fb5630cfa919ba13ffa6c4d7a</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67364f648bf5cf2fb5630cfa919ba13ffa6c4d7a</guid>
       <pubDate>Fri, 18 Sep 2026 17:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀がレートチェックとの報道、円は下げ縮小し156円台後半－NY市場</title>
+      <link>https://news.yahoo.co.jp/articles/b9bededa0e43698e18ef4bc6467416a3a1d6aa51</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9bededa0e43698e18ef4bc6467416a3a1d6aa51</guid>
+      <pubDate>Sat, 19 Sep 2026 17:01:00 +0900</pubDate>
     </item>
     <item>
       <title>円の対ドル下落率が1%超、一時158円台－利上げペース加速の思惑後退</title>
@@ -264,48 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5b0e0af90a2396e28be7ce24c74dc4876f94e9d3</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b0e0af90a2396e28be7ce24c74dc4876f94e9d3</guid>
       <pubDate>Fri, 18 Sep 2026 05:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油続落、ブレントは104ドル台－中東での供給混乱に緩和の兆し</title>
-      <link>https://news.yahoo.co.jp/articles/ce858a145c8d682d3a45748da63864e540c9ac1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce858a145c8d682d3a45748da63864e540c9ac1e</guid>
-      <pubDate>Fri, 18 Sep 2026 04:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株上昇、7月上旬来の大幅高－英30年債利回りは大幅低下</title>
-      <link>https://news.yahoo.co.jp/articles/7491fa6b58f9ecbdcd5f404272bceb477f7faa95</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7491fa6b58f9ecbdcd5f404272bceb477f7faa95</guid>
-      <pubDate>Fri, 18 Sep 2026 02:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>メタと契約のデータセンター運営会社、ジャンク債で約3500億円調達へ</title>
-      <link>https://news.yahoo.co.jp/articles/c575a1af6ff1d75faae2ab7942dff3438b5bf2af</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c575a1af6ff1d75faae2ab7942dff3438b5bf2af</guid>
-      <pubDate>Fri, 18 Sep 2026 02:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ハッカーのブロックチェーン利用440%増、オープンソースAIで攻撃拡大</title>
-      <link>https://news.yahoo.co.jp/articles/019b1e979cafb972dba319a97cd16f0d40f63831</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/019b1e979cafb972dba319a97cd16f0d40f63831</guid>
-      <pubDate>Fri, 18 Sep 2026 00:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株・国債が高い、インフレ懸念後退－日銀会合控え円堅調</title>
-      <link>https://news.yahoo.co.jp/articles/66211c65fc2cb76edd09f99be068939d9ae27ca7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/66211c65fc2cb76edd09f99be068939d9ae27ca7</guid>
-      <pubDate>Fri, 18 Sep 2026 23:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米金融市場は株・国債が上昇、原油安でインフレ抑制期待広がる</title>
-      <link>https://news.yahoo.co.jp/articles/d18d37ca52756f5d1e3cb34a26fe9375d7a890b0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d18d37ca52756f5d1e3cb34a26fe9375d7a890b0</guid>
-      <pubDate>Thu, 17 Sep 2026 23:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スウェーデン総選挙、中道左派野党連合が僅差で勝利－政権交代へ</title>
-      <link>https://news.yahoo.co.jp/articles/62692d70f4159ecd26963efcf9a488e21071512d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62692d70f4159ecd26963efcf9a488e21071512d</guid>
-      <pubDate>Thu, 17 Sep 2026 23:23:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
