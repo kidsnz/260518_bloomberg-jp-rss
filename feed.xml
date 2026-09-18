@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:23:07 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:26:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【米国市況】株小幅高、利回り上昇－レートチェック報道で円下げ渋る</title>
+      <link>https://news.yahoo.co.jp/articles/05af73c43207ca88afdf25272bf7d6039d3b03ea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/05af73c43207ca88afdf25272bf7d6039d3b03ea</guid>
+      <pubDate>Sat, 19 Sep 2026 05:59:00 +0900</pubDate>
+    </item>
     <item>
       <title>バークシャー会長にハワード・バフェット氏－異色の経歴、取締役33年</title>
       <link>https://news.yahoo.co.jp/articles/81401db35c91d854fed206da61a8a684222e0884</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/216c8d2b374a1f381d6cc3ad2fef2527d7805f25</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/216c8d2b374a1f381d6cc3ad2fef2527d7805f25</guid>
       <pubDate>Fri, 18 Sep 2026 08:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>出口近づく銀行株、日銀利上げ加速で収益環境転機も－「到達点」意識</title>
-      <link>https://news.yahoo.co.jp/articles/7cb72c602a66f4044164cc3884e0e6ad9ed17ec9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cb72c602a66f4044164cc3884e0e6ad9ed17ec9</guid>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
