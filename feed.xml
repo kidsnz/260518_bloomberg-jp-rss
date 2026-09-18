@@ -5,8 +5,62 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:59:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:08:53 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【日本市況】日経平均続伸、AI関連に買い先行－日銀控え円156円前半</title>
+      <link>https://news.yahoo.co.jp/articles/f7be2c760a7dd37c8f5df10f485a7d9ca032023a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7be2c760a7dd37c8f5df10f485a7d9ca032023a</guid>
+      <pubDate>Fri, 18 Sep 2026 09:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米景気後退が債務危機招く、長期金利の急上昇を警戒－ガンドラック氏</title>
+      <link>https://news.yahoo.co.jp/articles/2e31924ae9c8fac5335f4dc8829e778b28de8bfd</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2e31924ae9c8fac5335f4dc8829e778b28de8bfd</guid>
+      <pubDate>Fri, 18 Sep 2026 08:41:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>プライベートクレジットのデフォルト指標、対象や定義にばらつき</title>
+      <link>https://news.yahoo.co.jp/articles/1aa7d824c4fcf2ed434eebdf3eb78367f84b4443</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1aa7d824c4fcf2ed434eebdf3eb78367f84b4443</guid>
+      <pubDate>Fri, 18 Sep 2026 08:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>全国消費者物価は伸び小幅縮小、予想下回るも日銀利上げ路線変わらず</title>
+      <link>https://news.yahoo.co.jp/articles/b120ea55c06400fd5e4e8130318e25bbca1af86c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b120ea55c06400fd5e4e8130318e25bbca1af86c</guid>
+      <pubDate>Fri, 18 Sep 2026 08:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>タカ派的でない日銀は円安リスクに、海外ストラテジストらが失望警戒</title>
+      <link>https://news.yahoo.co.jp/articles/19e1fd7f92a01bc0291f5e420a0dacb373788e42</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/19e1fd7f92a01bc0291f5e420a0dacb373788e42</guid>
+      <pubDate>Fri, 18 Sep 2026 08:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米10年債利回り年末5%超へ、追加利上げ観測で07年以来の高水準－調査</title>
+      <link>https://news.yahoo.co.jp/articles/c4be9675e48d2bf6c003809a236c0e51b75aa466</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c4be9675e48d2bf6c003809a236c0e51b75aa466</guid>
+      <pubDate>Fri, 18 Sep 2026 08:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本市場、日銀ハト派なら円は下落へ－株と債券は堅調見込み</title>
+      <link>https://news.yahoo.co.jp/articles/216c8d2b374a1f381d6cc3ad2fef2527d7805f25</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/216c8d2b374a1f381d6cc3ad2fef2527d7805f25</guid>
+      <pubDate>Fri, 18 Sep 2026 08:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>出口近づく銀行株、日銀利上げ加速で収益環境転機も－「到達点」意識</title>
+      <link>https://news.yahoo.co.jp/articles/7cb72c602a66f4044164cc3884e0e6ad9ed17ec9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7cb72c602a66f4044164cc3884e0e6ad9ed17ec9</guid>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は続伸へ、原油安と米長期金利低下－AI・半導体関連に買い</title>
+      <link>https://news.yahoo.co.jp/articles/e1e92898de7c40ea65df36697adcd2c2e00c8091</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1e92898de7c40ea65df36697adcd2c2e00c8091</guid>
+      <pubDate>Fri, 18 Sep 2026 07:52:00 +0900</pubDate>
+    </item>
     <item>
       <title>個人向け国債の発行、金利高で過去最高ペース－安定消化へ家計に期待</title>
       <link>https://news.yahoo.co.jp/articles/24f6c9e37fde57bd65a3a097bceac77ced7d9676</link>
@@ -96,6 +150,12 @@
       <link>https://news.yahoo.co.jp/articles/88e2a1d7f6ef0a5de51d9f11dd63dd1a10fda17d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/88e2a1d7f6ef0a5de51d9f11dd63dd1a10fda17d</guid>
       <pubDate>Thu, 17 Sep 2026 21:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>英中銀、政策金利3.75%に据え置き－長期国債の売却計画を撤回</title>
+      <link>https://news.yahoo.co.jp/articles/bf9ba3690d207d4ef7435372a6a21db595921422</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bf9ba3690d207d4ef7435372a6a21db595921422</guid>
+      <pubDate>Fri, 18 Sep 2026 20:01:00 +0900</pubDate>
     </item>
     <item>
       <title>英中銀、政策金利3.75%に据え置き－長期国債の売却計画を撤回</title>
@@ -246,66 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/d7929603ed36f99e9bc1f1e85aca47c4eaa620ad</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7929603ed36f99e9bc1f1e85aca47c4eaa620ad</guid>
       <pubDate>Thu, 17 Sep 2026 10:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォーシュ議長の記者会見、過去最短の30分－かねての自身の方針実践</title>
-      <link>https://news.yahoo.co.jp/articles/2bf6921b69b7e6a957ad53be1a1e2e885629acd0</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2bf6921b69b7e6a957ad53be1a1e2e885629acd0</guid>
-      <pubDate>Thu, 17 Sep 2026 10:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>商船三井、年1－2隻の原油タンカー売却検討ー中古船高騰｢好機｣と会長</title>
-      <link>https://news.yahoo.co.jp/articles/7dbfd2adaca8cc1593cbef6b184189d52eddc816</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dbfd2adaca8cc1593cbef6b184189d52eddc816</guid>
-      <pubDate>Thu, 17 Sep 2026 10:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】155円半ばに円反発、日銀控え買い戻し－超長期金利低下</title>
-      <link>https://news.yahoo.co.jp/articles/4aa7df27f9f830c0f2fbc16a6bda64f42af21665</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4aa7df27f9f830c0f2fbc16a6bda64f42af21665</guid>
-      <pubDate>Thu, 17 Sep 2026 09:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>高市首相が内閣改造へ、林・城内両氏の去就焦点－財務相ら留任と報道</title>
-      <link>https://news.yahoo.co.jp/articles/c3b8093aa31837bfdda4e7925e203bc8416f556a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c3b8093aa31837bfdda4e7925e203bc8416f556a</guid>
-      <pubDate>Thu, 17 Sep 2026 09:34:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップルのクック会長とOpenAIアルトマン氏、米中首脳夕食会に出席へ</title>
-      <link>https://news.yahoo.co.jp/articles/2cc7ec51f069231d8b418a116eb9cfc8e551be80</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2cc7ec51f069231d8b418a116eb9cfc8e551be80</guid>
-      <pubDate>Thu, 17 Sep 2026 09:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>6月末の家計金融資産2519兆円で過去最高、株高・円安が押し上げ―日銀</title>
-      <link>https://news.yahoo.co.jp/articles/9e53720fa09f9cb84c2f38a858c0c37033e374ec</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9e53720fa09f9cb84c2f38a858c0c37033e374ec</guid>
-      <pubDate>Thu, 17 Sep 2026 09:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀会合注目点:1.25%に利上げへ、総裁会見で今後のペースと余地探る</title>
-      <link>https://news.yahoo.co.jp/articles/689016836ef002f3e5f97a6996d6a560ee13295b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/689016836ef002f3e5f97a6996d6a560ee13295b</guid>
-      <pubDate>Thu, 17 Sep 2026 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、FRBタカ派的利上げで円軟調も日銀がブレーキに－株上昇へ</title>
-      <link>https://news.yahoo.co.jp/articles/e27aa5615c5d5c2e181b6afb982fc5acbae5a995</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e27aa5615c5d5c2e181b6afb982fc5acbae5a995</guid>
-      <pubDate>Thu, 17 Sep 2026 08:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油続落、サウジ東西パイプライン復旧見込みで供給懸念和らぐ</title>
-      <link>https://news.yahoo.co.jp/articles/6c8949fe64a682140ba4c35b832b59e9ac3810ab</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6c8949fe64a682140ba4c35b832b59e9ac3810ab</guid>
-      <pubDate>Thu, 17 Sep 2026 08:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ドジャースオーナー、英チェルシー持ち分売却－クリアレイクが支配へ</title>
-      <link>https://news.yahoo.co.jp/articles/e597ee01f7b8fb9557d005ec10710be514c33354</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e597ee01f7b8fb9557d005ec10710be514c33354</guid>
-      <pubDate>Thu, 17 Sep 2026 08:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
