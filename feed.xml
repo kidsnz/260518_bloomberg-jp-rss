@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 02:41:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:55:27 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ホルムズ原油輸送6カ月ぶり高水準と米軍発表､フーシはサウジ首都攻撃</title>
+      <link>https://news.yahoo.co.jp/articles/8371d6f11d6021f9ed4df516ac5fdd182320bd85</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8371d6f11d6021f9ed4df516ac5fdd182320bd85</guid>
+      <pubDate>Sun, 20 Sep 2026 02:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>大型タンカー不足で原油輸送に異変、長距離は採算難－新たな波乱要因</title>
+      <link>https://news.yahoo.co.jp/articles/e70d1abbcf3b897c2dcf0e89fbb1f92c982894e7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e70d1abbcf3b897c2dcf0e89fbb1f92c982894e7</guid>
+      <pubDate>Sun, 20 Sep 2026 01:15:00 +0900</pubDate>
+    </item>
     <item>
       <title>グリーンランド合意、トランプ氏「勝者」を演出との見方－対立収束へ</title>
       <link>https://news.yahoo.co.jp/articles/36e6828c0384535fc9d5c686fa338c367d0f88a7</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/07360833e60efc267e385f8b87b42ddb64fd2108</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07360833e60efc267e385f8b87b42ddb64fd2108</guid>
       <pubDate>Fri, 18 Sep 2026 13:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIや貿易戦争、人民元が主要議題に－米中首脳会談巡りアナリスト予想</title>
-      <link>https://news.yahoo.co.jp/articles/07fe902fc3d9f0cf841c5a1d1dc9ec6d6f68be2e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/07fe902fc3d9f0cf841c5a1d1dc9ec6d6f68be2e</guid>
-      <pubDate>Fri, 18 Sep 2026 13:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>なぜ世界で国債利回り上昇、「ニューノーマル」なら投資にどう影響？</title>
-      <link>https://news.yahoo.co.jp/articles/e751365ae3821c6fe118e829d0e7380324327726</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e751365ae3821c6fe118e829d0e7380324327726</guid>
-      <pubDate>Fri, 18 Sep 2026 13:14:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
