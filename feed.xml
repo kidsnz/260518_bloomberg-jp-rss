@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 23:35:52 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 02:41:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>グリーンランド合意、トランプ氏「勝者」を演出との見方－対立収束へ</title>
+      <link>https://news.yahoo.co.jp/articles/36e6828c0384535fc9d5c686fa338c367d0f88a7</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36e6828c0384535fc9d5c686fa338c367d0f88a7</guid>
+      <pubDate>Sat, 19 Sep 2026 22:22:00 +0900</pubDate>
+    </item>
     <item>
       <title>フランス格下げ、スコープが「A+」に－財政見通し悪化で</title>
       <link>https://news.yahoo.co.jp/articles/076e96f5cd9bb84a3a1fda3988e92c0149fffcb0</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e751365ae3821c6fe118e829d0e7380324327726</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e751365ae3821c6fe118e829d0e7380324327726</guid>
       <pubDate>Fri, 18 Sep 2026 13:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>銀行株がやや下げ幅を拡大、日銀の利上げ発表後－利益確定売りとの声</title>
-      <link>https://news.yahoo.co.jp/articles/fd740bd061ce7ec400c036c024cbfeb0154ff32b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd740bd061ce7ec400c036c024cbfeb0154ff32b</guid>
-      <pubDate>Fri, 18 Sep 2026 13:11:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
