@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:17:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:35:52 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>フランス格下げ、スコープが「A+」に－財政見通し悪化で</title>
+      <link>https://news.yahoo.co.jp/articles/076e96f5cd9bb84a3a1fda3988e92c0149fffcb0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/076e96f5cd9bb84a3a1fda3988e92c0149fffcb0</guid>
+      <pubDate>Sat, 19 Sep 2026 17:49:00 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディアCEO、AIによる人類絶滅リスクを否定－「可能性0%」</title>
       <link>https://news.yahoo.co.jp/articles/ba39dfcd2d7e12a699c115011924cb69b274001e</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fd740bd061ce7ec400c036c024cbfeb0154ff32b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fd740bd061ce7ec400c036c024cbfeb0154ff32b</guid>
       <pubDate>Fri, 18 Sep 2026 13:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オフショア人民元、約4年ぶり高値－米中会談前に中国中銀が元高誘導</title>
-      <link>https://news.yahoo.co.jp/articles/e48851bad609b23d94daf3e7926b8cfc307c3e6e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e48851bad609b23d94daf3e7926b8cfc307c3e6e</guid>
-      <pubDate>Fri, 18 Sep 2026 12:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
