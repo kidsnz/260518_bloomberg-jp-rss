@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 15:12:47 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:17:44 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>エヌビディアCEO、AIによる人類絶滅リスクを否定－「可能性0%」</title>
+      <link>https://news.yahoo.co.jp/articles/ba39dfcd2d7e12a699c115011924cb69b274001e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba39dfcd2d7e12a699c115011924cb69b274001e</guid>
+      <pubDate>Sat, 19 Sep 2026 16:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジアラビア、首都リヤドで異例の空襲警報を発令</title>
+      <link>https://news.yahoo.co.jp/articles/dbfee1eda18aa925ad9df3ec19724260ba4a04e9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dbfee1eda18aa925ad9df3ec19724260ba4a04e9</guid>
+      <pubDate>Sat, 19 Sep 2026 16:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、対ロ制裁法案に署名－ロシア産石油購入国への関税権限</title>
+      <link>https://news.yahoo.co.jp/articles/a21e257cbf6914b9ab42480a4b8b98923e14114b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a21e257cbf6914b9ab42480a4b8b98923e14114b</guid>
+      <pubDate>Sat, 19 Sep 2026 15:08:00 +0900</pubDate>
+    </item>
     <item>
       <title>小泉防衛相、ヘグセス米国防長官と電話会談－安保協力の強化で一致</title>
       <link>https://news.yahoo.co.jp/articles/0072c73ee37b2ae7e400dcc00de86e794d817346</link>
@@ -182,7 +200,7 @@
       <pubDate>Fri, 18 Sep 2026 17:15:00 +0900</pubDate>
     </item>
     <item>
-      <title>日銀がレートチェックとの報道、円は下げ縮小し156円台後半－NY市場</title>
+      <title>日銀がレートチェックとの報道、円は156円台後半に下げ縮小</title>
       <link>https://news.yahoo.co.jp/articles/b9bededa0e43698e18ef4bc6467416a3a1d6aa51</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b9bededa0e43698e18ef4bc6467416a3a1d6aa51</guid>
       <pubDate>Sat, 19 Sep 2026 17:01:00 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e48851bad609b23d94daf3e7926b8cfc307c3e6e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e48851bad609b23d94daf3e7926b8cfc307c3e6e</guid>
       <pubDate>Fri, 18 Sep 2026 12:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日銀が政策金利1.25%に引き上げ決定、利上げ路線維持－欧米と足並み</title>
-      <link>https://news.yahoo.co.jp/articles/8550bc96998609a8e74bbab8ae8a7ad0fcf0b229</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8550bc96998609a8e74bbab8ae8a7ad0fcf0b229</guid>
-      <pubDate>Fri, 18 Sep 2026 11:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シティが1.8兆円大型起債、利回り低下の好機捉え－自行で過去最大</title>
-      <link>https://news.yahoo.co.jp/articles/e1fc20422087274dee677a70722b781df15e33c7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1fc20422087274dee677a70722b781df15e33c7</guid>
-      <pubDate>Fri, 18 Sep 2026 11:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円、キャリートレードの主役から後退－調達通貨としての魅力なぜ低下</title>
-      <link>https://news.yahoo.co.jp/articles/a23f22507ec45064fe190487a44ce03f651bce13</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a23f22507ec45064fe190487a44ce03f651bce13</guid>
-      <pubDate>Fri, 18 Sep 2026 11:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
