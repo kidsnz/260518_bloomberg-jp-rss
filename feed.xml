@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 04:36:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:07:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ米大統領、イラン大統領との会談を恐らく排除しない－FOX</title>
+      <link>https://news.yahoo.co.jp/articles/f7e44d5b6df5ed68e089091e6474be1316bc4756</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f7e44d5b6df5ed68e089091e6474be1316bc4756</guid>
+      <pubDate>Sun, 20 Sep 2026 23:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>円相場に一段安リスク、日銀の利上げ姿勢に失望感－連休で流動性低下</title>
       <link>https://news.yahoo.co.jp/articles/e6466ef920cd70ab3b670d4b1ec0abfe7f315021</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/43367cf2c428161463d2b741c9cd093762144d11</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/43367cf2c428161463d2b741c9cd093762144d11</guid>
       <pubDate>Fri, 18 Sep 2026 17:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利低下へ、日銀ハト派的利上げや原油高一服で</title>
-      <link>https://news.yahoo.co.jp/articles/67364f648bf5cf2fb5630cfa919ba13ffa6c4d7a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/67364f648bf5cf2fb5630cfa919ba13ffa6c4d7a</guid>
-      <pubDate>Fri, 18 Sep 2026 17:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
