@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:07:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:22:22 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>メルツ首相のCDU､ドイツ州議選で過去最低－ベルリンでも左派党下回る</title>
+      <link>https://news.yahoo.co.jp/articles/9f583ba63d58ccd990d6d8fae428d60e5b926912</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9f583ba63d58ccd990d6d8fae428d60e5b926912</guid>
+      <pubDate>Mon, 21 Sep 2026 03:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米ミネアポリス連銀総裁、インフレはあらゆる分野に及んでいる</title>
+      <link>https://news.yahoo.co.jp/articles/555e31af5ebf8e77e2553f05e4c011c71fe05a08</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/555e31af5ebf8e77e2553f05e4c011c71fe05a08</guid>
+      <pubDate>Mon, 21 Sep 2026 01:09:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ米大統領、イラン大統領との会談を恐らく排除しない－FOX</title>
       <link>https://news.yahoo.co.jp/articles/f7e44d5b6df5ed68e089091e6474be1316bc4756</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/c51260341ea51a71310d9854be8b665f56eadb86</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c51260341ea51a71310d9854be8b665f56eadb86</guid>
       <pubDate>Fri, 18 Sep 2026 18:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】158円付近の下値意識、大型連休中の当局介入警戒</title>
-      <link>https://news.yahoo.co.jp/articles/8c3c3b19cc1d6f53a058bb45eb9ebe3fab19d711</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8c3c3b19cc1d6f53a058bb45eb9ebe3fab19d711</guid>
-      <pubDate>Fri, 18 Sep 2026 17:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>三菱UFJ銀行が普通預金金利を0.5%に引き上げ、34年ぶりの高水準</title>
-      <link>https://news.yahoo.co.jp/articles/43367cf2c428161463d2b741c9cd093762144d11</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/43367cf2c428161463d2b741c9cd093762144d11</guid>
-      <pubDate>Fri, 18 Sep 2026 17:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
