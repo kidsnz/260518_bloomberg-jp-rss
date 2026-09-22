@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:46:10 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:25:32 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>高市首相、「旧敵国条項」の削除を国連演説で主張へ－中国に反論</title>
@@ -14,7 +14,7 @@
       <pubDate>Wed, 23 Sep 2026 04:02:00 +0900</pubDate>
     </item>
     <item>
-      <title>高市首相がトランプ米大統領と会談、「日米同盟の強さ示す」と強調</title>
+      <title>日米首脳が会談、習氏の訪米控え中国問題を議論－緊密な連携で一致</title>
       <link>https://news.yahoo.co.jp/articles/db98d14dbd810ece74e6a4f698a58119c73f0246</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/db98d14dbd810ece74e6a4f698a58119c73f0246</guid>
       <pubDate>Wed, 23 Sep 2026 03:10:00 +0900</pubDate>
@@ -24,6 +24,12 @@
       <link>https://news.yahoo.co.jp/articles/401586b2be9002009d04967a716fc392cbc5102d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/401586b2be9002009d04967a716fc392cbc5102d</guid>
       <pubDate>Wed, 23 Sep 2026 03:06:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債の価格差縮小、ヘッジファンドが好む「ベーシス取引」に陰り</title>
+      <link>https://news.yahoo.co.jp/articles/8264b8561607b6cdc91aa651e9de5a5c6ab0dbd9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8264b8561607b6cdc91aa651e9de5a5c6ab0dbd9</guid>
+      <pubDate>Wed, 23 Sep 2026 01:09:00 +0900</pubDate>
     </item>
     <item>
       <title>AIの急速な進歩に国連事務総長が警鐘、トランプ氏は抑制に反発</title>
@@ -48,6 +54,12 @@
       <link>https://news.yahoo.co.jp/articles/651388ebec7eee8ea5ce4ed155b1b8fe15640c74</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/651388ebec7eee8ea5ce4ed155b1b8fe15640c74</guid>
       <pubDate>Wed, 23 Sep 2026 00:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】ナスダック100最高値、半導体株に買い－円は157円台前半</title>
+      <link>https://news.yahoo.co.jp/articles/2fd62899c4b0efa723fe6760c999be9c3e82d1df</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2fd62899c4b0efa723fe6760c999be9c3e82d1df</guid>
+      <pubDate>Wed, 23 Sep 2026 23:35:00 +0900</pubDate>
     </item>
     <item>
       <title>S&amp;P500種最高値付近、米イラン外交期待で原油下落－円は157円台前半</title>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/8ca10744fb5107670b20a92ba87af5c2d73a0533</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8ca10744fb5107670b20a92ba87af5c2d73a0533</guid>
       <pubDate>Mon, 21 Sep 2026 16:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソシエテ、新戦略で収益性目標引き上げ－コスト削減と株主還元強化</title>
-      <link>https://news.yahoo.co.jp/articles/17dc3a51f22a310fcdcf3c61a1ddf0ca15d76db9</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17dc3a51f22a310fcdcf3c61a1ddf0ca15d76db9</guid>
-      <pubDate>Mon, 21 Sep 2026 14:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフトCEO、トランプ氏が中国・習主席を招く夕食会に出席へ</title>
-      <link>https://news.yahoo.co.jp/articles/876c3a5c98abe53c2154f86dd343a486c437308d</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/876c3a5c98abe53c2154f86dd343a486c437308d</guid>
-      <pubDate>Mon, 21 Sep 2026 14:24:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
