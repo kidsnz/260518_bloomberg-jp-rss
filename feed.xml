@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:46:07 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:55:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>シルバーウィークの日経平均先物急伸、「Muse」人気で米テック株高騰</title>
+      <link>https://news.yahoo.co.jp/articles/86b775c694763297809e7308bf1bc736fcf14dbb</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86b775c694763297809e7308bf1bc736fcf14dbb</guid>
+      <pubDate>Tue, 22 Sep 2026 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、米国に取り組みの主導求める－AIの国際基準策定で</title>
+      <link>https://news.yahoo.co.jp/articles/6da9c866b3968e15059cc054cb9bf0c2709146cf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6da9c866b3968e15059cc054cb9bf0c2709146cf</guid>
+      <pubDate>Tue, 22 Sep 2026 08:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>鉄鉱石商社ラディアント、みずほ含む貸し手6社への未払い計8.7億ドル</title>
       <link>https://news.yahoo.co.jp/articles/4881c930d4e4bc261c7719775bfb52e57bf21a83</link>
@@ -30,6 +42,12 @@
       <link>https://news.yahoo.co.jp/articles/be9af5dfd7650ad919861f78f73da82dceb1552f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/be9af5dfd7650ad919861f78f73da82dceb1552f</guid>
       <pubDate>Tue, 22 Sep 2026 03:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、ソフトバンクG傘下のSBエナジーに15億ドル追加出資</title>
+      <link>https://news.yahoo.co.jp/articles/83919af999bf490384ee1b223fbdd39d44f5b95c</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/83919af999bf490384ee1b223fbdd39d44f5b95c</guid>
+      <pubDate>Tue, 22 Sep 2026 03:16:00 +0900</pubDate>
     </item>
     <item>
       <title>データセンターは敵か味方か、財政難の米地方都市に選択迫る</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e70d1abbcf3b897c2dcf0e89fbb1f92c982894e7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e70d1abbcf3b897c2dcf0e89fbb1f92c982894e7</guid>
       <pubDate>Sun, 20 Sep 2026 01:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中高官、関税･AI･イラン巡り20日協議へ－首脳会談前に懸案調整</title>
-      <link>https://news.yahoo.co.jp/articles/ed981916dc3897a29e2f92d826692f8b08b6bbca</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed981916dc3897a29e2f92d826692f8b08b6bbca</guid>
-      <pubDate>Sat, 19 Sep 2026 23:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中高官、関税・AI・イラン巡り20日協議へ－首脳会談前に懸案を調整</title>
-      <link>https://news.yahoo.co.jp/articles/63bc9abb2da6ab9d9908f8fd2c56a3ddf8c31326</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/63bc9abb2da6ab9d9908f8fd2c56a3ddf8c31326</guid>
-      <pubDate>Sat, 19 Sep 2026 23:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グリーンランド合意、トランプ氏「勝者」を演出との見方－対立収束へ</title>
-      <link>https://news.yahoo.co.jp/articles/36e6828c0384535fc9d5c686fa338c367d0f88a7</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/36e6828c0384535fc9d5c686fa338c367d0f88a7</guid>
-      <pubDate>Sat, 19 Sep 2026 22:22:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
