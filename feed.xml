@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:37:32 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:11:18 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相、政治の安定に必要な対応は常に考えている－連立拡大問われ</title>
+      <link>https://news.yahoo.co.jp/articles/540b095864b46a7bfc7970921b6fc724e33ee491</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/540b095864b46a7bfc7970921b6fc724e33ee491</guid>
+      <pubDate>Wed, 23 Sep 2026 15:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>千葉県と神奈川県での死者9人に、ENEOSでは油が海上流出－台風25号</title>
+      <link>https://news.yahoo.co.jp/articles/159af078ed787d4215ebcc96babd82f645ea2fa9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/159af078ed787d4215ebcc96babd82f645ea2fa9</guid>
+      <pubDate>Wed, 23 Sep 2026 12:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクG、高利回り債の大型発行に乗り出す－AI投資の資金調達</title>
+      <link>https://news.yahoo.co.jp/articles/6946b9ba95cb317f8b7de18f1ebc1d9be45df4c3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6946b9ba95cb317f8b7de18f1ebc1d9be45df4c3</guid>
+      <pubDate>Wed, 23 Sep 2026 11:48:00 +0900</pubDate>
+    </item>
     <item>
       <title>ECB、経済成長抑制する水準まで利上げ必要にも－ナーゲル独連銀総裁</title>
       <link>https://news.yahoo.co.jp/articles/015948608df5e255ec631ec9523e61dde21874d6</link>
@@ -126,6 +144,12 @@
       <link>https://news.yahoo.co.jp/articles/0ff534cf9ae966acfb9ead3d587913e08cb3f934</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0ff534cf9ae966acfb9ead3d587913e08cb3f934</guid>
       <pubDate>Tue, 22 Sep 2026 21:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油下落、サウジがパイプライン再稼働を準備－米イランが直接競技</title>
+      <link>https://news.yahoo.co.jp/articles/6b0dff703d10f3d2949a172947dabab56a2ea1e9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6b0dff703d10f3d2949a172947dabab56a2ea1e9</guid>
+      <pubDate>Wed, 23 Sep 2026 20:19:00 +0900</pubDate>
     </item>
     <item>
       <title>原油下落､サウジがパイプライン再開を計画-ホルムズ巡る外交にも期待</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6f3b17d486e3753ae886a124ae66c793724c8908</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f3b17d486e3753ae886a124ae66c793724c8908</guid>
       <pubDate>Tue, 22 Sep 2026 01:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI覇権争いと安全リスク－米中首脳会談､今後を左右する5つの争点とは</title>
-      <link>https://news.yahoo.co.jp/articles/090b5bd52c95ee065b9b42a7c3ed1a054c84e640</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/090b5bd52c95ee065b9b42a7c3ed1a054c84e640</guid>
-      <pubDate>Tue, 22 Sep 2026 00:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油、6月以来の連続安へ－イラン巡る外交努力に期待高まる</title>
-      <link>https://news.yahoo.co.jp/articles/0702cde0b2671911419f9ef5edd052d0e7472cad</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0702cde0b2671911419f9ef5edd052d0e7472cad</guid>
-      <pubDate>Mon, 21 Sep 2026 23:40:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】株上昇、巨大テックが押し上げ－円は続落し157円台半ば</title>
-      <link>https://news.yahoo.co.jp/articles/85c93cfe6f5798de58535d0be542b89ca73c8d63</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/85c93cfe6f5798de58535d0be542b89ca73c8d63</guid>
-      <pubDate>Tue, 22 Sep 2026 23:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>シカゴ連銀総裁、インフレ目標達成への道は経済への痛み伴う恐れ</title>
-      <link>https://news.yahoo.co.jp/articles/1a0f815417c9d0e6cc0284118276d5b10675b956</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1a0f815417c9d0e6cc0284118276d5b10675b956</guid>
-      <pubDate>Mon, 21 Sep 2026 22:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
