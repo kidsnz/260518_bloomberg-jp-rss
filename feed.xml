@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 02:38:52 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:58:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>モルガンSの投資銀案件リスト流出、従業員が誤送信－SNSにも画像</title>
+      <link>https://news.yahoo.co.jp/articles/1b55efe177cc7b9531dbacbb708d0424ccab22b0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1b55efe177cc7b9531dbacbb708d0424ccab22b0</guid>
+      <pubDate>Thu, 24 Sep 2026 02:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米5年債利回り急上昇、2007年以来の5%台－指標堅調で利上げ継続観測</title>
+      <link>https://news.yahoo.co.jp/articles/04a71408d4c253d5ca9dcfca41747d3242c7c873</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/04a71408d4c253d5ca9dcfca41747d3242c7c873</guid>
+      <pubDate>Thu, 24 Sep 2026 02:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国、ディーゼル輸出を90日間禁止する計画を策定中－ポリティコ</title>
+      <link>https://news.yahoo.co.jp/articles/65c7cd33cbec0e93e10e9f4383894148bc5ab7e4</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/65c7cd33cbec0e93e10e9f4383894148bc5ab7e4</guid>
+      <pubDate>Thu, 24 Sep 2026 02:35:00 +0900</pubDate>
+    </item>
     <item>
       <title>円が158円台前半に下落－強い指標でドル全面高、利上げ継続との見方</title>
       <link>https://news.yahoo.co.jp/articles/7a9aee6a1a27d1ea9841dac1261f6db3f58e7fa7</link>
@@ -108,6 +126,12 @@
       <link>https://news.yahoo.co.jp/articles/159af078ed787d4215ebcc96babd82f645ea2fa9</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/159af078ed787d4215ebcc96babd82f645ea2fa9</guid>
       <pubDate>Wed, 23 Sep 2026 12:08:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクGの大型ジャンク債、発行条件改善－高利回りに強い需要</title>
+      <link>https://news.yahoo.co.jp/articles/542275fbb2257d6027717f63030e7277b6df9d70</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/542275fbb2257d6027717f63030e7277b6df9d70</guid>
+      <pubDate>Thu, 24 Sep 2026 11:48:00 +0900</pubDate>
     </item>
     <item>
       <title>ソフトバンクG、ジャンク債大型発行で過去最高の利回り提示－関係者</title>
@@ -282,30 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/ce3dca4ca2019a0dec1c3fae27ea44b8cc2b816d</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce3dca4ca2019a0dec1c3fae27ea44b8cc2b816d</guid>
       <pubDate>Tue, 22 Sep 2026 17:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃</title>
-      <link>https://news.yahoo.co.jp/articles/ed2c3309d9a23ef7103814e083e3b3349d5fa707</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ed2c3309d9a23ef7103814e083e3b3349d5fa707</guid>
-      <pubDate>Tue, 22 Sep 2026 17:54:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>新たなエネルギーショックでインフレ高止まり-ECBチーフエコノミスト</title>
-      <link>https://news.yahoo.co.jp/articles/d7c024241d5ead9e0918c6ee75082ea9be7504c6</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d7c024241d5ead9e0918c6ee75082ea9be7504c6</guid>
-      <pubDate>Tue, 22 Sep 2026 15:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アリババが新型AI半導体投入、中国で｢最も強力｣－エヌビディアに対抗</title>
-      <link>https://news.yahoo.co.jp/articles/3a655a983e9717f0df5b72050885b69c50489793</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3a655a983e9717f0df5b72050885b69c50489793</guid>
-      <pubDate>Tue, 22 Sep 2026 13:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米メタ発のAI株高が失速－投資家の慎重姿勢なお根強く</title>
-      <link>https://news.yahoo.co.jp/articles/c9701fa756b982c1be702bcf91078788f8ee0f84</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9701fa756b982c1be702bcf91078788f8ee0f84</guid>
-      <pubDate>Tue, 22 Sep 2026 11:06:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
