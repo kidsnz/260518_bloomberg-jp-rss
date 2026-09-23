@@ -5,13 +5,43 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:11:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:51:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>OECD、来年の世界インフレ見通しを引き上げ－日米欧の追加利上げ予想</title>
+      <link>https://news.yahoo.co.jp/articles/f5753bbdb10b9247843c3575724f59722aebfcb3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f5753bbdb10b9247843c3575724f59722aebfcb3</guid>
+      <pubDate>Wed, 23 Sep 2026 18:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI覇権争い「減速」せず、米中首脳の利害一致へ－双方に余裕なし</title>
+      <link>https://news.yahoo.co.jp/articles/916b4adb2f7886cb53642cd397aefc6e38a1ab44</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/916b4adb2f7886cb53642cd397aefc6e38a1ab44</guid>
+      <pubDate>Wed, 23 Sep 2026 18:09:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日本株は連休明け上昇へ、AI株高・円安追い風－債券は日銀政策を警戒</title>
+      <link>https://news.yahoo.co.jp/articles/ba2020efde9a946a0877491edd73039944bb067e</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ba2020efde9a946a0877491edd73039944bb067e</guid>
+      <pubDate>Wed, 23 Sep 2026 17:49:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け</title>
+      <link>https://news.yahoo.co.jp/articles/2d680cdbbe5127ce9cf1ff17b248b42318b04f72</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d680cdbbe5127ce9cf1ff17b248b42318b04f72</guid>
+      <pubDate>Wed, 23 Sep 2026 17:30:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相、政治の安定に必要な対応は常に考えている－連立拡大問われ</title>
       <link>https://news.yahoo.co.jp/articles/540b095864b46a7bfc7970921b6fc724e33ee491</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/540b095864b46a7bfc7970921b6fc724e33ee491</guid>
       <pubDate>Wed, 23 Sep 2026 15:36:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏が習氏を「熱烈」歓迎へ、AI巡る米中対立隠す－24日に会談</title>
+      <link>https://news.yahoo.co.jp/articles/c8b74f7871d8e0b0da6219a9fffa945b8c4325ed</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c8b74f7871d8e0b0da6219a9fffa945b8c4325ed</guid>
+      <pubDate>Wed, 23 Sep 2026 13:29:00 +0900</pubDate>
     </item>
     <item>
       <title>千葉県と神奈川県での死者9人に、ENEOSでは油が海上流出－台風25号</title>
@@ -44,6 +74,12 @@
       <pubDate>Wed, 23 Sep 2026 08:05:00 +0900</pubDate>
     </item>
     <item>
+      <title>アンソロピック、低コスト新AI「Opus 5.5」発表－IPO控え競争力強化</title>
+      <link>https://news.yahoo.co.jp/articles/3d114a225add281bef6caf856a2020ff3b82ae02</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d114a225add281bef6caf856a2020ff3b82ae02</guid>
+      <pubDate>Wed, 23 Sep 2026 06:12:00 +0900</pubDate>
+    </item>
+    <item>
       <title>高市首相、「旧敵国条項」の削除を国連演説で主張－中国に反論</title>
       <link>https://news.yahoo.co.jp/articles/f98a226160885451df62677cd29e1560e64cadb0</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f98a226160885451df62677cd29e1560e64cadb0</guid>
@@ -56,7 +92,7 @@
       <pubDate>Wed, 23 Sep 2026 03:11:00 +0900</pubDate>
     </item>
     <item>
-      <title>日米首脳が会談、習氏の訪米控え中国問題を議論－緊密な連携で一致</title>
+      <title>日米首脳が会談、米中控え緊密な連携で一致－経済安保で協力強化</title>
       <link>https://news.yahoo.co.jp/articles/db98d14dbd810ece74e6a4f698a58119c73f0246</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/db98d14dbd810ece74e6a4f698a58119c73f0246</guid>
       <pubDate>Wed, 23 Sep 2026 03:10:00 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/62f8f33e142d2636c8dc6ed519c9aeee8c003452</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/62f8f33e142d2636c8dc6ed519c9aeee8c003452</guid>
       <pubDate>Tue, 22 Sep 2026 02:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】債券、株ともに大幅上昇－原油・ガス価格低下を好感</title>
-      <link>https://news.yahoo.co.jp/articles/8722eb2970adba7c52fe07ce900159c9e9030cb8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8722eb2970adba7c52fe07ce900159c9e9030cb8</guid>
-      <pubDate>Tue, 22 Sep 2026 02:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AMDとインテル株急伸、メタ「Muse」人気でAI楽観論－半導体株に買い</title>
-      <link>https://news.yahoo.co.jp/articles/e2a425c453e950dc852a48fdbd9102cd827aa46c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e2a425c453e950dc852a48fdbd9102cd827aa46c</guid>
-      <pubDate>Tue, 22 Sep 2026 01:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>パラマウントのワーナー買収巡る訴訟、カリフォルニアなど5州と和解</title>
-      <link>https://news.yahoo.co.jp/articles/42ab3e0932921f8ce12a8300246001559443ee50</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/42ab3e0932921f8ce12a8300246001559443ee50</guid>
-      <pubDate>Tue, 22 Sep 2026 01:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>グーグル、初の高級AIラップトップ投入－Geminiとの連携を売りに</title>
-      <link>https://news.yahoo.co.jp/articles/2f656c57a84800fe95329e098e9e19d1203ba97b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2f656c57a84800fe95329e098e9e19d1203ba97b</guid>
-      <pubDate>Tue, 22 Sep 2026 01:13:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>銀行の信用格付け、AI活用の成否が重要に－戦略・ガバナンスが鍵</title>
-      <link>https://news.yahoo.co.jp/articles/008c20e6e539646d8517ab1b30f5eb5d225bcfd4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/008c20e6e539646d8517ab1b30f5eb5d225bcfd4</guid>
-      <pubDate>Tue, 22 Sep 2026 01:08:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>急落した英国債の一部銘柄がひそかな人気、トレーダーらも個人で購入</title>
-      <link>https://news.yahoo.co.jp/articles/6f3b17d486e3753ae886a124ae66c793724c8908</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6f3b17d486e3753ae886a124ae66c793724c8908</guid>
-      <pubDate>Tue, 22 Sep 2026 01:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
