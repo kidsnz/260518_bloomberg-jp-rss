@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 02:42:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:03:21 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米とイラン、段階的な合意を模索－ホルムズ再開と海上封鎖解除巡り</title>
+      <link>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</guid>
+      <pubDate>Fri, 25 Sep 2026 05:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株・債券とも続落、ドイツ債利回りは2日間で14bp上昇</title>
+      <link>https://news.yahoo.co.jp/articles/761bbb2f1fac969d0875da882aab6154eab02c50</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/761bbb2f1fac969d0875da882aab6154eab02c50</guid>
+      <pubDate>Fri, 25 Sep 2026 03:04:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P500種株価指数、上昇に転じる－ホルムズ海峡再開に向けた期待</title>
+      <link>https://news.yahoo.co.jp/articles/4eddbb41794ef66a84ad01a52857e671aa26a107</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4eddbb41794ef66a84ad01a52857e671aa26a107</guid>
+      <pubDate>Fri, 25 Sep 2026 02:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>米国とイラン、ホルムズ海峡再開を含む段階的な合意模索－ロイター</title>
       <link>https://news.yahoo.co.jp/articles/d0106442316f6abe4e378e16fa8c628491476564</link>
@@ -14,10 +32,16 @@
       <pubDate>Fri, 25 Sep 2026 01:34:00 +0900</pubDate>
     </item>
     <item>
-      <title>円が対ドルで下落、一時159円台－為替介入観測が再浮上</title>
+      <title>円が一時159円台に下落、9月2日以来の安値－介入への警戒くすぶる</title>
       <link>https://news.yahoo.co.jp/articles/4664567dff0a80de910a75fa88801b957d44adab</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4664567dff0a80de910a75fa88801b957d44adab</guid>
       <pubDate>Fri, 25 Sep 2026 01:31:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フィラデルフィア連銀総裁、小幅な追加利上げ必要になる可能性指摘</title>
+      <link>https://news.yahoo.co.jp/articles/9ac68cc78ae461ba325bdcd8d6c7d3ba4da6bee6</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9ac68cc78ae461ba325bdcd8d6c7d3ba4da6bee6</guid>
+      <pubDate>Fri, 25 Sep 2026 01:28:00 +0900</pubDate>
     </item>
     <item>
       <title>サウジ原油輸出が急増、戦争開始後最高に－危険な紅海避けホルムズへ</title>
@@ -26,7 +50,7 @@
       <pubDate>Fri, 25 Sep 2026 00:26:00 +0900</pubDate>
     </item>
     <item>
-      <title>米中首脳、AI巡る激しい競争認める－ホワイトハウスで会談へ</title>
+      <title>米中首脳、AI巡る激しい競争について協議－習主席の公式訪問で</title>
       <link>https://news.yahoo.co.jp/articles/4ef9b4fcb8349bc6cf46734f083b4bad7207fc53</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4ef9b4fcb8349bc6cf46734f083b4bad7207fc53</guid>
       <pubDate>Thu, 24 Sep 2026 23:35:00 +0900</pubDate>
@@ -56,7 +80,7 @@
       <pubDate>Thu, 24 Sep 2026 23:03:00 +0900</pubDate>
     </item>
     <item>
-      <title>米新規失業保険申請件数、19万7000人に減少－7月以来の低水準</title>
+      <title>米新規失業保険申請、19.7万件に減少－歴史的な低水準にとどまる</title>
       <link>https://news.yahoo.co.jp/articles/8f7ca55722f17963af0b34dd4bd0560b124777a7</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8f7ca55722f17963af0b34dd4bd0560b124777a7</guid>
       <pubDate>Thu, 24 Sep 2026 21:45:00 +0900</pubDate>
@@ -90,6 +114,12 @@
       <link>https://news.yahoo.co.jp/articles/4945e2b01df3e1a54c9d9d43bc4ead2ed816eac8</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4945e2b01df3e1a54c9d9d43bc4ead2ed816eac8</guid>
       <pubDate>Thu, 24 Sep 2026 17:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油は急伸、タイトな需給が外交の楽観上回る－ブレント一時108ドル</title>
+      <link>https://news.yahoo.co.jp/articles/d56a4325424b6ad39207da267cb10a5e86515145</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d56a4325424b6ad39207da267cb10a5e86515145</guid>
+      <pubDate>Fri, 25 Sep 2026 17:43:00 +0900</pubDate>
     </item>
     <item>
       <title>ブレント原油一時106.5ドル、日中高値－イラン情勢への楽観論後退</title>
@@ -276,36 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/17a1424a38d52850ab4b40559d81e0f6564c3652</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/17a1424a38d52850ab4b40559d81e0f6564c3652</guid>
       <pubDate>Wed, 23 Sep 2026 23:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米総合PMI、9月速報値は21年以来の高水準－新規受注や雇用が増加</title>
-      <link>https://news.yahoo.co.jp/articles/c12b1d1516998fd8bbba3a0b98e15f0cdb0d41b2</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c12b1d1516998fd8bbba3a0b98e15f0cdb0d41b2</guid>
-      <pubDate>Thu, 24 Sep 2026 23:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米総合PMI、9月速報値は2021年以来の高水準－新規受注や雇用が増加</title>
-      <link>https://news.yahoo.co.jp/articles/37906caf10ee3d6f6527315f561d8ebe68b63fb4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37906caf10ee3d6f6527315f561d8ebe68b63fb4</guid>
-      <pubDate>Wed, 23 Sep 2026 23:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油は急反発、ディーゼル燃料は米輸出禁止措置の観測で大幅下落</title>
-      <link>https://news.yahoo.co.jp/articles/f173612362fcbf197eaceab538b007767595d95b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f173612362fcbf197eaceab538b007767595d95b</guid>
-      <pubDate>Wed, 23 Sep 2026 23:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油反発、ブレントは100ドル台－ディーゼル燃料の急騰が影響</title>
-      <link>https://news.yahoo.co.jp/articles/d4660279d48d3545bdcf47d6aa6cdd5215e83b94</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d4660279d48d3545bdcf47d6aa6cdd5215e83b94</guid>
-      <pubDate>Wed, 23 Sep 2026 23:07:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米企業業績、アナリストの見通しが弱気に－インフレと金利上昇懸念</title>
-      <link>https://news.yahoo.co.jp/articles/0761c263ab1cc2d7aadc9a558c2adce1a5a48a8e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0761c263ab1cc2d7aadc9a558c2adce1a5a48a8e</guid>
-      <pubDate>Wed, 23 Sep 2026 21:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
