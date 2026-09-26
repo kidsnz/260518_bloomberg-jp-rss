@@ -5,8 +5,26 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:19:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:37:40 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米シティグループ、30億ドル超のバナメックスIPO目指す－1月上場目標</title>
+      <link>https://news.yahoo.co.jp/articles/5e802a1cb842600e0fe0aa53b60ba402d306edf9</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5e802a1cb842600e0fe0aa53b60ba402d306edf9</guid>
+      <pubDate>Sat, 26 Sep 2026 16:33:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス</title>
+      <link>https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b66cd6a048207ae3b30ea0ec87458cb3176da860</guid>
+      <pubDate>Sat, 26 Sep 2026 15:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国、米国産石炭を年1000万トン以上輸入へ－ホワイトハウス</title>
+      <link>https://news.yahoo.co.jp/articles/b716304402f8edce78785ecaa6a34a6f5acf2aea</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b716304402f8edce78785ecaa6a34a6f5acf2aea</guid>
+      <pubDate>Sat, 26 Sep 2026 14:32:00 +0900</pubDate>
+    </item>
     <item>
       <title>米ディーゼル輸出禁止は見送りへ、ホワイトハウスが示唆－上院議員</title>
       <link>https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</link>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/6273dd9b043c8f495f7df154f53b7625a736aa02</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6273dd9b043c8f495f7df154f53b7625a736aa02</guid>
       <pubDate>Fri, 25 Sep 2026 08:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株はAI・半導体関連中心に上値重い、米国の金利上昇が重し</title>
-      <link>https://news.yahoo.co.jp/articles/d948f4e38cf8d7322114abf0dbb5b2ea94a36f44</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/d948f4e38cf8d7322114abf0dbb5b2ea94a36f44</guid>
-      <pubDate>Fri, 25 Sep 2026 07:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原油下落、イランがホルムズ再開巡る新提案を米国に提出とFT報道</title>
-      <link>https://news.yahoo.co.jp/articles/7004949c2067621e6cf8aff78aa83b5188aa823c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7004949c2067621e6cf8aff78aa83b5188aa823c</guid>
-      <pubDate>Fri, 25 Sep 2026 07:36:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホワイトハウス、取材禁止の3社に立ち入り再び認める－地裁命令受け</title>
-      <link>https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</guid>
-      <pubDate>Fri, 25 Sep 2026 07:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
