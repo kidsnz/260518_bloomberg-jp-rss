@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:07:07 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:19:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米ディーゼル輸出禁止は見送りへ、ホワイトハウスが示唆－上院議員</title>
+      <link>https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37f013dbf7dc32c82ba58351e33184659aac4bd5</guid>
+      <pubDate>Sat, 26 Sep 2026 13:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏がイランの7日間停戦案拒否、中間選挙後に攻撃再開も－WSJ</title>
+      <link>https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</guid>
+      <pubDate>Sat, 26 Sep 2026 09:40:00 +0900</pubDate>
+    </item>
     <item>
       <title>SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関係者</title>
       <link>https://news.yahoo.co.jp/articles/56d5c31816093c04226a129423a2272bae375a12</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e1af24eba8634b13d3f1b15b840febf4690b6bdd</guid>
       <pubDate>Fri, 25 Sep 2026 07:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>UBS株上昇、外銀との統合など検討報道－モルガン・スタンレーは下落</title>
-      <link>https://news.yahoo.co.jp/articles/6fbb284f42727a2fbfaaf8dc3884995054c88ea5</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6fbb284f42727a2fbfaaf8dc3884995054c88ea5</guid>
-      <pubDate>Fri, 25 Sep 2026 05:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米とイラン、段階的な合意模索－ホルムズ再開と海上封鎖解除巡り</title>
-      <link>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</guid>
-      <pubDate>Fri, 25 Sep 2026 05:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
