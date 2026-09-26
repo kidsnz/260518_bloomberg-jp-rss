@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:35:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 03:55:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相がトランプ氏と電話協議、中国巡る課題で意見交換－連携確認</title>
+      <link>https://news.yahoo.co.jp/articles/7dc0bb7c39d777d402f65b30bf9e14923ce2e465</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7dc0bb7c39d777d402f65b30bf9e14923ce2e465</guid>
+      <pubDate>Sat, 26 Sep 2026 23:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>米シティグループ、30億ドル超のバナメックスIPO目指す－1月上場目標</title>
       <link>https://news.yahoo.co.jp/articles/5e802a1cb842600e0fe0aa53b60ba402d306edf9</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/5594e20b2b00d2f17c2655f0a49632ce189b07ee</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5594e20b2b00d2f17c2655f0a49632ce189b07ee</guid>
       <pubDate>Fri, 25 Sep 2026 08:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米カジノ大手のMGMリゾーツ、ピープル買収案を協議－WSJ</title>
-      <link>https://news.yahoo.co.jp/articles/6273dd9b043c8f495f7df154f53b7625a736aa02</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/6273dd9b043c8f495f7df154f53b7625a736aa02</guid>
-      <pubDate>Fri, 25 Sep 2026 08:03:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
