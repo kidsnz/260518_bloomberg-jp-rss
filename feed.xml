@@ -5,7 +5,7 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 03:55:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:44:51 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>高市首相がトランプ氏と電話協議、中国巡る課題で意見交換－連携確認</title>
@@ -26,6 +26,12 @@
       <pubDate>Sat, 26 Sep 2026 15:45:00 +0900</pubDate>
     </item>
     <item>
+      <title>米中首脳会談の成果文書、中国が米国産石炭を購入へ－台湾には触れず</title>
+      <link>https://news.yahoo.co.jp/articles/3d25f553a6741f4692473e27799f479c600564a5</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d25f553a6741f4692473e27799f479c600564a5</guid>
+      <pubDate>Sun, 27 Sep 2026 14:32:00 +0900</pubDate>
+    </item>
+    <item>
       <title>中国、米国産石炭を年1000万トン以上輸入へ－ホワイトハウス</title>
       <link>https://news.yahoo.co.jp/articles/b716304402f8edce78785ecaa6a34a6f5acf2aea</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b716304402f8edce78785ecaa6a34a6f5acf2aea</guid>
@@ -38,7 +44,13 @@
       <pubDate>Sat, 26 Sep 2026 13:25:00 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ氏がイランの7日間停戦案拒否、中間選挙後に攻撃再開も－WSJ</title>
+      <title>トランプ氏、イランのホルムズ開放提案を拒否－フーシ派はサウジ攻撃</title>
+      <link>https://news.yahoo.co.jp/articles/3e1d921b92012aa3edb7e9d192909b10b01e8566</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3e1d921b92012aa3edb7e9d192909b10b01e8566</guid>
+      <pubDate>Sat, 26 Sep 2026 09:40:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>フーシ派、またもサウジ首都を攻撃－トランプ氏はイランの停戦案拒否</title>
       <link>https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ae10bc7bcb770d2de920b8c022a62a146386b425</guid>
       <pubDate>Sat, 26 Sep 2026 09:40:00 +0900</pubDate>
@@ -96,6 +108,12 @@
       <link>https://news.yahoo.co.jp/articles/0ec9490bf954831545cb2f32227c64f22fd1364e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0ec9490bf954831545cb2f32227c64f22fd1364e</guid>
       <pubDate>Sat, 26 Sep 2026 01:07:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>NY連銀総裁、供給ショックは無視できず－物価目標への回帰必要</title>
+      <link>https://news.yahoo.co.jp/articles/823722480993cb14422b33b07e4de927c1eb30f8</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/823722480993cb14422b33b07e4de927c1eb30f8</guid>
+      <pubDate>Sat, 26 Sep 2026 00:48:00 +0900</pubDate>
     </item>
     <item>
       <title>原油相場は小幅安、ホルムズ海峡巡る期待とタイトな需給のせめぎ合い</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/dd9082602ffaa66570533b3c33bfd34a19a6c086</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd9082602ffaa66570533b3c33bfd34a19a6c086</guid>
       <pubDate>Fri, 25 Sep 2026 10:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、習氏厚遇－国賓歓迎夕食会に米テック・金融界の大物集結</title>
-      <link>https://news.yahoo.co.jp/articles/407f7cbeecd07d5d5a345e5ef68e3e356a89d76a</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/407f7cbeecd07d5d5a345e5ef68e3e356a89d76a</guid>
-      <pubDate>Fri, 25 Sep 2026 10:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】円上げ幅を拡大、片山・城内氏発言で－銀行中心に株上昇</title>
-      <link>https://news.yahoo.co.jp/articles/5821d4983524a28702a53b55e7638f3167cdfac1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5821d4983524a28702a53b55e7638f3167cdfac1</guid>
-      <pubDate>Fri, 25 Sep 2026 09:28:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米債売り加速で金利一段高へ－円は軟調公算・AI株上値重い</title>
-      <link>https://news.yahoo.co.jp/articles/5594e20b2b00d2f17c2655f0a49632ce189b07ee</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5594e20b2b00d2f17c2655f0a49632ce189b07ee</guid>
-      <pubDate>Fri, 25 Sep 2026 08:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
