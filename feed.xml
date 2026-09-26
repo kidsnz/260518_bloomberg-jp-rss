@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:35:30 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:07:07 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>SKハイニックス傘下ソリダイム、2027年にも米IPOを検討－関係者</title>
+      <link>https://news.yahoo.co.jp/articles/56d5c31816093c04226a129423a2272bae375a12</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/56d5c31816093c04226a129423a2272bae375a12</guid>
+      <pubDate>Sat, 26 Sep 2026 09:27:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフト、個人用AIチャットボット競争から撤退－Copilot刷新</title>
+      <link>https://news.yahoo.co.jp/articles/28d37a072301e803352ec69c5779e004f9f81280</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/28d37a072301e803352ec69c5779e004f9f81280</guid>
+      <pubDate>Sat, 26 Sep 2026 06:27:00 +0900</pubDate>
+    </item>
     <item>
       <title>【米国市況】30年債利回りが一段と上昇、原油安で株は堅調－円急伸</title>
       <link>https://news.yahoo.co.jp/articles/5de5783885b0e9efb82f00c922278cf6ce9176c7</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/0f3ce7dff763e8b49e04d0f0d76237320e4b3dbc</guid>
       <pubDate>Fri, 25 Sep 2026 05:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【欧州市況】株・債券とも続落、ドイツ債利回りは2日間で14bp上昇</title>
-      <link>https://news.yahoo.co.jp/articles/761bbb2f1fac969d0875da882aab6154eab02c50</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/761bbb2f1fac969d0875da882aab6154eab02c50</guid>
-      <pubDate>Fri, 25 Sep 2026 03:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【米国市況】国債利回り上昇、30年債は2004年以来の高水準－159円台</title>
-      <link>https://news.yahoo.co.jp/articles/4eddbb41794ef66a84ad01a52857e671aa26a107</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4eddbb41794ef66a84ad01a52857e671aa26a107</guid>
-      <pubDate>Fri, 25 Sep 2026 02:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
