@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 06:44:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 09:06:56 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>高市首相がトランプ氏と電話協議、中国巡る課題で意見交換－連携確認</title>
+      <link>https://news.yahoo.co.jp/articles/aaff344299b79abcdf6395f128770ebbcb24c247</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/aaff344299b79abcdf6395f128770ebbcb24c247</guid>
+      <pubDate>Sun, 27 Sep 2026 23:36:00 +0900</pubDate>
+    </item>
     <item>
       <title>高市首相がトランプ氏と電話協議、中国巡る課題で意見交換－連携確認</title>
       <link>https://news.yahoo.co.jp/articles/7dc0bb7c39d777d402f65b30bf9e14923ce2e465</link>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/fe8f380d05c18cde7a7ac476c86dc9204ac8808f</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe8f380d05c18cde7a7ac476c86dc9204ac8808f</guid>
       <pubDate>Fri, 25 Sep 2026 11:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SBIHDとJR九州が戦略的提携で基本合意、金融アプリ提供へ</title>
-      <link>https://news.yahoo.co.jp/articles/dd9082602ffaa66570533b3c33bfd34a19a6c086</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/dd9082602ffaa66570533b3c33bfd34a19a6c086</guid>
-      <pubDate>Fri, 25 Sep 2026 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
