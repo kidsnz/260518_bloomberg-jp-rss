@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 20:13:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:43:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>UBSとの統合に複数の大手銀行が関心、少なくとも8社－スイス紙</title>
+      <link>https://news.yahoo.co.jp/articles/f83be51ddc0e1b7bbf1cd60ce1df562c90e33aaf</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f83be51ddc0e1b7bbf1cd60ce1df562c90e33aaf</guid>
+      <pubDate>Sun, 27 Sep 2026 23:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ボーイング、737MAXのソフトウエア不具合を確認－認証などに遅れも</title>
+      <link>https://news.yahoo.co.jp/articles/c5fc769752bc8b257b7763e1b33710058abf1a3a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c5fc769752bc8b257b7763e1b33710058abf1a3a</guid>
+      <pubDate>Sun, 27 Sep 2026 18:05:00 +0900</pubDate>
+    </item>
     <item>
       <title>米からの最終的な回答、仲介国通じて待つ－イランのアラグチ外相</title>
       <link>https://news.yahoo.co.jp/articles/7701f0c9083cd7f2eb47a0bd4a2a293ba352fefe</link>
@@ -294,18 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/1bd42d490a3925d48bd22cf7a179766958ebc1a4</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1bd42d490a3925d48bd22cf7a179766958ebc1a4</guid>
       <pubDate>Fri, 25 Sep 2026 14:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>クアルコム、アップルとのライセンス契約更新－2027年4月から</title>
-      <link>https://news.yahoo.co.jp/articles/4982fe966059e3497762faf0669d718ce709b9d8</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/4982fe966059e3497762faf0669d718ce709b9d8</guid>
-      <pubDate>Fri, 25 Sep 2026 13:57:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利は上昇継続、国内外の財政懸念と利上げ観測</title>
-      <link>https://news.yahoo.co.jp/articles/90adfb73b93fc6d7f3ce05321fad47ffa2a0091b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90adfb73b93fc6d7f3ce05321fad47ffa2a0091b</guid>
-      <pubDate>Fri, 25 Sep 2026 13:39:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
