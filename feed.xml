@@ -5,8 +5,20 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 14:30:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:13:35 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米からの最終的な回答、仲介国通じて待つ－イランのアラグチ外相</title>
+      <link>https://news.yahoo.co.jp/articles/7701f0c9083cd7f2eb47a0bd4a2a293ba352fefe</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/7701f0c9083cd7f2eb47a0bd4a2a293ba352fefe</guid>
+      <pubDate>Sun, 27 Sep 2026 16:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の消費関連株、失われた10年－AIに資金集中、先行きも楽観できず</title>
+      <link>https://news.yahoo.co.jp/articles/9a23e3739c66b2e35387976699d319d1998e1d9b</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9a23e3739c66b2e35387976699d319d1998e1d9b</guid>
+      <pubDate>Sun, 27 Sep 2026 14:18:00 +0900</pubDate>
+    </item>
     <item>
       <title>社債に警戒信号、米国債恐怖指数が示す－スプレッド拡大リスクじわり</title>
       <link>https://news.yahoo.co.jp/articles/d447d0ee9a5c329c91036fbb5d22a7bb32ceb0cb</link>
@@ -18,6 +30,12 @@
       <link>https://news.yahoo.co.jp/articles/a3c32892f45af5babd78180a7e9a625e42ea1c7e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a3c32892f45af5babd78180a7e9a625e42ea1c7e</guid>
       <pubDate>Sun, 27 Sep 2026 08:32:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>クリーブランド連銀総裁、金利上昇の要因指摘－政府債務や利上げ観測</title>
+      <link>https://news.yahoo.co.jp/articles/16909b3f4193cd8ac5df2d9801f49cd1ee67af81</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/16909b3f4193cd8ac5df2d9801f49cd1ee67af81</guid>
+      <pubDate>Sun, 27 Sep 2026 06:20:00 +0900</pubDate>
     </item>
     <item>
       <title>高市首相がトランプ氏と電話協議、中国巡る課題で意見交換－連携確認</title>
@@ -288,24 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/90adfb73b93fc6d7f3ce05321fad47ffa2a0091b</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/90adfb73b93fc6d7f3ce05321fad47ffa2a0091b</guid>
       <pubDate>Fri, 25 Sep 2026 13:39:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】再度160円トライへ、米利上げ観測高まりドルに勢い</title>
-      <link>https://news.yahoo.co.jp/articles/ce8e19084263fe6899e6b89aad8d8d1b323ade65</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ce8e19084263fe6899e6b89aad8d8d1b323ade65</guid>
-      <pubDate>Fri, 25 Sep 2026 13:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>城内経財相、リフレ政策の局面は終わっている－今は金融緩和ではない</title>
-      <link>https://news.yahoo.co.jp/articles/9402e022c26d8f6a35fb7cc32e754509e6d07f1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/9402e022c26d8f6a35fb7cc32e754509e6d07f1e</guid>
-      <pubDate>Fri, 25 Sep 2026 11:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>HSBC、香港で最大400万円の会員制クラブ補助廃止へ－福利厚生見直し</title>
-      <link>https://news.yahoo.co.jp/articles/555961e9b6119978b9a7679a05299342cddfbe3b</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/555961e9b6119978b9a7679a05299342cddfbe3b</guid>
-      <pubDate>Fri, 25 Sep 2026 11:35:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
