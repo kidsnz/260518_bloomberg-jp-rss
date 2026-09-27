@@ -5,8 +5,14 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:43:09 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:27:24 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>台湾巡る米の立場、習主席の訪米後も変わらず－パーデュー駐中国大使</title>
+      <link>https://news.yahoo.co.jp/articles/637775f8e3d01e09aaf1e61cb53f1254ac66d7ce</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/637775f8e3d01e09aaf1e61cb53f1254ac66d7ce</guid>
+      <pubDate>Mon, 28 Sep 2026 00:10:00 +0900</pubDate>
+    </item>
     <item>
       <title>UBSとの統合に複数の大手銀行が関心、少なくとも8社－スイス紙</title>
       <link>https://news.yahoo.co.jp/articles/f83be51ddc0e1b7bbf1cd60ce1df562c90e33aaf</link>
@@ -74,7 +80,7 @@
       <pubDate>Sat, 26 Sep 2026 15:45:00 +0900</pubDate>
     </item>
     <item>
-      <title>米中首脳会談の成果文書、中国が米国産石炭を購入へ－台湾には触れず</title>
+      <title>米中首脳会談の成果文書、中国が石炭を輸入へ－「同盟国」の表記も</title>
       <link>https://news.yahoo.co.jp/articles/3d25f553a6741f4692473e27799f479c600564a5</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/3d25f553a6741f4692473e27799f479c600564a5</guid>
       <pubDate>Sun, 27 Sep 2026 14:32:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/08abad71349cd611dcde0e3e504594c7f9f5dc5e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/08abad71349cd611dcde0e3e504594c7f9f5dc5e</guid>
       <pubDate>Fri, 25 Sep 2026 14:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン、円の対ドル予想150円に変更－潮目変化で弱気から転換</title>
-      <link>https://news.yahoo.co.jp/articles/1bd42d490a3925d48bd22cf7a179766958ebc1a4</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1bd42d490a3925d48bd22cf7a179766958ebc1a4</guid>
-      <pubDate>Fri, 25 Sep 2026 14:02:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
