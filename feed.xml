@@ -5,8 +5,50 @@
     <link>https://news.yahoo.co.jp/media/bloom_st</link>
     <description>Yahoo!ニュースで配信中のブルームバーグ日本語版記事（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:27:42 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:04:08 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど</title>
+      <link>https://news.yahoo.co.jp/articles/5b0c59fb36f99f9dde7e9d84abdfccf828e6d581</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b0c59fb36f99f9dde7e9d84abdfccf828e6d581</guid>
+      <pubDate>Thu, 01 Oct 2026 07:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米「CCC」格社債、2023年の銀行危機以来初のディストレスト水準</title>
+      <link>https://news.yahoo.co.jp/articles/f63e57eaaf7ece87d6c359aac196ec45a6c459fc</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f63e57eaaf7ece87d6c359aac196ec45a6c459fc</guid>
+      <pubDate>Thu, 01 Oct 2026 07:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、韓国の対米エネルギー投資2000億ドルを発表－原発やLNG</title>
+      <link>https://news.yahoo.co.jp/articles/f3c9765741055c3f39a41f50aa14875097b10d19</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f3c9765741055c3f39a41f50aa14875097b10d19</guid>
+      <pubDate>Thu, 01 Oct 2026 07:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>クックFRB理事、インフレなお高水準と認識－物価安定への決意強調</title>
+      <link>https://news.yahoo.co.jp/articles/68462b31d12e010291fb5693c26785a41595acf2</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/68462b31d12e010291fb5693c26785a41595acf2</guid>
+      <pubDate>Thu, 01 Oct 2026 06:47:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油反発、ブレントは100ドル近辺－中東からの供給拡大の兆しも</title>
+      <link>https://news.yahoo.co.jp/articles/115cb4e94bec68497568bb2e10f7fa2fa201faa0</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/115cb4e94bec68497568bb2e10f7fa2fa201faa0</guid>
+      <pubDate>Thu, 01 Oct 2026 06:03:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>さよなら第3のビール、酒税一本化で問われる大手ブランドの真価</title>
+      <link>https://news.yahoo.co.jp/articles/f2f0ed61586f03e85d1be18b4dee13b0d110e16d</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f2f0ed61586f03e85d1be18b4dee13b0d110e16d</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米マイクロン、粗利益率低下を見込む－売上高見通しは市場予想上回る</title>
+      <link>https://news.yahoo.co.jp/articles/2d12fce1155fa9fecc7d5d57ba3ca5d8aa7cdd8a</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2d12fce1155fa9fecc7d5d57ba3ca5d8aa7cdd8a</guid>
+      <pubDate>Thu, 01 Oct 2026 05:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ米大統領、パウエルFRB理事は「辞任させられるべき」と主張</title>
       <link>https://news.yahoo.co.jp/articles/f221b33de08cabe194d5e2e7dfbfa4cb7d3550f5</link>
@@ -14,7 +56,13 @@
       <pubDate>Thu, 01 Oct 2026 05:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国株が上昇、PCE価格指数の落ち着きで10月利上げ観測が後退</title>
+      <title>【欧州市況】独仏スプレッド拡大、短期債は買われる－株は月間で下落</title>
+      <link>https://news.yahoo.co.jp/articles/843360a5ecb3f96b0991bb5a60a8723924841872</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/843360a5ecb3f96b0991bb5a60a8723924841872</guid>
+      <pubDate>Thu, 01 Oct 2026 02:51:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500が続落、終盤に売り－PCE受け10月利上げ観測後退</title>
       <link>https://news.yahoo.co.jp/articles/93b62d1521ec1aedd5f67fd983dd41f854d2ae51</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/93b62d1521ec1aedd5f67fd983dd41f854d2ae51</guid>
       <pubDate>Thu, 01 Oct 2026 00:40:00 +0900</pubDate>
@@ -44,6 +92,12 @@
       <pubDate>Wed, 30 Sep 2026 22:35:00 +0900</pubDate>
     </item>
     <item>
+      <title>米PCE統計、個人消費が約1年ぶり大幅増－高インフレ下の経済を支援</title>
+      <link>https://news.yahoo.co.jp/articles/fa485e870bc81cbfdf6f8c9819f59830c1a9c2c3</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/fa485e870bc81cbfdf6f8c9819f59830c1a9c2c3</guid>
+      <pubDate>Thu, 01 Oct 2026 21:43:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米個人消費支出、約1年ぶり大幅増－コア価格指数前月比0.2%上昇</title>
       <link>https://news.yahoo.co.jp/articles/189fc9658e8aa025fd18af8c8cf27833ad5f304e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/189fc9658e8aa025fd18af8c8cf27833ad5f304e</guid>
@@ -60,6 +114,12 @@
       <link>https://news.yahoo.co.jp/articles/af3b0dc876ce5ae96cf927e43aa3a628cc0f545e</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/af3b0dc876ce5ae96cf927e43aa3a628cc0f545e</guid>
       <pubDate>Wed, 30 Sep 2026 21:26:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トルコ証券不正疑惑、ノルウェー政府系ファンドが渦中の企業に投資</title>
+      <link>https://news.yahoo.co.jp/articles/86ab87101784aeef33627e46418f4fadc65bed1f</link>
+      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/86ab87101784aeef33627e46418f4fadc65bed1f</guid>
+      <pubDate>Wed, 30 Sep 2026 20:37:00 +0900</pubDate>
     </item>
     <item>
       <title>AI関連資産に「急激な調整」のリスク－英中銀が警告</title>
@@ -246,66 +306,6 @@
       <link>https://news.yahoo.co.jp/articles/bb5a2e8244421eed75026d10cc85fcb291064533</link>
       <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bb5a2e8244421eed75026d10cc85fcb291064533</guid>
       <pubDate>Wed, 30 Sep 2026 09:26:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>セントルイス連銀総裁、利上げ後も「金融政策は依然やや緩和的」</title>
-      <link>https://news.yahoo.co.jp/articles/1f8f59543a351bc26e606c7a70a687964d4580f1</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/1f8f59543a351bc26e606c7a70a687964d4580f1</guid>
-      <pubDate>Wed, 30 Sep 2026 09:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、AIの呼称を「SI」に変更－否定的な見方の転換狙う</title>
-      <link>https://news.yahoo.co.jp/articles/37141338314f55d0a045f2354193322e2e4ab68c</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/37141338314f55d0a045f2354193322e2e4ab68c</guid>
-      <pubDate>Wed, 30 Sep 2026 09:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国株「23時間取引」、何が変わる？ NYSE・ナスダックで12月6日開始</title>
-      <link>https://news.yahoo.co.jp/articles/f73c6e48003a1bc64ae8b52dc42b10dde78c01eb</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/f73c6e48003a1bc64ae8b52dc42b10dde78c01eb</guid>
-      <pubDate>Wed, 30 Sep 2026 09:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRBバー理事、米追加利上げの必要性示す－インフレは目標になお距離</title>
-      <link>https://news.yahoo.co.jp/articles/2c43fce85ca3cde8ba7b30b54039e64e3746c008</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c43fce85ca3cde8ba7b30b54039e64e3746c008</guid>
-      <pubDate>Wed, 30 Sep 2026 08:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米30年国債利回り6%到達も、生産性の上昇加速がリスク－バークレイズ</title>
-      <link>https://news.yahoo.co.jp/articles/8a4e6e634b905e9452f85d0414d80cd004e1de14</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/8a4e6e634b905e9452f85d0414d80cd004e1de14</guid>
-      <pubDate>Wed, 30 Sep 2026 08:58:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマン次期CEO有力候補ウォルドロン氏、幹部引き留めが課題に</title>
-      <link>https://news.yahoo.co.jp/articles/afba30838935d995c7ac948f1adb162fe5d97b1e</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/afba30838935d995c7ac948f1adb162fe5d97b1e</guid>
-      <pubDate>Wed, 30 Sep 2026 08:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ニデックが電子部品子会社売却方針も、株価回復は途上－きょう決算</title>
-      <link>https://news.yahoo.co.jp/articles/955a293c45cffca0c88beaa891895d5cfe832528</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/955a293c45cffca0c88beaa891895d5cfe832528</guid>
-      <pubDate>Wed, 30 Sep 2026 08:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米半導体株高受け日経平均反発へ－2年債利回り2%乗せ焦点</title>
-      <link>https://news.yahoo.co.jp/articles/c9226c95750d0d45f49faa0166bd2c52e2e8ae08</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/c9226c95750d0d45f49faa0166bd2c52e2e8ae08</guid>
-      <pubDate>Wed, 30 Sep 2026 08:12:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キオクシアHD株、上場後初の四半期下落へ－メモリー企業で割安感台頭</title>
-      <link>https://news.yahoo.co.jp/articles/b6ff9445d05e8dbb840bb65ee1d8004f718c0916</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6ff9445d05e8dbb840bb65ee1d8004f718c0916</guid>
-      <pubDate>Wed, 30 Sep 2026 08:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>防衛株に広がる「高市トレード」復活期待、予算増強で業績に前進余力</title>
-      <link>https://news.yahoo.co.jp/articles/a5159362d33f230283cad2b381fb51c62d030725</link>
-      <guid isPermaLink="true">https://news.yahoo.co.jp/articles/a5159362d33f230283cad2b381fb51c62d030725</guid>
-      <pubDate>Wed, 30 Sep 2026 08:07:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
