@@ -4,6 +4,26 @@
 形式は [Keep a Changelog](https://keepachangelog.com/ja/1.1.0/) に従い、
 バージョニングは [Semantic Versioning](https://semver.org/lang/ja/) に従います。
 
+## [2.0.0] - 2026-10-09
+
+### Changed
+- 取得元を Yahoo!ニュース（`media/bloom_st`）から TBS NEWS DIG「TBS CROSS DIG with Bloomberg」の一覧
+  （`newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg`）に変更。Yahoo 側のブルームバーグ配信が
+  2026-10-01 12:38 JST を最後に止まったため。
+- `<link>` / `<guid>` は TBS の記事ページ（`?display=1`）になる。リーダーによっては既存記事が新着として再表示される。
+- フィードには見出しとリンクのみを入れる（本文は含めない）。
+- 配信日時は TBS の記事の日時から取得（旧版の「サムネURLの日付由来で未来日付になる」問題を解消）。
+- 取得失敗・0件のときは既存の `feed.xml` を上書きせず異常終了するように（従来は空のフィードを書き出していた）。
+- 取得は最大3回リトライ。
+
+### Removed
+- Yahoo!ニュース用の取得処理。コードと最終フィードは `archive/` に保存
+  （`fetch_and_build_yahoo.py` / `feed_yahoo_final.xml`）。最終状態は `legacy/yahoo-v1` ブランチと `v1.0.2` タグ。
+
+### Notes
+- 調査（2026-10-05〜08）では本家の約49%（270件中133件）のみが載る。日本国内の企業・金融・政策、
+  オピニオン、定型の市況記事などは載りにくい。
+
 ## [1.0.2] - 2026-07-20
 
 ### Fixed
