@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 03:41:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:44:34 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ハーバード大など名門9校をビザ問題で調査-米政権、外国人材締め付け</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000539?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000539?display=1</guid>
+      <pubDate>Fri, 09 Oct 2026 04:24:49 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディア支援の豪ファーマス、IPO延期へ－調達ラウンドを協議</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000528?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2995904?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/2995904?display=1</guid>
       <pubDate>Wed, 07 Oct 2026 14:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>IMF、経済見通しにベネズエラ公式統計を一部採用へ－関係強化</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2995641?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/2995641?display=1</guid>
-      <pubDate>Wed, 07 Oct 2026 13:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
