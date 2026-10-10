@@ -5,10 +5,22 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 05:13:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:10:15 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>米国株は上昇、決算への期待が追い風－根強いインフレ懸念で国債下落</title>
+      <title>ロシア、世界市場にディーゼル供給へ－トランプ氏がプーチン氏と合意</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3003724?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3003724?display=1</guid>
+      <pubDate>Sat, 10 Oct 2026 06:06:36 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI投資に選別の波、データセンターの新星が大型IPO断念－48時間の舞台裏</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3003699?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3003699?display=1</guid>
+      <pubDate>Sat, 10 Oct 2026 03:50:45 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】株上昇、決算への期待が追い風－ドルは4週連続のプラス</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3003674?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3003674?display=1</guid>
       <pubDate>Sat, 10 Oct 2026 00:18:24 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000020?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000020?display=1</guid>
       <pubDate>Thu, 08 Oct 2026 16:43:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バイトダンスの元インターン、47億円調達－世界モデル開発へ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000019?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000019?display=1</guid>
-      <pubDate>Thu, 08 Oct 2026 16:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ルルレモン、ギャップ傘下アスレタ前幹部採用－新CEO下で経営陣刷新</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2999627?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/2999627?display=1</guid>
-      <pubDate>Thu, 08 Oct 2026 16:28:52 +0900</pubDate>
     </item>
   </channel>
 </rss>
