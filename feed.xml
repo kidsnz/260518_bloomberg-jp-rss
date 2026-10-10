@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 21:49:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:35:30 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ロシアがウクライナの住宅を爆撃、17人死亡－米ロディーゼル合意後</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004443?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004443?display=1</guid>
+      <pubDate>Sat, 10 Oct 2026 22:47:02 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏､ノーベル平和賞受賞逃しノルウェー批判-｢忘れない｣と警告</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004334?display=1</link>
@@ -50,7 +56,7 @@
       <pubDate>Sat, 10 Oct 2026 10:38:42 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピック、AIの新たな意図せぬ行動を報告－米政府サイトでも</title>
+      <title>アンソロピック、AIモデルが暴走－殺人事件で警察に虚偽の情報提供も</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3003816?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3003816?display=1</guid>
       <pubDate>Sat, 10 Oct 2026 09:46:32 +0900</pubDate>
@@ -62,7 +68,7 @@
       <pubDate>Sat, 10 Oct 2026 09:28:08 +0900</pubDate>
     </item>
     <item>
-      <title>ロシア、世界市場にディーゼル供給へ－トランプ氏がプーチン氏と合意</title>
+      <title>トランプ氏、ロシア産ディーゼルを米国に供給へ－中間選挙控え</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3003724?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3003724?display=1</guid>
       <pubDate>Sat, 10 Oct 2026 06:06:36 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000528?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000528?display=1</guid>
       <pubDate>Fri, 09 Oct 2026 03:15:14 +0900</pubDate>
-    </item>
-    <item>
-      <title>フランス国債急落、危機波及の兆し－それでもECBが介入に慎重な理由</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000538?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000538?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 02:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
