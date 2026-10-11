@@ -5,8 +5,32 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 09:17:52 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:06:50 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>マイクロソフトのナデラCEO、高性能AIに「緊急ブレーキ」構築訴え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004762?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004762?display=1</guid>
+      <pubDate>Sun, 11 Oct 2026 13:57:29 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI関連株ブームの象徴だった韓国市場、今や買い手の呼び込みに苦戦</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004764?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004764?display=1</guid>
+      <pubDate>Sun, 11 Oct 2026 12:35:54 +0900</pubDate>
+    </item>
+    <item>
+      <title>【焦点】米CPI、ガソリン価格上昇受け加速の見通し－コア指数は鈍化</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004611?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004611?display=1</guid>
+      <pubDate>Sun, 11 Oct 2026 09:31:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>高金利でも止まらぬAI起債、市場の「安全弁」揺らぐ－供給吸収に懸念</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004763?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004763?display=1</guid>
+      <pubDate>Sun, 11 Oct 2026 07:02:31 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、ウクライナに「新大統領が必要」－ゼレンスキー氏を批判</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004464?display=1</link>
@@ -14,7 +38,7 @@
       <pubDate>Sun, 11 Oct 2026 04:03:41 +0900</pubDate>
     </item>
     <item>
-      <title>サウジ、首都リヤドの空港の運用を一時停止－「敵」の攻撃受け</title>
+      <title>サウジの首都リヤドの空港への攻撃で12人死亡、309人負傷</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004459?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004459?display=1</guid>
       <pubDate>Sun, 11 Oct 2026 02:31:30 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000791?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000791?display=1</guid>
       <pubDate>Fri, 09 Oct 2026 10:24:56 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株持ち直す、AI懸念の半導体売り一巡－金利低下が加速</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000784?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000784?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 09:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本のIPO件数が14年ぶり低水準、AIブーム乗れず－東証新基準も逆風</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000785?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000785?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 09:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アップル、M&amp;A責任者を交代－ターナスCEO下で相次ぐ経営陣刷新</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000793?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000793?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 09:26:36 +0900</pubDate>
-    </item>
-    <item>
-      <title>アニメ人気、若年層で一段と浸透－視聴時間増え関連消費にも波及</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000642?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000642?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 09:10:53 +0900</pubDate>
     </item>
   </channel>
 </rss>
