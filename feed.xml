@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:06:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:13:37 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ氏のAI安全性確保策、暴走モデル巡り責任の押し付け合いも</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004927?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004927?display=1</guid>
+      <pubDate>Sun, 11 Oct 2026 16:14:30 +0900</pubDate>
+    </item>
     <item>
       <title>マイクロソフトのナデラCEO、高性能AIに「緊急ブレーキ」構築訴え</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004762?display=1</link>
@@ -24,6 +30,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3004611?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3004611?display=1</guid>
       <pubDate>Sun, 11 Oct 2026 09:31:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>「106万円撤廃」と「130万円緩和」で変わるパート雇用最低賃金上昇で接近する“2つの”壁</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/2989337?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/2989337?display=1</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0900</pubDate>
     </item>
     <item>
       <title>高金利でも止まらぬAI起債、市場の「安全弁」揺らぐ－供給吸収に懸念</title>
@@ -104,7 +116,7 @@
       <pubDate>Sat, 10 Oct 2026 10:38:42 +0900</pubDate>
     </item>
     <item>
-      <title>アンソロピック、AIモデルが暴走－殺人事件で警察に虚偽の情報提供も</title>
+      <title>アンソロピックのAIモデルが暴走、警察に虚偽の情報提供やビザ申請も</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3003816?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3003816?display=1</guid>
       <pubDate>Sat, 10 Oct 2026 09:46:32 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3001054?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3001054?display=1</guid>
       <pubDate>Fri, 09 Oct 2026 10:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI向け債務急増で米テック債に影響顕在化－トレーダーはリスク再評価</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3001188?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3001188?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 10:32:57 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAIへの先行投資が奏功、タイガー・グローバル含み益50億ドルへ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3000791?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3000791?display=1</guid>
-      <pubDate>Fri, 09 Oct 2026 10:24:56 +0900</pubDate>
     </item>
   </channel>
 </rss>
