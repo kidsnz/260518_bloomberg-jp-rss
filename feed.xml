@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:00:10 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:24:54 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>シンガポール船籍コンテナ船が沈没、ホルムズ海峡で－船舶攻撃が激化</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012624?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012624?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 08:03:08 +0900</pubDate>
+    </item>
     <item>
       <title>AIクラウドのコアウィーブに信用不安、社債・株急落－成長神話に試練</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012596?display=1</link>
@@ -32,7 +38,7 @@
       <pubDate>Thu, 15 Oct 2026 02:40:18 +0900</pubDate>
     </item>
     <item>
-      <title>半導体株の下落止まらず、6営業日で時価総額1兆ドル消失へ</title>
+      <title>米半導体株の売り加速、時価総額250兆円消失－AI投資への懸念強まる</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012577?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012577?display=1</guid>
       <pubDate>Thu, 15 Oct 2026 01:54:11 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3009386?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3009386?display=1</guid>
       <pubDate>Wed, 14 Oct 2026 00:33:28 +0900</pubDate>
-    </item>
-    <item>
-      <title>AIに任せた仕事でミス、責任は誰に－企業で活用拡大も対応追いつかず</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3009387?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3009387?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 00:06:23 +0900</pubDate>
     </item>
   </channel>
 </rss>
