@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 18:40:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:37:04 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>デビアス買収にリシュモンとシグネットが参加検討－交渉進展</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015747?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3015747?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 18:59:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>城内経財相、リフレ政策は今必要としていない－デフレ脱却ステージに</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015750?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3015750?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 18:57:00 +0900</pubDate>
+    </item>
     <item>
       <title>スマートニュースが12月に上場先送り、時価総額目標500億円－関係者</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015600?display=1</link>
@@ -32,7 +44,7 @@
       <pubDate>Thu, 15 Oct 2026 16:34:00 +0900</pubDate>
     </item>
     <item>
-      <title>TSMC、売上高見通しが予想上回る－AI投資懸念の中でも設備投資維持</title>
+      <title>TSMC、売上高見通しが予想上回る－好決算でもAI投資への懸念拭えず</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014823?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3014823?display=1</guid>
       <pubDate>Thu, 15 Oct 2026 15:19:00 +0900</pubDate>
@@ -80,7 +92,13 @@
       <pubDate>Thu, 15 Oct 2026 12:27:00 +0900</pubDate>
     </item>
     <item>
-      <title>米国債が全面高、世界的な株安でリスク回避強まる－日本国債も上昇</title>
+      <title>FRBは12月に0.5ポイント利上げも選択肢に－有力エコノミストが予想</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3014140?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3014140?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 12:22:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債主導で世界的な債券高、株安でリスク回避加速－日英独債も上昇</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013844?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3013844?display=1</guid>
       <pubDate>Thu, 15 Oct 2026 12:17:00 +0900</pubDate>
@@ -90,6 +108,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013843?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3013843?display=1</guid>
       <pubDate>Thu, 15 Oct 2026 11:58:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>SKハイニックス株、ピークから6割近く下落－AIトレード巻き戻し加速</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3013507?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3013507?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 11:29:00 +0900</pubDate>
     </item>
     <item>
       <title>良品計画株が最高値更新、海外成長に自信－欧米出店へ「アクセル」</title>
@@ -116,7 +140,7 @@
       <pubDate>Thu, 15 Oct 2026 10:13:45 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均3600円安、AI懸念でリスクオフ－金利低下、円高</title>
+      <title>【日本市況】株価6万5000円割れ、コアウィーブ懸念－金利低下、円高</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012799?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012799?display=1</guid>
       <pubDate>Thu, 15 Oct 2026 09:30:00 +0900</pubDate>
@@ -126,6 +150,24 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012682?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012682?display=1</guid>
       <pubDate>Thu, 15 Oct 2026 08:59:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI大手、なぜ借り入れ急増？ データセンター投資が変える財務戦略</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012684?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012684?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 08:32:37 +0900</pubDate>
+    </item>
+    <item>
+      <title>KKRの社債投資、日本の金融機関を選好－債券安後で高利回り得る好機</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012803?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012803?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 08:26:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>シンガポール船籍コンテナ船が沈没、ホルムズ海峡で－船舶攻撃が激化</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012624?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012624?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 08:03:08 +0900</pubDate>
     </item>
     <item>
       <title>アンソロピック、第3四半期は売上高168億ドルに－IPO控え黒字化</title>
@@ -176,6 +218,12 @@
       <pubDate>Thu, 15 Oct 2026 01:43:17 +0900</pubDate>
     </item>
     <item>
+      <title>中国製AIモデルの利用、セキュリティーリスクに－OpenAIのCFOが警告</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012595?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012595?display=1</guid>
+      <pubDate>Thu, 15 Oct 2026 01:15:00 +0900</pubDate>
+    </item>
+    <item>
       <title>米CPIは5カ月ぶりの大幅な伸び、幅広い品目で上昇－コアも強め</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012563?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012563?display=1</guid>
@@ -192,6 +240,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012547?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012547?display=1</guid>
       <pubDate>Wed, 14 Oct 2026 23:38:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>モルガンS、ウェルス部門が好調－株式トレーディング収入は予想以上</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012622?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012622?display=1</guid>
+      <pubDate>Wed, 14 Oct 2026 23:25:00 +0900</pubDate>
     </item>
     <item>
       <title>原油、不安定な値動き－アラムコ本社攻撃、供給回復に不透明感</title>
@@ -252,60 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010781?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010781?display=1</guid>
       <pubDate>Wed, 14 Oct 2026 13:31:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>京都大学、株式比率を4割に倍増へ－外資出身CIO下で資金運用積極化</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010782?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010782?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>5年債入札「無難」と市場関係者、応札倍率は過去12カ月平均を上回る</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010468?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010468?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 12:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>インフレの二次的影響まだ見られず－ラガルドECB総裁</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010469?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010469?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 12:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ホンダ、北米高級車ブランド「アキュラ」で最大8人乗り大型SUV投入へ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010147?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010147?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:30 +0900</pubDate>
-    </item>
-    <item>
-      <title>タイ、観光客に約5000円の出国税導入を検討－歳入確保へ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010148?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010148?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 11:50:30 +0900</pubDate>
-    </item>
-    <item>
-      <title>英国の大企業、AI導入で人員削減の動き－デロイトのCFO調査</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010142?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010142?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 11:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック、IPO前の投資家説明会を14日開催へ－11月上場を視野</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3010144?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3010144?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 11:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米株にバブルの様相、40年のキャリアで異例の水準－ローゼンバーグ氏</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3009600?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3009600?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 10:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【日本市況】株下落、ASML決算不発で半導体失速－入札好調の債券復調</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3009603?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3009603?display=1</guid>
-      <pubDate>Wed, 14 Oct 2026 09:37:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
