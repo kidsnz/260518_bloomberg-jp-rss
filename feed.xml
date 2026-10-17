@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:26:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:42:06 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ECBラガルド総裁、財政の持続可能性は経済安定の「重要な土台」</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019663?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3019663?display=1</guid>
+      <pubDate>Sat, 17 Oct 2026 16:11:20 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI成長懸念とインフレ再燃、2つのリスクに揺れたウォール街の1週間</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019664?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3019664?display=1</guid>
+      <pubDate>Sat, 17 Oct 2026 14:55:31 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、ロシア産エネルギー巡る関税・制裁の適用免除－軽油高で</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019489?display=1</link>
@@ -24,6 +36,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019400?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3019400?display=1</guid>
       <pubDate>Sat, 17 Oct 2026 10:12:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>エナジードリンクの日常化が招くリスク　若年層のカフェイン過剰摂取と救急搬送の現実</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012209?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012209?display=1</guid>
+      <pubDate>Sat, 17 Oct 2026 07:30:00 +0900</pubDate>
     </item>
     <item>
       <title>トランプ大統領の新報道官、わずか5日で退任－中間選挙前に広報混乱</title>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016032?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016032?display=1</guid>
       <pubDate>Fri, 16 Oct 2026 06:07:59 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソニー、5900ドルの金メッキ「ウォークマン」発表－高音質志向に照準</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016024?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016024?display=1</guid>
-      <pubDate>Fri, 16 Oct 2026 04:34:45 +0900</pubDate>
-    </item>
-    <item>
-      <title>EU、中国製品の輸入阻止で権限強化へ－対中貿易赤字削減に向け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016021?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016021?display=1</guid>
-      <pubDate>Fri, 16 Oct 2026 04:13:33 +0900</pubDate>
-    </item>
-    <item>
-      <title>PNCが独自のAI戦略、インフラを「自前」で構築－外部依存と一線</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016013?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016013?display=1</guid>
-      <pubDate>Fri, 16 Oct 2026 02:30:54 +0900</pubDate>
     </item>
   </channel>
 </rss>
