@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:42:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:49:33 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>フーシ派、イエメン・アデン空港攻撃－サウジはミサイルや無人機迎撃</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019825?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3019825?display=1</guid>
+      <pubDate>Sat, 17 Oct 2026 18:46:31 +0900</pubDate>
+    </item>
     <item>
       <title>ECBラガルド総裁、財政の持続可能性は経済安定の「重要な土台」</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019663?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016039?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016039?display=1</guid>
       <pubDate>Fri, 16 Oct 2026 06:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏の新報道官、中国巡り侮辱発言－｢まともなトイレすらない｣</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016032?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016032?display=1</guid>
-      <pubDate>Fri, 16 Oct 2026 06:07:59 +0900</pubDate>
     </item>
   </channel>
 </rss>
