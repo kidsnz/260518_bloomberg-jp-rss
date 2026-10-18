@@ -5,7 +5,7 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:01:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:07:48 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>ホルムズ海峡で石油タンカー2隻が機雷に接触－イランメディア</title>
@@ -60,6 +60,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3019400?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3019400?display=1</guid>
       <pubDate>Sat, 17 Oct 2026 10:12:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>高齢者住宅の常識が変わる？東京都の新制度がめざす「つながる住まい」のかたち</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3012235?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3012235?display=1</guid>
+      <pubDate>Sat, 17 Oct 2026 09:30:00 +0900</pubDate>
     </item>
     <item>
       <title>エナジードリンクの日常化が招くリスク　若年層のカフェイン過剰摂取と救急搬送の現実</title>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016049?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016049?display=1</guid>
       <pubDate>Fri, 16 Oct 2026 07:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>テクノロジー株、2027年利益成長の70%をけん引へ－シティが予想</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3015910?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3015910?display=1</guid>
-      <pubDate>Fri, 16 Oct 2026 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
