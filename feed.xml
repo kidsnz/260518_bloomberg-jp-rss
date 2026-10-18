@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:11:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:38:26 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピック、株式5%を新設「公益」基金に拠出－AIの影響に対応へ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020509?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020509?display=1</guid>
+      <pubDate>Mon, 19 Oct 2026 04:31:37 +0900</pubDate>
+    </item>
     <item>
       <title>ウクライナ大統領「全員が会う必要」－新たな和平協議を米国側と調整</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020496?display=1</link>
@@ -20,7 +26,7 @@
       <pubDate>Mon, 19 Oct 2026 01:42:42 +0900</pubDate>
     </item>
     <item>
-      <title>カナダの軍事基地で火災発生、7人死亡の報道－テロを示す兆候なし</title>
+      <title>カナダ西部アルバータ州の軍基地で火災、兵士4人死亡・数十人が重傷</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020493?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020493?display=1</guid>
       <pubDate>Mon, 19 Oct 2026 00:55:45 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016777?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016777?display=1</guid>
       <pubDate>Fri, 16 Oct 2026 11:11:39 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン保有のストラテジー、指数除外も－MSCIが新ルール</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3016411?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3016411?display=1</guid>
-      <pubDate>Fri, 16 Oct 2026 10:45:32 +0900</pubDate>
     </item>
   </channel>
 </rss>
