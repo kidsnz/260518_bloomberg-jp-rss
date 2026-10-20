@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:26:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:30:01 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>CFA証券アナリスト試験、レベル3合格率は47%－過去平均を下回る</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026344?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026344?display=1</guid>
+      <pubDate>Wed, 21 Oct 2026 03:10:42 +0900</pubDate>
+    </item>
     <item>
       <title>フランス小売り大手カルフール、業績予想を下方修正－暴動で客足減少</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026336?display=1</link>
@@ -26,7 +32,7 @@
       <pubDate>Tue, 20 Oct 2026 20:41:00 +0900</pubDate>
     </item>
     <item>
-      <title>ブレント原油が111ドル台、5カ月ぶり高値－イランの攻撃リスクを意識</title>
+      <title>北海ブレント原油が荒い値動き、米・イラン交渉を巡る複数報道で</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026225?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026225?display=1</guid>
       <pubDate>Tue, 20 Oct 2026 20:35:00 +0900</pubDate>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3021606?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3021606?display=1</guid>
       <pubDate>Mon, 19 Oct 2026 12:19:10 +0900</pubDate>
-    </item>
-    <item>
-      <title>エジプトのシシ大統領、必要ならサウジ防衛へ－フーシ派の攻撃受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3021271?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3021271?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 11:59:43 +0900</pubDate>
     </item>
   </channel>
 </rss>
