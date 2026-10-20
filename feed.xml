@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:14:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:26:55 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>フランス小売り大手カルフール、業績予想を下方修正－暴動で客足減少</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026336?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026336?display=1</guid>
+      <pubDate>Wed, 21 Oct 2026 02:26:34 +0900</pubDate>
+    </item>
+    <item>
+      <title>GM株が急落、CEOは逆風の強まりを警戒－利益見通しの予想レンジ縮小</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026322?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026322?display=1</guid>
+      <pubDate>Wed, 21 Oct 2026 00:35:31 +0900</pubDate>
+    </item>
     <item>
       <title>英国、フーシ派攻撃からサウジ防衛へ－空軍がタイフーン戦闘機配備</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026281?display=1</link>
@@ -32,7 +44,7 @@
       <pubDate>Tue, 20 Oct 2026 18:19:00 +0900</pubDate>
     </item>
     <item>
-      <title>独仏10年債スプレッド、再び150bpに－抗議活動や財政への懸念根強く</title>
+      <title>独仏10年債スプレッド、再び150bp超え－抗議活動や財政懸念根強く</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026076?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026076?display=1</guid>
       <pubDate>Tue, 20 Oct 2026 18:18:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3021271?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3021271?display=1</guid>
       <pubDate>Mon, 19 Oct 2026 11:59:43 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国7－9月経済成長率4.5%、予想上回る－通年目標達成に現実味</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3021604?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3021604?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 11:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>情報漏えいは企業の16.2％で発生、大企業は3割が経験－帝国データ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3021602?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3021602?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 11:32:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
