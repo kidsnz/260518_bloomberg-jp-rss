@@ -5,8 +5,26 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:04:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:15:02 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ブラジル、アマゾン森林破壊率が過去最低に－ルラ大統領に追い風</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024835?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3024835?display=1</guid>
+      <pubDate>Tue, 20 Oct 2026 14:54:27 +0900</pubDate>
+    </item>
+    <item>
+      <title>ヘッジファンド、ハイテク株の持ち高を急速に縮小－ゴールドマン調査</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3025155?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3025155?display=1</guid>
+      <pubDate>Tue, 20 Oct 2026 14:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>銀行株が下げ幅拡大、20年債入札好調で長期金利ピークアウトとの見方</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024831?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3024831?display=1</guid>
+      <pubDate>Tue, 20 Oct 2026 13:44:00 +0900</pubDate>
+    </item>
     <item>
       <title>メルツ独首相、ECB幹部人事は迅速に決定可能－総裁職含む</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024238?display=1</link>
@@ -14,13 +32,19 @@
       <pubDate>Tue, 20 Oct 2026 12:42:00 +0900</pubDate>
     </item>
     <item>
-      <title>20年国債入札、応札倍率は過去最高水準</title>
+      <title>20年国債入札、応札倍率は過去最高－「不明」8割超に年金買いの影も</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024234?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3024234?display=1</guid>
       <pubDate>Tue, 20 Oct 2026 12:38:00 +0900</pubDate>
     </item>
     <item>
-      <title>ソフトバンクGの信用リスク、約4年ぶり高水準－AI投資の資金負担警戒</title>
+      <title>サイバー攻撃、AIツール利用の痕跡相次ぎ発覚－GMO系などが調査</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024532?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3024532?display=1</guid>
+      <pubDate>Tue, 20 Oct 2026 12:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクGの信用リスク、4年ぶり高水準－AI投資負担を警戒</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3024236?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3024236?display=1</guid>
       <pubDate>Tue, 20 Oct 2026 11:07:00 +0900</pubDate>
@@ -56,7 +80,7 @@
       <pubDate>Tue, 20 Oct 2026 09:44:48 +0900</pubDate>
     </item>
     <item>
-      <title>データセンターの韓国エリス、上場初日に株価32％急落－240億円IPO後</title>
+      <title>データセンターの韓国エリス、上場初日に株価32%急落－240億円IPO後</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3023636?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3023636?display=1</guid>
       <pubDate>Tue, 20 Oct 2026 09:38:00 +0900</pubDate>
@@ -132,6 +156,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3023267?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3023267?display=1</guid>
       <pubDate>Tue, 20 Oct 2026 00:49:28 +0900</pubDate>
+    </item>
+    <item>
+      <title>トルコ市場規制当局トップが辞任、ファンド危機の余波なお続く</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3023295?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3023295?display=1</guid>
+      <pubDate>Tue, 20 Oct 2026 00:33:00 +0900</pubDate>
     </item>
     <item>
       <title>ゴールドマンやエバコア、｢永久型｣ファンド提案－有望資産を長期保有</title>
@@ -276,36 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020645?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020645?display=1</guid>
       <pubDate>Mon, 19 Oct 2026 09:25:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ユーロ下落、ウクライナ情勢と仏抗議デモで心理悪化－一段安に警戒も</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020902?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020902?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 09:22:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>プーチン氏が米中首脳との3者会談提案、ウクライナ終戦巡り協議－WSJ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020647?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020647?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 08:49:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、AI収益性懸念拡大で株下落へ－仏情勢受けユーロ安、円膠着</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020648?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020648?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 08:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ブレント原油5カ月ぶり高値付近、中東リスクとディーゼル合意見極め</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020646?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020646?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 08:06:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株は反落へ、信用不安で半導体関連に売り－原油安は支え</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3020545?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3020545?display=1</guid>
-      <pubDate>Mon, 19 Oct 2026 07:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
