@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:29:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:43:14 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>メタ、ザッカーバーグ氏のカリフォルニア州残留へ新株－富裕税に備え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029541?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3029541?display=1</guid>
+      <pubDate>Thu, 22 Oct 2026 08:18:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国DeepSeek、AI推論ソフトをオープンソース化－運用コスト低減へ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029542?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3029542?display=1</guid>
+      <pubDate>Thu, 22 Oct 2026 08:17:35 +0900</pubDate>
+    </item>
     <item>
       <title>メタがAI投資を拡大、設備投資見通し引き上げ－新種類株を計画</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029500?display=1</link>
@@ -14,7 +26,7 @@
       <pubDate>Thu, 22 Oct 2026 05:48:00 +0900</pubDate>
     </item>
     <item>
-      <title>テスラ、7－9月期利益が市場予想上回る－売上高は予想届かず</title>
+      <title>テスラ、設備投資が市場予想下回る－AI・ロボット企業への転換に暗雲</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3029501?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3029501?display=1</guid>
       <pubDate>Thu, 22 Oct 2026 05:38:00 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026316?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026316?display=1</guid>
       <pubDate>Wed, 21 Oct 2026 01:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>GM株が急落、CEOは逆風の強まりを警戒－利益見通しの予想レンジ縮小</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026322?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026322?display=1</guid>
-      <pubDate>Wed, 21 Oct 2026 00:35:31 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI投資ブームの変調匂わすネオクラウドの失速－市場の懸念収まらず</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3026360?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3026360?display=1</guid>
-      <pubDate>Wed, 21 Oct 2026 00:20:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
