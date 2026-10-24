@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 22:47:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 02:09:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米・イスラエルの選挙後が最も危険、イラン戦争に響く再激化の足音</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036133?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036133?display=1</guid>
+      <pubDate>Sat, 24 Oct 2026 23:21:59 +0900</pubDate>
+    </item>
     <item>
       <title>北朝鮮の金正恩氏、約1年で2度目の中国訪問－トランプ氏訪中控え</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036045?display=1</link>
@@ -24,6 +30,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036084?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036084?display=1</guid>
       <pubDate>Sat, 24 Oct 2026 14:26:33 +0900</pubDate>
+    </item>
+    <item>
+      <title>半年間、花を飾り続ける過酷な舞台裏　国際園芸博覧会に挑む生産者たちの狙いとは</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3027973?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3027973?display=1</guid>
+      <pubDate>Sat, 24 Oct 2026 12:30:00 +0900</pubDate>
     </item>
     <item>
       <title>ソフトバンクG出資のオーペイ、米IPO届け出－最大530億円調達目指す</title>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3032475?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3032475?display=1</guid>
       <pubDate>Fri, 23 Oct 2026 07:33:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX､米携帯電話参入へ-全米8万カ所以上の基地局確保に向け協議</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3032422?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3032422?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 07:00:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国債の大幅上昇に備えるヘッジコストが急上昇－3月以来の高水準</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3032432?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3032432?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 06:09:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
