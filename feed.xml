@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 05:17:15 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:43:10 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ハセットNEC委員長、米国とカナダの通商交渉「合意はかなり近い」</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036873?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036873?display=1</guid>
+      <pubDate>Mon, 26 Oct 2026 06:13:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>AIの海外展開、DeepSeekとミニマックスに認める－中国テック輸出戦略</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036874?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036874?display=1</guid>
+      <pubDate>Mon, 26 Oct 2026 05:54:17 +0900</pubDate>
+    </item>
     <item>
       <title>米国株再び波乱も、米ハイテク決算後を警戒－AI投資の見返りに疑念</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036847?display=1</link>
@@ -14,7 +26,7 @@
       <pubDate>Mon, 26 Oct 2026 03:56:02 +0900</pubDate>
     </item>
     <item>
-      <title>トランプ大統領、イラン巡り合意するか攻撃再開か「決断の時近づく」</title>
+      <title>トランプ氏、イラン巡り合意するか攻撃再開か「決断の時近づく」</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036845?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036845?display=1</guid>
       <pubDate>Mon, 26 Oct 2026 01:49:59 +0900</pubDate>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3034145?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3034145?display=1</guid>
       <pubDate>Fri, 23 Oct 2026 14:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>野村証、金融機関向けサービス「i-Port」で顧客情報漏えいの可能性</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3034414?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3034414?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 14:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【債券週間展望】長期金利は上昇の公算、日米利上げ姿勢や株価にらむ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3034409?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3034409?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 14:44:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
