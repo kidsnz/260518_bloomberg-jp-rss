@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 02:44:31 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:17:15 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米国株再び波乱も、米ハイテク決算後を警戒－AI投資の見返りに疑念</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036847?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036847?display=1</guid>
+      <pubDate>Mon, 26 Oct 2026 03:56:02 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ大統領、イラン巡り合意するか攻撃再開か「決断の時近づく」</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036845?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3034409?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3034409?display=1</guid>
       <pubDate>Fri, 23 Oct 2026 14:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI不安の安全資産買い、日本国債の利回り急低下促す－日銀先送り観測</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3034147?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3034147?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 13:56:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
