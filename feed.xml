@@ -5,8 +5,32 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:10:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:44:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>トランプ大統領、イラン巡り合意するか攻撃再開か「決断の時近づく」</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036845?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036845?display=1</guid>
+      <pubDate>Mon, 26 Oct 2026 01:49:59 +0900</pubDate>
+    </item>
+    <item>
+      <title>オバマ氏、｢気骨のない議会｣続けさせるな－物価高はトランプ氏の責任</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036837?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036837?display=1</guid>
+      <pubDate>Mon, 26 Oct 2026 00:31:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>エプスタイン問題、米中間選挙で再び争点に－民主党は徹底調査の構え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036833?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036833?display=1</guid>
+      <pubDate>Mon, 26 Oct 2026 00:20:58 +0900</pubDate>
+    </item>
+    <item>
+      <title>ゴールドマン､韓国株価指数の目標25%引き下げ－AIトレードの不安反映</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036830?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036830?display=1</guid>
+      <pubDate>Sun, 25 Oct 2026 21:52:39 +0900</pubDate>
+    </item>
     <item>
       <title>孫正義氏、マレーシアに500億ドル投資へ－AIデータセンターなど対象</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036580?display=1</link>
@@ -80,7 +104,7 @@
       <pubDate>Sat, 24 Oct 2026 17:47:02 +0900</pubDate>
     </item>
     <item>
-      <title>北朝鮮の金正恩氏、約1年で2度目の中国訪問－トランプ氏訪中控え</title>
+      <title>北朝鮮の金正恩氏が中国訪問、序列4位と会談－トランプ氏訪中を控え</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3036045?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3036045?display=1</guid>
       <pubDate>Sat, 24 Oct 2026 16:10:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3034147?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3034147?display=1</guid>
       <pubDate>Fri, 23 Oct 2026 13:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>【来週の円相場】リスクオフの円高続く、米テック決算で155円突破も</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3033565?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3033565?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 12:51:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>金価格、一時4000ドル割れ－株式相場下落、換金売りが金にも広がる</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3033848?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3033848?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 12:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>世界の信用スプレッド拡大、25年5月以来の高水準－AI懸念で逃避需要</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3033232?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3033232?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 12:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円への逃避需要復活、米ハイテク株安でドルより選好－1カ月ぶり高値</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3033238?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3033238?display=1</guid>
-      <pubDate>Fri, 23 Oct 2026 11:42:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
