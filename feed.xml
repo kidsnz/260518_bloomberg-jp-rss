@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:54:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:28:39 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>イラン最高指導者、軍に対米報復の選択肢拡大を命令</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3053545?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3053545?display=1</guid>
+      <pubDate>Sat, 31 Oct 2026 22:07:17 +0900</pubDate>
+    </item>
     <item>
       <title>米中間選挙、期日前投票が過去最多－民主リード、20年の水準接近</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3053456?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049369?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049369?display=1</guid>
       <pubDate>Fri, 30 Oct 2026 06:43:19 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、バンス米副大統領の書簡受け取り－交渉で譲歩しない考え示唆</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049360?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049360?display=1</guid>
-      <pubDate>Fri, 30 Oct 2026 06:35:47 +0900</pubDate>
     </item>
   </channel>
 </rss>
