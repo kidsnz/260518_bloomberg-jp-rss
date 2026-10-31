@@ -5,8 +5,32 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:27:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:07:23 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米当局、バイナンスの巨額暗号資産流出を捜査－60億ドル超</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3053080?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3053080?display=1</guid>
+      <pubDate>Sat, 31 Oct 2026 11:05:29 +0900</pubDate>
+    </item>
+    <item>
+      <title>フランス格付け見通し「ネガティブ」に、財政悪化で－フィッチ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3053082?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3053082?display=1</guid>
+      <pubDate>Sat, 31 Oct 2026 08:27:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>FRB当局者3人が追加利上げを支持、引き締めペースは「段階的に」</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3052908?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3052908?display=1</guid>
+      <pubDate>Sat, 31 Oct 2026 06:48:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>アマゾン、AI投資へ最大800億ドルの融資枠確保－購入機器を担保に</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3052909?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3052909?display=1</guid>
+      <pubDate>Sat, 31 Oct 2026 06:06:32 +0900</pubDate>
+    </item>
     <item>
       <title>茂木外相、ロシアに道新記者の即時解放を要求－ラブロフ外相と会談</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3052752?display=1</link>
@@ -44,7 +68,7 @@
       <pubDate>Sat, 31 Oct 2026 00:47:35 +0900</pubDate>
     </item>
     <item>
-      <title>ナスダック100指数3%安、テック決算失望でAI投資に疑念－157円台前半</title>
+      <title>【米国市況】株続落、AI投資巡る疑念でテック売り加速－157円台半ば</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3052697?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3052697?display=1</guid>
       <pubDate>Sat, 31 Oct 2026 00:02:06 +0900</pubDate>
@@ -224,7 +248,7 @@
       <pubDate>Fri, 30 Oct 2026 07:58:00 +0900</pubDate>
     </item>
     <item>
-      <title>バイナンスに過去最大の暗号資産ハッキング、63億ドルに影響</title>
+      <title>バイナンスに過去最大の暗号資産ハッキング、推定約1兆円に影響</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049389?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049389?display=1</guid>
       <pubDate>Fri, 30 Oct 2026 07:49:00 +0900</pubDate>
@@ -282,30 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049344?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049344?display=1</guid>
       <pubDate>Fri, 30 Oct 2026 04:09:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米大学でコンピューター科学の学生が急減－AIがプログラミング職奪う</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049339?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049339?display=1</guid>
-      <pubDate>Fri, 30 Oct 2026 03:19:42 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI特需のキャタピラー、株価が急落－増収増益でも高い期待の壁</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049322?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049322?display=1</guid>
-      <pubDate>Fri, 30 Oct 2026 02:55:39 +0900</pubDate>
-    </item>
-    <item>
-      <title>アルファベット、追加のAI関連リスク開示－エネルギー関連保証は倍増</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049323?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049323?display=1</guid>
-      <pubDate>Fri, 30 Oct 2026 02:55:19 +0900</pubDate>
-    </item>
-    <item>
-      <title>ECB、インフレ見通し改善なければ12月にも利上げ－関係者</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049359?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049359?display=1</guid>
-      <pubDate>Fri, 30 Oct 2026 02:12:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
