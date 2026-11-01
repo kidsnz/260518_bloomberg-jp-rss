@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 19:58:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:01:28 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>米PE業界の献金額、10年ぶり共和党が民主党を逆転－規制強化を警戒</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3054401?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3054401?display=1</guid>
+      <pubDate>Mon, 02 Nov 2026 00:03:11 +0900</pubDate>
+    </item>
     <item>
       <title>バイナンス、顧客の出金を段階的に再開－過去最大のハッキング後</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3054150?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3050433?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3050433?display=1</guid>
       <pubDate>Fri, 30 Oct 2026 10:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米10年国債利回りが下げ拡大､一時4.89%－安全資産への資金シフト加速</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3049669?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3049669?display=1</guid>
-      <pubDate>Fri, 30 Oct 2026 10:25:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
