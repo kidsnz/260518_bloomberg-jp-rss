@@ -5,10 +5,22 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 18:48:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:01:42 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>ソフトバンクGとABB、ロボット事業統合に向け中国事業の分離を検討</title>
+      <title>米バークシャー、7－9月の営業利益5.8%減－自社株買い拡大</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069800?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069800?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 22:24:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロシア、JT関連3社を追加で一時管理下に－対象は計7社</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069787?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069787?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 22:07:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>ソフトバンクGとABB、ロボット事業統合に向け中国事業の分離検討</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069711?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069711?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 17:47:20 +0900</pubDate>
@@ -30,6 +42,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069318?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069318?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 11:20:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>パラグアイのペニャ大統領罷免－銀行破綻に絡む疑惑で自宅軟禁</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069788?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069788?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 09:58:52 +0900</pubDate>
     </item>
     <item>
       <title>AI投資ブームに転機、危うい新局面入り－激動の1週間で警戒感強まる</title>
@@ -84,6 +102,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069121?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069121?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 02:27:22 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディアCEO召喚も－民主主導の新議会、対中販売巡り追及の構え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069789?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069789?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 02:05:45 +0900</pubDate>
     </item>
     <item>
       <title>米消費者マインド改善、3カ月ぶりの高水準－無党派層がけん引</title>
@@ -282,30 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065827?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065827?display=1</guid>
       <pubDate>Fri, 06 Nov 2026 07:30:38 +0900</pubDate>
-    </item>
-    <item>
-      <title>著名投資家バーリ氏、米半導体ETFのプット保有分25%売却－残りは保有</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065825?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065825?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 06:55:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ゴールドマンに問い合わせ電話殺到、米ハイテク株急落－買い手不在</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065826?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065826?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 06:11:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>謎の売り手はING、データセンター融資5億ドル売却へ－AI投資に逆風</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065879?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065879?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マイクロソフト、ネオクラウドへの熱冷める－データセンター遅延響く</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065828?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065828?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 05:38:10 +0900</pubDate>
     </item>
   </channel>
 </rss>
