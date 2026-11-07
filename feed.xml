@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 01:01:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:23:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>愛知県で震度5強の地震、津波の心配なし－浜岡原発は異常確認されず</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069853?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069853?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 02:59:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>バイナンスのCFO退任へ、後任にジャスティン・イェク氏</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069847?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069847?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 01:40:16 +0900</pubDate>
+    </item>
     <item>
       <title>米バークシャー、7－9月の営業利益5.8%減－自社株買い拡大</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069800?display=1</link>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065878?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065878?display=1</guid>
       <pubDate>Fri, 06 Nov 2026 07:46:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>円上昇、米ハイテク株安で安全資産需要－CIBCと野村は一段の円高予想</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065881?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065881?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 07:44:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>オラクルのAIデータセンター、電力確保さらに遅れも－許可審査長期化</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065827?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065827?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 07:30:38 +0900</pubDate>
     </item>
   </channel>
 </rss>
