@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:23:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:45:47 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>コアウィーブ、テキサス次期知事に協力要請－データセンター計画巡り</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069907?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069907?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 06:09:28 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、総合格闘技UFCのホワイト氏に大統領報道官就任を打診</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069860?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069860?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 04:07:29 +0900</pubDate>
+    </item>
     <item>
       <title>愛知県で震度5強の地震、津波の心配なし－浜岡原発は異常確認されず</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069853?display=1</link>
@@ -54,6 +66,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069318?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069318?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 11:20:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>お小遣いはサラリーマン以上？「金持ち大学生」のリアルと消費の二極化</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3060033?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3060033?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>パラグアイのペニャ大統領罷免－銀行破綻に絡む疑惑で自宅軟禁</title>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065822?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065822?display=1</guid>
       <pubDate>Fri, 06 Nov 2026 07:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアのフアンCEO、米下院が説明要求－中国スパイ疑惑巡り</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065880?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065880?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 07:56:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本株急落へ、規制強化懸念でAI・半導体売り続く－米ハイテク総崩れ</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065824?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065824?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 07:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースX債務不履行リスク､過去最高－コアウィーブ社債利回り急上昇</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065878?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065878?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 07:46:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
