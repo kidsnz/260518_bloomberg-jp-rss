@@ -5,13 +5,37 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:21:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:59:13 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>AI投資ブームに転機、危うい新局面入り－激動の1週間で警戒感強まる</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069187?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069187?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 08:23:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、新たな資金調達ラウンド第1弾完了－企業評価額1.25兆ドルに</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069123?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069123?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 07:03:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>米SF連銀総裁、追加利上げが必要になる公算大－インフレ抑制最優先</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069124?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069124?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 07:00:22 +0900</pubDate>
+    </item>
     <item>
       <title>ヘグセス米国防長官に逆風強まる、第1次トランプ政権高官が更迭要求</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069085?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069085?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 06:17:45 +0900</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフト、オラクルとの契約縮小－AIクラウド提携戦略を見直し</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069091?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069091?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 05:49:13 +0900</pubDate>
     </item>
     <item>
       <title>トランプ米大統領、首席補佐官にミラー氏を起用－ワイルズ氏の後任</title>
@@ -32,10 +56,22 @@
       <pubDate>Sat, 07 Nov 2026 02:31:47 +0900</pubDate>
     </item>
     <item>
+      <title>ECB次期総裁候補、推薦はクノット氏とデコス氏の2人に－来週から検討</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069121?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069121?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 02:27:22 +0900</pubDate>
+    </item>
+    <item>
       <title>米消費者マインド改善、3カ月ぶりの高水準－無党派層がけん引</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069075?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069075?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 01:58:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>TSMC、先端AIメモリー半導体の製造を検討－インフォメーション</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069122?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069122?display=1</guid>
+      <pubDate>Sat, 07 Nov 2026 01:51:18 +0900</pubDate>
     </item>
     <item>
       <title>銀行のデータセンター向け融資調査をECB検討、リスク把握で－関係者</title>
@@ -62,7 +98,7 @@
       <pubDate>Fri, 06 Nov 2026 23:56:11 +0900</pubDate>
     </item>
     <item>
-      <title>半導体株が急反発、米テック株に押し目買い－強い雇用統計で国債売り</title>
+      <title>【米国市況】半導体株に買い、ナスダック100反発－AI懸念なお根強く</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3068990?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3068990?display=1</guid>
       <pubDate>Fri, 06 Nov 2026 23:48:27 +0900</pubDate>
@@ -270,42 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065794?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065794?display=1</guid>
       <pubDate>Fri, 06 Nov 2026 03:19:12 +0900</pubDate>
-    </item>
-    <item>
-      <title>ソニー、初代ウォークマン風の有線ヘッドホン発売－レトロ機器人気で</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065778?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065778?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 03:10:34 +0900</pubDate>
-    </item>
-    <item>
-      <title>AI懸念で米ハイテク株急落、時価総額2兆3000億ドル消失－過去最大</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065787?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065787?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 02:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAI、データセンター事業の推進方法見直し－世論の反発受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065771?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065771?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 02:08:33 +0900</pubDate>
-    </item>
-    <item>
-      <title>ネオクラウド企業株急落、IPOにハードル－中間選挙受け先行き懸念</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065772?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065772?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 01:54:58 +0900</pubDate>
-    </item>
-    <item>
-      <title>リッチモンド連銀バーキン総裁、「段階的な」利上げペースが適切</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065801?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065801?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 01:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>人型ロボットのアジリティー上場、専業で米国初－エヌビディアも出資</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065755?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065755?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 01:25:15 +0900</pubDate>
     </item>
   </channel>
 </rss>
