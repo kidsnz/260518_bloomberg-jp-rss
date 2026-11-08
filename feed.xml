@@ -5,13 +5,31 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:45:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:56:43 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>メタ、米中間選挙当日に大型起債の賭け－テック社債の新たな現実写す</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070087?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070087?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 10:28:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>【焦点】米CPI、10月は伸び鈍化へ－高い上昇続いた2カ月から一服</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070045?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070045?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 08:33:30 +0900</pubDate>
+    </item>
     <item>
       <title>コアウィーブ、テキサス次期知事に協力要請－データセンター計画巡り</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069907?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069907?display=1</guid>
       <pubDate>Sun, 08 Nov 2026 06:09:28 +0900</pubDate>
+    </item>
+    <item>
+      <title>イスラエル大統領、アイゼンコット氏に組閣要請へ－政権交代に一歩</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069969?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069969?display=1</guid>
+      <pubDate>Sun, 08 Nov 2026 05:07:52 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、総合格闘技UFCのホワイト氏に大統領報道官就任を打診</title>
@@ -26,13 +44,13 @@
       <pubDate>Sun, 08 Nov 2026 02:59:51 +0900</pubDate>
     </item>
     <item>
-      <title>バイナンスのCFO退任へ、後任にジャスティン・イェク氏</title>
+      <title>バイナンス、CFOが退任へ－過去最大の暗号資産盗難から1週間余り</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069847?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069847?display=1</guid>
       <pubDate>Sun, 08 Nov 2026 01:40:16 +0900</pubDate>
     </item>
     <item>
-      <title>米バークシャー、7－9月の営業利益5.8%減－自社株買い拡大</title>
+      <title>米バークシャー、7－9月に自社株買いを拡大－営業利益は5.8%減</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3069800?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3069800?display=1</guid>
       <pubDate>Sat, 07 Nov 2026 22:24:06 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065883?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065883?display=1</guid>
       <pubDate>Fri, 06 Nov 2026 08:53:05 +0900</pubDate>
-    </item>
-    <item>
-      <title>名目賃金1997年来の高い伸び、日銀利上げ路線支え－実質プラス継続</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065877?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065877?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 08:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米共和党大敗でAI勝ち組に下落リスク、日本株の調整長期化に懸念も</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065823?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065823?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 08:02:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、米AI関連総崩れで株式大幅安へ－円・債券にリスク回避買い</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3065822?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3065822?display=1</guid>
-      <pubDate>Fri, 06 Nov 2026 07:59:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
