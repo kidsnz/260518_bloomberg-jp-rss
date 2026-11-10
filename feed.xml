@@ -5,10 +5,76 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:55:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:07:25 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>日銀10月会合、過度に慎重にならず実施の声－早期利上げへ複数意見</title>
+      <title>中国、割安な国産ガスでLNG輸入需要鈍化－冬場の世界需給に緩和余地</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3075280?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3075280?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 14:55:47 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国の貿易黒字、既に1兆ドル突破－輸出なお好調、今年も高水準へ</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3074292?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3074292?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 12:24:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原油タンカーの運賃低下、長距離輸送に追い風－米国産需要も増加</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3074293?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3074293?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>ボーイング、民間航空機部門の人員5%削減へ－増産計画を延期</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073941?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073941?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 11:15:56 +0900</pubDate>
+    </item>
+    <item>
+      <title>テスラ、サイバートラック予約金を多くの顧客に返金へ－マスク氏</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073942?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073942?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 11:08:32 +0900</pubDate>
+    </item>
+    <item>
+      <title>豪データセンターのネクストディーシー、地域との関係を最優先－CEO</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073944?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073944?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 11:00:05 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックがIPO申請の詳細情報を撤回、不正確と説明－報道</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073554?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073554?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 10:44:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ・メディア、純利益4.1億ドルで初の黒字－暗号資産が寄与</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073557?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073557?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 10:33:01 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア、半導体密輸への米政府調査に介入－不倫相手拘束で照会</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073555?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073555?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 10:23:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、イラン追加攻撃は不要と発言－仲介国カタール首相と会談</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073558?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073558?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 10:03:50 +0900</pubDate>
+    </item>
+    <item>
+      <title>米議会、エヌビディアCEO巡り超党派で情報要請－安保への影響精査</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073930?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073930?display=1</guid>
+      <pubDate>Tue, 10 Nov 2026 09:28:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>日銀10月会合、次の利上げは「できるときに」－早期実施へ複数意見</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3073354?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3073354?display=1</guid>
       <pubDate>Tue, 10 Nov 2026 09:17:00 +0900</pubDate>
@@ -240,72 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070602?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070602?display=1</guid>
       <pubDate>Mon, 09 Nov 2026 09:54:40 +0900</pubDate>
-    </item>
-    <item>
-      <title>今夏の為替介入は3日連続、7月30日は約8兆円と過去最大を更新-財務省</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070598?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070598?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 09:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、エヌビディアのフアンCEOを擁護－「立派な人物」</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070599?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070599?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 09:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ヘグセス米国防長官の弾劾、民主党下院トップが支持－共和党にも動き</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070600?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070600?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 09:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックがデータセンター発電設備を直接確保､34億ドルで-報道</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070548?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070548?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 08:54:22 +0900</pubDate>
-    </item>
-    <item>
-      <title>JT、業績への影響を精査中－ロシア政府による管理対象の拡大を受け</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070601?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070601?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 08:53:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米議会「レームダック」の2カ月間、トランプ氏と民主党の攻防は？</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070549?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070549?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 08:34:53 +0900</pubDate>
-    </item>
-    <item>
-      <title>日本市場、AI懸念によるリスクオフ一服で株が反発へ－円と債券は軟調</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070542?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070542?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 08:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア株連動先物、ハイパーリキッドで2.9%安－取締役会が調査</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070543?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070543?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 07:47:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ルビオ米国務長官、イランの要求は受け入れられないと表明</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070546?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070546?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 07:37:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、交渉進展ならイラン追加攻撃「可能性極めて低い」－CNN</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070547?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070547?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 07:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「私は妻を裏切った」、エヌビディア取締役会の声明とフアンCEOの社内向けメール全文</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3070545?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3070545?display=1</guid>
-      <pubDate>Mon, 09 Nov 2026 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
