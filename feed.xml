@@ -5,13 +5,43 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 07:45:40 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:52:05 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
-      <title>全米の空港で地上待機命令、「安全上の理由」で－FAA</title>
+      <title>二デック、半期報告書の提出期限延長の承認申請を検討－12月16日まで</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085814?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085814?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 10:08:56 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ氏、プーチン・習両氏と19日に3者会談－ホワイトハウス</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085763?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085763?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 09:15:06 +0900</pubDate>
+    </item>
+    <item>
+      <title>【米国市況】S&amp;P500種が下落、半導体株への売り続く－159円台後半</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085764?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085764?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 06:49:29 +0900</pubDate>
+    </item>
+    <item>
+      <title>全米の空港で地上待機命令、「異例の事態と安全上の理由」－FAA</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085722?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085722?display=1</guid>
       <pubDate>Sat, 14 Nov 2026 06:20:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>マイクロソフト、世界的障害の根本に対処－サービスは段階的に復旧</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085727?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085727?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 05:20:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>2つの戦争進めるロシア、対欧州「ハイブリッド戦」は危険な新段階</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085815?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085815?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 04:02:36 +0900</pubDate>
     </item>
     <item>
       <title>トランプ氏、膠着状態でイラン戦争から手を引く恐れ－湾岸諸国が警戒</title>
@@ -276,36 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082668?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082668?display=1</guid>
       <pubDate>Fri, 13 Nov 2026 00:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアのフアン氏と関係の女性、シンガポール入国禁止に</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082608?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082608?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:41:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、イラン合意不要－国内問題に注力するよう副大統領に指示</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082616?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082616?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中古住宅販売、10月は16年ぶり低水準－高金利・高インフレ響く</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082606?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082606?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:14:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、フアンCEOを即時解任－AIブームけん引した創業者</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082609?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082609?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:04:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア株が時間外で大幅安、時価総額4兆ドル割り込む見通し</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082533?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082533?display=1</guid>
-      <pubDate>Thu, 12 Nov 2026 21:47:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
