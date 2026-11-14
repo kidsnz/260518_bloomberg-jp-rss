@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:18:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:50:57 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>日英伊の次世代戦闘機、ドイツにオブザーバー参加を提案－伊国防省</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086367?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086367?display=1</guid>
+      <pubDate>Sun, 15 Nov 2026 02:24:16 +0900</pubDate>
+    </item>
     <item>
       <title>米国、ドンバス割譲とNATO加盟の交換案を初めて打診－ゼレンスキー氏</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086352?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082615?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082615?display=1</guid>
       <pubDate>Fri, 13 Nov 2026 02:21:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ジェンスン・フアン氏、権利確定前の株式報酬1億ドル放棄－CEO辞任で</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082618?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082618?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 02:15:51 +0900</pubDate>
     </item>
   </channel>
 </rss>
