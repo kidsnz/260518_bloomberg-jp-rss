@@ -5,8 +5,26 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 11:52:05 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:44:38 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>アンソロピック、AI計算能力の確保が最大級の課題－IPO控えCEO</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086159?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086159?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 15:30:42 +0900</pubDate>
+    </item>
+    <item>
+      <title>ジェファーソンFRB副議長、追加利上げ判断ではインフレが最重要</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086253?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086253?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 14:27:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>米連邦航空局、全米の運航停止措置を解除－通信障害で4時間停止</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085884?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085884?display=1</guid>
+      <pubDate>Sat, 14 Nov 2026 10:44:31 +0900</pubDate>
+    </item>
     <item>
       <title>二デック、半期報告書の提出期限延長の承認申請を検討－12月16日まで</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085814?display=1</link>
@@ -32,7 +50,7 @@
       <pubDate>Sat, 14 Nov 2026 06:20:48 +0900</pubDate>
     </item>
     <item>
-      <title>マイクロソフト、世界的障害の根本に対処－サービスは段階的に復旧</title>
+      <title>マイクロソフトのソフトウエア障害が全面復旧－企業・政府に影響</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3085727?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3085727?display=1</guid>
       <pubDate>Sat, 14 Nov 2026 05:20:07 +0900</pubDate>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082624?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082624?display=1</guid>
       <pubDate>Fri, 13 Nov 2026 02:07:23 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアが経営託すクレス暫定CEO、フアン氏とは対照的な慎重派</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082665?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082665?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 02:03:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、エヌビディアの後任CEOにアップルのクック氏推す</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082652?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082652?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:56:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア先端半導体をDEEPSEEKに､前CEO不倫相手が供給画策－報道</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082668?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082668?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:41:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
