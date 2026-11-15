@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:50:57 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:38:12 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>スペースX、発射台での｢スターシップ」回収に成功－完全再使用に前進</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086398?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086398?display=1</guid>
+      <pubDate>Sun, 15 Nov 2026 06:32:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>飛行機の姿消えた空、管制技術L3ハリスの｢能力不足｣を米当局は調査</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086382?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086382?display=1</guid>
+      <pubDate>Sun, 15 Nov 2026 03:11:11 +0900</pubDate>
+    </item>
     <item>
       <title>日英伊の次世代戦闘機、ドイツにオブザーバー参加を提案－伊国防省</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086367?display=1</link>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082617?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082617?display=1</guid>
       <pubDate>Fri, 13 Nov 2026 02:53:17 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックのIPO、エヌビディアCEOの辞任受け市場の厳しい目</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082632?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082632?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 02:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>FRB、2027年のFOMC開催日程を更新－10月は政策金利決定せず</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082615?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082615?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 02:21:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
