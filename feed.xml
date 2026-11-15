@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:27:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:54:32 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>マイアミ空港でパナマ機とUPS貨物機が接触－全米規模の離陸停止翌日</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086969?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086969?display=1</guid>
+      <pubDate>Sun, 15 Nov 2026 17:57:13 +0900</pubDate>
+    </item>
+    <item>
+      <title>ビットコインじり安から下げ加速、疲弊するトレーダー－下値を模索</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086900?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086900?display=1</guid>
+      <pubDate>Sun, 15 Nov 2026 16:45:05 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディア騒動で脚光、米社債6%利回りの魅力－株優位に揺らぎ</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086737?display=1</link>
@@ -36,6 +48,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086367?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086367?display=1</guid>
       <pubDate>Sun, 15 Nov 2026 02:24:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>ボストン連銀総裁、米利上げは「着実かつ段階的な道筋が適切」</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3086835?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3086835?display=1</guid>
+      <pubDate>Sun, 15 Nov 2026 01:10:57 +0900</pubDate>
     </item>
     <item>
       <title>米国、ドンバス割譲とNATO加盟の交換案を初めて打診－ゼレンスキー氏</title>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082648?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082648?display=1</guid>
       <pubDate>Fri, 13 Nov 2026 05:23:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>トランプ氏、商務長官を改めて支持－先端半導体輸出規制で疑惑浮上</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082628?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082628?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 04:18:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米司法省、ジェンスン・フアン氏と関係の女性捜査－密輸関与の可能性</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082629?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082629?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 03:35:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディア、フアンCEO解任で従業員に書簡－暫定トップ「会社の未来信じる」</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3082622?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3082622?display=1</guid>
-      <pubDate>Fri, 13 Nov 2026 03:06:06 +0900</pubDate>
     </item>
   </channel>
 </rss>
