@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:07:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:53:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>ゴールドマン「パニック指数」、最高水準に迫る－株安続く見通し示唆</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103676?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103676?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 22:25:34 +0900</pubDate>
+    </item>
+    <item>
+      <title>AI熱狂が暗転、市場を引き裂いた動揺－アンソロピック過去最大IPO後</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103640?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103640?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 18:09:16 +0900</pubDate>
+    </item>
     <item>
       <title>世紀の空売りバーリ氏､エヌビディアのプット売却－Nasdaq100は売らず</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103328?display=1</link>
@@ -18,6 +30,18 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103175?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103175?display=1</guid>
       <pubDate>Sat, 21 Nov 2026 10:50:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>家事を誰が担うのか、これからの選択肢　高市総理のX投稿と家事支援サービスの国家資格化を機に考える</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3087859?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3087859?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米国債が大幅高、AI株売りで安全資産にシフト－12月利上げ観測弱まる</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103671?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103671?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 07:01:54 +0900</pubDate>
     </item>
     <item>
       <title>エヌビディア株が14%下落、SECが会計慣行を調査とロイター報道</title>
@@ -282,30 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099538?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099538?display=1</guid>
       <pubDate>Fri, 20 Nov 2026 01:39:12 +0900</pubDate>
-    </item>
-    <item>
-      <title>AMD株急落、ハンターブルックが空売り－中国市場への依存リスク指摘</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099528?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099528?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 01:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックIPO、機関投資家の半数以上が割り当てられず－関係者</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099504?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099504?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 00:52:16 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピック株終値17%高、過去最大IPO－時価総額で世界10位内に</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099513?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099513?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 00:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ウォルマートが業績見通し引き上げ、割安価格が高所得層も取り込む</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099515?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099515?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:38 +0900</pubDate>
     </item>
   </channel>
 </rss>
