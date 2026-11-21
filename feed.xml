@@ -5,8 +5,14 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 01:53:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:59:11 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>暗号資産の急落相次ぐ、かつての熱狂的ファンは新たな投資先を模索</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103705?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103705?display=1</guid>
+      <pubDate>Sun, 22 Nov 2026 05:08:43 +0900</pubDate>
+    </item>
     <item>
       <title>ゴールドマン「パニック指数」、最高水準に迫る－株安続く見通し示唆</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103676?display=1</link>
@@ -300,12 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099572?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099572?display=1</guid>
       <pubDate>Fri, 20 Nov 2026 01:48:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イラン、ホルムズ海峡でタンカー攻撃を激化－原油安基調に反転リスク</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099538?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099538?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 01:39:12 +0900</pubDate>
     </item>
   </channel>
 </rss>
