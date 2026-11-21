@@ -5,8 +5,20 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:55:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:07:12 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>世紀の空売りバーリ氏､エヌビディアのプット売却－Nasdaq100は売らず</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103328?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103328?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 13:00:09 +0900</pubDate>
+    </item>
+    <item>
+      <title>クラウドストライクがZscaler買収交渉、サイバー最大級M&amp;Aへ－関係者</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103175?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103175?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 10:50:49 +0900</pubDate>
+    </item>
     <item>
       <title>エヌビディア株が14%下落、SECが会計慣行を調査とロイター報道</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102909?display=1</link>
@@ -38,10 +50,16 @@
       <pubDate>Sat, 21 Nov 2026 02:28:03 +0900</pubDate>
     </item>
     <item>
-      <title>ナスダック100指数は一時3.6%下落、S&amp;P500は7日続落し調整入りの方向</title>
+      <title>【米国市況】株急落、ナスダック100は5.6%安－S&amp;P500は調整局面入り</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102870?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3102870?display=1</guid>
       <pubDate>Sat, 21 Nov 2026 01:59:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>3カ国首脳会談終えたプーチン氏、ウクライナに過去最大級の攻撃</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103174?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103174?display=1</guid>
+      <pubDate>Fri, 20 Nov 2026 22:53:58 +0900</pubDate>
     </item>
     <item>
       <title>AI株に世界的な売り、上場2日目のアンソロピック株急落で心理的変化</title>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099515?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099515?display=1</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:38 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンソロピックのIPO、銀行団に手数料約880億円－スペースX 超える</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099537?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099537?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 23:59:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米国によるイラン大規模攻撃の可能性高まる－小競り合いで緊張増す</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099450?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099450?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 21:52:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>米中露首脳会談、ウクライナや核問題協議－エネルギー供給拡大で合意</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099244?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099244?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 18:17:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
