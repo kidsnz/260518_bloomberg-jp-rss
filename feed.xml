@@ -5,13 +5,37 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:37:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:55:31 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>エヌビディア株が14%下落、SECが会計慣行を調査とロイター報道</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102909?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3102909?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 05:28:02 +0900</pubDate>
+    </item>
+    <item>
+      <title>サウジが日本国内で備蓄する原油量、3倍に拡大へ－両国合意</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102919?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3102919?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 05:16:55 +0900</pubDate>
+    </item>
+    <item>
+      <title>【欧州市況】株が大幅安、週間で6%近く下落－安全資産需要で国債堅調</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102918?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3102918?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 03:02:55 +0900</pubDate>
+    </item>
     <item>
       <title>トランプ氏、国外にデータセンター建設の米企業に「巨額課税」警告</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102869?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3102869?display=1</guid>
       <pubDate>Sat, 21 Nov 2026 03:00:35 +0900</pubDate>
+    </item>
+    <item>
+      <title>ロシアのミサイルがポーランドに落下、付近で英仏など多国籍軍事演習</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3102936?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3102936?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 02:28:03 +0900</pubDate>
     </item>
     <item>
       <title>ナスダック100指数は一時3.6%下落、S&amp;P500は7日続落し調整入りの方向</title>
@@ -282,30 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099244?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099244?display=1</guid>
       <pubDate>Thu, 19 Nov 2026 18:17:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>伊ウニクレディト、独コメルツ銀行買収へ前進－ドイツ政府と合意</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099245?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099245?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 17:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>損保3社、今期の純利益予想で明暗－本業収益はそろって上方修正</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099246?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099246?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 17:32:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>世界の電力網、データセンター急増で限界に達する恐れ－IEA</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099247?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099247?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 17:19:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>SBIHDが海外市場でCB発行、総額1500億円－金融事業強化の投資に充当</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099018?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099018?display=1</guid>
-      <pubDate>Thu, 19 Nov 2026 16:58:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
