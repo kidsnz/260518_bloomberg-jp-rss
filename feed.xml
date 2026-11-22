@@ -5,7 +5,7 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:32:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:33:26 +0900</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>イラン革命防衛隊、バーレーンの基地を攻撃と発表－プレスTV</title>
@@ -32,6 +32,12 @@
       <pubDate>Sun, 22 Nov 2026 10:35:45 +0900</pubDate>
     </item>
     <item>
+      <title>住宅価格と金利の同時上昇にどう応えるか 住宅ローン減税の軽減効果と課題</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3083858?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3083858?display=1</guid>
+      <pubDate>Sun, 22 Nov 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>時間制約社会とペット消費　飼育世帯は200万減も…支出は実質25％増</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3087982?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3087982?display=1</guid>
@@ -42,6 +48,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103794?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103794?display=1</guid>
       <pubDate>Sun, 22 Nov 2026 08:33:51 +0900</pubDate>
+    </item>
+    <item>
+      <title>氷河期世代の正社員率は改善も…賃金と年金水準に広がる格差</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3087946?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3087946?display=1</guid>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0900</pubDate>
     </item>
     <item>
       <title>暗号資産の急落相次ぐ、かつての熱狂的ファンは新たな投資先を模索</title>
@@ -294,18 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099666?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099666?display=1</guid>
       <pubDate>Fri, 20 Nov 2026 07:48:24 +0900</pubDate>
-    </item>
-    <item>
-      <title>ロブスターの「生きゆで」禁止を、NY市議会で調理法規制法案</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099598?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099598?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 07:30:15 +0900</pubDate>
-    </item>
-    <item>
-      <title>米シカゴ連銀総裁、12月FOMC会合で「あらゆる」選択肢を検討と表明</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099596?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099596?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 06:55:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
