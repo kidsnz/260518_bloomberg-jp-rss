@@ -5,13 +5,25 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:59:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:58:58 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>【焦点】米個人消費、インフレ加速でも底堅さ維持か－年末商戦控え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103794?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103794?display=1</guid>
+      <pubDate>Sun, 22 Nov 2026 08:33:51 +0900</pubDate>
+    </item>
     <item>
       <title>暗号資産の急落相次ぐ、かつての熱狂的ファンは新たな投資先を模索</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103705?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103705?display=1</guid>
       <pubDate>Sun, 22 Nov 2026 05:08:43 +0900</pubDate>
+    </item>
+    <item>
+      <title>アンソロピックも不発、AI相場の救世主は何か－ウォール街が模索</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103796?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103796?display=1</guid>
+      <pubDate>Sun, 22 Nov 2026 03:28:00 +0900</pubDate>
     </item>
     <item>
       <title>ゴールドマン「パニック指数」、最高水準に迫る－株安続く見通し示唆</title>
@@ -24,6 +36,12 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103640?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103640?display=1</guid>
       <pubDate>Sat, 21 Nov 2026 18:09:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>ビットコインが6万ドル割れ、約2年ぶり安値－リスク資産離れが加速</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3103740?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3103740?display=1</guid>
+      <pubDate>Sat, 21 Nov 2026 14:43:52 +0900</pubDate>
     </item>
     <item>
       <title>世紀の空売りバーリ氏､エヌビディアのプット売却－Nasdaq100は売らず</title>
@@ -288,24 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099573?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099573?display=1</guid>
       <pubDate>Fri, 20 Nov 2026 04:49:17 +0900</pubDate>
-    </item>
-    <item>
-      <title>「終末への備え」広がる、米消費者の買いだめ急増－相次ぐシステム障害で不安拡大</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099559?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099559?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 04:33:27 +0900</pubDate>
-    </item>
-    <item>
-      <title>JPモルガンやビザ、顧客情報に不正アクセス－取引先にサイバー攻撃</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099530?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099530?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 02:32:55 +0900</pubDate>
-    </item>
-    <item>
-      <title>スペースXが320億ドル起債、エヌビディアAI半導体の購入資金に充当</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3099572?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3099572?display=1</guid>
-      <pubDate>Fri, 20 Nov 2026 01:48:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
