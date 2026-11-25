@@ -5,8 +5,56 @@
     <link>https://newsdig.tbs.co.jp/list/withbloomberg/news/bloomberg</link>
     <description>TBS NEWS DIG「TBS CROSS DIG with Bloomberg」で配信中のブルームバーグ日本語版記事の見出し（非公式フィード）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:27:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:48:09 +0900</lastBuildDate>
     <ttl>30</ttl>
+    <item>
+      <title>小米株一時8%高、スマホ事業が懸念ほど悪化せず－高価格帯シフト奏功</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3111676?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3111676?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:07:08 +0900</pubDate>
+    </item>
+    <item>
+      <title>フアン氏復帰効果、早くも息切れ－ナスダック先物とエヌビディア急落</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3110464?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3110464?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 14:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>クオンツファンド、米国債の弱気ポジション縮小－株安で安全資産需要</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3109908?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3109908?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 12:35:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>米消費者、物価高でも買い物意欲は健在－お得感重視、ブラックフライデー控え</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3109907?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3109907?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 12:11:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>楽天G信用リスク、1年半超ぶり急上昇－情報漏えい後に資金調達見送り</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3109307?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3109307?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:25:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>中国アリババ、27年に本土外で起債も－AIインフラの資金調達続く</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3109909?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3109909?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 11:13:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>エヌビディア調査､フアンCEO復帰後も継続－カリフォルニア州司法長官</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3109616?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3109616?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 10:48:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>イラン、ホルムズ海峡の規則違反リストにタグボート追加－圧力強化</title>
+      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3109617?display=1</link>
+      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3109617?display=1</guid>
+      <pubDate>Wed, 25 Nov 2026 10:25:00 +0900</pubDate>
+    </item>
     <item>
       <title>豪インフレ率が加速、今年5回の利上げでも物価圧力根強く</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3108993?display=1</link>
@@ -26,7 +74,7 @@
       <pubDate>Wed, 25 Nov 2026 09:45:00 +0900</pubDate>
     </item>
     <item>
-      <title>【日本市況】日経平均が一時2100円超安、AI懸念再燃－中長期債上昇</title>
+      <title>【日本市況】日経平均が1600円超安、AI懸念再燃－中長期金利は低下</title>
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3108996?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3108996?display=1</guid>
       <pubDate>Wed, 25 Nov 2026 09:39:00 +0900</pubDate>
@@ -258,54 +306,6 @@
       <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3107119?display=1</link>
       <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3107119?display=1</guid>
       <pubDate>Tue, 24 Nov 2026 14:27:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アリババ傘下企業を米国がブラックリスト指定、AI事業拡大に打撃</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3107118?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3107118?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 14:16:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>ビットコイン、エヌビディア株上昇効果続かず－ETF資金流出など重し</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3107410?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3107410?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 13:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>バンス副大統領の関与を米議員が調査－ベネズエラ原油の商社選定巡り</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3106830?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3106830?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 13:25:51 +0900</pubDate>
-    </item>
-    <item>
-      <title>楽天Gが永久債の発行見送り、情報漏えい懸念で市場は信用リスク警戒</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3106825?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3106825?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 13:24:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>中国DeepSeekトップの資産8.7兆円、AI企業創業者で世界一の座固める</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3107123?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3107123?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 13:04:59 +0900</pubDate>
-    </item>
-    <item>
-      <title>エヌビディアのフアン氏復帰、トランプ氏が取締役会に介入－企業統治に疑問</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3107120?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3107120?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 12:29:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>OpenAI元技術者、他社との戦略提携の機密文書写真を所持－条件書と見られると米検察</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3106538?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3106538?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 12:05:31 +0900</pubDate>
-    </item>
-    <item>
-      <title>村田製作所などストップ高、米エヌビディアCEO復帰でAI関連株が急騰</title>
-      <link>https://newsdig.tbs.co.jp/articles/withbloomberg/3106828?display=1</link>
-      <guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/withbloomberg/3106828?display=1</guid>
-      <pubDate>Tue, 24 Nov 2026 11:54:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
